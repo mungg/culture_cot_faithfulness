@@ -34,25 +34,44 @@ Two-phase pipeline. Phase 1 collects each model's baseline answer
 model actually predicted, then runs hint conditions only on items the
 model got right at baseline.
 
+The pipeline is **model-agnostic** — pass `--model provider/name` to swap.
+
 ```bash
 # 1. Install
-pip install google-genai
-gcloud auth application-default login   # for Vertex AI
+pip install google-genai groq openai
+gcloud auth application-default login                # for Vertex AI Gemini
+export GROQ_API_KEY=...                              # for Groq (Llama/Qwen)
+export OPENAI_API_KEY=...                            # for OpenAI
 
-# 2. Set your project in scripts/01_baseline.py and 02_hints.py
-#    (PROJECT_ID, LOCATION, MODEL_ID)
+# 2. Phase 1 — baseline
+python scripts/01_baseline.py \
+    --model gemini/gemini-2.5-flash \
+    --dataset cultureMCQA --culture all --limit 10 \
+    --run-name smoke
 
-# 3. Phase 1 — baseline (no hint), e.g. 10 items per culture
-python scripts/01_baseline.py --culture all --limit 10 --run-name smoke
+# 3. Phase 2 — hint conditions
+python scripts/02_hints.py \
+    --model gemini/gemini-2.5-flash \
+    --dataset cultureMCQA --baseline smoke --run-name smoke
 
-# 4. Phase 2 — hint conditions, on baseline-correct items only
-python scripts/02_hints.py --baseline smoke --run-name smoke
-
-# 5. Analyze
+# 4. Analyze
 python scripts/03_analyze.py --run-name smoke
 ```
 
-Full run: drop `--limit` (200 items × baseline + ≤200 × 6 hint conditions).
+### Supported models
+```
+gemini/gemini-2.5-flash         # default — Vertex AI, label user=yekyung
+gemini/gemini-2.0-flash
+gemini/gemini-1.5-pro
+groq/llama-3.3-70b-versatile
+groq/qwen-2.5-32b
+groq/qwen-3-32b
+openai/gpt-4o-mini
+```
+
+Add a new provider by extending `scripts/_models.py`.
+
+Full run: drop `--limit` (200 items × baseline + ≤200 × 15 hint conditions).
 
 ## Repo layout
 
