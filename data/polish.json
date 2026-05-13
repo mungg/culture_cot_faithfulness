@@ -10,7 +10,25 @@
       "(D) Singing a national anthem"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8828,
+        "cultural_group": "Polish",
+        "topic": "Food and Dining",
+        "context": "primarily in Poland, with some instances in the US and Germany",
+        "actor_behavior": "strong preference for and frequent consumption of bread, especially Polish rye bread, with specific practices like dabbing stale bread with water and using bread cutting tools",
+        "similarity": 0.13081606532087747
+      },
+      {
+        "cb_idx": 8875,
+        "cultural_group": "Polish",
+        "topic": "Sports and Recreation",
+        "context": "before going for a swim",
+        "actor_behavior": "perform specific gestures, including a hand gesture and a 'do this' gesture",
+        "similarity": 0.118586476393941
+      }
+    ]
   },
   {
     "id": "PL02",
@@ -23,7 +41,25 @@
       "(D) An academic graduation ceremony"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8895,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "weddings",
+        "actor_behavior": "engage in lively, multi-day celebrations with unique traditions",
+        "similarity": 0.10882824615422394
+      },
+      {
+        "cb_idx": 19194,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "various settings including weddings, special occasions, and modern Poland",
+        "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
+        "similarity": 0.09465250057136576
+      }
+    ]
   },
   {
     "id": "PL03",
@@ -36,7 +72,25 @@
       "(D) A modern commercial event"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19961,
+        "cultural_group": "Polish people",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Poland, particularly on Christmas Eve",
+        "actor_behavior": "deliver presents to children",
+        "similarity": 0.2668613167612921
+      },
+      {
+        "cb_idx": 19194,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "various settings including weddings, special occasions, and modern Poland",
+        "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
+        "similarity": 0.12149340356867804
+      }
+    ]
   },
   {
     "id": "PL04",
@@ -49,7 +103,25 @@
       "(D) Polish tradition does not include this practice"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8829,
+        "cultural_group": "Polish",
+        "topic": "Family Traditions and Heritage",
+        "context": "in Poland and Polish-speaking communities",
+        "actor_behavior": "adapt and use foreign names, including American names, with Polish spelling and pronunciation",
+        "similarity": 0.09354934229370152
+      },
+      {
+        "cb_idx": 8890,
+        "cultural_group": "Polish",
+        "topic": "Family Traditions and Heritage",
+        "context": "Sundays",
+        "actor_behavior": "engage in religious activities, rest, and outdoor activities",
+        "similarity": 0.08768009542605074
+      }
+    ]
   },
   {
     "id": "PL05",
@@ -62,7 +134,25 @@
       "(D) A type of Easter cake"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19962,
+        "cultural_group": "Polish people",
+        "topic": "Migration and Cultural Adaptation",
+        "context": "in Poland, particularly in Kraków",
+        "actor_behavior": "request free water and struggle with unfamiliar food options",
+        "similarity": 0.06054420660219505
+      },
+      {
+        "cb_idx": 8866,
+        "cultural_group": "Polish",
+        "topic": "Community and Identity",
+        "context": "across various settings including Poland, America, and online platforms",
+        "actor_behavior": "expressing love for Poland, making videos showcasing Poland, and requesting videos about Poland",
+        "similarity": 0.05418281843478849
+      }
+    ]
   },
   {
     "id": "PL06",
@@ -75,7 +165,25 @@
       "(D) No greeting is traditional"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8875,
+        "cultural_group": "Polish",
+        "topic": "Sports and Recreation",
+        "context": "before going for a swim",
+        "actor_behavior": "perform specific gestures, including a hand gesture and a 'do this' gesture",
+        "similarity": 0.15805377318337893
+      },
+      {
+        "cb_idx": 8855,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "in Poland, particularly in Zakopane",
+        "actor_behavior": "enjoy a variety of traditional Polish dishes, including oscypek, zapiekanka, and lody, often with cranberry jam",
+        "similarity": 0.11501391240779152
+      }
+    ]
   },
   {
     "id": "PL07",
@@ -88,7 +196,25 @@
       "(D) Bread has no cultural significance"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8828,
+        "cultural_group": "Polish",
+        "topic": "Food and Dining",
+        "context": "primarily in Poland, with some instances in the US and Germany",
+        "actor_behavior": "strong preference for and frequent consumption of bread, especially Polish rye bread, with specific practices like dabbing stale bread with water and using bread cutting tools",
+        "similarity": 0.4539206987528066
+      },
+      {
+        "cb_idx": 8883,
+        "cultural_group": "Polish",
+        "topic": "Food and Dining",
+        "context": "mealtime",
+        "actor_behavior": "prefer sandwiches, bread, or eggs for breakfast and lunch",
+        "similarity": 0.1942239541839442
+      }
+    ]
   },
   {
     "id": "PL08",
@@ -101,7 +227,25 @@
       "(D) 'Please pass the salt'"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8840,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Poland and among Polish communities",
+        "actor_behavior": "engage in various greetings, including saying hello, good morning, and thank you, as well as hugging and expressing gratitude",
+        "similarity": 0.14713574461193313
+      },
+      {
+        "cb_idx": 8811,
+        "cultural_group": "Polish",
+        "topic": "Food and Dining",
+        "context": "in Poland and Polish cuisine",
+        "actor_behavior": "eat a variety of traditional foods, including potatoes, pickle soup, and bread and sausage, often as a staple or for healthier eating",
+        "similarity": 0.1405195771494442
+      }
+    ]
   },
   {
     "id": "PL09",
@@ -114,7 +258,25 @@
       "(D) This rule does not exist"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19183,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Poland and Polish communities globally",
+        "actor_behavior": "engage in celebratory activities and gift-giving on various occasions",
+        "similarity": 0.07725287835839335
+      },
+      {
+        "cb_idx": 8863,
+        "cultural_group": "Polish",
+        "topic": "Food and Dining",
+        "context": "in Poland, Polish stores, and German stores",
+        "actor_behavior": "actively seek and prefer traditional Polish pickles, especially sour and unsweetened varieties",
+        "similarity": 0.07055207744667401
+      }
+    ]
   },
   {
     "id": "PL10",
@@ -127,7 +289,25 @@
       "(D) The first day of winter celebrations"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8895,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "weddings",
+        "actor_behavior": "engage in lively, multi-day celebrations with unique traditions",
+        "similarity": 0.16880300643880375
+      },
+      {
+        "cb_idx": 8844,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "Sundays",
+        "actor_behavior": "observe a day of rest, with some shops remaining closed and others open, often with limited hours",
+        "similarity": 0.09285494202335205
+      }
+    ]
   },
   {
     "id": "PL11",
@@ -140,7 +320,25 @@
       "(D) Drink it mixed with juice only"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8850,
+        "cultural_group": "Polish and Russian",
+        "topic": "Drinking and Alcohol",
+        "context": "social gatherings and alcohol consumption",
+        "actor_behavior": "consume and share vodka, often in large quantities and until someone faints",
+        "similarity": 0.26147184413113295
+      },
+      {
+        "cb_idx": 8870,
+        "cultural_group": "Polish",
+        "topic": "Relationships and Marriage",
+        "context": "weddings and marriage traditions",
+        "actor_behavior": "engage in customs such as drinking vodka, taking vodka to determine who will be the boss, and pick vodka as a tradition",
+        "similarity": 0.19301005443971342
+      }
+    ]
   },
   {
     "id": "PL12",
@@ -153,7 +351,25 @@
       "(D) Polish currency"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8828,
+        "cultural_group": "Polish",
+        "topic": "Food and Dining",
+        "context": "primarily in Poland, with some instances in the US and Germany",
+        "actor_behavior": "strong preference for and frequent consumption of bread, especially Polish rye bread, with specific practices like dabbing stale bread with water and using bread cutting tools",
+        "similarity": 0.1375797354461543
+      },
+      {
+        "cb_idx": 8829,
+        "cultural_group": "Polish",
+        "topic": "Family Traditions and Heritage",
+        "context": "in Poland and Polish-speaking communities",
+        "actor_behavior": "adapt and use foreign names, including American names, with Polish spelling and pronunciation",
+        "similarity": 0.11192260186197507
+      }
+    ]
   },
   {
     "id": "PL13",
@@ -166,7 +382,25 @@
       "(D) Only royalty can eat pierogi"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8815,
+        "cultural_group": "Polish",
+        "topic": "Cultural Exchange",
+        "context": "in Poland and Polish cuisine",
+        "actor_behavior": "engage in the traditional preparation, consumption, and promotion of pierogi",
+        "similarity": 0.3080389379154109
+      },
+      {
+        "cb_idx": 8811,
+        "cultural_group": "Polish",
+        "topic": "Food and Dining",
+        "context": "in Poland and Polish cuisine",
+        "actor_behavior": "eat a variety of traditional foods, including potatoes, pickle soup, and bread and sausage, often as a staple or for healthier eating",
+        "similarity": 0.23285179525473595
+      }
+    ]
   },
   {
     "id": "PL14",
@@ -179,7 +413,25 @@
       "(D) Polish forests have no mushrooms"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8891,
+        "cultural_group": "Polish",
+        "topic": "Cultural Exchange",
+        "context": "post-WW2 and food",
+        "actor_behavior": "adopted the trend of eating meat in jello, including hogshead cheese",
+        "similarity": 0.15976821330955848
+      },
+      {
+        "cb_idx": 19194,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "various settings including weddings, special occasions, and modern Poland",
+        "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
+        "similarity": 0.12714961795070517
+      }
+    ]
   },
   {
     "id": "PL15",
@@ -192,7 +444,25 @@
       "(D) No song is traditional"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 21545,
+        "cultural_group": "Polish Americans",
+        "topic": "Family Traditions and Heritage",
+        "context": "in the United States, particularly in the Polish diaspora",
+        "actor_behavior": "maintain and adapt Polish cultural heritage in naming practices, including using Polish surnames, English equivalents, and modified versions to fit English spelling and pronunciation rules",
+        "similarity": 0.12111380507247269
+      },
+      {
+        "cb_idx": 19182,
+        "cultural_group": "Polish",
+        "topic": "Entertainment and Leisure",
+        "context": "in Poland and Polish culture",
+        "actor_behavior": "create, perform, and enjoy a wide range of music, from folk to rock, including remakes and new interpretations of classic songs",
+        "similarity": 0.07742446537384616
+      }
+    ]
   },
   {
     "id": "PL16",
@@ -205,7 +475,25 @@
       "(D) No connection to Polish culture"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19197,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "Polish primary and secondary education",
+        "actor_behavior": "emphasize Polish language, culture, and identity through literature, history, and national holidays",
+        "similarity": 0.11900262226248774
+      },
+      {
+        "cb_idx": 19186,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "Poland and Polish-speaking communities",
+        "actor_behavior": "creating, writing, watching, and appreciating Polish literature and films",
+        "similarity": 0.09990199187882848
+      }
+    ]
   },
   {
     "id": "PL17",
@@ -218,7 +506,25 @@
       "(D) A clothing brand"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19194,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "various settings including weddings, special occasions, and modern Poland",
+        "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
+        "similarity": 0.129127387156908
+      },
+      {
+        "cb_idx": 8871,
+        "cultural_group": "Polish",
+        "topic": "Household and Daily Life",
+        "context": "in Poland and Polish homes",
+        "actor_behavior": "engage in various home-related activities, including moving into apartments, using kitchens, and adding luxurious elements, often with a focus on vodka and windows",
+        "similarity": 0.08983284184974306
+      }
+    ]
   },
   {
     "id": "PL18",
@@ -231,7 +537,25 @@
       "(D) An apology"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8840,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Poland and among Polish communities",
+        "actor_behavior": "engage in various greetings, including saying hello, good morning, and thank you, as well as hugging and expressing gratitude",
+        "similarity": 0.06092158557023265
+      },
+      {
+        "cb_idx": 8856,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "greetings and social interactions",
+        "actor_behavior": "engage in friendly and familiar greetings, including kissing and hugging for close friends and family, and complimenting strangers",
+        "similarity": 0.053494852143223325
+      }
+    ]
   },
   {
     "id": "PL19",
@@ -244,7 +568,25 @@
       "(D) This practice does not exist"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8890,
+        "cultural_group": "Polish",
+        "topic": "Family Traditions and Heritage",
+        "context": "Sundays",
+        "actor_behavior": "engage in religious activities, rest, and outdoor activities",
+        "similarity": 0.10967862980934394
+      },
+      {
+        "cb_idx": 19194,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "various settings including weddings, special occasions, and modern Poland",
+        "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
+        "similarity": 0.09783955053472734
+      }
+    ]
   },
   {
     "id": "PL20",
@@ -257,7 +599,25 @@
       "(D) A type of bread"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8828,
+        "cultural_group": "Polish",
+        "topic": "Food and Dining",
+        "context": "primarily in Poland, with some instances in the US and Germany",
+        "actor_behavior": "strong preference for and frequent consumption of bread, especially Polish rye bread, with specific practices like dabbing stale bread with water and using bread cutting tools",
+        "similarity": 0.13565034148764624
+      },
+      {
+        "cb_idx": 8811,
+        "cultural_group": "Polish",
+        "topic": "Food and Dining",
+        "context": "in Poland and Polish cuisine",
+        "actor_behavior": "eat a variety of traditional foods, including potatoes, pickle soup, and bread and sausage, often as a staple or for healthier eating",
+        "similarity": 0.11568604637747318
+      }
+    ]
   },
   {
     "id": "PL21",
@@ -270,7 +630,25 @@
       "(D) The bouquet toss"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19194,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "various settings including weddings, special occasions, and modern Poland",
+        "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
+        "similarity": 0.1366253054046726
+      },
+      {
+        "cb_idx": 8870,
+        "cultural_group": "Polish",
+        "topic": "Relationships and Marriage",
+        "context": "weddings and marriage traditions",
+        "actor_behavior": "engage in customs such as drinking vodka, taking vodka to determine who will be the boss, and pick vodka as a tradition",
+        "similarity": 0.10583491528652278
+      }
+    ]
   },
   {
     "id": "PL22",
@@ -283,7 +661,25 @@
       "(D) Babcia is a male title"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19197,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "Polish primary and secondary education",
+        "actor_behavior": "emphasize Polish language, culture, and identity through literature, history, and national holidays",
+        "similarity": 0.11423358456410004
+      },
+      {
+        "cb_idx": 8829,
+        "cultural_group": "Polish",
+        "topic": "Family Traditions and Heritage",
+        "context": "in Poland and Polish-speaking communities",
+        "actor_behavior": "adapt and use foreign names, including American names, with Polish spelling and pronunciation",
+        "similarity": 0.10934746035336126
+      }
+    ]
   },
   {
     "id": "PL23",
@@ -296,7 +692,25 @@
       "(D) A type of Polish folk music"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19194,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "various settings including weddings, special occasions, and modern Poland",
+        "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
+        "similarity": 0.16991824480798226
+      },
+      {
+        "cb_idx": 19182,
+        "cultural_group": "Polish",
+        "topic": "Entertainment and Leisure",
+        "context": "in Poland and Polish culture",
+        "actor_behavior": "create, perform, and enjoy a wide range of music, from folk to rock, including remakes and new interpretations of classic songs",
+        "similarity": 0.11204668627621853
+      }
+    ]
   },
   {
     "id": "PL24",
@@ -309,7 +723,25 @@
       "(D) A holiday for shop closures"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19183,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Poland and Polish communities globally",
+        "actor_behavior": "engage in celebratory activities and gift-giving on various occasions",
+        "similarity": 0.13453404591253587
+      },
+      {
+        "cb_idx": 8844,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "Sundays",
+        "actor_behavior": "observe a day of rest, with some shops remaining closed and others open, often with limited hours",
+        "similarity": 0.10499708817166026
+      }
+    ]
   },
   {
     "id": "PL25",
@@ -322,7 +754,25 @@
       "(D) A type of vodka"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8850,
+        "cultural_group": "Polish and Russian",
+        "topic": "Drinking and Alcohol",
+        "context": "social gatherings and alcohol consumption",
+        "actor_behavior": "consume and share vodka, often in large quantities and until someone faints",
+        "similarity": 0.1441793040291814
+      },
+      {
+        "cb_idx": 8828,
+        "cultural_group": "Polish",
+        "topic": "Food and Dining",
+        "context": "primarily in Poland, with some instances in the US and Germany",
+        "actor_behavior": "strong preference for and frequent consumption of bread, especially Polish rye bread, with specific practices like dabbing stale bread with water and using bread cutting tools",
+        "similarity": 0.13200335344416012
+      }
+    ]
   },
   {
     "id": "PL26",
@@ -335,7 +785,25 @@
       "(D) Funerals are kept secret in Polish culture"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19186,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "Poland and Polish-speaking communities",
+        "actor_behavior": "creating, writing, watching, and appreciating Polish literature and films",
+        "similarity": 0.08906419581198599
+      },
+      {
+        "cb_idx": 19197,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "Polish primary and secondary education",
+        "actor_behavior": "emphasize Polish language, culture, and identity through literature, history, and national holidays",
+        "similarity": 0.08690468126880296
+      }
+    ]
   },
   {
     "id": "PL27",
@@ -348,7 +816,25 @@
       "(D) An honorary government title"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8895,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "weddings",
+        "actor_behavior": "engage in lively, multi-day celebrations with unique traditions",
+        "similarity": 0.10975735652613189
+      },
+      {
+        "cb_idx": 19183,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Poland and Polish communities globally",
+        "actor_behavior": "engage in celebratory activities and gift-giving on various occasions",
+        "similarity": 0.06215097083873656
+      }
+    ]
   },
   {
     "id": "PL28",
@@ -361,7 +847,25 @@
       "(D) Only one volleyball court exists in Poland"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8866,
+        "cultural_group": "Polish",
+        "topic": "Community and Identity",
+        "context": "across various settings including Poland, America, and online platforms",
+        "actor_behavior": "expressing love for Poland, making videos showcasing Poland, and requesting videos about Poland",
+        "similarity": 0.0727169737115724
+      },
+      {
+        "cb_idx": 19958,
+        "cultural_group": "Polish people",
+        "topic": "Community and Identity",
+        "context": "Poland's history and contemporary society",
+        "actor_behavior": "expressing national pride, fighting for freedom, and engaging in historical reinterpretation",
+        "similarity": 0.06084408523812701
+      }
+    ]
   },
   {
     "id": "PL29",
@@ -374,7 +878,25 @@
       "(D) No such distinction exists"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 20180,
+        "cultural_group": "Polish",
+        "topic": "Cultural Exchange",
+        "context": "various settings including Poland, Polish society, and political climate",
+        "actor_behavior": "maintaining cultural identity, preserving cultural uniqueness, and rejecting multiculturalism",
+        "similarity": 0.1162773016323335
+      },
+      {
+        "cb_idx": 22526,
+        "cultural_group": "Polish-Lithuanian Commonwealth",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "historical and modern society",
+        "actor_behavior": "tolerated and preserved cultural diversity, with a shared belief in common descent and a history of organic cultural mixing",
+        "similarity": 0.0989418665687494
+      }
+    ]
   },
   {
     "id": "PL30",
@@ -387,7 +909,25 @@
       "(D) Religious requirement"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19191,
+        "cultural_group": "Polish",
+        "topic": "Entertainment and Leisure",
+        "context": "radio stations",
+        "actor_behavior": "play music, cater to specific musical preferences, and broadcast religious content",
+        "similarity": 0.08811603368584367
+      },
+      {
+        "cb_idx": 20180,
+        "cultural_group": "Polish",
+        "topic": "Cultural Exchange",
+        "context": "various settings including Poland, Polish society, and political climate",
+        "actor_behavior": "maintaining cultural identity, preserving cultural uniqueness, and rejecting multiculturalism",
+        "similarity": 0.051177662372967586
+      }
+    ]
   },
   {
     "id": "PL31",
@@ -400,7 +940,25 @@
       "(D) An insult"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8860,
+        "cultural_group": "Polish",
+        "topic": "Social Interactions",
+        "context": null,
+        "actor_behavior": "engage in friendly interactions, including laughter and checking out posts",
+        "similarity": 0.05853365237452916
+      },
+      {
+        "cb_idx": 19190,
+        "cultural_group": "Polish",
+        "topic": "Communication and Language",
+        "context": "Polish language usage",
+        "actor_behavior": "use of specific words and phrases, including loanwords, to describe various objects and concepts",
+        "similarity": 0.05358751657751365
+      }
+    ]
   },
   {
     "id": "PL32",
@@ -413,7 +971,25 @@
       "(D) A religious holiday"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8895,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "weddings",
+        "actor_behavior": "engage in lively, multi-day celebrations with unique traditions",
+        "similarity": 0.08044867085278441
+      },
+      {
+        "cb_idx": 19191,
+        "cultural_group": "Polish",
+        "topic": "Entertainment and Leisure",
+        "context": "radio stations",
+        "actor_behavior": "play music, cater to specific musical preferences, and broadcast religious content",
+        "similarity": 0.07294611522234228
+      }
+    ]
   },
   {
     "id": "PL33",
@@ -426,7 +1002,25 @@
       "(D) A traditional folk song"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8855,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "in Poland, particularly in Zakopane",
+        "actor_behavior": "enjoy a variety of traditional Polish dishes, including oscypek, zapiekanka, and lody, often with cranberry jam",
+        "similarity": 0.20345081318119557
+      },
+      {
+        "cb_idx": 8870,
+        "cultural_group": "Polish",
+        "topic": "Relationships and Marriage",
+        "context": "weddings and marriage traditions",
+        "actor_behavior": "engage in customs such as drinking vodka, taking vodka to determine who will be the boss, and pick vodka as a tradition",
+        "similarity": 0.18175903520546757
+      }
+    ]
   },
   {
     "id": "PL34",
@@ -439,7 +1033,25 @@
       "(D) Friendship"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8867,
+        "cultural_group": "Polish",
+        "topic": "Relationships and Marriage",
+        "context": "in romantic relationships, particularly with non-Polish partners",
+        "actor_behavior": "engage in various behaviors including eating leftovers, being nice, and being in a relationship",
+        "similarity": 0.20073646521109195
+      },
+      {
+        "cb_idx": 19183,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Poland and Polish communities globally",
+        "actor_behavior": "engage in celebratory activities and gift-giving on various occasions",
+        "similarity": 0.10682042769598188
+      }
+    ]
   },
   {
     "id": "PL35",
@@ -452,7 +1064,25 @@
       "(D) The custom does not exist in Poland"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8857,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "in various settings including homes, airports, and public spaces",
+        "actor_behavior": "remove shoes as a common practice for comfort, respect, and cleanliness",
+        "similarity": 0.21838960543989888
+      },
+      {
+        "cb_idx": 8833,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "international comparisons",
+        "actor_behavior": "considered superior or better, often in terms of history, architecture, and cultural preservation",
+        "similarity": 0.07249017859413874
+      }
+    ]
   },
   {
     "id": "PL36",
@@ -465,7 +1095,25 @@
       "(D) Polish Father's Day"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8895,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "weddings",
+        "actor_behavior": "engage in lively, multi-day celebrations with unique traditions",
+        "similarity": 0.1307261798869102
+      },
+      {
+        "cb_idx": 8844,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "Sundays",
+        "actor_behavior": "observe a day of rest, with some shops remaining closed and others open, often with limited hours",
+        "similarity": 0.09385909213343605
+      }
+    ]
   },
   {
     "id": "PL37",
@@ -478,7 +1126,25 @@
       "(D) An imported French recipe"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8811,
+        "cultural_group": "Polish",
+        "topic": "Food and Dining",
+        "context": "in Poland and Polish cuisine",
+        "actor_behavior": "eat a variety of traditional foods, including potatoes, pickle soup, and bread and sausage, often as a staple or for healthier eating",
+        "similarity": 0.13465901434926925
+      },
+      {
+        "cb_idx": 8826,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "in Poland",
+        "actor_behavior": "prepare and consume omelets with various ingredients like potatoes, garlic sauce, and jelly",
+        "similarity": 0.09785658048181628
+      }
+    ]
   },
   {
     "id": "PL38",
@@ -491,7 +1157,25 @@
       "(D) A request for repetition"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8851,
+        "cultural_group": "Polish and German",
+        "topic": "Social Norms and Etiquette",
+        "context": "opening a window",
+        "actor_behavior": "open windows in a specific way, including a 2 in 1 option",
+        "similarity": 0.091138590877416
+      },
+      {
+        "cb_idx": 8840,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Poland and among Polish communities",
+        "actor_behavior": "engage in various greetings, including saying hello, good morning, and thank you, as well as hugging and expressing gratitude",
+        "similarity": 0.07130182842397022
+      }
+    ]
   },
   {
     "id": "PL39",
@@ -504,7 +1188,25 @@
       "(D) Only one Polish wedding has ever lasted long"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8895,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "weddings",
+        "actor_behavior": "engage in lively, multi-day celebrations with unique traditions",
+        "similarity": 0.17205586243842327
+      },
+      {
+        "cb_idx": 8885,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "celebratory events like weddings and parties",
+        "actor_behavior": "engage in long, continuous celebrations, often starting late at night and ending in the early morning",
+        "similarity": 0.16195334606684103
+      }
+    ]
   },
   {
     "id": "PL40",
@@ -517,7 +1219,25 @@
       "(D) Christmas Day"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19961,
+        "cultural_group": "Polish people",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Poland, particularly on Christmas Eve",
+        "actor_behavior": "deliver presents to children",
+        "similarity": 0.10203419930537766
+      },
+      {
+        "cb_idx": 8895,
+        "cultural_group": "Polish",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "weddings",
+        "actor_behavior": "engage in lively, multi-day celebrations with unique traditions",
+        "similarity": 0.09752154553654903
+      }
+    ]
   },
   {
     "id": "PL41",
@@ -530,7 +1250,25 @@
       "(D) No such gesture exists"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8875,
+        "cultural_group": "Polish",
+        "topic": "Sports and Recreation",
+        "context": "before going for a swim",
+        "actor_behavior": "perform specific gestures, including a hand gesture and a 'do this' gesture",
+        "similarity": 0.1738280757207128
+      },
+      {
+        "cb_idx": 8840,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Poland and among Polish communities",
+        "actor_behavior": "engage in various greetings, including saying hello, good morning, and thank you, as well as hugging and expressing gratitude",
+        "similarity": 0.05854867558362603
+      }
+    ]
   },
   {
     "id": "PL42",
@@ -543,7 +1281,25 @@
       "(D) A medical device"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8894,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "in homes and welcoming guests",
+        "actor_behavior": "offer food and drink as a sign of hospitality and respect",
+        "similarity": 0.1939899135819562
+      },
+      {
+        "cb_idx": 8857,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "in various settings including homes, airports, and public spaces",
+        "actor_behavior": "remove shoes as a common practice for comfort, respect, and cleanliness",
+        "similarity": 0.12964317712558918
+      }
+    ]
   },
   {
     "id": "PL43",
@@ -556,7 +1312,25 @@
       "(D) Practiced only by clergy"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8815,
+        "cultural_group": "Polish",
+        "topic": "Cultural Exchange",
+        "context": "in Poland and Polish cuisine",
+        "actor_behavior": "engage in the traditional preparation, consumption, and promotion of pierogi",
+        "similarity": 0.06922314189160521
+      },
+      {
+        "cb_idx": 8814,
+        "cultural_group": "Polish",
+        "topic": "Food and Dining",
+        "context": "food",
+        "actor_behavior": "consume various types of sausages, including blood sausage and hotdogs",
+        "similarity": 0.0684018614345196
+      }
+    ]
   },
   {
     "id": "PL44",
@@ -569,7 +1343,25 @@
       "(D) Only royalty receives hospitality"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8894,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "in homes and welcoming guests",
+        "actor_behavior": "offer food and drink as a sign of hospitality and respect",
+        "similarity": 0.3533559017913458
+      },
+      {
+        "cb_idx": 8818,
+        "cultural_group": "Polish",
+        "topic": "Social Interactions",
+        "context": "in Poland and during social interactions",
+        "actor_behavior": "engage in various forms of hospitality, including visiting, inviting for tea, and requesting invitations",
+        "similarity": 0.16339852814956102
+      }
+    ]
   },
   {
     "id": "PL45",
@@ -582,7 +1374,25 @@
       "(D) Counter-question only"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 21545,
+        "cultural_group": "Polish Americans",
+        "topic": "Family Traditions and Heritage",
+        "context": "in the United States, particularly in the Polish diaspora",
+        "actor_behavior": "maintain and adapt Polish cultural heritage in naming practices, including using Polish surnames, English equivalents, and modified versions to fit English spelling and pronunciation rules",
+        "similarity": 0.10868473701823897
+      },
+      {
+        "cb_idx": 20181,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "in Poland and in literature",
+        "actor_behavior": "living and learning about Polish culture, including language and literature appreciation",
+        "similarity": 0.07831797832186554
+      }
+    ]
   },
   {
     "id": "PL46",
@@ -595,7 +1405,25 @@
       "(D) Coffee with vodka mixed in"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8850,
+        "cultural_group": "Polish and Russian",
+        "topic": "Drinking and Alcohol",
+        "context": "social gatherings and alcohol consumption",
+        "actor_behavior": "consume and share vodka, often in large quantities and until someone faints",
+        "similarity": 0.10691360767606205
+      },
+      {
+        "cb_idx": 8870,
+        "cultural_group": "Polish",
+        "topic": "Relationships and Marriage",
+        "context": "weddings and marriage traditions",
+        "actor_behavior": "engage in customs such as drinking vodka, taking vodka to determine who will be the boss, and pick vodka as a tradition",
+        "similarity": 0.09896806848900935
+      }
+    ]
   },
   {
     "id": "PL47",
@@ -608,7 +1436,17 @@
       "(D) A historical Polish king"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19194,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "various settings including weddings, special occasions, and modern Poland",
+        "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
+        "similarity": 0.07946819325862502
+      }
+    ]
   },
   {
     "id": "PL48",
@@ -621,7 +1459,25 @@
       "(D) Praising the cook"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8832,
+        "cultural_group": "Polish",
+        "topic": "Food and Dining",
+        "context": "food and eating habits",
+        "actor_behavior": "enjoy a wide range of foods, including traditional dishes, large portions, and specific eating habits",
+        "similarity": 0.1906733422073139
+      },
+      {
+        "cb_idx": 8877,
+        "cultural_group": "Polish",
+        "topic": "Cultural Exchange",
+        "context": "food and cooking habits",
+        "actor_behavior": "engage in unique food traditions, including eating traditional dishes and cooking with specific methods",
+        "similarity": 0.1734584469119131
+      }
+    ]
   },
   {
     "id": "PL49",
@@ -634,7 +1490,25 @@
       "(D) An inventor of pierogi"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8815,
+        "cultural_group": "Polish",
+        "topic": "Cultural Exchange",
+        "context": "in Poland and Polish cuisine",
+        "actor_behavior": "engage in the traditional preparation, consumption, and promotion of pierogi",
+        "similarity": 0.16499669430163308
+      },
+      {
+        "cb_idx": 20181,
+        "cultural_group": "Polish",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "in Poland and in literature",
+        "actor_behavior": "living and learning about Polish culture, including language and literature appreciation",
+        "similarity": 0.1507773338893162
+      }
+    ]
   },
   {
     "id": "PL50",
@@ -647,6 +1521,24 @@
       "(D) Not a real saying"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 8874,
+        "cultural_group": "Polish",
+        "topic": "Education and Technology",
+        "context": "in Poland",
+        "actor_behavior": "engage in education, from kindergarten to specialized high schools and universities, with a focus on learning Polish and unique martial arts",
+        "similarity": 0.18125160834413356
+      },
+      {
+        "cb_idx": 8840,
+        "cultural_group": "Polish",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Poland and among Polish communities",
+        "actor_behavior": "engage in various greetings, including saying hello, good morning, and thank you, as well as hugging and expressing gratitude",
+        "similarity": 0.09824666230744318
+      }
+    ]
   }
 ]

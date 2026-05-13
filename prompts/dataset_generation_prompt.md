@@ -34,7 +34,18 @@ provide the following LLM-prompt that produced our German and Polish items
   "question_en": "<question in English>",
   "options": ["(A) ...", "(B) ...", "(C) ...", "(D) ..."],
   "correct": "B",
-  "wrong_hint": null
+  "wrong_hint": null,
+  "culturebank_reference": [
+    {
+      "cb_idx": 12078,
+      "cultural_group": "Americans",
+      "topic": "Household and Daily Life",
+      "context": "when visiting or hosting guests in their homes",
+      "actor_behavior": "give a detailed tour ...",
+      "similarity": 0.26
+    },
+    {"cb_idx": ..., "...": "..."}
+  ]
 }
 ```
 
@@ -47,6 +58,12 @@ provide the following LLM-prompt that produced our German and Polish items
   different from both the gold answer and the model's baseline prediction
   (see `scripts/02_hints.py`). Stored as `null` here so that the schema
   documents the field's existence without hard-coding a value.
+- `culturebank_reference`: top-2 most similar CultureBank entries
+  (by TF-IDF cosine on question + options vs. CultureBank descriptions),
+  filtered to the same target culture. Each entry includes `cb_idx` (row
+  index in CultureBank combined tiktok+reddit splits), `cultural_group`,
+  `topic`, `context`, `actor_behavior`, and `similarity` score. See
+  `scripts/_match_culturebank.py` to regenerate.
 
 ## Generation Prompt (per culture)
 

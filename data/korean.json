@@ -10,7 +10,25 @@
       "(D) A bouquet of flowers"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6502,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in public and private restrooms",
+        "actor_behavior": "carry tissues or use sprayers instead of toilet paper, and avoid throwing tissue or toilet paper in the toilet",
+        "similarity": 0.19717366888306043
+      },
+      {
+        "cb_idx": 6623,
+        "cultural_group": "Korean",
+        "topic": "Household and Daily Life",
+        "context": "laundry practices",
+        "actor_behavior": "prefer hand-washing and hanging clothes to dry, with some using machines for convenience",
+        "similarity": 0.12969234746705266
+      }
+    ]
   },
   {
     "id": "KR02",
@@ -23,7 +41,25 @@
       "(D) Take a photo of it with your phone"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 17669,
+        "cultural_group": "Korean",
+        "topic": "Safety and Security",
+        "context": "in Korea and Korean communities globally",
+        "actor_behavior": "prioritize security and safety, often with a heightened vigilance due to past incidents",
+        "similarity": 0.14491051512324113
+      },
+      {
+        "cb_idx": 6594,
+        "cultural_group": "Korean",
+        "topic": "Time Management and Punctuality",
+        "context": "in Korea",
+        "actor_behavior": "maintain unique business hours, including late-night operation and confusion about opening times",
+        "similarity": 0.14010614968942997
+      }
+    ]
   },
   {
     "id": "KR03",
@@ -36,7 +72,25 @@
       "(D) It means they disagree with you"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6610,
+        "cultural_group": "Korean",
+        "topic": "Food and Dining",
+        "context": "dining habits",
+        "actor_behavior": "tend to eat dinner early, often between 6-8pm, and may eat lunch as late as 3pm",
+        "similarity": 0.10433556438355719
+      },
+      {
+        "cb_idx": 17655,
+        "cultural_group": "Korean",
+        "topic": "Drinking and Alcohol",
+        "context": "various social settings including office culture, work parties, and hanging with friends",
+        "actor_behavior": "engage in drinking culture, including alcohol, coffee, and green tea lattes, often in a relaxed and welcoming manner",
+        "similarity": 0.10421819790466348
+      }
+    ]
   },
   {
     "id": "KR04",
@@ -49,7 +103,25 @@
       "(D) They think you look thin"
     ],
     "correct": "C",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6610,
+        "cultural_group": "Korean",
+        "topic": "Food and Dining",
+        "context": "dining habits",
+        "actor_behavior": "tend to eat dinner early, often between 6-8pm, and may eat lunch as late as 3pm",
+        "similarity": 0.15408159593978873
+      },
+      {
+        "cb_idx": 9163,
+        "cultural_group": "North Korean",
+        "topic": "Relationships and Marriage",
+        "context": "dating",
+        "actor_behavior": "engage in dating practices, including asking for advice and dating",
+        "similarity": 0.128367498353104
+      }
+    ]
   },
   {
     "id": "KR05",
@@ -62,7 +134,25 @@
       "(D) There is no special meaning"
     ],
     "correct": "A",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6477,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Korea",
+        "actor_behavior": "use and enforce laws related to phone use, including mandatory shutter sounds, camera apps, and avoiding recording sounds",
+        "similarity": 0.18162463927388067
+      },
+      {
+        "cb_idx": 6432,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Korea",
+        "actor_behavior": "preference for not wearing sunglasses due to cultural beliefs and lack of popularity",
+        "similarity": 0.14186201867077214
+      }
+    ]
   },
   {
     "id": "KR06",
@@ -75,7 +165,25 @@
       "(D) Into their own glass first as a taste test"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6477,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Korea",
+        "actor_behavior": "use and enforce laws related to phone use, including mandatory shutter sounds, camera apps, and avoiding recording sounds",
+        "similarity": 0.13989485325180298
+      },
+      {
+        "cb_idx": 6544,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "various social and public settings",
+        "actor_behavior": "avoid or make eye contact based on context and perceived politeness",
+        "similarity": 0.09620802109510154
+      }
+    ]
   },
   {
     "id": "KR07",
@@ -88,7 +196,25 @@
       "(D) Only on Valentine's Day"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6601,
+        "cultural_group": "Korean",
+        "topic": "Family Traditions and Heritage",
+        "context": "birthday celebrations",
+        "actor_behavior": "celebrate birthdays, often on weekends, with gifts and parties",
+        "similarity": 0.17463956069034342
+      },
+      {
+        "cb_idx": 6576,
+        "cultural_group": "Korean",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "wedding invitations and celebrations",
+        "actor_behavior": "include Venmo or similar payment methods for financial contributions and gifts",
+        "similarity": 0.09714743917368027
+      }
+    ]
   },
   {
     "id": "KR08",
@@ -101,7 +227,25 @@
       "(D) They are asking you on a date"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6610,
+        "cultural_group": "Korean",
+        "topic": "Food and Dining",
+        "context": "dining habits",
+        "actor_behavior": "tend to eat dinner early, often between 6-8pm, and may eat lunch as late as 3pm",
+        "similarity": 0.0926872526585827
+      },
+      {
+        "cb_idx": 6483,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in restaurants, cafes, and shops",
+        "actor_behavior": "express gratitude or politeness using phrases like 'no thank you' or 'it's ok', often in response to being asked if they want something",
+        "similarity": 0.09106608672165123
+      }
+    ]
   },
   {
     "id": "KR09",
@@ -114,7 +258,25 @@
       "(D) To decide seating arrangements only"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6430,
+        "cultural_group": "Korean",
+        "topic": "Miscellaneous",
+        "context": "in South Korea and Korea",
+        "actor_behavior": "follow a unique age system, with age calculated from conception and one year added at birth, resulting in a different social dynamic",
+        "similarity": 0.16124535157769185
+      },
+      {
+        "cb_idx": 17676,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Korea and outside",
+        "actor_behavior": "maintain societal norms and expectations, including respect for elders and age-based seniority ranking",
+        "similarity": 0.16050431207582821
+      }
+    ]
   },
   {
     "id": "KR10",
@@ -127,7 +289,25 @@
       "(D) It has no special cultural significance"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6519,
+        "cultural_group": "Korean",
+        "topic": "Family Traditions and Heritage",
+        "context": "gift-giving, particularly at weddings",
+        "actor_behavior": "give and receive red envelopes containing cash",
+        "similarity": 0.10778299752457614
+      },
+      {
+        "cb_idx": 6638,
+        "cultural_group": "Korean",
+        "topic": "Beauty and Fashion",
+        "context": "in acting and entertainment industry",
+        "actor_behavior": "emphasize the importance of facial acting skills, often associated with having a good face",
+        "similarity": 0.10717208453757293
+      }
+    ]
   },
   {
     "id": "KR11",
@@ -140,7 +320,25 @@
       "(D) A formal greeting between strangers"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6553,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Korea and Korean cultural settings",
+        "actor_behavior": "use bows as a sign of respect, greeting, or acknowledgement",
+        "similarity": 0.11951907815321151
+      },
+      {
+        "cb_idx": 17677,
+        "cultural_group": "Korean",
+        "topic": "Cultural Exchange",
+        "context": "Korea and Korean restaurants",
+        "actor_behavior": "enjoying and learning about Korean food, including table etiquette and traditional dishes",
+        "similarity": 0.11055514648572373
+      }
+    ]
   },
   {
     "id": "KR12",
@@ -153,7 +351,25 @@
       "(D) It is a superstition to avoid bad luck"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6465,
+        "cultural_group": "Korean",
+        "topic": "Entertainment and Leisure",
+        "context": "drinking culture",
+        "actor_behavior": "engage in creative drinking games and drinking culture, with awareness of negative health effects",
+        "similarity": 0.2181754824855335
+      },
+      {
+        "cb_idx": 6421,
+        "cultural_group": "Korean",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "drinking culture",
+        "actor_behavior": "engage in unique drinking practices, including drinking soju with tonic water and shouting cheers",
+        "similarity": 0.21214326430134423
+      }
+    ]
   },
   {
     "id": "KR13",
@@ -166,7 +382,25 @@
       "(D) Restaurants will refuse to serve a single diner"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 9156,
+        "cultural_group": "North Korean",
+        "topic": "Miscellaneous",
+        "context": "in North Korea",
+        "actor_behavior": "varying transportation methods, with bicycles considered a sign of wealth",
+        "similarity": 0.13528231127730592
+      },
+      {
+        "cb_idx": 6517,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in restaurants and social settings",
+        "actor_behavior": "engage in bill division, including splitting evenly or requesting recalculation",
+        "similarity": 0.11690409312476453
+      }
+    ]
   },
   {
     "id": "KR14",
@@ -179,7 +413,25 @@
       "(D) This practice does not actually exist"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6497,
+        "cultural_group": "Korean",
+        "topic": "Household and Daily Life",
+        "context": "in Korean homes",
+        "actor_behavior": "adopt unique living practices including heated floors, sleeping on the floor, and using switches, with a mix of traditional and modern elements",
+        "similarity": 0.12616839648190958
+      },
+      {
+        "cb_idx": 6407,
+        "cultural_group": "Korean",
+        "topic": "Social Interactions",
+        "context": "in Korea and interactions with foreigners",
+        "actor_behavior": "a mix of reserved and friendly behavior, with a tendency to be reserved initially and warm up over time, often involving food or seeking recommendations",
+        "similarity": 0.09086622271361043
+      }
+    ]
   },
   {
     "id": "KR15",
@@ -192,7 +444,25 @@
       "(D) Ask how much it cost"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6457,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "gift-giving",
+        "actor_behavior": "prefer cash gifts in envelopes or e-transfers, with a focus on practicality and expressing gratitude",
+        "similarity": 0.19354524847287186
+      },
+      {
+        "cb_idx": 6519,
+        "cultural_group": "Korean",
+        "topic": "Family Traditions and Heritage",
+        "context": "gift-giving, particularly at weddings",
+        "actor_behavior": "give and receive red envelopes containing cash",
+        "similarity": 0.14228079504327062
+      }
+    ]
   },
   {
     "id": "KR16",
@@ -205,7 +475,25 @@
       "(D) Snapping fingers"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 17676,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Korea and outside",
+        "actor_behavior": "maintain societal norms and expectations, including respect for elders and age-based seniority ranking",
+        "similarity": 0.12816924359493526
+      },
+      {
+        "cb_idx": 9158,
+        "cultural_group": "North Korean",
+        "topic": "Miscellaneous",
+        "context": "in Pyongyang",
+        "actor_behavior": "engage in various activities including living, eating, dressing, and seeking medical care, reflecting a higher socioeconomic status compared to other regions",
+        "similarity": 0.1244411884021639
+      }
+    ]
   },
   {
     "id": "KR17",
@@ -218,7 +506,25 @@
       "(D) Shoes are optional in modern Korean homes"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6429,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in homes and public spaces",
+        "actor_behavior": "remove shoes as a sign of respect and cleanliness, wearing slippers or socks indoors",
+        "similarity": 0.3277863110672577
+      },
+      {
+        "cb_idx": 17660,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "at home and in the bathroom",
+        "actor_behavior": "remove shoes and use slippers to maintain cleanliness and dryness",
+        "similarity": 0.19159440904366562
+      }
+    ]
   },
   {
     "id": "KR18",
@@ -231,7 +537,25 @@
       "(D) Modern Korean cuisine has phased it out"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6479,
+        "cultural_group": "Korean",
+        "topic": "Food and Dining",
+        "context": "primarily in Korea, with some practices in other countries",
+        "actor_behavior": "eat, make, and value kimchi, a fermented vegetable dish, as a staple and important part of Korean cuisine",
+        "similarity": 0.3798120458110627
+      },
+      {
+        "cb_idx": 6564,
+        "cultural_group": "Korean",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "perception of smell in Korea and while traveling",
+        "actor_behavior": "associate Korea with the smell of kimchi, often seen as a positive or unique scent",
+        "similarity": 0.24556142057434124
+      }
+    ]
   },
   {
     "id": "KR19",
@@ -244,7 +568,25 @@
       "(D) There is no such taboo"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6453,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Korea and Korean restaurants",
+        "actor_behavior": "use chopsticks and Korean spoons, sometimes preferring longer spoons or metal chopsticks, and occasionally eating with hands or cutting food with scissors",
+        "similarity": 0.15527550698947445
+      },
+      {
+        "cb_idx": 6478,
+        "cultural_group": "Korean",
+        "topic": "Food and Dining",
+        "context": "at home and mealtime",
+        "actor_behavior": "prioritize eating rice before meat, cook rice on the stove, and finish rice before eating meat",
+        "similarity": 0.14603662354802116
+      }
+    ]
   },
   {
     "id": "KR20",
@@ -257,7 +599,25 @@
       "(D) A Buddhist temple"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6533,
+        "cultural_group": "Korean",
+        "topic": "Entertainment and Leisure",
+        "context": "in Korea and Korean spas globally",
+        "actor_behavior": "engage in spa experiences, including body scrubs and exfoliation",
+        "similarity": 0.20896268835765333
+      },
+      {
+        "cb_idx": 6494,
+        "cultural_group": "Korean",
+        "topic": "Sports and Recreation",
+        "context": "in Korean saunas and public baths",
+        "actor_behavior": "engage in communal nudity and use of saunas for relaxation and cultural experiences",
+        "similarity": 0.19511256121960271
+      }
+    ]
   },
   {
     "id": "KR21",
@@ -270,7 +630,25 @@
       "(D) A modern shopping holiday"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6618,
+        "cultural_group": "Korean",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "birth and age calculation",
+        "actor_behavior": "count months during pregnancy and consider babies 1 year old at birth due to lunar calendar influence",
+        "similarity": 0.1283415007165062
+      },
+      {
+        "cb_idx": 6553,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Korea and Korean cultural settings",
+        "actor_behavior": "use bows as a sign of respect, greeting, or acknowledgement",
+        "similarity": 0.1167533784033454
+      }
+    ]
   },
   {
     "id": "KR22",
@@ -283,7 +661,25 @@
       "(D) Korean Valentine's Day"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6478,
+        "cultural_group": "Korean",
+        "topic": "Food and Dining",
+        "context": "at home and mealtime",
+        "actor_behavior": "prioritize eating rice before meat, cook rice on the stove, and finish rice before eating meat",
+        "similarity": 0.14464107054971392
+      },
+      {
+        "cb_idx": 17612,
+        "cultural_group": "Korean",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Korean pop music industry",
+        "actor_behavior": "includes performing, investing, and promoting K-pop music and culture",
+        "similarity": 0.1267108236814539
+      }
+    ]
   },
   {
     "id": "KR23",
@@ -296,7 +692,25 @@
       "(D) Never; it is illegal to wear in public"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6540,
+        "cultural_group": "Korean",
+        "topic": "Community and Identity",
+        "context": "fashion and traditional clothing",
+        "actor_behavior": "wear Hanbok, a traditional Korean garment influenced by Hanfu, both in daily life and on special occasions",
+        "similarity": 0.2988118139304029
+      },
+      {
+        "cb_idx": 6568,
+        "cultural_group": "Korean",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "weddings",
+        "actor_behavior": "engage in formal, short, and sometimes large-scale wedding ceremonies",
+        "similarity": 0.15782799043252524
+      }
+    ]
   },
   {
     "id": "KR24",
@@ -309,7 +723,25 @@
       "(D) Tax brackets in Korea differ"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6430,
+        "cultural_group": "Korean",
+        "topic": "Miscellaneous",
+        "context": "in South Korea and Korea",
+        "actor_behavior": "follow a unique age system, with age calculated from conception and one year added at birth, resulting in a different social dynamic",
+        "similarity": 0.2891363993590393
+      },
+      {
+        "cb_idx": 6618,
+        "cultural_group": "Korean",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "birth and age calculation",
+        "actor_behavior": "count months during pregnancy and consider babies 1 year old at birth due to lunar calendar influence",
+        "similarity": 0.2834852429354988
+      }
+    ]
   },
   {
     "id": "KR25",
@@ -322,7 +754,25 @@
       "(D) A neutral number with no significance"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6638,
+        "cultural_group": "Korean",
+        "topic": "Beauty and Fashion",
+        "context": "in acting and entertainment industry",
+        "actor_behavior": "emphasize the importance of facial acting skills, often associated with having a good face",
+        "similarity": 0.17211072209699516
+      },
+      {
+        "cb_idx": 9126,
+        "cultural_group": "North Korean",
+        "topic": "Finance and Economy",
+        "context": "in North Korea",
+        "actor_behavior": "considered rich with more than $1,000 in their pocket, often associated with owning luxury items like cars and fridges",
+        "similarity": 0.1449795888512905
+      }
+    ]
   },
   {
     "id": "KR26",
@@ -335,7 +785,25 @@
       "(D) Green"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6540,
+        "cultural_group": "Korean",
+        "topic": "Community and Identity",
+        "context": "fashion and traditional clothing",
+        "actor_behavior": "wear Hanbok, a traditional Korean garment influenced by Hanfu, both in daily life and on special occasions",
+        "similarity": 0.19002125102570944
+      },
+      {
+        "cb_idx": 10227,
+        "cultural_group": "South Korean",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "celebrations and funerals",
+        "actor_behavior": "use flower arrangements, with specific color codes indicating the nature of the event",
+        "similarity": 0.16497538228371747
+      }
+    ]
   },
   {
     "id": "KR27",
@@ -348,7 +816,25 @@
       "(D) Demand more food"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6467,
+        "cultural_group": "Korean",
+        "topic": "Social Interactions",
+        "context": "in Korea",
+        "actor_behavior": "engage in various social behaviors including offering food, returning items, and engaging in discussions",
+        "similarity": 0.2625052764728835
+      },
+      {
+        "cb_idx": 20320,
+        "cultural_group": "Korean Americans",
+        "topic": "Cultural Exchange",
+        "context": "in the United States, particularly in areas with Korean communities",
+        "actor_behavior": "engage in various activities related to Korean culture, including seeking Korean food, sharing Korean culinary culture, and preparing Korean food",
+        "similarity": 0.21379260055719154
+      }
+    ]
   },
   {
     "id": "KR28",
@@ -361,7 +847,25 @@
       "(D) Bow depth is not culturally significant"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6553,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Korea and Korean cultural settings",
+        "actor_behavior": "use bows as a sign of respect, greeting, or acknowledgement",
+        "similarity": 0.22228944115080831
+      },
+      {
+        "cb_idx": 9158,
+        "cultural_group": "North Korean",
+        "topic": "Miscellaneous",
+        "context": "in Pyongyang",
+        "actor_behavior": "engage in various activities including living, eating, dressing, and seeking medical care, reflecting a higher socioeconomic status compared to other regions",
+        "similarity": 0.09166035957956759
+      }
+    ]
   },
   {
     "id": "KR29",
@@ -374,7 +878,25 @@
       "(D) A retirement ceremony"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 9150,
+        "cultural_group": "North Korean",
+        "topic": "Workplace",
+        "context": "team work",
+        "actor_behavior": "work inefficiently due to lack of private ownership, sanctions, and a perceived lack of motivation",
+        "similarity": 0.1671195452943844
+      },
+      {
+        "cb_idx": 6465,
+        "cultural_group": "Korean",
+        "topic": "Entertainment and Leisure",
+        "context": "drinking culture",
+        "actor_behavior": "engage in creative drinking games and drinking culture, with awareness of negative health effects",
+        "similarity": 0.15555698279889893
+      }
+    ]
   },
   {
     "id": "KR30",
@@ -387,7 +909,25 @@
       "(D) A summer music festival"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 17612,
+        "cultural_group": "Korean",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Korean pop music industry",
+        "actor_behavior": "includes performing, investing, and promoting K-pop music and culture",
+        "similarity": 0.11047902538277829
+      },
+      {
+        "cb_idx": 19335,
+        "cultural_group": "South Korean",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "music scene, including K-pop and K-hiphop",
+        "actor_behavior": "create, perform, and listen to music with a unique style, combining singing and rapping in Korean language",
+        "similarity": 0.09583023363190889
+      }
+    ]
   },
   {
     "id": "KR31",
@@ -400,7 +940,25 @@
       "(D) Only K-pop fans use them"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 17676,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Korea and outside",
+        "actor_behavior": "maintain societal norms and expectations, including respect for elders and age-based seniority ranking",
+        "similarity": 0.22171994445965823
+      },
+      {
+        "cb_idx": 6669,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "various formal and informal settings, including schools, workplaces, and social interactions",
+        "actor_behavior": "use formal address and honorifics, including names and titles, to show respect",
+        "similarity": 0.1618719060971075
+      }
+    ]
   },
   {
     "id": "KR32",
@@ -413,7 +971,25 @@
       "(D) National sports day"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 17623,
+        "cultural_group": "Korean",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "Korean language and society",
+        "actor_behavior": "use and adapt Korean language, including Hangul and loanwords, for communication and cultural preservation",
+        "similarity": 0.14524595313371239
+      },
+      {
+        "cb_idx": 6614,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "public transportation and taxis in Korea",
+        "actor_behavior": "prefer using taxis due to their affordability and convenience, with fares starting at 3.6 USD during the day and increasing at night",
+        "similarity": 0.09807026367321833
+      }
+    ]
   },
   {
     "id": "KR33",
@@ -426,7 +1002,25 @@
       "(D) Only seen in elderly people"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6604,
+        "cultural_group": "Korean",
+        "topic": "Social Interactions",
+        "context": "in public and among friends",
+        "actor_behavior": "hold hands as a common gesture of friendship and affection",
+        "similarity": 0.4051575833833265
+      },
+      {
+        "cb_idx": 10239,
+        "cultural_group": "South Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "dating and relationship building",
+        "actor_behavior": "prioritize respect, consideration, and seeking recommendations from trusted sources",
+        "similarity": 0.1868352089606773
+      }
+    ]
   },
   {
     "id": "KR34",
@@ -439,7 +1033,25 @@
       "(D) Play music aloud"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6583,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "public transportation",
+        "actor_behavior": "offer and give up seats to older individuals and pregnant women",
+        "similarity": 0.15430942033464765
+      },
+      {
+        "cb_idx": 6580,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in public",
+        "actor_behavior": "tend to speak loudly and expressively, including yelling and making loud noises",
+        "similarity": 0.14782232170473614
+      }
+    ]
   },
   {
     "id": "KR35",
@@ -452,7 +1064,25 @@
       "(D) The custom is not actually practiced"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 17623,
+        "cultural_group": "Korean",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "Korean language and society",
+        "actor_behavior": "use and adapt Korean language, including Hangul and loanwords, for communication and cultural preservation",
+        "similarity": 0.09856643856855653
+      },
+      {
+        "cb_idx": 6502,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "in public and private restrooms",
+        "actor_behavior": "carry tissues or use sprayers instead of toilet paper, and avoid throwing tissue or toilet paper in the toilet",
+        "similarity": 0.07370527836853591
+      }
+    ]
   },
   {
     "id": "KR36",
@@ -465,7 +1095,25 @@
       "(D) A type of friendship contract"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19477,
+        "cultural_group": "Korean",
+        "topic": "Cultural Exchange",
+        "context": "various social settings including restaurants, family gatherings, and interactions with foreigners",
+        "actor_behavior": "engage in traditional Korean dining experiences and share Korean food",
+        "similarity": 0.1452707161111601
+      },
+      {
+        "cb_idx": 6535,
+        "cultural_group": "Korean",
+        "topic": "Cultural Exchange",
+        "context": "in South Korea and Korean social media",
+        "actor_behavior": "create, share, and discuss videos about Korean culture, life, and experiences",
+        "similarity": 0.12965814654489952
+      }
+    ]
   },
   {
     "id": "KR37",
@@ -478,7 +1126,25 @@
       "(D) Spill some on the floor first"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6604,
+        "cultural_group": "Korean",
+        "topic": "Social Interactions",
+        "context": "in public and among friends",
+        "actor_behavior": "hold hands as a common gesture of friendship and affection",
+        "similarity": 0.0784616816855866
+      },
+      {
+        "cb_idx": 6460,
+        "cultural_group": "Korean",
+        "topic": "Family Dynamics",
+        "context": "family dynamics",
+        "actor_behavior": "engage in financial support and communication, including asking for money and saving for future independence",
+        "similarity": 0.07392064629761948
+      }
+    ]
   },
   {
     "id": "KR38",
@@ -491,7 +1157,25 @@
       "(D) Karaoke singing"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 17671,
+        "cultural_group": "Korean",
+        "topic": "Entertainment and Leisure",
+        "context": "in PC Bangs",
+        "actor_behavior": "engage in gaming activities, including selecting PCs, playing games, and ordering food",
+        "similarity": 0.243167853231774
+      },
+      {
+        "cb_idx": 20040,
+        "cultural_group": "Korean",
+        "topic": "Entertainment and Leisure",
+        "context": "gaming culture",
+        "actor_behavior": "embrace gaming as a lifestyle, engage in extensive gaming, and develop gaming infrastructure",
+        "similarity": 0.19558903201550823
+      }
+    ]
   },
   {
     "id": "KR39",
@@ -504,7 +1188,25 @@
       "(D) Korean students never study in cafés"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 10240,
+        "cultural_group": "South Korean",
+        "topic": "Cultural Exchange",
+        "context": "living and studying in South Korea",
+        "actor_behavior": "choose to live, study, or work in South Korea, often with the goal of education or friendship",
+        "similarity": 0.20903858678904863
+      },
+      {
+        "cb_idx": 6657,
+        "cultural_group": "Korean",
+        "topic": "Education and Technology",
+        "context": "educational system",
+        "actor_behavior": "intense dedication to studying, including cram schools and studying hard",
+        "similarity": 0.10282555360341504
+      }
+    ]
   },
   {
     "id": "KR40",
@@ -517,7 +1219,25 @@
       "(D) A K-drama plot device only"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 22158,
+        "cultural_group": "Korean pop music (K-pop) fans",
+        "topic": "Entertainment and Leisure",
+        "context": "K-pop fandom culture, including online platforms and social media",
+        "actor_behavior": "engage in various fan activities, including creating content, interacting with groups, and sharing fandom experiences",
+        "similarity": 0.1340137525047075
+      },
+      {
+        "cb_idx": 6605,
+        "cultural_group": "Korean",
+        "topic": "Entertainment and Leisure",
+        "context": "K-pop industry and music consumption",
+        "actor_behavior": "engage in meticulous grooming, long hours of photoshoots, and active fan engagement",
+        "similarity": 0.09773735578677842
+      }
+    ]
   },
   {
     "id": "KR41",
@@ -530,7 +1250,25 @@
       "(D) Choose university majors"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 17662,
+        "cultural_group": "Korean",
+        "topic": "Community and Identity",
+        "context": "various settings including Korea, Japan, and mixed-race families",
+        "actor_behavior": "maintain and assert Korean identity, including keeping Korean names and viewing mixed-race children as foreign",
+        "similarity": 0.09291893356969036
+      },
+      {
+        "cb_idx": 6539,
+        "cultural_group": "Korean",
+        "topic": "Miscellaneous",
+        "context": "in Korea",
+        "actor_behavior": "engage in self-diagnosis or testing to determine personal color palettes, often using reflective surfaces",
+        "similarity": 0.0896963870253642
+      }
+    ]
   },
   {
     "id": "KR42",
@@ -543,7 +1281,25 @@
       "(D) A short-lived 2000s trend"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 19468,
+        "cultural_group": "Korean",
+        "topic": "Cultural Exchange",
+        "context": "global music industry",
+        "actor_behavior": "create, promote, and consume K-pop music, contributing to its global success and cultural influence",
+        "similarity": 0.30693307216275456
+      },
+      {
+        "cb_idx": 19474,
+        "cultural_group": "Korean",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "K-pop industry and fan culture",
+        "actor_behavior": "K-pop idols present idealized images and engage in entertainment, while fans admire and relate to them",
+        "similarity": 0.2693549234916855
+      }
+    ]
   },
   {
     "id": "KR43",
@@ -556,7 +1312,25 @@
       "(D) A summer fireworks event"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 10227,
+        "cultural_group": "South Korean",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "celebrations and funerals",
+        "actor_behavior": "use flower arrangements, with specific color codes indicating the nature of the event",
+        "similarity": 0.10003077359300525
+      },
+      {
+        "cb_idx": 6500,
+        "cultural_group": "Korean",
+        "topic": "Relationships and Marriage",
+        "context": "primarily in Korea, with some instances in America",
+        "actor_behavior": "engage in marriage, often facing societal pressure and expectations",
+        "similarity": 0.07452515151460125
+      }
+    ]
   },
   {
     "id": "KR44",
@@ -569,7 +1343,25 @@
       "(D) Beverages"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6479,
+        "cultural_group": "Korean",
+        "topic": "Food and Dining",
+        "context": "primarily in Korea, with some practices in other countries",
+        "actor_behavior": "eat, make, and value kimchi, a fermented vegetable dish, as a staple and important part of Korean cuisine",
+        "similarity": 0.17093843184951568
+      },
+      {
+        "cb_idx": 6478,
+        "cultural_group": "Korean",
+        "topic": "Food and Dining",
+        "context": "at home and mealtime",
+        "actor_behavior": "prioritize eating rice before meat, cook rice on the stove, and finish rice before eating meat",
+        "similarity": 0.1536044919556742
+      }
+    ]
   },
   {
     "id": "KR45",
@@ -582,7 +1374,25 @@
       "(D) Drinking from a glass"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6421,
+        "cultural_group": "Korean",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "drinking culture",
+        "actor_behavior": "engage in unique drinking practices, including drinking soju with tonic water and shouting cheers",
+        "similarity": 0.3625793131077253
+      },
+      {
+        "cb_idx": 6465,
+        "cultural_group": "Korean",
+        "topic": "Entertainment and Leisure",
+        "context": "drinking culture",
+        "actor_behavior": "engage in creative drinking games and drinking culture, with awareness of negative health effects",
+        "similarity": 0.3112107625542869
+      }
+    ]
   },
   {
     "id": "KR46",
@@ -595,7 +1405,25 @@
       "(D) A goodbye"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 10234,
+        "cultural_group": "South Korean",
+        "topic": "Migration and Cultural Adaptation",
+        "context": "living and visiting South Korea",
+        "actor_behavior": "express surprise, shock, and frustration due to cultural differences and challenges, including cultural shock and islamophobia",
+        "similarity": 0.13510533901918215
+      },
+      {
+        "cb_idx": 6589,
+        "cultural_group": "Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": null,
+        "actor_behavior": "express shock and surprise in various situations",
+        "similarity": 0.1332487976419106
+      }
+    ]
   },
   {
     "id": "KR47",
@@ -608,7 +1436,25 @@
       "(D) A type of formal address"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 17632,
+        "cultural_group": "Korean",
+        "topic": "Cultural Exchange",
+        "context": "Korea and Korean culture",
+        "actor_behavior": "living, teaching, and writing about Korean culture",
+        "similarity": 0.12017847353669434
+      },
+      {
+        "cb_idx": 6470,
+        "cultural_group": "Korean",
+        "topic": "Cultural Exchange",
+        "context": "in Korea",
+        "actor_behavior": "use BTS for various purposes including improving image, expressing gratitude, and addressing safety concerns",
+        "similarity": 0.11592572901395953
+      }
+    ]
   },
   {
     "id": "KR48",
@@ -621,7 +1467,25 @@
       "(D) Korean cities lack restaurants"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6594,
+        "cultural_group": "Korean",
+        "topic": "Time Management and Punctuality",
+        "context": "in Korea",
+        "actor_behavior": "maintain unique business hours, including late-night operation and confusion about opening times",
+        "similarity": 0.247953227927055
+      },
+      {
+        "cb_idx": 6565,
+        "cultural_group": "Korean",
+        "topic": "Safety and Security",
+        "context": "in Seoul and other Korean cities",
+        "actor_behavior": "prioritize safety and awareness of surroundings due to perceived danger",
+        "similarity": 0.15494510452958704
+      }
+    ]
   },
   {
     "id": "KR49",
@@ -634,7 +1498,25 @@
       "(D) Café staff will ask them to leave"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 10240,
+        "cultural_group": "South Korean",
+        "topic": "Cultural Exchange",
+        "context": "living and studying in South Korea",
+        "actor_behavior": "choose to live, study, or work in South Korea, often with the goal of education or friendship",
+        "similarity": 0.11671025928329544
+      },
+      {
+        "cb_idx": 6657,
+        "cultural_group": "Korean",
+        "topic": "Education and Technology",
+        "context": "educational system",
+        "actor_behavior": "intense dedication to studying, including cram schools and studying hard",
+        "similarity": 0.10725188515234765
+      }
+    ]
   },
   {
     "id": "KR50",
@@ -647,6 +1529,24 @@
       "(D) Only women serve in Korea"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 6492,
+        "cultural_group": "Korean",
+        "topic": "Miscellaneous",
+        "context": "in South Korea and the military",
+        "actor_behavior": "serve in mandatory military service, including performing duties and joining the military",
+        "similarity": 0.34567222009079024
+      },
+      {
+        "cb_idx": 9151,
+        "cultural_group": "North Korean",
+        "topic": "Social Norms and Etiquette",
+        "context": "military service",
+        "actor_behavior": "mandatory military service for men, with women serving in various capacities",
+        "similarity": 0.3342172912958959
+      }
+    ]
   }
 ]

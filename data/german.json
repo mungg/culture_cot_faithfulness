@@ -10,7 +10,25 @@
       "(D) Any time before 20:00 is fine"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3809,
+        "cultural_group": "German",
+        "topic": "Food and Dining",
+        "context": "mealtime",
+        "actor_behavior": "tend to eat dinner early, often between 6pm and 8pm, with a preference for early dinners for health reasons",
+        "similarity": 0.1360566751010152
+      },
+      {
+        "cb_idx": 3849,
+        "cultural_group": "German",
+        "topic": "Food and Dining",
+        "context": "in Germany",
+        "actor_behavior": "follow a specific mealtime schedule, with lunch around 1 pm and dinner between 5:30-8:30 pm, often including coffee and cake time in the afternoon",
+        "similarity": 0.12392644927644098
+      }
+    ]
   },
   {
     "id": "DE02",
@@ -23,7 +41,25 @@
       "(D) There is no distinction in modern German"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 4138,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "various social settings",
+        "actor_behavior": "use informal and formal greetings, with 'Hei du' for informal and 'Sie' for formal",
+        "similarity": 0.3983089715626732
+      },
+      {
+        "cb_idx": 14344,
+        "cultural_group": "Germans",
+        "topic": "Social Norms and Etiquette",
+        "context": "various settings including formal and informal communication",
+        "actor_behavior": "use Herr/Frau as a formal title, with doctorate title if applicable, or use first name for informal address",
+        "similarity": 0.2858274978061566
+      }
+    ]
   },
   {
     "id": "DE03",
@@ -36,7 +72,25 @@
       "(D) This practice no longer exists"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 17897,
+        "cultural_group": "Germany",
+        "topic": "Work-Life Balance",
+        "context": "workplace and Sundays",
+        "actor_behavior": "take time off or work on Sundays, sometimes with extra pay",
+        "similarity": 0.4670222821511042
+      },
+      {
+        "cb_idx": 14328,
+        "cultural_group": "Germans",
+        "topic": "Consumer Behavior",
+        "context": "shopping and retail culture",
+        "actor_behavior": "strict adherence to time schedules, including closing early on Saturdays and Sundays, and delivering groceries to disabled individuals",
+        "similarity": 0.4595597516559087
+      }
+    ]
   },
   {
     "id": "DE04",
@@ -49,7 +103,25 @@
       "(D) A traditional German tea time"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 4059,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "in various settings including residential areas, public spaces, and specific cities like Schweinfurt",
+        "actor_behavior": "adhere to and enforce quiet hours, including Mittagsruhe, to maintain a peaceful environment",
+        "similarity": 0.19599391704251717
+      },
+      {
+        "cb_idx": 3840,
+        "cultural_group": "German",
+        "topic": "Food and Dining",
+        "context": "in Germany",
+        "actor_behavior": "prefer tea over sweet tea, with tea being the most popular beverage and a significant aspect of culture",
+        "similarity": 0.1681606073109013
+      }
+    ]
   },
   {
     "id": "DE05",
@@ -62,7 +134,25 @@
       "(D) This superstition does not actually exist"
     ],
     "correct": "A",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14472,
+        "cultural_group": "Germans",
+        "topic": "Social Norms and Etiquette",
+        "context": "everyday life and birthday celebrations",
+        "actor_behavior": "congratulate and wish a happy birthday, often following cultural norms and avoiding pre-emptive wishes",
+        "similarity": 0.3563984542381612
+      },
+      {
+        "cb_idx": 3691,
+        "cultural_group": "German",
+        "topic": "Family Traditions and Heritage",
+        "context": "birthday celebrations",
+        "actor_behavior": "follow specific rules including bringing gifts, celebrating on the actual birthday, and the birthday person paying for everyone",
+        "similarity": 0.35444731091752263
+      }
+    ]
   },
   {
     "id": "DE06",
@@ -75,7 +165,25 @@
       "(D) Pour the drink for yourself first"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 4110,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "in various social interactions including stores, conversations, and travel",
+        "actor_behavior": "engage in eye contact, including direct eye contact and making eye contact with cashiers",
+        "similarity": 0.2709045158172438
+      },
+      {
+        "cb_idx": 3904,
+        "cultural_group": "German",
+        "topic": "Social Interactions",
+        "context": "in Germany",
+        "actor_behavior": "engage in physical touch, including specific gestures and facial contact, reflecting a cultural value of touch",
+        "similarity": 0.24272351918808388
+      }
+    ]
   },
   {
     "id": "DE07",
@@ -88,7 +196,25 @@
       "(D) The legal drinking age in Germany"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14152,
+        "cultural_group": "Germans",
+        "topic": "Drinking and Alcohol",
+        "context": "in Germany",
+        "actor_behavior": "consume beer, often at a young age, with a preference for high-quality beer and a legal drinking age of 16 for beer and wine",
+        "similarity": 0.5408419534378832
+      },
+      {
+        "cb_idx": 14193,
+        "cultural_group": "Germans",
+        "topic": "Drinking and Alcohol",
+        "context": "beer culture and consumption",
+        "actor_behavior": "brew and consume high-quality beer, including nonalcoholic options, with a preference for specific bottle types for taste",
+        "similarity": 0.45685205878041757
+      }
+    ]
   },
   {
     "id": "DE08",
@@ -101,7 +227,25 @@
       "(D) Nothing special, just a regular school day"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3856,
+        "cultural_group": "German",
+        "topic": "Safety and Security",
+        "context": "in schools",
+        "actor_behavior": "engage in safety drills and practices, including lockdowns and throwing objects, in response to school shootings",
+        "similarity": 0.3036418114163746
+      },
+      {
+        "cb_idx": 4122,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "in school and public settings",
+        "actor_behavior": "behave in a respectful and well-mannered manner, including shielding, hiding, and engaging in playful behavior",
+        "similarity": 0.22060037659372006
+      }
+    ]
   },
   {
     "id": "DE09",
@@ -114,7 +258,25 @@
       "(D) Card payments are taxed much higher"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 4160,
+        "cultural_group": "German",
+        "topic": "Consumer Behavior",
+        "context": "shopping",
+        "actor_behavior": "prefer paying in cash, including using cards to withdraw cash, and seeking transparency in expenditure",
+        "similarity": 0.37239288314738417
+      },
+      {
+        "cb_idx": 14397,
+        "cultural_group": "Germans",
+        "topic": "Entertainment and Leisure",
+        "context": "playing card games",
+        "actor_behavior": "use unique 32 or 40 card decks, including German-suited playing cards, for specific games like Skat and Doppelkopf",
+        "similarity": 0.33787351070412386
+      }
+    ]
   },
   {
     "id": "DE10",
@@ -127,7 +289,25 @@
       "(D) A discount card for grocery stores"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3996,
+        "cultural_group": "German",
+        "topic": "Environmental Adaptation and Sustainability",
+        "context": "purchasing and recycling beverages",
+        "actor_behavior": "participate in a deposit system (Pfand) for bottles and cans, including returning containers for refunds",
+        "similarity": 0.3301199530858025
+      },
+      {
+        "cb_idx": 4001,
+        "cultural_group": "German",
+        "topic": "Environmental Adaptation and Sustainability",
+        "context": "in Germany and occasionally in America",
+        "actor_behavior": "participate in a deposit system (Pfand) for recycling and purchasing certain items, including bottles, cans, and electronics",
+        "similarity": 0.30626491355654645
+      }
+    ]
   },
   {
     "id": "DE11",
@@ -140,7 +320,25 @@
       "(D) They want you to ask three more times"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3896,
+        "cultural_group": "German",
+        "topic": "Communication and Language",
+        "context": "in Germany and German-speaking regions",
+        "actor_behavior": "speak German, often perceived as angry or frustrated",
+        "similarity": 0.18574225670972416
+      },
+      {
+        "cb_idx": 14512,
+        "cultural_group": "Germans",
+        "topic": "Communication and Language",
+        "context": "everyday conversation and language usage",
+        "actor_behavior": "use of specific language practices, including saying 'Siebzehn Uhr' and creating words to express negative feelings",
+        "similarity": 0.10412173282921512
+      }
+    ]
   },
   {
     "id": "DE12",
@@ -153,7 +351,25 @@
       "(D) A request for the bill in restaurants"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14477,
+        "cultural_group": "Germans",
+        "topic": "Social Norms and Etiquette",
+        "context": "workplace",
+        "actor_behavior": "engage in various greetings including shaking hands, saying 'Mahlzeit', and 'tschuß', and nodding",
+        "similarity": 0.16572108750453743
+      },
+      {
+        "cb_idx": 14285,
+        "cultural_group": "Germans",
+        "topic": "Social Norms and Etiquette",
+        "context": "restaurant experience",
+        "actor_behavior": "customers are polite, friendly, and prefer less interruption, while waitstaff are efficient, occasionally dismissive, and may seem rude, but are expected to provide prompt service and allow customers to enjoy their meal",
+        "similarity": 0.1428529100619948
+      }
+    ]
   },
   {
     "id": "DE13",
@@ -166,7 +382,25 @@
       "(D) It is only done with strangers, never colleagues"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3986,
+        "cultural_group": "German",
+        "topic": "Communication and Language",
+        "context": "communication style",
+        "actor_behavior": "practice direct, honest, and straightforward communication, including direct feedback and expressing needs",
+        "similarity": 0.358754752642944
+      },
+      {
+        "cb_idx": 4164,
+        "cultural_group": "German",
+        "topic": "Communication and Language",
+        "context": "in general",
+        "actor_behavior": "express honesty in a direct, blunt, and sometimes brutally honest manner",
+        "similarity": 0.19698675357007042
+      }
+    ]
   },
   {
     "id": "DE14",
@@ -179,7 +413,25 @@
       "(D) The first dance at the wedding reception"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14462,
+        "cultural_group": "Germans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "weddings and marriage ceremonies",
+        "actor_behavior": "participate in wedding traditions, including sitting in the first row, playing pranks, and refusing to participate in ceremonies",
+        "similarity": 0.4267545969144145
+      },
+      {
+        "cb_idx": 14493,
+        "cultural_group": "Germans",
+        "topic": "Finance and Economy",
+        "context": "wedding and wedding-related events",
+        "actor_behavior": "spend generously on weddings, including gifts, rings, and receptions, with costs ranging from 5-20,000 euros",
+        "similarity": 0.381617428562073
+      }
+    ]
   },
   {
     "id": "DE15",
@@ -192,7 +444,25 @@
       "(D) This custom does not exist in Germany"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3603,
+        "cultural_group": "German",
+        "topic": "Miscellaneous",
+        "context": "Sundays",
+        "actor_behavior": "legally required to remain closed due to a federal law since 1956",
+        "similarity": 0.1952713408365298
+      },
+      {
+        "cb_idx": 14275,
+        "cultural_group": "Germans",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Germany, particularly at home or in indoor spaces",
+        "actor_behavior": "remove shoes and wear slippers (Hausschuhe) for comfort and cleanliness",
+        "similarity": 0.18688117865979484
+      }
+    ]
   },
   {
     "id": "DE16",
@@ -205,7 +475,25 @@
       "(D) A German seafood dish"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3799,
+        "cultural_group": "German",
+        "topic": "Environmental Adaptation and Sustainability",
+        "context": "beaches",
+        "actor_behavior": "engage in activities like purchasing tickets, maintaining cleanliness, and paying for services, with a focus on maintaining clean and high-quality beaches",
+        "similarity": 0.3408655160822389
+      },
+      {
+        "cb_idx": 4078,
+        "cultural_group": "German",
+        "topic": "Health and Hygiene",
+        "context": "in bathrooms and showers",
+        "actor_behavior": "use various cleaning tools and products, including shower gels, washcloths, and exfoliating nets, for personal hygiene and exfoliation",
+        "similarity": 0.19515438042328004
+      }
+    ]
   },
   {
     "id": "DE17",
@@ -218,7 +506,25 @@
       "(D) Bread was banned during WWII and is now celebrated"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3738,
+        "cultural_group": "German",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "bread culture",
+        "actor_behavior": "take bread seriously, with a preference for rye bread and 300+ types of bread, including Spelt Bread and liquid bread",
+        "similarity": 0.6710055214436541
+      },
+      {
+        "cb_idx": 3730,
+        "cultural_group": "German",
+        "topic": "Food and Dining",
+        "context": "bread making and consumption",
+        "actor_behavior": "take pride in and express preference for German bread, often comparing it to sponge or NA bread",
+        "similarity": 0.5193061799470324
+      }
+    ]
   },
   {
     "id": "DE18",
@@ -231,7 +537,25 @@
       "(D) Germans work the longest hours in Europe"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14188,
+        "cultural_group": "Germans",
+        "topic": "Work-Life Balance",
+        "context": "workplace and leisure time",
+        "actor_behavior": "value hard work, work-life balance, and productivity, often working efficiently and avoiding overtime",
+        "similarity": 0.22017637181093166
+      },
+      {
+        "cb_idx": 3972,
+        "cultural_group": "German",
+        "topic": "Work-Life Balance",
+        "context": "work and vacation habits",
+        "actor_behavior": "work long hours but also prioritize taking extended vacations and allowing children to vacation",
+        "similarity": 0.11827308432862373
+      }
+    ]
   },
   {
     "id": "DE19",
@@ -244,7 +568,25 @@
       "(D) Adult education for retirees"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 17911,
+        "cultural_group": "Germans",
+        "topic": "Miscellaneous",
+        "context": "police training and interactions",
+        "actor_behavior": "focus on prevention, de-escalation, and containment, with extensive training in deescalation and education",
+        "similarity": 0.32658401631855516
+      },
+      {
+        "cb_idx": 4108,
+        "cultural_group": "German",
+        "topic": "Education and Technology",
+        "context": "in Germany",
+        "actor_behavior": "engage in work and education from a young age, with opportunities for part-time jobs and apprenticeships",
+        "similarity": 0.23175463491245674
+      }
+    ]
   },
   {
     "id": "DE20",
@@ -257,7 +599,25 @@
       "(D) This is no longer practiced anywhere"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3884,
+        "cultural_group": "German",
+        "topic": "Food and Dining",
+        "context": "dining, including lunch and dinner",
+        "actor_behavior": "enjoy bread-based meals, such as sandwiches and bread with cheese",
+        "similarity": 0.27235774050299083
+      },
+      {
+        "cb_idx": 3809,
+        "cultural_group": "German",
+        "topic": "Food and Dining",
+        "context": "mealtime",
+        "actor_behavior": "tend to eat dinner early, often between 6pm and 8pm, with a preference for early dinners for health reasons",
+        "similarity": 0.24663881023100295
+      }
+    ]
   },
   {
     "id": "DE21",
@@ -270,7 +630,25 @@
       "(D) A German fast-food chain"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3970,
+        "cultural_group": "German",
+        "topic": "Food and Dining",
+        "context": "food and fast food consumption",
+        "actor_behavior": "enjoy a variety of foods, including heavy meals and fast food, with a preference for fundamental food",
+        "similarity": 0.18295542022672343
+      },
+      {
+        "cb_idx": 14378,
+        "cultural_group": "Germans",
+        "topic": "Education and Technology",
+        "context": "German schools",
+        "actor_behavior": "provide and attend compulsory swimming education, including separate classes for those with limited swimming skills",
+        "similarity": 0.18033318323244146
+      }
+    ]
   },
   {
     "id": "DE22",
@@ -283,7 +661,25 @@
       "(D) A compliment to their professional status"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3700,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "in various social and commercial settings",
+        "actor_behavior": "avoid small talk in public, but engage in it when shopping or interacting with service staff",
+        "similarity": 0.22841123984313388
+      },
+      {
+        "cb_idx": 14299,
+        "cultural_group": "Germans",
+        "topic": "Communication and Language",
+        "context": "workplace",
+        "actor_behavior": "avoid small talk and focus on work, often perceived as rude or blunt by others",
+        "similarity": 0.14931439622139775
+      }
+    ]
   },
   {
     "id": "DE23",
@@ -296,7 +692,25 @@
       "(D) Recycling is illegal in Germany"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3619,
+        "cultural_group": "German",
+        "topic": "Environmental Adaptation and Sustainability",
+        "context": "in Germany",
+        "actor_behavior": "strict adherence to recycling and waste management, including separating trash, recycling, and using specific bins",
+        "similarity": 0.4539420210188387
+      },
+      {
+        "cb_idx": 3957,
+        "cultural_group": "German",
+        "topic": "Environmental Adaptation and Sustainability",
+        "context": "in Germany",
+        "actor_behavior": "practice environmental consciousness through recycling and using eco-friendly alternatives like paper straws",
+        "similarity": 0.4085038222419853
+      }
+    ]
   },
   {
     "id": "DE24",
@@ -309,7 +723,25 @@
       "(D) A Christmas market tradition"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14174,
+        "cultural_group": "Germans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "primarily in Germany, with some practices in the United States",
+        "actor_behavior": "engage in a range of Christmas traditions, including singing carols, baking cookies, and exchanging gifts",
+        "similarity": 0.15689173494647862
+      },
+      {
+        "cb_idx": 14340,
+        "cultural_group": "Germans",
+        "topic": "Miscellaneous",
+        "context": "Germany and North Germany",
+        "actor_behavior": "participate in religious rituals, including baptism, confirmation, and marriage ceremonies, while also acknowledging a decline in religious observance",
+        "similarity": 0.15149803497271389
+      }
+    ]
   },
   {
     "id": "DE25",
@@ -322,7 +754,25 @@
       "(D) A handshake"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 4033,
+        "cultural_group": "German",
+        "topic": "Lifestyles",
+        "context": "in Germany, particularly in Frankfurt and supermarkets",
+        "actor_behavior": "prioritize health through access to and promotion of health food stores",
+        "similarity": 0.2928484080424802
+      },
+      {
+        "cb_idx": 4094,
+        "cultural_group": "German",
+        "topic": "Health and Hygiene",
+        "context": "both in Germany and abroad",
+        "actor_behavior": "experience physical pain, often related to health issues and cultural norms like the Pfand system",
+        "similarity": 0.20700701751425452
+      }
+    ]
   },
   {
     "id": "DE26",
@@ -335,7 +785,25 @@
       "(D) No closing needed"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14222,
+        "cultural_group": "Germans",
+        "topic": "Miscellaneous",
+        "context": "in Germany",
+        "actor_behavior": "strict adherence to closing times, with most shops closing around 8pm and some closing earlier",
+        "similarity": 0.22352904477144273
+      },
+      {
+        "cb_idx": 3903,
+        "cultural_group": "German",
+        "topic": "Entertainment and Leisure",
+        "context": "shopping and business hours",
+        "actor_behavior": "adhere to specific opening and closing times, including early closures on weekends and holidays",
+        "similarity": 0.1462004687645207
+      }
+    ]
   },
   {
     "id": "DE27",
@@ -348,7 +816,25 @@
       "(D) Sunday workers wanted"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3779,
+        "cultural_group": "German",
+        "topic": "Religious Practices",
+        "context": "Sunday",
+        "actor_behavior": "observe Sonntagsruhe, a cultural tradition of rest, relaxation, and leisure activities",
+        "similarity": 0.47648265618414004
+      },
+      {
+        "cb_idx": 3657,
+        "cultural_group": "German",
+        "topic": "Religious Practices",
+        "context": "Sunday",
+        "actor_behavior": "observe a day of rest and quietness, often involving relaxation and minimal activity",
+        "similarity": 0.2667340549247821
+      }
+    ]
   },
   {
     "id": "DE28",
@@ -361,7 +847,25 @@
       "(D) Germans never ride trains"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3626,
+        "cultural_group": "German",
+        "topic": "Environmental Adaptation and Sustainability",
+        "context": "in Germany, particularly in big cities and public transportation",
+        "actor_behavior": "prioritize efficiency, reliability, and punctuality in transportation, including walking and using trains, U-Bahn, and ferries",
+        "similarity": 0.3491590515480856
+      },
+      {
+        "cb_idx": 4036,
+        "cultural_group": "German",
+        "topic": "Transportation",
+        "context": "underground trains",
+        "actor_behavior": "use wider and taller underground trains, often facing challenges with luggage",
+        "similarity": 0.3229130455946854
+      }
+    ]
   },
   {
     "id": "DE29",
@@ -374,7 +878,25 @@
       "(D) A traditional dance"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3670,
+        "cultural_group": "German",
+        "topic": "Food and Dining",
+        "context": "in Germany",
+        "actor_behavior": "prefer coffee with ice cream or cake, use coffee machines, and sometimes mispronounce words",
+        "similarity": 0.17891792543670942
+      },
+      {
+        "cb_idx": 14392,
+        "cultural_group": "Germans",
+        "topic": "Social Norms and Etiquette",
+        "context": "both internal and international affairs",
+        "actor_behavior": "use formal titles such as 'Herr Bundeskanzler', 'Frau Bundeskanzlerin', and 'His/Her Excellency' to address political leaders",
+        "similarity": 0.16999516474384144
+      }
+    ]
   },
   {
     "id": "DE30",
@@ -387,7 +909,25 @@
       "(D) Eats from a separate table"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3935,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "eating and dining",
+        "actor_behavior": "prefer using hands to eat, including pizza, and place hands on the table",
+        "similarity": 0.18025459191454268
+      },
+      {
+        "cb_idx": 3776,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "in restaurants",
+        "actor_behavior": "engage in various interactions including ordering, tipping, greeting, and seating arrangements",
+        "similarity": 0.11616014868088227
+      }
+    ]
   },
   {
     "id": "DE31",
@@ -400,7 +940,25 @@
       "(D) This stereotype is completely false"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3751,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Germany",
+        "actor_behavior": "value order and individualism, with a strong emphasis on rules and personal space",
+        "similarity": 0.24623626384954322
+      },
+      {
+        "cb_idx": 4022,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Germany",
+        "actor_behavior": "involvement in military life, including deployment, growing up in military families, and hosting American soldiers",
+        "similarity": 0.16547673731774698
+      }
+    ]
   },
   {
     "id": "DE32",
@@ -413,7 +971,25 @@
       "(D) A wedding ceremony ritual"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3670,
+        "cultural_group": "German",
+        "topic": "Food and Dining",
+        "context": "in Germany",
+        "actor_behavior": "prefer coffee with ice cream or cake, use coffee machines, and sometimes mispronounce words",
+        "similarity": 0.18466731511103263
+      },
+      {
+        "cb_idx": 3803,
+        "cultural_group": "German",
+        "topic": "Food and Dining",
+        "context": "breakfast",
+        "actor_behavior": "prefer a hearty and varied breakfast, often including bread, cheese, eggs, and cold meats",
+        "similarity": 0.17645874732368666
+      }
+    ]
   },
   {
     "id": "DE33",
@@ -426,7 +1002,25 @@
       "(D) Announce your name loudly"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3726,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Germany and various settings including public spaces, cars, and interactions with strangers",
+        "actor_behavior": "engage in greetings, including saying hello, standing up, and smiling, often with a 'hallo' or 'guten Tag'",
+        "similarity": 0.2584596523638751
+      },
+      {
+        "cb_idx": 14447,
+        "cultural_group": "Germans",
+        "topic": "Social Norms and Etiquette",
+        "context": "Greetings and farewells in Germany",
+        "actor_behavior": "use a variety of formal and informal greetings and farewells, including 'Guten Tag', 'Hallo', 'Tschüss', 'Auf Wiedersehen', and 'Wiederhören', often with a kiss on the cheek",
+        "similarity": 0.23128711523737472
+      }
+    ]
   },
   {
     "id": "DE34",
@@ -439,7 +1033,25 @@
       "(D) It is the only legal profession in Germany"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14216,
+        "cultural_group": "Germans",
+        "topic": "Workplace",
+        "context": "Germany's economy and job market",
+        "actor_behavior": "participate in Ausbildungs system, prioritize language skills and cultural knowledge, and strive for career advancement",
+        "similarity": 0.16712703977163873
+      },
+      {
+        "cb_idx": 3914,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "in public",
+        "actor_behavior": "drink alcohol, including beer, in various public settings, with legal allowances in most public places except for public transportation",
+        "similarity": 0.11903087612567367
+      }
+    ]
   },
   {
     "id": "DE35",
@@ -452,7 +1064,25 @@
       "(D) Germans do not pay taxes"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 4037,
+        "cultural_group": "German",
+        "topic": "Finance and Economy",
+        "context": "taxation",
+        "actor_behavior": "government imposes extensive taxes, while individuals use methods to save taxes",
+        "similarity": 0.29139427374926113
+      },
+      {
+        "cb_idx": 14444,
+        "cultural_group": "Germans",
+        "topic": "Finance and Economy",
+        "context": "Germany",
+        "actor_behavior": "impose and pay various taxes to fund social security and other services",
+        "similarity": 0.2733634793697748
+      }
+    ]
   },
   {
     "id": "DE36",
@@ -465,7 +1095,25 @@
       "(D) A government surveillance program"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3802,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "in public",
+        "actor_behavior": "take pictures, often considered rude due to privacy and data protection concerns",
+        "similarity": 0.44239419021432785
+      },
+      {
+        "cb_idx": 4169,
+        "cultural_group": "German and German American",
+        "topic": "Social Norms and Etiquette",
+        "context": "in public and in the United States",
+        "actor_behavior": "mind their own business, with a strong emphasis on personal privacy and boundaries",
+        "similarity": 0.23818448033495243
+      }
+    ]
   },
   {
     "id": "DE37",
@@ -478,7 +1126,25 @@
       "(D) Imported from France"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14421,
+        "cultural_group": "Germans",
+        "topic": "Food and Dining",
+        "context": "breakfast and morning",
+        "actor_behavior": "consume a variety of breakfast items including bread rolls, cheese, cold cuts, jam, Nutella, and cereals, often in an open-faced sandwich style",
+        "similarity": 0.28954327882795694
+      },
+      {
+        "cb_idx": 3738,
+        "cultural_group": "German",
+        "topic": "Cultural and Environmental Appreciation",
+        "context": "bread culture",
+        "actor_behavior": "take bread seriously, with a preference for rye bread and 300+ types of bread, including Spelt Bread and liquid bread",
+        "similarity": 0.20453923830011891
+      }
+    ]
   },
   {
     "id": "DE38",
@@ -491,7 +1157,25 @@
       "(D) Used clothing"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3812,
+        "cultural_group": "German",
+        "topic": "Food and Dining",
+        "context": "in Germany and related to German products",
+        "actor_behavior": "preference for and consumption of German chocolates and sweets, including Kinder products",
+        "similarity": 0.16670376874835438
+      },
+      {
+        "cb_idx": 3817,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "in Germany, especially in Berlin",
+        "actor_behavior": "associate red lights with both traffic and sex work, often crossing at red lights or using red light districts",
+        "similarity": 0.15383983275282906
+      }
+    ]
   },
   {
     "id": "DE39",
@@ -504,7 +1188,25 @@
       "(D) Overtime pay"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14188,
+        "cultural_group": "Germans",
+        "topic": "Work-Life Balance",
+        "context": "workplace and leisure time",
+        "actor_behavior": "value hard work, work-life balance, and productivity, often working efficiently and avoiding overtime",
+        "similarity": 0.2723357348779482
+      },
+      {
+        "cb_idx": 14491,
+        "cultural_group": "Germans",
+        "topic": "Safety and Security",
+        "context": "driving on the Autobahn",
+        "actor_behavior": "drive to the right, form emergency lanes, and leave space for emergency vehicles to pass",
+        "similarity": 0.1809034133730321
+      }
+    ]
   },
   {
     "id": "DE40",
@@ -517,7 +1219,25 @@
       "(D) They are religious services held outdoors"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14174,
+        "cultural_group": "Germans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "primarily in Germany, with some practices in the United States",
+        "actor_behavior": "engage in a range of Christmas traditions, including singing carols, baking cookies, and exchanging gifts",
+        "similarity": 0.23305557306727365
+      },
+      {
+        "cb_idx": 14396,
+        "cultural_group": "Germans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Christmas Eve and Christmas time",
+        "actor_behavior": "prepare and eat traditional German dishes, including potato salad, Wiener Schnitzel, and Bratwurst, with a focus on light eating on Christmas Eve",
+        "similarity": 0.22668509820056237
+      }
+    ]
   },
   {
     "id": "DE41",
@@ -530,7 +1250,25 @@
       "(D) Only military vehicles can use it"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3645,
+        "cultural_group": "German",
+        "topic": "Safety and Security",
+        "context": "driving on the Autobahn",
+        "actor_behavior": "drive fast, use the 'Standstreifen' to accelerate, and carry spare fuel",
+        "similarity": 0.36398074129398844
+      },
+      {
+        "cb_idx": 14190,
+        "cultural_group": "Germans",
+        "topic": "Transportation",
+        "context": "in Germany, particularly on highways and the Autobahn",
+        "actor_behavior": "drive at varying speeds, often at high speeds, and switch lanes to pass",
+        "similarity": 0.3337102056592478
+      }
+    ]
   },
   {
     "id": "DE42",
@@ -543,7 +1281,25 @@
       "(D) A Catholic confession ritual"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14396,
+        "cultural_group": "Germans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Christmas Eve and Christmas time",
+        "actor_behavior": "prepare and eat traditional German dishes, including potato salad, Wiener Schnitzel, and Bratwurst, with a focus on light eating on Christmas Eve",
+        "similarity": 0.3357795345618712
+      },
+      {
+        "cb_idx": 19018,
+        "cultural_group": "Swedish and German",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Christmas celebrations",
+        "actor_behavior": "deliver gifts and engage in gift-giving rituals",
+        "similarity": 0.23328513600295658
+      }
+    ]
   },
   {
     "id": "DE43",
@@ -556,7 +1312,25 @@
       "(D) Germans never go on vacation"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3936,
+        "cultural_group": "German",
+        "topic": "Travelling",
+        "context": "vacation time",
+        "actor_behavior": "employers provide vacation time ranging from 14 to 30 days, with employees often taking one month off in July or as needed, and feeling cheated if less than 28 working days are given",
+        "similarity": 0.28956308742507825
+      },
+      {
+        "cb_idx": 3972,
+        "cultural_group": "German",
+        "topic": "Work-Life Balance",
+        "context": "work and vacation habits",
+        "actor_behavior": "work long hours but also prioritize taking extended vacations and allowing children to vacation",
+        "similarity": 0.2543807823971958
+      }
+    ]
   },
   {
     "id": "DE44",
@@ -569,7 +1343,25 @@
       "(D) Bow without physical contact"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 4110,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "in various social interactions including stores, conversations, and travel",
+        "actor_behavior": "engage in eye contact, including direct eye contact and making eye contact with cashiers",
+        "similarity": 0.3385934708610844
+      },
+      {
+        "cb_idx": 14153,
+        "cultural_group": "Germans",
+        "topic": "Social Norms and Etiquette",
+        "context": "interpersonal interactions",
+        "actor_behavior": "tends to be reserved, direct, and avoid eye contact, with a preference for honesty over politeness",
+        "similarity": 0.2711244871404157
+      }
+    ]
   },
   {
     "id": "DE45",
@@ -582,7 +1374,25 @@
       "(D) A type of folk dance"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3883,
+        "cultural_group": "German",
+        "topic": "Entertainment and Leisure",
+        "context": "summer in Germany",
+        "actor_behavior": "dress for unpredictable weather, enjoy summer activities, and celebrate the end of summer",
+        "similarity": 0.24744337115346632
+      },
+      {
+        "cb_idx": 3894,
+        "cultural_group": "German",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Heilige 3 Könige holiday",
+        "actor_behavior": "engage in door-blessing rituals and participate in holiday activities",
+        "similarity": 0.2087239039385203
+      }
+    ]
   },
   {
     "id": "DE46",
@@ -595,7 +1405,25 @@
       "(D) Throw money on the table"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 4110,
+        "cultural_group": "German",
+        "topic": "Social Norms and Etiquette",
+        "context": "in various social interactions including stores, conversations, and travel",
+        "actor_behavior": "engage in eye contact, including direct eye contact and making eye contact with cashiers",
+        "similarity": 0.24040589914218424
+      },
+      {
+        "cb_idx": 14153,
+        "cultural_group": "Germans",
+        "topic": "Social Norms and Etiquette",
+        "context": "interpersonal interactions",
+        "actor_behavior": "tends to be reserved, direct, and avoid eye contact, with a preference for honesty over politeness",
+        "similarity": 0.18064381029252896
+      }
+    ]
   },
   {
     "id": "DE47",
@@ -608,7 +1436,25 @@
       "(D) This stereotype is false"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14424,
+        "cultural_group": "Germans",
+        "topic": "Time Management and Punctuality",
+        "context": "various settings including professional, social, and private parties",
+        "actor_behavior": "value punctuality highly, often arriving early and viewing lateness as a serious breach of etiquette",
+        "similarity": 0.32874895385183195
+      },
+      {
+        "cb_idx": 4182,
+        "cultural_group": "German",
+        "topic": "Time Management and Punctuality",
+        "context": "in Germany, particularly in the workplace",
+        "actor_behavior": "prioritize punctuality and efficiency, with varying levels of punctuality depending on the field",
+        "similarity": 0.29350168007999594
+      }
+    ]
   },
   {
     "id": "DE48",
@@ -621,7 +1467,25 @@
       "(D) A government child welfare office"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3883,
+        "cultural_group": "German",
+        "topic": "Entertainment and Leisure",
+        "context": "summer in Germany",
+        "actor_behavior": "dress for unpredictable weather, enjoy summer activities, and celebrate the end of summer",
+        "similarity": 0.18580721790662824
+      },
+      {
+        "cb_idx": 3622,
+        "cultural_group": "German",
+        "topic": "Drinking and Alcohol",
+        "context": "in Germany",
+        "actor_behavior": "consume alcohol, with legal drinking ages ranging from 14 to 21 depending on the type of alcohol",
+        "similarity": 0.14955275212006297
+      }
+    ]
   },
   {
     "id": "DE49",
@@ -634,7 +1498,25 @@
       "(D) Clubs are banned and operate illegally"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3994,
+        "cultural_group": "German",
+        "topic": "Miscellaneous",
+        "context": "educational and sports settings",
+        "actor_behavior": "actively engage in extracurricular activities, including academic competitions, sports, and arts clubs",
+        "similarity": 0.24697777505303392
+      },
+      {
+        "cb_idx": 14302,
+        "cultural_group": "Germans",
+        "topic": "Community and Identity",
+        "context": "in Germany, especially in Bavaria and Baden-Württemberg",
+        "actor_behavior": "actively participate in and join clubs for various interests, including sports, arts, and socializing",
+        "similarity": 0.22847839993190544
+      }
+    ]
   },
   {
     "id": "DE50",
@@ -647,6 +1529,24 @@
       "(D) 'The beer is too cold'"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 14152,
+        "cultural_group": "Germans",
+        "topic": "Drinking and Alcohol",
+        "context": "in Germany",
+        "actor_behavior": "consume beer, often at a young age, with a preference for high-quality beer and a legal drinking age of 16 for beer and wine",
+        "similarity": 0.3710141298181318
+      },
+      {
+        "cb_idx": 3604,
+        "cultural_group": "German",
+        "topic": "Drinking and Alcohol",
+        "context": "in Germany",
+        "actor_behavior": "enjoy a variety of alcoholic beverages, particularly beer, with unique drink mixes and a preference for large beer steins",
+        "similarity": 0.3608899896992809
+      }
+    ]
   }
 ]

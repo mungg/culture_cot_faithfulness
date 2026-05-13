@@ -10,7 +10,25 @@
       "(D) Start cooking your own food in their kitchen"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 12078,
+        "cultural_group": "Americans",
+        "topic": "Household and Daily Life",
+        "context": "when visiting or hosting guests in their homes",
+        "actor_behavior": "give a detailed tour of their house, including bedrooms, bathrooms, and other significant rooms, to showcase their home and make guests feel comfortable",
+        "similarity": 0.2559293615143428
+      },
+      {
+        "cb_idx": 13444,
+        "cultural_group": "Americans",
+        "topic": "Household and Daily Life",
+        "context": "furniture acquisition and usage",
+        "actor_behavior": "ranging from assembling flat-pack furniture to custom-building and repairing",
+        "similarity": 0.22632820027558825
+      }
+    ]
   },
   {
     "id": "US02",
@@ -23,7 +41,25 @@
       "(D) Stop and have a 10-minute conversation"
     ],
     "correct": "C",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3349,
+        "cultural_group": "American",
+        "topic": "Communication and Language",
+        "context": "in social interactions and conversations",
+        "actor_behavior": "use positive phrases like 'good guys', 'good', 'living', 'He's Good People', and 'solid good man' to express approval or admiration",
+        "similarity": 0.17433505875010846
+      },
+      {
+        "cb_idx": 2198,
+        "cultural_group": "American",
+        "topic": "Communication and Language",
+        "context": "in the United States, including classrooms and conversations",
+        "actor_behavior": "use of slurs, with a growing effort to stop swearing",
+        "similarity": 0.17341186112594797
+      }
+    ]
   },
   {
     "id": "US03",
@@ -36,7 +72,25 @@
       "(D) 50% of the bill"
     ],
     "correct": "C",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 17030,
+        "cultural_group": "American",
+        "topic": "Social Norms and Etiquette",
+        "context": "restaurant and service industry",
+        "actor_behavior": "provide service and engage in tipping culture, often relying on tips for income",
+        "similarity": 0.37853104309535723
+      },
+      {
+        "cb_idx": 12493,
+        "cultural_group": "Americans",
+        "topic": "Social Norms and Etiquette",
+        "context": "hair salons and barber shops",
+        "actor_behavior": "tip between 15% to 20% as a gesture of appreciation for haircut services",
+        "similarity": 0.3733177354252638
+      }
+    ]
   },
   {
     "id": "US04",
@@ -49,7 +103,25 @@
       "(D) Only bring dessert"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3445,
+        "cultural_group": "American",
+        "topic": "Social Norms and Etiquette",
+        "context": "social gatherings and potlucks",
+        "actor_behavior": "bring snacks and dishes, including Lays potato chips and popcorn, often with a cultural twist",
+        "similarity": 0.40040571728911517
+      },
+      {
+        "cb_idx": 12925,
+        "cultural_group": "Americans",
+        "topic": "Cultural Exchange",
+        "context": "diversity food parties",
+        "actor_behavior": "bring food representing their cultural backgrounds, sometimes misunderstood as promoting racial issues",
+        "similarity": 0.33740358346883204
+      }
+    ]
   },
   {
     "id": "US05",
@@ -62,7 +134,25 @@
       "(D) That you want to end the conversation"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 696,
+        "cultural_group": "American",
+        "topic": "Lifestyles",
+        "context": "in various settings including public, social interactions, and relationships",
+        "actor_behavior": "display and express self-confidence, often with a sense of independence and less concern for strangers' opinions",
+        "similarity": 0.2324301665061246
+      },
+      {
+        "cb_idx": 3130,
+        "cultural_group": "American",
+        "topic": "Workplace",
+        "context": "auditions in the entertainment industry",
+        "actor_behavior": "engage in auditions, aiming for authenticity and confidence",
+        "similarity": 0.22029805810698366
+      }
+    ]
   },
   {
     "id": "US06",
@@ -75,7 +165,25 @@
       "(D) Sports and entertainment"
     ],
     "correct": "C",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 13983,
+        "cultural_group": "Americans",
+        "topic": "Workplace",
+        "context": "discussion about salary and compensation",
+        "actor_behavior": "discuss and consider salary in various formats, including hourly, annual, and pretax terms",
+        "similarity": 0.26937633100993386
+      },
+      {
+        "cb_idx": 1754,
+        "cultural_group": "American",
+        "topic": "Social Interactions",
+        "context": "in public",
+        "actor_behavior": "engage in random chit-chats and small talk",
+        "similarity": 0.22618619782210087
+      }
+    ]
   },
   {
     "id": "US07",
@@ -88,7 +196,25 @@
       "(D) They want you to repeat what you just said"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3342,
+        "cultural_group": "American",
+        "topic": "Workplace",
+        "context": "in professional settings",
+        "actor_behavior": "engage in feedback, including constructive criticism and expressing appreciation",
+        "similarity": 0.23366805318954434
+      },
+      {
+        "cb_idx": 13829,
+        "cultural_group": "Americans",
+        "topic": "Communication and Language",
+        "context": "workplace",
+        "actor_behavior": "engage in personal conversations and express concerns about job fit",
+        "similarity": 0.2145669339409441
+      }
+    ]
   },
   {
     "id": "US08",
@@ -101,7 +227,25 @@
       "(D) Your own plates and utensils"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 125,
+        "cultural_group": "American",
+        "topic": "Social Norms and Etiquette",
+        "context": "various dining and kitchen settings",
+        "actor_behavior": "use a mix of disposable and reusable plates, with a preference for reusable dishes and glass plates, but also using paper plates for convenience or specific occasions like parties and barbecues",
+        "similarity": 0.25813528180742906
+      },
+      {
+        "cb_idx": 3161,
+        "cultural_group": "American",
+        "topic": "Environmental Adaptation and Sustainability",
+        "context": "in the United States, particularly in Portland, Oregon",
+        "actor_behavior": "engage in bottle collection, including returning empty bottles and cans for cash or recycling rewards",
+        "similarity": 0.25493250008108986
+      }
+    ]
   },
   {
     "id": "US09",
@@ -114,7 +258,25 @@
       "(D) Personal space is not a concept in American culture"
     ],
     "correct": "A",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 2905,
+        "cultural_group": "American",
+        "topic": "Consumer Behavior",
+        "context": "in the United States and when measuring distance",
+        "actor_behavior": "prefer using feet and yards over meters, despite some attempts to adopt meters",
+        "similarity": 0.43366983907347506
+      },
+      {
+        "cb_idx": 2417,
+        "cultural_group": "American",
+        "topic": "Social Norms and Etiquette",
+        "context": "both in public and personal spaces",
+        "actor_behavior": "invade personal space, including standing close and getting in someone's personal space",
+        "similarity": 0.3964574226065315
+      }
+    ]
   },
   {
     "id": "US10",
@@ -127,7 +289,25 @@
       "(D) They are being sarcastic and don't want to see you"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 12338,
+        "cultural_group": "Americans",
+        "topic": "Social Norms and Etiquette",
+        "context": "social gatherings and interactions",
+        "actor_behavior": "spontaneous, flexible, and often punctual in social engagements, with a tendency to share personal stories and make tentative plans",
+        "similarity": 0.18325937682257762
+      },
+      {
+        "cb_idx": 12547,
+        "cultural_group": "Americans",
+        "topic": "Cultural Exchange",
+        "context": "social gatherings and socializing",
+        "actor_behavior": "engage in various social activities including making plans, consuming alcohol, and teasing each other",
+        "similarity": 0.17459653965638122
+      }
+    ]
   },
   {
     "id": "US11",
@@ -140,7 +320,25 @@
       "(D) It is rude to discuss money; someone should quietly pay"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 855,
+        "cultural_group": "American",
+        "topic": "Consumer Behavior",
+        "context": "in restaurants and dining settings",
+        "actor_behavior": "engage in various bill-splitting practices, including splitting evenly, paying for others, and using apps",
+        "similarity": 0.3834564436254557
+      },
+      {
+        "cb_idx": 11885,
+        "cultural_group": "Americans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "wedding and rehearsal dinner",
+        "actor_behavior": "participate in rehearsal dinner and rehearsal, pay for dinner, and exchange vows",
+        "similarity": 0.3166256984566287
+      }
+    ]
   },
   {
     "id": "US12",
@@ -153,7 +351,25 @@
       "(D) They want you to pay for an umbrella"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3219,
+        "cultural_group": "American",
+        "topic": "Miscellaneous",
+        "context": "in various international locations and US states with similar weather",
+        "actor_behavior": "make comparisons and note similarities in weather patterns",
+        "similarity": 0.2597868123215183
+      },
+      {
+        "cb_idx": 42,
+        "cultural_group": "American",
+        "topic": "Social Norms and Etiquette",
+        "context": "in restaurants",
+        "actor_behavior": "engage in various payment practices, including paying with credit cards, waiting for the bill, and sometimes paying separately, often without asking for the check",
+        "similarity": 0.24933043046199574
+      }
+    ]
   },
   {
     "id": "US13",
@@ -166,7 +382,25 @@
       "(D) Weekend emails should be replied to with only emojis"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 2694,
+        "cultural_group": "American",
+        "topic": "Work-Life Balance",
+        "context": "work and shopping hours in the United States",
+        "actor_behavior": "work long hours, with stores open late and on weekends to accommodate customer needs",
+        "similarity": 0.37893872240734977
+      },
+      {
+        "cb_idx": 2765,
+        "cultural_group": "American",
+        "topic": "Workplace",
+        "context": "work habits in the United States",
+        "actor_behavior": "engage in full-time, seven-day work weeks, often including holidays and weekends",
+        "similarity": 0.3654827852089725
+      }
+    ]
   },
   {
     "id": "US14",
@@ -179,7 +413,25 @@
       "(D) It is considered rude and should not be asked"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 13123,
+        "cultural_group": "Americans",
+        "topic": "Social Interactions",
+        "context": "in Utah, USA",
+        "actor_behavior": "actively introduce themselves, engage in conversations, and build relationships",
+        "similarity": 0.25189679533539766
+      },
+      {
+        "cb_idx": 3340,
+        "cultural_group": "American",
+        "topic": "Communication and Language",
+        "context": "in casual conversation",
+        "actor_behavior": "uses colloquialisms, including 'people I know' and 'you know what'",
+        "similarity": 0.23015342426105528
+      }
+    ]
   },
   {
     "id": "US15",
@@ -192,7 +444,25 @@
       "(D) Only respond if you are NOT coming"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 13163,
+        "cultural_group": "Americans",
+        "topic": "Miscellaneous",
+        "context": "US political system",
+        "actor_behavior": "engage in political participation, including voting, running for office, and expressing dislike towards the two-party system",
+        "similarity": 0.39118347131001535
+      },
+      {
+        "cb_idx": 301,
+        "cultural_group": "American",
+        "topic": "Social Norms and Etiquette",
+        "context": "in college and university settings",
+        "actor_behavior": "engage in party culture, including drinking alcohol and socializing",
+        "similarity": 0.2679200623563406
+      }
+    ]
   },
   {
     "id": "US16",
@@ -205,7 +475,25 @@
       "(D) The start of the school year"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 368,
+        "cultural_group": "American",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "national holidays and celebrations, particularly the 4th of July",
+        "actor_behavior": "engage in various activities including parades, fireworks, and flag displays to celebrate Independence Day",
+        "similarity": 0.5088007371409178
+      },
+      {
+        "cb_idx": 7927,
+        "cultural_group": "Americans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "celebrations including New Year's Eve and Independence Day",
+        "actor_behavior": "engage in firework displays",
+        "similarity": 0.3895499002381201
+      }
+    ]
   },
   {
     "id": "US17",
@@ -218,7 +506,25 @@
       "(D) Pasta"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 907,
+        "cultural_group": "American",
+        "topic": "Food and Dining",
+        "context": "Thanksgiving and Halloween seasons",
+        "actor_behavior": "engage in various pumpkin-related activities, including making pumpkin puree, eating pumpkin from cans, feeding pumpkins to deer, and saving seeds for planting",
+        "similarity": 0.37851923374222063
+      },
+      {
+        "cb_idx": 12682,
+        "cultural_group": "Americans",
+        "topic": "Food and Dining",
+        "context": "in sushi restaurants and local chains",
+        "actor_behavior": "frequently request sushi and express impatience",
+        "similarity": 0.32695070677865845
+      }
+    ]
   },
   {
     "id": "US18",
@@ -231,7 +537,25 @@
       "(D) Visit cemeteries to clean graves"
     ],
     "correct": "A",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 432,
+        "cultural_group": "American",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Halloween",
+        "actor_behavior": "engage in trick-or-treating, give and receive candy, and ensure safety of candy",
+        "similarity": 0.3359462411000803
+      },
+      {
+        "cb_idx": 135,
+        "cultural_group": "American",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Halloween celebrations",
+        "actor_behavior": "engage in various activities such as dressing up, carving pumpkins, giving out candy, and trick-or-treating",
+        "similarity": 0.29070134022205035
+      }
+    ]
   },
   {
     "id": "US19",
@@ -244,7 +568,25 @@
       "(D) A solemn religious holiday"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 13082,
+        "cultural_group": "Americans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Black Friday shopping event",
+        "actor_behavior": "participate in massive shopping events, often starting on Thanksgiving, with a focus on purchasing discounted items, sometimes even spending hundreds to thousands of dollars",
+        "similarity": 0.37985177061517744
+      },
+      {
+        "cb_idx": 12487,
+        "cultural_group": "Americans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "workplace",
+        "actor_behavior": "engage in paid time off and holiday celebrations, including Juneteenth, New Years Day, MLK, Presidents Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, Christmas, and Halloween",
+        "similarity": 0.3095187999190843
+      }
+    ]
   },
   {
     "id": "US20",
@@ -257,7 +599,25 @@
       "(D) A children's holiday"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 372,
+        "cultural_group": "American",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "Memorial Day",
+        "actor_behavior": "celebrate Memorial Day with a mix of solemnity and joy, including barbecues, parades, and reflection on military sacrifices",
+        "similarity": 0.4899771109805813
+      },
+      {
+        "cb_idx": 12487,
+        "cultural_group": "Americans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "workplace",
+        "actor_behavior": "engage in paid time off and holiday celebrations, including Juneteenth, New Years Day, MLK, Presidents Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, Christmas, and Halloween",
+        "similarity": 0.4453495518181382
+      }
+    ]
   },
   {
     "id": "US21",
@@ -270,7 +630,25 @@
       "(D) The day all workers must work"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 12487,
+        "cultural_group": "Americans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "workplace",
+        "actor_behavior": "engage in paid time off and holiday celebrations, including Juneteenth, New Years Day, MLK, Presidents Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, Christmas, and Halloween",
+        "similarity": 0.2700644776683014
+      },
+      {
+        "cb_idx": 13610,
+        "cultural_group": "Americans",
+        "topic": "Time Management and Punctuality",
+        "context": "in the United States",
+        "actor_behavior": "traditionally start calendar weeks from Sunday, influenced by the Christian calendar and cultural norms",
+        "similarity": 0.26960674462049194
+      }
+    ]
   },
   {
     "id": "US22",
@@ -283,7 +661,25 @@
       "(D) It is rarely covered in media"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 2575,
+        "cultural_group": "American",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "in the United States, particularly during the Super Bowl",
+        "actor_behavior": "actively celebrate and engage in various activities, including watching the game, attending parties, and participating in cultural exchanges",
+        "similarity": 0.43506005782569057
+      },
+      {
+        "cb_idx": 12624,
+        "cultural_group": "Americans",
+        "topic": "Entertainment and Leisure",
+        "context": "Super Bowl parties and events",
+        "actor_behavior": "hosting, attending, and contributing to parties with food and drinks",
+        "similarity": 0.3101606180495054
+      }
+    ]
   },
   {
     "id": "US23",
@@ -296,7 +692,25 @@
       "(D) Election day"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 13037,
+        "cultural_group": "Americans",
+        "topic": "Community and Identity",
+        "context": "voting process and Federal Holidays",
+        "actor_behavior": "propose and establish Election Day as a federal holiday to facilitate voting and increase civic participation",
+        "similarity": 0.48505022398786213
+      },
+      {
+        "cb_idx": 12487,
+        "cultural_group": "Americans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "workplace",
+        "actor_behavior": "engage in paid time off and holiday celebrations, including Juneteenth, New Years Day, MLK, Presidents Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, Christmas, and Halloween",
+        "similarity": 0.3506881034067149
+      }
+    ]
   },
   {
     "id": "US24",
@@ -309,7 +723,25 @@
       "(D) Age 25"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 7,
+        "cultural_group": "American",
+        "topic": "Drinking and Alcohol",
+        "context": "in the United States",
+        "actor_behavior": "engage in alcohol consumption, with a legal drinking age of 21",
+        "similarity": 0.4869271027265691
+      },
+      {
+        "cb_idx": 3474,
+        "cultural_group": "American",
+        "topic": "Social Norms and Etiquette",
+        "context": "in the United States",
+        "actor_behavior": "perceive and express age in various ways, often noting differences between perceived and actual age",
+        "similarity": 0.4678637421948943
+      }
+    ]
   },
   {
     "id": "US25",
@@ -322,7 +754,25 @@
       "(D) 25"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 7,
+        "cultural_group": "American",
+        "topic": "Drinking and Alcohol",
+        "context": "in the United States",
+        "actor_behavior": "engage in alcohol consumption, with a legal drinking age of 21",
+        "similarity": 0.42498083536455933
+      },
+      {
+        "cb_idx": 3114,
+        "cultural_group": "American",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "in the United States, particularly for young adults",
+        "actor_behavior": "celebrate significant birthdays, such as turning 18 and 21, with legal drinking and coming of age rituals",
+        "similarity": 0.3853821400379231
+      }
+    ]
   },
   {
     "id": "US26",
@@ -335,7 +785,25 @@
       "(D) Tip 50% standard"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 17030,
+        "cultural_group": "American",
+        "topic": "Social Norms and Etiquette",
+        "context": "restaurant and service industry",
+        "actor_behavior": "provide service and engage in tipping culture, often relying on tips for income",
+        "similarity": 0.4360205321353117
+      },
+      {
+        "cb_idx": 12493,
+        "cultural_group": "Americans",
+        "topic": "Social Norms and Etiquette",
+        "context": "hair salons and barber shops",
+        "actor_behavior": "tip between 15% to 20% as a gesture of appreciation for haircut services",
+        "similarity": 0.4039076164573797
+      }
+    ]
   },
   {
     "id": "US27",
@@ -348,7 +816,25 @@
       "(D) A summer job"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 1615,
+        "cultural_group": "American",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "in school and dance settings",
+        "actor_behavior": "perform the Nutbush dance, often as a tradition in school assemblies and dances",
+        "similarity": 0.3685819237657854
+      },
+      {
+        "cb_idx": 3339,
+        "cultural_group": "American",
+        "topic": "Relationships and Marriage",
+        "context": "high school and prom season",
+        "actor_behavior": "participate in and organize proms, often with excitement and obsession",
+        "similarity": 0.3354820405379193
+      }
+    ]
   },
   {
     "id": "US28",
@@ -361,7 +847,25 @@
       "(D) Banned in the US"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 2297,
+        "cultural_group": "American",
+        "topic": "Sports and Recreation",
+        "context": "in high school and college football settings",
+        "actor_behavior": "engage in football activities, including playing and passing a football",
+        "similarity": 0.2855089898608466
+      },
+      {
+        "cb_idx": 11888,
+        "cultural_group": "Americans",
+        "topic": "Sports and Recreation",
+        "context": "in the United States",
+        "actor_behavior": "engage in American Football as a popular sport, including playing, watching, and learning about it",
+        "similarity": 0.27733576847792546
+      }
+    ]
   },
   {
     "id": "US29",
@@ -374,7 +878,25 @@
       "(D) A song"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 2192,
+        "cultural_group": "American",
+        "topic": "Community and Identity",
+        "context": "in the United States",
+        "actor_behavior": "engage in the Pledge of Allegiance, a daily recitation of loyalty to the country, with varying degrees of knowledge and participation",
+        "similarity": 0.4807826329899765
+      },
+      {
+        "cb_idx": 81,
+        "cultural_group": "American",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "in schools and public spaces",
+        "actor_behavior": "engage in the Pledge of Allegiance, often daily, as a symbolic act of patriotism",
+        "similarity": 0.38517777849954626
+      }
+    ]
   },
   {
     "id": "US30",
@@ -387,7 +909,25 @@
       "(D) A medical phrase"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 13753,
+        "cultural_group": "Americans",
+        "topic": "Health and Hygiene",
+        "context": "medical emergencies in American life",
+        "actor_behavior": "provide timely and effective medical care, often under challenging conditions",
+        "similarity": 0.20882259648421564
+      },
+      {
+        "cb_idx": 2441,
+        "cultural_group": "American",
+        "topic": "Communication and Language",
+        "context": "various social and professional settings",
+        "actor_behavior": "use the phrase 'lol' as a colloquial expression of amusement, satisfaction, or acknowledgement",
+        "similarity": 0.20574517434720924
+      }
+    ]
   },
   {
     "id": "US31",
@@ -400,7 +940,25 @@
       "(D) BBQ is illegal in the US"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 13318,
+        "cultural_group": "Americans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "various regions in the United States",
+        "actor_behavior": "produce, sell, and consume regional BBQ styles",
+        "similarity": 0.6297372955144317
+      },
+      {
+        "cb_idx": 13566,
+        "cultural_group": "Americans",
+        "topic": "Food and Dining",
+        "context": "in various regions including North Carolina, Texas, and South Carolina",
+        "actor_behavior": "express and enjoy regional preferences for BBQ sauces, including vinegar-based and tomato-based sauces",
+        "similarity": 0.5403307142727429
+      }
+    ]
   },
   {
     "id": "US32",
@@ -413,7 +971,25 @@
       "(D) Coffee is banned in the US"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 13003,
+        "cultural_group": "Americans",
+        "topic": "Food and Dining",
+        "context": "daily life and social interactions",
+        "actor_behavior": "frequent consumption and sharing of coffee, often associated with Starbucks and socializing",
+        "similarity": 0.5072597196532084
+      },
+      {
+        "cb_idx": 11868,
+        "cultural_group": "Americans",
+        "topic": "Food and Dining",
+        "context": "in the United States and abroad",
+        "actor_behavior": "preferring large, flavorful, and customizable coffee drinks, often with syrups and creams, and using electric kettles for hot water",
+        "similarity": 0.48464438962739553
+      }
+    ]
   },
   {
     "id": "US33",
@@ -426,7 +1002,25 @@
       "(D) Apologize for taking their time"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 12487,
+        "cultural_group": "Americans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "workplace",
+        "actor_behavior": "engage in paid time off and holiday celebrations, including Juneteenth, New Years Day, MLK, Presidents Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, Christmas, and Halloween",
+        "similarity": 0.27944812912480044
+      },
+      {
+        "cb_idx": 13553,
+        "cultural_group": "Americans",
+        "topic": "Cultural Traditions and Festivals",
+        "context": "in the United States",
+        "actor_behavior": "do not celebrate Boxing Day due to unfamiliarity and lack of cultural significance",
+        "similarity": 0.20819196856878575
+      }
+    ]
   },
   {
     "id": "US34",
@@ -439,7 +1033,25 @@
       "(D) Not a real phenomenon"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 473,
+        "cultural_group": "American",
+        "topic": "Food and Dining",
+        "context": "in the United States, particularly in October",
+        "actor_behavior": "enjoy and consume pumpkin spice in various forms, including lattes, iced lattes, and frappes, as a seasonal tradition",
+        "similarity": 0.5421094495485362
+      },
+      {
+        "cb_idx": 12534,
+        "cultural_group": "Americans",
+        "topic": "Food and Dining",
+        "context": "holiday seasons and autumn",
+        "actor_behavior": "enjoying and preserving pumpkin-flavored food, including pumpkin spice and pie",
+        "similarity": 0.430691614337841
+      }
+    ]
   },
   {
     "id": "US35",
@@ -452,7 +1064,25 @@
       "(D) A type of running event"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 12792,
+        "cultural_group": "Americans",
+        "topic": "Family Traditions and Heritage",
+        "context": "school system and related activities",
+        "actor_behavior": "take extended breaks including a long summer vacation, a week-long break in the fall and spring, and a week off in the spring for spring break",
+        "similarity": 0.3616620089957247
+      },
+      {
+        "cb_idx": 1853,
+        "cultural_group": "American",
+        "topic": "Lifestyles",
+        "context": "summer vacation time",
+        "actor_behavior": "plan and take vacations, often repeating to the same location, with a focus on spreading out vacation days throughout the year",
+        "similarity": 0.23859539824100764
+      }
+    ]
   },
   {
     "id": "US36",
@@ -465,7 +1095,25 @@
       "(D) Year-round school is universal"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 1397,
+        "cultural_group": "American",
+        "topic": "Entertainment and Leisure",
+        "context": "in the United States, particularly in schools",
+        "actor_behavior": "have a long summer break, typically around 10-11 weeks, with shorter breaks for other holidays",
+        "similarity": 0.5309660940482644
+      },
+      {
+        "cb_idx": 12792,
+        "cultural_group": "Americans",
+        "topic": "Family Traditions and Heritage",
+        "context": "school system and related activities",
+        "actor_behavior": "take extended breaks including a long summer vacation, a week-long break in the fall and spring, and a week off in the spring for spring break",
+        "similarity": 0.43653727442885476
+      }
+    ]
   },
   {
     "id": "US37",
@@ -478,7 +1126,25 @@
       "(D) Banned vehicles"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 12726,
+        "cultural_group": "Americans",
+        "topic": "Transportation",
+        "context": "public school system",
+        "actor_behavior": "provide, use, and adapt transportation methods including buses, personal drop-offs, and staggered schedules",
+        "similarity": 0.5782741456814341
+      },
+      {
+        "cb_idx": 13713,
+        "cultural_group": "Americans",
+        "topic": "Transportation",
+        "context": "in American schools and communities",
+        "actor_behavior": "provide and facilitate free or affordable transportation, primarily through school buses",
+        "similarity": 0.5416437867421275
+      }
+    ]
   },
   {
     "id": "US38",
@@ -491,7 +1157,25 @@
       "(D) A goodbye"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 1067,
+        "cultural_group": "American",
+        "topic": "Miscellaneous",
+        "context": "in the United States and other countries",
+        "actor_behavior": "use the term 'Karen' to describe a specific type of person, often perceived as entitled, overly sensitive, or aggressive",
+        "similarity": 0.28030338544994227
+      },
+      {
+        "cb_idx": 20289,
+        "cultural_group": "Filipino Americans",
+        "topic": "Communication and Language",
+        "context": "various, including the Philippines, global context, and daily conversations",
+        "actor_behavior": "prioritize learning and speaking Filipino, with English used as a second language",
+        "similarity": 0.24383861467217285
+      }
+    ]
   },
   {
     "id": "US39",
@@ -504,7 +1188,25 @@
       "(D) A sign of anger"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 1185,
+        "cultural_group": "American",
+        "topic": "Social Norms and Etiquette",
+        "context": "various social interactions, particularly at night",
+        "actor_behavior": "use 'goodnight' as a casual greeting, farewell, or expression of goodwill",
+        "similarity": 0.3608671783615512
+      },
+      {
+        "cb_idx": 11809,
+        "cultural_group": "Americans",
+        "topic": "Social Norms and Etiquette",
+        "context": "daily interactions, greetings, and social exchanges",
+        "actor_behavior": "frequently use 'how are you' as a greeting or conversation starter",
+        "similarity": 0.35998573803428485
+      }
+    ]
   },
   {
     "id": "US40",
@@ -517,7 +1219,25 @@
       "(D) International travel only (not domestic)"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 1960,
+        "cultural_group": "American",
+        "topic": "Social Norms and Etiquette",
+        "context": "voting",
+        "actor_behavior": "engage in various voting practices, including early voting, voting on weekends, and taking a day off to vote",
+        "similarity": 0.3616087761777124
+      },
+      {
+        "cb_idx": 1332,
+        "cultural_group": "American",
+        "topic": "Community and Identity",
+        "context": "in the United States, particularly during elections",
+        "actor_behavior": "participate in voluntary voting, often expressing strong opinions and sometimes voting despite not residing in the US",
+        "similarity": 0.3451442784614602
+      }
+    ]
   },
   {
     "id": "US41",
@@ -530,7 +1250,25 @@
       "(D) Unimportant"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3077,
+        "cultural_group": "American",
+        "topic": "Safety and Security",
+        "context": "in the United States",
+        "actor_behavior": "prioritize personal information security, particularly protecting social security numbers due to concerns about identity theft",
+        "similarity": 0.2821863522422566
+      },
+      {
+        "cb_idx": 1513,
+        "cultural_group": "American",
+        "topic": "Safety and Security",
+        "context": "various financial transactions",
+        "actor_behavior": "exhibit caution and reluctance in handing over credit cards due to concerns about identity theft and theft of card information",
+        "similarity": 0.2543179174369826
+      }
+    ]
   },
   {
     "id": "US42",
@@ -543,7 +1281,25 @@
       "(D) Only police can own guns"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 13810,
+        "cultural_group": "Americans",
+        "topic": "Cultural Exchange",
+        "context": "within the United States, including state-to-state transitions",
+        "actor_behavior": "adapt to and apply varying laws and policies based on location",
+        "similarity": 0.43935787954950173
+      },
+      {
+        "cb_idx": 3582,
+        "cultural_group": "American",
+        "topic": "Community and Identity",
+        "context": "in the United States",
+        "actor_behavior": "engage in squatting and enforce squatting laws",
+        "similarity": 0.3902636897959537
+      }
+    ]
   },
   {
     "id": "US43",
@@ -556,7 +1312,25 @@
       "(D) Government commissaries"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 1298,
+        "cultural_group": "American",
+        "topic": "Entertainment and Leisure",
+        "context": "in clubs and country clubs",
+        "actor_behavior": "visit, close, and reopen clubs, often late into the night",
+        "similarity": 0.38606759796342066
+      },
+      {
+        "cb_idx": 337,
+        "cultural_group": "American",
+        "topic": "Consumer Behavior",
+        "context": "shopping, particularly at wholesale clubs like Costco",
+        "actor_behavior": "engage in bulk shopping for household items and groceries, often following unwritten rules and expressing preferences for specific products",
+        "similarity": 0.3012023051738149
+      }
+    ]
   },
   {
     "id": "US44",
@@ -569,7 +1343,25 @@
       "(D) Government buildings only"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 503,
+        "cultural_group": "American",
+        "topic": "Food and Dining",
+        "context": "in the United States, particularly at Sonic Drive-In",
+        "actor_behavior": "frequent Sonic Drive-In for its unique fast food experience, including ordering through intercoms and enjoying shakes and fruit slushees",
+        "similarity": 0.37026075035005257
+      },
+      {
+        "cb_idx": 13447,
+        "cultural_group": "Americans",
+        "topic": "Miscellaneous",
+        "context": "primarily in the United States",
+        "actor_behavior": "engage in car culture, including driving, eating, and using drive-thru services",
+        "similarity": 0.2735302595970787
+      }
+    ]
   },
   {
     "id": "US45",
@@ -582,7 +1374,25 @@
       "(D) Pay double the menu price"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 1469,
+        "cultural_group": "American",
+        "topic": "Miscellaneous",
+        "context": "in the United States",
+        "actor_behavior": "engage in various delivery practices, including scheduled pickups and deliveries, next-day delivery, and doorstep delivery",
+        "similarity": 0.37257626115707
+      },
+      {
+        "cb_idx": 12493,
+        "cultural_group": "Americans",
+        "topic": "Social Norms and Etiquette",
+        "context": "hair salons and barber shops",
+        "actor_behavior": "tip between 15% to 20% as a gesture of appreciation for haircut services",
+        "similarity": 0.33984835237132693
+      }
+    ]
   },
   {
     "id": "US46",
@@ -595,7 +1405,25 @@
       "(D) Only practiced in California"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 1477,
+        "cultural_group": "American",
+        "topic": "Miscellaneous",
+        "context": "family dynamics and education",
+        "actor_behavior": "young adults often move away for college, with parents providing financial support and sometimes missing their children; after college, some return to live with parents",
+        "similarity": 0.24232309996524745
+      },
+      {
+        "cb_idx": 823,
+        "cultural_group": "American",
+        "topic": "Family Traditions and Heritage",
+        "context": "baby showers",
+        "actor_behavior": "organize, celebrate, and appreciate baby showers as a cultural tradition, often involving gifts and games",
+        "similarity": 0.2359139110584012
+      }
+    ]
   },
   {
     "id": "US47",
@@ -608,7 +1436,25 @@
       "(D) Only the parents eat the cake"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 13445,
+        "cultural_group": "Americans",
+        "topic": "Family Traditions and Heritage",
+        "context": "birthday celebrations, particularly for children",
+        "actor_behavior": "engage in birthday traditions, including cake-related activities such as making, buying, serving, and consuming birthday cakes",
+        "similarity": 0.5724333807326665
+      },
+      {
+        "cb_idx": 2483,
+        "cultural_group": "American",
+        "topic": "Family Traditions and Heritage",
+        "context": "workplace and birthday celebrations",
+        "actor_behavior": "bring cake to work on birthdays, sometimes belatedly, as a celebratory gesture",
+        "similarity": 0.44844486745442547
+      }
+    ]
   },
   {
     "id": "US48",
@@ -621,7 +1467,25 @@
       "(D) A landscaping service"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3572,
+        "cultural_group": "American",
+        "topic": "Food and Dining",
+        "context": "in the United States",
+        "actor_behavior": "engage in the consumption, sale, and discussion of Kinder Joy, a popular European candy",
+        "similarity": 0.3698659084993847
+      },
+      {
+        "cb_idx": 1770,
+        "cultural_group": "American",
+        "topic": "Environmental Adaptation and Sustainability",
+        "context": "in the United States, with varying regulations by state",
+        "actor_behavior": "engage in rainwater collection for personal use, with legal restrictions on usage and sale",
+        "similarity": 0.34025258742276543
+      }
+    ]
   },
   {
     "id": "US49",
@@ -634,7 +1498,25 @@
       "(D) An apology"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 3120,
+        "cultural_group": "American",
+        "topic": "Community and Identity",
+        "context": null,
+        "actor_behavior": "express a mix of pride, acknowledgement, and occasional apology regarding their American identity",
+        "similarity": 0.27073678645749727
+      },
+      {
+        "cb_idx": 13136,
+        "cultural_group": "Americans",
+        "topic": "Miscellaneous",
+        "context": "in the United States, particularly during disease outbreaks",
+        "actor_behavior": "resist vaccination mandates, dismiss medical science, and prioritize personal autonomy over public health measures",
+        "similarity": 0.23594014083032144
+      }
+    ]
   },
   {
     "id": "US50",
@@ -647,6 +1529,24 @@
       "(D) A type of insurance"
     ],
     "correct": "B",
-    "wrong_hint": null
+    "wrong_hint": null,
+    "culturebank_reference": [
+      {
+        "cb_idx": 1202,
+        "cultural_group": "American",
+        "topic": "Work-Life Balance",
+        "context": "workplace and employment in the United States",
+        "actor_behavior": "employers provide and manage Paid Time Off (PTO) for employees, including sick days, vacation time, and Summer Fridays, while employees use PTO for various purposes",
+        "similarity": 0.5296398682727845
+      },
+      {
+        "cb_idx": 13054,
+        "cultural_group": "Americans",
+        "topic": "Work-Life Balance",
+        "context": "workplace",
+        "actor_behavior": "engage in various practices related to paid time off (PTO) and work-life balance, including taking time off for personal tasks, offering PTO, and managing time off",
+        "similarity": 0.36884261144810077
+      }
+    ]
   }
 ]
