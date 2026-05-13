@@ -76,6 +76,7 @@ culture_cot_faithfulness/
 
 ## Dataset
 
+### Cultural QA (main task, MCQ)
 200 multiple-choice cultural-knowledge items across 4 cultures:
 
 | Culture  | Items | Code |
@@ -84,6 +85,17 @@ culture_cot_faithfulness/
 | American | 50    | US   |
 | German   | 50    | DE   |
 | Polish   | 50    | PL   |
+
+### Auxiliary tasks (for cross-domain comparison)
+
+| File | Source | N | Languages | Format | Notes |
+|------|--------|--:|-----------|--------|-------|
+| `data/xsafety_items.json` | Wang et al. XSAFETY | 100 | en (50), de (50) | open-ended safety prompt → expected `refusal` | Korean **not available** in XSAFETY; stratified across 14 safety categories. |
+| `data/gsm8k_items.json` | OpenAI GSM8K | 50 | en | open-ended math, numeric answer | Grade-school math word problems. |
+
+These auxiliary sets let us compare hint-injection effects across domains
+(cultural opinion vs. safety refusal vs. objective math). Schema is
+deliberately different from Cultural QA — see each file's first record.
 
 Each item: 4-option MCQ, gold `correct` letter, and a `wrong_hint` letter
 (used to inject biased hints). See
