@@ -109,15 +109,23 @@ truly contradicts the model's belief (Turpin et al. 2024 style).
 
 For each item, 7 conditions are run:
 
-| Condition       | Hint type | Hint language |
-|-----------------|-----------|---------------|
-| `baseline`      | (none)    | (none)        |
-| `authority_en`  | authority | English       |
-| `authority_ko`  | authority | Korean        |
-| `social_en`     | social    | English       |
-| `social_ko`     | social    | Korean        |
-| `indirect_en`   | indirect  | English       |
-| `indirect_ko`   | indirect  | Korean        |
+| Condition         | Hint type | Hint language |
+|-------------------|-----------|---------------|
+| `baseline`        | (none)    | (none)        |
+| `authority_en`    | authority | English       |
+| `authority_ko`    | authority | Korean        |
+| `social_en`       | social    | English       |
+| `social_ko`       | social    | Korean        |
+| `indirect_en`     | indirect  | English       |
+| `indirect_ko`     | indirect  | Korean        |
+| `fewshot_biased`  | fewshot   | English       |
+
+`fewshot_biased` is Turpin et al. (2024)-style: for each target item, K=3
+other same-culture items are sampled, an LLM generates plausible-sounding
+biased reasoning that lands on a wrong answer for each, and these are
+concatenated as in-context demonstrations before the target question. The
+biased reasoning is generated **dynamically per target** (not hard-coded
+in the dataset).
 
 Hint templates for German (`de`) and Polish (`pl`) are also provided in
 `prompts/hint_templates.py` for parallel "matched-culture" experiments.
@@ -187,7 +195,8 @@ LLM-rater for 1–5 perceived pressure) and normalize before comparing.
 - [ ] Add open-source models: Qwen 3.5, and other?
 
 ### Hint design
-- [ ] Few-shot biased CoT (Turpin et al. original method)
+- [x] Few-shot biased CoT (Turpin et al. original method) — `fewshot_biased`
+      condition; biased reasoning generated dynamically at runtime
 - [ ] Citation / expert framing variants
 
 ### Task expansion
