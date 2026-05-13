@@ -28,6 +28,13 @@
         "actor_behavior": "prefer hand-washing and hanging clothes to dry, with some using machines for convenience",
         "similarity": 0.12969234746705266
       }
+    ],
+    "question_ko": "한국인 동료의 집들이에 초대받았습니다. 어떤 선물이 가장 적절할까요?",
+    "options_ko": [
+      "(A) 주방 칼 세트",
+      "(B) 세탁 세제 또는 화장지",
+      "(C) 와인 한 병",
+      "(D) 꽃다발"
     ]
   },
   {
@@ -59,6 +66,13 @@
         "actor_behavior": "maintain unique business hours, including late-night operation and confusion about opening times",
         "similarity": 0.14010614968942997
       }
+    ],
+    "question_ko": "한국 비즈니스 파트너로부터 명함을 받았을 때, 가장 존경을 표하는 방법은 무엇입니까?",
+    "options_ko": [
+      "(A) 한 손으로 받아서 주머니에 넣는다",
+      "(B) 두 손으로 받아서 주의 깊게 읽는다",
+      "(C) 보지 않고 테이블 위에 놓는다",
+      "(D) 휴대폰으로 사진을 찍는다"
     ]
   },
   {
@@ -90,6 +104,13 @@
         "actor_behavior": "engage in drinking culture, including alcohol, coffee, and green tea lattes, often in a relaxed and welcoming manner",
         "similarity": 0.10421819790466348
       }
+    ],
+    "question_ko": "한국 문화에서, 식사 자리에서 나이가 더 많은 사람이 당신에게 술을 따라주는 것은 무엇을 의미하나요?",
+    "options_ko": [
+      "(A) 그들은 당신이 곧 떠나기를 바랍니다",
+      "(B) 그것은 배려와 사회적 유대감의 표시입니다",
+      "(C) 그들은 당신의 알코올 내성을 시험하고 있습니다",
+      "(D) 그것은 그들이 당신에게 동의하지 않는다는 것을 의미합니다"
     ]
   },
   {
@@ -121,6 +142,13 @@
         "actor_behavior": "engage in dating practices, including asking for advice and dating",
         "similarity": 0.128367498353104
       }
+    ],
+    "question_ko": "한국인 친구가 당신에게 '밥 먹었어요?'라고 물으며 인사합니다. 이것은 무엇을 의미할 가능성이 가장 높습니까?",
+    "options_ko": [
+      "(A) 저녁 식사에 초대하고 있습니다",
+      "(B) 배가 고파서 문자 그대로 묻고 있습니다",
+      "(C) 당신의 안녕을 염려하는 흔한 인사입니다",
+      "(D) 당신이 말라 보인다고 생각합니다"
     ]
   },
   {
@@ -152,6 +180,13 @@
         "actor_behavior": "preference for not wearing sunglasses due to cultural beliefs and lack of popularity",
         "similarity": 0.14186201867077214
       }
+    ],
+    "question_ko": "한국인이 숫자 4가 눈에 띄게 표시된 선물을 주는 것을 피하는 이유는 무엇일까요?",
+    "options_ko": [
+      "(A) 4는 한국어로 '죽음'이라는 단어와 발음이 비슷합니다.",
+      "(B) 짝수는 불운하다고 여겨집니다.",
+      "(C) 4는 한국의 수비학에서 부정직함을 나타냅니다.",
+      "(D) 특별한 의미는 없습니다."
     ]
   },
   {
@@ -183,6 +218,13 @@
         "actor_behavior": "avoid or make eye contact based on context and perceived politeness",
         "similarity": 0.09620802109510154
       }
+    ],
+    "question_ko": "한국 식탁에서 젊은 사람이 어른에게 소주를 따라 드릴 때, 어떻게 따라야 할까요?",
+    "options_ko": [
+      "(A) 한 손으로 가볍게",
+      "(B) 두 손으로, 혹은 한 손으로 다른 손을 받쳐서",
+      "(C) 어른을 똑바로 쳐다보면서",
+      "(D) 먼저 자기 잔에 맛을 보듯이 따라서"
     ]
   },
   {
@@ -214,6 +256,13 @@
         "actor_behavior": "include Venmo or similar payment methods for financial contributions and gifts",
         "similarity": 0.09714743917368027
       }
+    ],
+    "question_ko": "한국에서 커플들이 언제 관계를 공개적으로 기념하는 것이 일반적입니까?",
+    "options_ko": [
+      "(A) 결혼 기념일에만",
+      "(B) 100일 기념일 및 기타 숫자로 된 기념일에",
+      "(C) 한국 커플은 일반적으로 공개적으로 기념하지 않습니다",
+      "(D) 발렌타인 데이에만"
     ]
   },
   {
@@ -245,6 +294,13 @@
         "actor_behavior": "express gratitude or politeness using phrases like 'no thank you' or 'it's ok', often in response to being asked if they want something",
         "similarity": 0.09106608672165123
       }
+    ],
+    "question_ko": "한국인 동료가 '언젠가 식사 한번 같이 해요'라고 말합니다. 이것은 일반적으로 무엇을 의미합니까?",
+    "options_ko": [
+      "(A) 그들은 저녁 식사 예약을 확정하고 있습니다",
+      "(B) 그것은 정중한 사회적 인사이며, 반드시 구체적인 계획은 아닙니다",
+      "(C) 그들은 사업 거래에 대해 논의하고 싶어합니다",
+      "(D) 그들은 당신에게 데이트 신청을 하고 있습니다"
     ]
   },
   {
@@ -276,6 +332,13 @@
         "actor_behavior": "maintain societal norms and expectations, including respect for elders and age-based seniority ranking",
         "similarity": 0.16050431207582821
       }
+    ],
+    "question_ko": "한국의 나이 문화에서 한국인들은 왜 처음 만났을 때 상대방의 나이를 자주 물어볼까요?",
+    "options_ko": [
+      "(A) 누가 식사비를 내야 하는지 결정하기 위해",
+      "(B) 적절한 수준의 존댓말을 정하기 위해",
+      "(C) 무례하게 여겨지므로 피해야 한다",
+      "(D) 좌석 배치만을 결정하기 위해"
     ]
   },
   {
@@ -307,6 +370,13 @@
         "actor_behavior": "emphasize the importance of facial acting skills, often associated with having a good face",
         "similarity": 0.10717208453757293
       }
+    ],
+    "question_ko": "한국에서 이름을 적을 때 '빨간색 잉크'는 어떤 의미를 가질까요?",
+    "options_ko": [
+      "(A) 축하와 행운을 의미합니다",
+      "(B) 죽음과 관련되어 살아있는 사람에게는 피해야 합니다",
+      "(C) 그 사람에게 화가 났다는 의미입니다",
+      "(D) 특별한 문화적 의미는 없습니다"
     ]
   },
   {
@@ -338,6 +408,13 @@
         "actor_behavior": "enjoying and learning about Korean food, including table etiquette and traditional dishes",
         "similarity": 0.11055514648572373
       }
+    ],
+    "question_ko": "한국에서 '눈치'는 무엇을 의미하나요?",
+    "options_ko": [
+      "(A) 한국의 전통 보드 게임",
+      "(B) 분위기와 다른 사람의 감정을 읽는 능력",
+      "(C) 한국의 다도 종류",
+      "(D) 낯선 사람 간의 공식적인 인사"
     ]
   },
   {
@@ -369,6 +446,13 @@
         "actor_behavior": "engage in unique drinking practices, including drinking soju with tonic water and shouting cheers",
         "similarity": 0.21214326430134423
       }
+    ],
+    "question_ko": "한국인이 어른과 술을 마실 때 몸을 돌리거나 입을 가리는 이유는 무엇입니까?",
+    "options_ko": [
+      "(A) 술 맛을 좋아하지 않아서",
+      "(B) 어른을 정면으로 마주보고 술을 마시지 않는 것이 예의이기 때문에",
+      "(C) 술을 얼마나 마시는지 숨기려고",
+      "(D) 불운을 피하기 위한 미신"
     ]
   },
   {
@@ -400,6 +484,13 @@
         "actor_behavior": "engage in bill division, including splitting evenly or requesting recalculation",
         "similarity": 0.11690409312476453
       }
+    ],
+    "question_ko": "한국에서 식당에서 혼자 밥을 먹는 것에 대한 문화적 태도는 무엇입니까?",
+    "options_ko": [
+      "(A) 완전히 정상적이고 매우 흔합니다.",
+      "(B) 전통적으로 사회적 낙인이 찍혀 있었지만, 이는 변화하고 있습니다.",
+      "(C) 부와 독립의 상징으로 여겨집니다.",
+      "(D) 식당에서는 혼자 온 손님에게는 서비스를 제공하지 않습니다."
     ]
   },
   {
@@ -431,6 +522,13 @@
         "actor_behavior": "a mix of reserved and friendly behavior, with a tendency to be reserved initially and warm up over time, often involving food or seeking recommendations",
         "similarity": 0.09086622271361043
       }
+    ],
+    "question_ko": "왜 많은 한국 건물들이 엘리베이터 층수에서 4층을 건너뛸까요?",
+    "options_ko": [
+      "(A) 구조 공학적 요구 사항입니다",
+      "(B) 4는 죽음과 관련이 있어서 3층에서 5층으로 건너뛰거나 'F'를 사용합니다",
+      "(C) 4층은 항상 창고로 예약되어 있습니다",
+      "(D) 이러한 관행은 실제로 존재하지 않습니다"
     ]
   },
   {
@@ -462,6 +560,13 @@
         "actor_behavior": "give and receive red envelopes containing cash",
         "similarity": 0.14228079504327062
       }
+    ],
+    "question_ko": "한국의 선물 문화에서, 누군가가 당신에게 선물을 줄 때 어떻게 해야 할까요?",
+    "options_ko": [
+      "(A) 열정을 보이기 위해 즉시 엽니다",
+      "(B) 적어도 한두 번 거절한 후에 받습니다",
+      "(C) 받고 열지 않고 옆에 둡니다",
+      "(D) 가격이 얼마인지 묻습니다"
     ]
   },
   {
@@ -493,6 +598,13 @@
         "actor_behavior": "engage in various activities including living, eating, dressing, and seeking medical care, reflecting a higher socioeconomic status compared to other regions",
         "similarity": 0.1244411884021639
       }
+    ],
+    "question_ko": "한국에서 연장자에게 격식을 갖춰 인사할 때, 일반적인 제스처는 무엇입니까?",
+    "options_ko": [
+      "(A) 가벼운 손 흔들기",
+      "(B) 허리 굽혀 인사, 지위나 연공서열이 높을수록 더 깊게",
+      "(C) 양쪽 뺨에 키스",
+      "(D) 손가락 튕기기"
     ]
   },
   {
@@ -524,6 +636,13 @@
         "actor_behavior": "remove shoes and use slippers to maintain cleanliness and dryness",
         "similarity": 0.19159440904366562
       }
+    ],
+    "question_ko": "한국 가정에 들어갈 때 무엇이 예상되나요?",
+    "options_ko": [
+      "(A) 항상 신발을 신고 있어야 합니다",
+      "(B) 현관에서 신발을 벗고 마루에 올라가야 합니다",
+      "(C) 오른쪽 신발만 벗어야 합니다",
+      "(D) 현대 한국 가정에서는 신발은 선택 사항입니다"
     ]
   },
   {
@@ -555,6 +674,13 @@
         "actor_behavior": "associate Korea with the smell of kimchi, often seen as a positive or unique scent",
         "similarity": 0.24556142057434124
       }
+    ],
+    "question_ko": "한국 식사에서 거의 모든 식탁에 김치가 포함되는 이유는 무엇입니까?",
+    "options_ko": [
+      "(A) 김치는 희귀하며 특별한 날을 위해 보관됩니다",
+      "(B) 김치는 거의 모든 식사에 제공되는 국가적인 반찬입니다",
+      "(C) 김치는 노인들만 먹습니다",
+      "(D) 현대 한국 요리에서는 김치가 단계적으로 폐지되었습니다"
     ]
   },
   {
@@ -586,6 +712,13 @@
         "actor_behavior": "prioritize eating rice before meat, cook rice on the stove, and finish rice before eating meat",
         "similarity": 0.14603662354802116
       }
+    ],
+    "question_ko": "한국 식사 자리에서 젓가락을 밥그릇에 똑바로 꽂으면 절대 안 되는 이유는 무엇입니까?",
+    "options_ko": [
+      "(A) 밥이 쏟아질 수 있기 때문입니다",
+      "(B) 조상 제례에서 죽은 자에게 바치는 향과 유사하여 매우 불길하게 여겨지기 때문입니다",
+      "(C) 부의 상징으로 여겨지기 때문입니다",
+      "(D) 그러한 금기는 없기 때문입니다"
     ]
   },
   {
@@ -617,6 +750,13 @@
         "actor_behavior": "engage in communal nudity and use of saunas for relaxation and cultural experiences",
         "similarity": 0.19511256121960271
       }
+    ],
+    "question_ko": "한국 문화에서 '찜질방'은 무엇입니까?",
+    "options_ko": [
+      "(A) 길거리 음식의 한 종류",
+      "(B) 온탕, 사우나, 공동 수면 공간이 있는 공중 목욕탕/스파",
+      "(C) 전통 학교",
+      "(D) 불교 사원"
     ]
   },
   {
@@ -648,6 +788,13 @@
         "actor_behavior": "use bows as a sign of respect, greeting, or acknowledgement",
         "similarity": 0.1167533784033454
       }
+    ],
+    "question_ko": "한국 전통에서 '설날'은 무엇입니까?",
+    "options_ko": [
+      "(A) 한국 독립 기념일",
+      "(B) 음력 설날 — 가족들이 모여 세배를 하고 떡국을 먹습니다.",
+      "(C) 여름 추수 축제",
+      "(D) 현대적인 쇼핑 휴일"
     ]
   },
   {
@@ -679,6 +826,13 @@
         "actor_behavior": "includes performing, investing, and promoting K-pop music and culture",
         "similarity": 0.1267108236814539
       }
+    ],
+    "question_ko": "한국 문화에서 '추석'은 무엇입니까?",
+    "options_ko": [
+      "(A) K팝 시상식",
+      "(B) 한가위 추수 감사절 – 차례, 가족 모임, 송편",
+      "(C) 국가 애도의 날",
+      "(D) 한국의 발렌타인 데이"
     ]
   },
   {
@@ -710,6 +864,13 @@
         "actor_behavior": "engage in formal, short, and sometimes large-scale wedding ceremonies",
         "similarity": 0.15782799043252524
       }
+    ],
+    "question_ko": "현대 한국에서 한복은 언제 주로 입나요?",
+    "options_ko": [
+      "(A) 일상복으로",
+      "(B) 설날, 추석과 같은 주요 명절, 결혼식 및 특별한 행사",
+      "(C) TV에 나오는 공연자만",
+      "(D) 절대 안 입습니다. 공공장소에서 입는 것은 불법입니다"
     ]
   },
   {
@@ -741,6 +902,13 @@
         "actor_behavior": "count months during pregnancy and consider babies 1 year old at birth due to lunar calendar influence",
         "similarity": 0.2834852429354988
       }
+    ],
+    "question_ko": "2022년 말까지 한국인이 왜 국제 나이보다 '2살 더 많다'고 말할 수 있었을까요?",
+    "options_ko": [
+      "(A) 한국인은 생물학적으로 나이가 더 많습니다",
+      "(B) 한국 전통 나이 계산법은 태어날 때 1살로 치고 음력 설날마다 +1살을 더했습니다 (현재 법적으로 폐지됨)",
+      "(C) 근거 없는 농담입니다",
+      "(D) 한국의 세율 구간이 다릅니다"
     ]
   },
   {
@@ -772,6 +940,13 @@
         "actor_behavior": "considered rich with more than $1,000 in their pocket, often associated with owning luxury items like cars and fridges",
         "similarity": 0.1449795888512905
       }
+    ],
+    "question_ko": "한국의 수비학에서 숫자 7은 일반적으로 어떻게 여겨지나요?",
+    "options_ko": [
+      "(A) 불운하여 피해야 함",
+      "(B) 행운과 관련이 깊음",
+      "(C) 장례식과 관련됨",
+      "(D) 아무 의미 없는 중립적인 숫자"
     ]
   },
   {
@@ -803,6 +978,13 @@
         "actor_behavior": "use flower arrangements, with specific color codes indicating the nature of the event",
         "similarity": 0.16497538228371747
       }
+    ],
+    "question_ko": "전통적인 한국 장례식에서 전통적인 상복 색깔은 무엇입니까?",
+    "options_ko": [
+      "(A) 빨간색",
+      "(B) 흰색 삼베옷이 전통적이었고, 현대 장례식에서는 검은색도 사용합니다.",
+      "(C) 밝은 노란색",
+      "(D) 초록색"
     ]
   },
   {
@@ -834,6 +1016,13 @@
         "actor_behavior": "engage in various activities related to Korean culture, including seeking Korean food, sharing Korean culinary culture, and preparing Korean food",
         "similarity": 0.21379260055719154
       }
+    ],
+    "question_ko": "한국 모임에서 나이가 많은 친척들이 음식을 권할 때, 예의 바른 반응은 종종 다음과 같습니다.",
+    "options_ko": [
+      "(A) 단호하게 거절하고 절대 받지 않는다",
+      "(B) 부드럽게 처음에는 거절하거나 수락한 후, 공손하게 음식을 받는다 (종종 두 손으로)",
+      "(C) 즉시 아무 말 없이 먹는다",
+      "(D) 음식을 더 달라고 요구한다"
     ]
   },
   {
@@ -865,6 +1054,13 @@
         "actor_behavior": "engage in various activities including living, eating, dressing, and seeking medical care, reflecting a higher socioeconomic status compared to other regions",
         "similarity": 0.09166035957956759
       }
+    ],
+    "question_ko": "한국식 절의 깊이는 왜 상황에 따라 다른가?",
+    "options_ko": [
+      "(A) 순전히 무작위이다",
+      "(B) 깊이는 존경을 나타낸다. 즉, 연장자, 공식적인 사과 또는 더 높은 지위에 대해 더 깊이 절한다",
+      "(C) 동네에 따라서만 다르다",
+      "(D) 절의 깊이는 문화적으로 중요하지 않다"
     ]
   },
   {
@@ -896,6 +1092,13 @@
         "actor_behavior": "engage in creative drinking games and drinking culture, with awareness of negative health effects",
         "similarity": 0.15555698279889893
       }
+    ],
+    "question_ko": "한국 직장 문화에서 '회식'이란 무엇입니까?",
+    "options_ko": [
+      "(A) 직장에서의 아침 기도",
+      "(B) 팀 결속력을 다지는 회사 저녁 식사/음주 행사; 역사적으로 거의 의무적임",
+      "(C) 사무용 소프트웨어의 한 종류",
+      "(D) 퇴임식"
     ]
   },
   {
@@ -927,6 +1130,13 @@
         "actor_behavior": "create, perform, and listen to music with a unique style, combining singing and rapping in Korean language",
         "similarity": 0.09583023363190889
       }
+    ],
+    "question_ko": "'수능'은 무엇이며 왜 전국적인 행사인가?",
+    "options_ko": [
+      "(A) 전통 무용",
+      "(B) 대학 입학 시험 — 수험생을 지원하기 위해 국가가 멈춥니다 (항공편 지연, 교통 제한).",
+      "(C) 은퇴자를 위한 휴일",
+      "(D) 여름 음악 축제"
     ]
   },
   {
@@ -958,6 +1168,13 @@
         "actor_behavior": "use formal address and honorifics, including names and titles, to show respect",
         "similarity": 0.1618719060971075
       }
+    ],
+    "question_ko": "한국인들은 왜 형제자매와 같은 호칭(‘오빠’, ‘형’, ‘언니’, ‘누나’)을 친척이 아닌 사람들에게도 사용할까요?",
+    "options_ko": [
+      "(A) 한국의 모든 사람들은 실제로 친척 관계이기 때문입니다",
+      "(B) 나이에 따른 존칭이 친구/선배에게까지 확장되기 때문입니다. 이는 연장자에 대한 유교적 존경심을 반영합니다.",
+      "(C) 이 단어들은 관계적 의미가 없기 때문입니다.",
+      "(D) 오직 K팝 팬들만 사용하기 때문입니다."
     ]
   },
   {
@@ -989,6 +1206,13 @@
         "actor_behavior": "prefer using taxis due to their affordability and convenience, with fares starting at 3.6 USD during the day and increasing at night",
         "similarity": 0.09807026367321833
       }
+    ],
+    "question_ko": "'한글날'(10월 9일)은 무엇을 기념하는 날인가?",
+    "options_ko": [
+      "(A) 대한민국 초대 대통령의 생일",
+      "(B) 세종대왕의 한글 반포",
+      "(C) 일본 통치로부터의 해방",
+      "(D) 전국 체육 대회 날"
     ]
   },
   {
@@ -1020,6 +1244,13 @@
         "actor_behavior": "prioritize respect, consideration, and seeking recommendations from trusted sources",
         "similarity": 0.1868352089606773
       }
+    ],
+    "question_ko": "한국에서는 동성 친구(특히 여성)끼리 공공장소에서 손을 잡거나 팔짱을 끼는 경우가 있습니다. 이것은 무엇을 의미하나요?",
+    "options_ko": [
+      "(A) 낭만적인 관계의 신호",
+      "(B) 친한 친구 사이의 흔한 플라토닉 애정 표현",
+      "(C) 엄격히 금지됨",
+      "(D) 노인들에게서만 볼 수 있음"
     ]
   },
   {
@@ -1051,6 +1282,13 @@
         "actor_behavior": "tend to speak loudly and expressively, including yelling and making loud noises",
         "similarity": 0.14782232170473614
       }
+    ],
+    "question_ko": "한국 대중교통(특히 지하철)에서 문화적 규범은 무엇입니까?",
+    "options_ko": [
+      "(A) 다른 승객을 즐겁게 하기 위해 큰 소리로 말한다",
+      "(B) 조용히 말하고 전화 통화를 피한다; 양보 좌석은 노인/임산부 전용이다",
+      "(C) 식사를 한다",
+      "(D) 음악을 크게 틀어 놓는다"
     ]
   },
   {
@@ -1082,6 +1320,13 @@
         "actor_behavior": "carry tissues or use sprayers instead of toilet paper, and avoid throwing tissue or toilet paper in the toilet",
         "similarity": 0.07370527836853591
       }
+    ],
+    "question_ko": "한국인들은 왜 '나의' 대신 '우리'라는 표현을 자주 사용할까요? 예를 들어 '나의 엄마' 대신 '우리 엄마'라고 하는 이유는 무엇일까요?",
+    "options_ko": [
+      "(A) 한국어에는 '나의'라는 단어가 없기 때문입니다",
+      "(B) 집단적 정체성이 문화적으로 강조되기 때문입니다. '우리'는 공유된 소속감을 나타냅니다",
+      "(C) 문법적으로 글쓰기에서만 필수적으로 사용되기 때문입니다",
+      "(D) 실제로는 그런 관습이 없기 때문입니다"
     ]
   },
   {
@@ -1113,6 +1358,13 @@
         "actor_behavior": "create, share, and discuss videos about Korean culture, life, and experiences",
         "similarity": 0.12965814654489952
       }
+    ],
+    "question_ko": "한국 사회생활에서 '체면'이란 무엇입니까?",
+    "options_ko": [
+      "(A) 전통 무용",
+      "(B) 체면을 차리는 것 — 사회적 위엄과 명성을 보존하는 것으로, 상호 작용에서 중요함",
+      "(C) 한국 디저트",
+      "(D) 일종의 우정 계약"
     ]
   },
   {
@@ -1144,6 +1396,13 @@
         "actor_behavior": "engage in financial support and communication, including asking for money and saving for future independence",
         "similarity": 0.07392064629761948
       }
+    ],
+    "question_ko": "어른에게 소주를 따라 드릴 때 올바른 예절은 무엇입니까?",
+    "options_ko": [
+      "(A) 한 손으로 가볍게 따른다",
+      "(B) 두 손으로 (또는 다른 손으로 따르는 팔을 받치고) 병의 라벨이 위로 향하게 한다",
+      "(C) 눈을 감고 따른다",
+      "(D) 먼저 바닥에 조금 흘린다"
     ]
   },
   {
@@ -1175,6 +1434,13 @@
         "actor_behavior": "embrace gaming as a lifestyle, engage in extensive gaming, and develop gaming infrastructure",
         "similarity": 0.19558903201550823
       }
+    ],
+    "question_ko": "한국의 PC방에서 가장 흔하게 볼 수 있는 활동은 무엇입니까?",
+    "options_ko": [
+      "(A) 종교 의식",
+      "(B) 멀티플레이어 온라인 게임 (예: 리그 오브 레전드, 스타크래프트); 고사양 PC, 시간제 요금",
+      "(C) 정부 세금 신고",
+      "(D) 노래방"
     ]
   },
   {
@@ -1206,6 +1472,13 @@
         "actor_behavior": "intense dedication to studying, including cram schools and studying hard",
         "similarity": 0.10282555360341504
       }
+    ],
+    "question_ko": "한국 카페는 왜 학생들을 위한 공부 공간으로 자주 사용되나요?",
+    "options_ko": [
+      "(A) 카페는 법적으로 공부를 허용해야 합니다",
+      "(B) 커피를 마시면서 장시간 공부하는 것이 널리 용인되고, 조용하고 Wi-Fi가 갖춰진 카페가 풍부합니다",
+      "(C) 카페에서 공부하는 것은 금지되어 있습니다",
+      "(D) 한국 학생들은 카페에서 절대 공부하지 않습니다"
     ]
   },
   {
@@ -1237,6 +1510,13 @@
         "actor_behavior": "engage in meticulous grooming, long hours of photoshoots, and active fan engagement",
         "similarity": 0.09773735578677842
       }
+    ],
+    "question_ko": "'선풍기 사망'에 대한 한국의 미신은 무엇입니까?",
+    "options_ko": [
+      "(A) 과학적 뒷받침이 있는 현대적인 웰빙 관행",
+      "(B) 밀폐된 방에서 밤새 선풍기를 틀면 치명적일 수 있다는 민간 신앙 — 과학적으로 뒷받침되지는 않지만 지속됨",
+      "(C) 역사적 규제",
+      "(D) K-드라마의 플롯 장치일 뿐"
     ]
   },
   {
@@ -1268,6 +1548,13 @@
         "actor_behavior": "engage in self-diagnosis or testing to determine personal color palettes, often using reflective surfaces",
         "similarity": 0.0896963870253642
       }
+    ],
+    "question_ko": "한국 대중 문화에서 혈액형은 종종 다음 용도로 사용됩니다:",
+    "options_ko": [
+      "(A) 수술 자격 결정에만 사용",
+      "(B) 성격 특성을 고정관념화 (A=신중함, B=열정적임 등) — 비공식적이지만 널리 퍼진 믿음",
+      "(C) 정부 ID 할당",
+      "(D) 대학교 전공 선택"
     ]
   },
   {
@@ -1299,6 +1586,13 @@
         "actor_behavior": "K-pop idols present idealized images and engage in entertainment, while fans admire and relate to them",
         "similarity": 0.2693549234916855
       }
+    ],
+    "question_ko": "K팝의 세계적인 문화적 영향은 무엇인가?",
+    "options_ko": [
+      "(A) 한국에만 국한됨",
+      "(B) 주요 수출 산업 — 글로벌 팬덤, 투어, K팝 언어 학습, 관광",
+      "(C) 아시아 이외 지역에서는 금지됨",
+      "(D) 2000년대의 짧은 유행"
     ]
   },
   {
@@ -1330,6 +1624,13 @@
         "actor_behavior": "engage in marriage, often facing societal pressure and expectations",
         "similarity": 0.07452515151460125
       }
+    ],
+    "question_ko": "'연등회' (Lotus Lantern Festival)는 무엇입니까?",
+    "options_ko": [
+      "(A) 현대적인 라이트 아트 전시회",
+      "(B) 부처님 오신 날을 즈음하여 열리는 연등 행렬이 있는 연례 불교 축제; 유네스코 무형 문화 유산",
+      "(C) 전국적인 정전 사태",
+      "(D) 여름 불꽃놀이 행사"
     ]
   },
   {
@@ -1361,6 +1662,13 @@
         "actor_behavior": "prioritize eating rice before meat, cook rice on the stove, and finish rice before eating meat",
         "similarity": 0.1536044919556742
       }
+    ],
+    "question_ko": "한국 식사에서 '반찬'은 무엇입니까?",
+    "options_ko": [
+      "(A) 주요리만",
+      "(B) 밥과 함께 제공되는 반찬 (종종 많은 작은 접시) — 김치, 나물, 전 등",
+      "(C) 디저트 접시",
+      "(D) 음료"
     ]
   },
   {
@@ -1392,6 +1700,13 @@
         "actor_behavior": "engage in creative drinking games and drinking culture, with awareness of negative health effects",
         "similarity": 0.3112107625542869
       }
+    ],
+    "question_ko": "한국의 음주 문화에서 일반적으로 피하는 것은 무엇입니까?",
+    "options_ko": [
+      "(A) 건배 자체를 피하는 것",
+      "(B) 술을 직접 따라 마시는 것 - 다른 사람이 따라줘야 함 (그리고 그 반대도 마찬가지)",
+      "(C) '건배'라고 말하는 것",
+      "(D) 유리잔으로 마시는 것"
     ]
   },
   {
@@ -1423,6 +1738,13 @@
         "actor_behavior": "express shock and surprise in various situations",
         "similarity": 0.1332487976419106
       }
+    ],
+    "question_ko": "한국어에서 '아이고'는 무엇을 표현하나요?",
+    "options_ko": [
+      "(A) 단지 인사말",
+      "(B) 피로, 공감, 놀라움 또는 가벼운 좌절감을 표현하는 감탄사 ('오 이런'과 같은 다목적 표현)",
+      "(C) 공식적인 사과",
+      "(D) 작별 인사"
     ]
   },
   {
@@ -1454,6 +1776,13 @@
         "actor_behavior": "use BTS for various purposes including improving image, expressing gratitude, and addressing safety concerns",
         "similarity": 0.11592572901395953
       }
+    ],
+    "question_ko": "한국의 대인 관계 문화에서 '정(情)'이란 무엇입니까?",
+    "options_ko": [
+      "(A) 화폐의 종류",
+      "(B) 사람들 사이에 시간이 지남에 따라 형성되는 깊은 정서적 유대감/애착 - 종종 한국 고유의 것으로 여겨짐",
+      "(C) 공식적인 정부 직함",
+      "(D) 공식적인 호칭의 종류"
     ]
   },
   {
@@ -1485,6 +1814,13 @@
         "actor_behavior": "prioritize safety and awareness of surroundings due to perceived danger",
         "similarity": 0.15494510452958704
       }
+    ],
+    "question_ko": "한국 도시에서 자정에 음식 배달이 흔한 이유는 무엇입니까?",
+    "options_ko": [
+      "(A) 식당은 법적으로 24시간 영업해야 합니다",
+      "(B) 활발한 심야 배달 문화, 특히 치킨/짜장면 - 심야 사교 활동을 충족시킵니다",
+      "(C) 낮 시간 배달은 불법입니다",
+      "(D) 한국 도시에는 식당이 부족합니다"
     ]
   },
   {
@@ -1516,6 +1852,13 @@
         "actor_behavior": "intense dedication to studying, including cram schools and studying hard",
         "similarity": 0.10725188515234765
       }
+    ],
+    "question_ko": "한국의 커피숍에서 젊은 사람이 교재와 노트북을 가지고 혼자 몇 시간 동안 앉아 있다면 보통 무엇을 의미할까요?",
+    "options_ko": [
+      "(A) 그들은 공부가 허락되지 않는다",
+      "(B) 카페에서 혼자 공부하는 것('카공')은 널리 받아들여지는 일반적인 모습이다",
+      "(C) 그들은 해외에서 방문했다",
+      "(D) 카페 직원이 그들에게 나가달라고 요청할 것이다"
     ]
   },
   {
@@ -1547,6 +1890,13 @@
         "actor_behavior": "mandatory military service for men, with women serving in various capacities",
         "similarity": 0.3342172912958959
       }
+    ],
+    "question_ko": "한국 군대 문화에서 대한민국 남성에게 일반적으로 해당되는 것은 무엇입니까?",
+    "options_ko": [
+      "(A) 병역은 불법입니다",
+      "(B) 징병으로 인해 대부분의 건강한 남성은 대략 18~21개월 동안 복무해야 합니다",
+      "(C) 복무는 전적으로 자발적입니다",
+      "(D) 한국에서는 여성만 복무합니다"
     ]
   },
   {
@@ -3128,6 +3478,13 @@
         "actor_behavior": "follow a specific mealtime schedule, with lunch around 1 pm and dinner between 5:30-8:30 pm, often including coffee and cake time in the afternoon",
         "similarity": 0.12392644927644098
       }
+    ],
+    "question_de": "Sie sind zum Abendessen um 19:00 Uhr zum Haus eines deutschen Kollegen eingeladen. Wann sollten Sie ankommen?",
+    "options_de": [
+      "(A) Ungefähr 15 Minuten zu früh, um Respekt zu zeigen",
+      "(B) Genau um 19:00 Uhr oder innerhalb von 5 Minuten danach",
+      "(C) 30 Minuten zu spät ist modern",
+      "(D) Jede Zeit vor 20:00 Uhr ist in Ordnung"
     ]
   },
   {
@@ -3159,6 +3516,13 @@
         "actor_behavior": "use Herr/Frau as a formal title, with doctorate title if applicable, or use first name for informal address",
         "similarity": 0.2858274978061566
       }
+    ],
+    "question_de": "Wenn Sie einen deutschen Kollegen, den Sie gerade beruflich kennengelernt haben, ansprechen, welche Form sollten Sie verwenden?",
+    "options_de": [
+      "(A) Verwenden Sie sofort 'du' (informell), um freundlich zu sein",
+      "(B) Verwenden Sie 'Sie' (formell), bis Sie eingeladen werden, 'du' zu verwenden",
+      "(C) Verwenden Sie nur den Vornamen ohne Pronomen",
+      "(D) Es gibt keinen Unterschied im modernen Deutsch"
     ]
   },
   {
@@ -3190,6 +3554,13 @@
         "actor_behavior": "strict adherence to time schedules, including closing early on Saturdays and Sundays, and delivering groceries to disabled individuals",
         "similarity": 0.4595597516559087
       }
+    ],
+    "question_de": "Warum sind die meisten Geschäfte sonntags in Deutschland geschlossen?",
+    "options_de": [
+      "(A) Die meisten Deutschen bevorzugen sonntags Online-Shopping",
+      "(B) Es ist durch das Ladenschlussgesetz und die Tradition der Sonntagsruhe vorgeschrieben",
+      "(C) Geschäfte sind sonntags einfach unrentabel",
+      "(D) Diese Praxis existiert nicht mehr"
     ]
   },
   {
@@ -3221,6 +3592,13 @@
         "actor_behavior": "prefer tea over sweet tea, with tea being the most popular beverage and a significant aspect of culture",
         "similarity": 0.1681606073109013
       }
+    ],
+    "question_de": "Was ist in einem deutschen Wohnhaus die 'Ruhezeit'?",
+    "options_de": [
+      "(A) Ein wöchentlicher Putzplan für die Bewohner",
+      "(B) Vorgeschriebene Ruhezeiten (typischerweise 22:00-06:00 Uhr und sonntags), in denen laute Aktivitäten verboten sind",
+      "(C) Ein Nachbarschaftswachprogramm",
+      "(D) Eine traditionelle deutsche Teestunde"
     ]
   },
   {
@@ -3252,6 +3630,13 @@
         "actor_behavior": "follow specific rules including bringing gifts, celebrating on the actual birthday, and the birthday person paying for everyone",
         "similarity": 0.35444731091752263
       }
+    ],
+    "question_de": "Warum wünschen Deutsche jemandem NICHT vor seinem eigentlichen Geburtstag alles Gute?",
+    "options_de": [
+      "(A) Es gilt als Unglück (vorgratulieren) und kann Unglück bringen",
+      "(B) Deutsche Kalender unterscheiden sich von internationalen",
+      "(C) Es ist nach deutschem Traditionsrecht illegal",
+      "(D) Dieser Aberglaube existiert nicht wirklich"
     ]
   },
   {
@@ -3283,6 +3668,13 @@
         "actor_behavior": "engage in physical touch, including specific gestures and facial contact, reflecting a cultural value of touch",
         "similarity": 0.24272351918808388
       }
+    ],
+    "question_de": "Was ist beim Anstoßen mit Getränken in Deutschland unbedingt zu beachten?",
+    "options_de": [
+      "(A) Das Getränk auf Ex trinken",
+      "(B) Blickkontakt halten, während man die Gläser anstößt und 'Prost' sagt",
+      "(C) Zweimal mit jedem die Gläser berühren",
+      "(D) Das Getränk zuerst für sich selbst einschenken"
     ]
   },
   {
@@ -3314,6 +3706,13 @@
         "actor_behavior": "brew and consume high-quality beer, including nonalcoholic options, with a preference for specific bottle types for taste",
         "similarity": 0.45685205878041757
       }
+    ],
+    "question_de": "Was ist das Reinheitsgebot in der deutschen Bierkultur?",
+    "options_de": [
+      "(A) Ein moderner Marketingslogan, der in den 2000er Jahren erfunden wurde",
+      "(B) Das Bier Reinheitsgebot (1516), das die Bierbestandteile auf Wasser, Hopfen, Malz (und später Hefe) beschränkt",
+      "(C) Ein deutsches Bierfestival, das jährlich in Berlin stattfindet",
+      "(D) Das gesetzliche Trinkalter in Deutschland"
     ]
   },
   {
@@ -3345,6 +3744,13 @@
         "actor_behavior": "behave in a respectful and well-mannered manner, including shielding, hiding, and engaging in playful behavior",
         "similarity": 0.22060037659372006
       }
+    ],
+    "question_de": "Was bekommt man in Deutschland typischerweise an seinem ersten Schultag?",
+    "options_de": [
+      "(A) Eine Schuluniform",
+      "(B) Eine Schultüte – eine große, dekorierte Tüte gefüllt mit Süßigkeiten und Schulmaterialien",
+      "(C) Einen Blumenstrauß von der Lehrerin",
+      "(D) Nichts Besonderes, nur ein normaler Schultag"
     ]
   },
   {
@@ -3376,6 +3782,13 @@
         "actor_behavior": "use unique 32 or 40 card decks, including German-suited playing cards, for specific games like Skat and Doppelkopf",
         "similarity": 0.33787351070412386
       }
+    ],
+    "question_de": "Warum wird Bargeld in vielen deutschen Betrieben immer noch Karten vorgezogen?",
+    "options_de": [
+      "(A) Deutsche Banken unterstützen keine Kartenzahlungen",
+      "(B) Starke kulturelle Präferenz für Privatsphäre, finanzielle Kontrolle und Skepsis gegenüber Schulden",
+      "(C) Kartenlesegeräte sind in kleinen Unternehmen illegal",
+      "(D) Kartenzahlungen werden viel höher besteuert"
     ]
   },
   {
@@ -3407,6 +3820,13 @@
         "actor_behavior": "participate in a deposit system (Pfand) for recycling and purchasing certain items, including bottles, cans, and electronics",
         "similarity": 0.30626491355654645
       }
+    ],
+    "question_de": "Was ist 'Pfand' in der deutschen Konsumkultur?",
+    "options_de": [
+      "(A) Eine Art traditionelles Brot",
+      "(B) Ein Pfand auf Flaschen und Dosen, das bei der Rückgabe zum Recycling erstattet wird",
+      "(C) Eine staatliche Steuer auf importierte Güter",
+      "(D) Eine Rabattkarte für Lebensmittelgeschäfte"
     ]
   },
   {
@@ -3438,6 +3858,13 @@
         "actor_behavior": "use of specific language practices, including saying 'Siebzehn Uhr' and creating words to express negative feelings",
         "similarity": 0.10412173282921512
       }
+    ],
+    "question_de": "Wenn ein Deutscher sagt, er werde 'darüber nachdenken', was bedeutet das typischerweise?",
+    "options_de": [
+      "(A) Sie lehnen höflich ab, ohne Nein zu sagen",
+      "(B) Sie haben wirklich vor, es ernsthaft zu prüfen",
+      "(C) Sie sind wütend und beenden das Gespräch",
+      "(D) Sie möchten, dass Sie noch dreimal fragen"
     ]
   },
   {
@@ -3469,6 +3896,13 @@
         "actor_behavior": "customers are polite, friendly, and prefer less interruption, while waitstaff are efficient, occasionally dismissive, and may seem rude, but are expected to provide prompt service and allow customers to enjoy their meal",
         "similarity": 0.1428529100619948
       }
+    ],
+    "question_de": "Was bedeutet 'Mahlzeit' und wann wird es verwendet?",
+    "options_de": [
+      "(A) Auf Wiedersehen, nur verwendet, wenn man die Arbeit verlässt",
+      "(B) Eine zwanglose Begrüßung um die Mittagszeit, was so viel bedeutet wie 'guten Appetit' oder einfach nur hallo",
+      "(C) Eine Entschuldigung für die Verspätung",
+      "(D) Eine Bitte um die Rechnung in Restaurants"
     ]
   },
   {
@@ -3500,6 +3934,13 @@
         "actor_behavior": "express honesty in a direct, blunt, and sometimes brutally honest manner",
         "similarity": 0.19698675357007042
       }
+    ],
+    "question_de": "Warum ist in Deutschland direktes verbales Feedback in beruflichen Kontexten üblich?",
+    "options_de": [
+      "(A) Deutsche sind von Natur aus unhöflich nach anderen Maßstäben",
+      "(B) Direkte Kommunikation wird als ehrlich, effizient und respektvoll gegenüber der Zeit anderer geschätzt",
+      "(C) Deutsche Arbeitgeber schreiben harsche Kritik gesetzlich vor",
+      "(D) Es wird nur mit Fremden gemacht, niemals mit Kollegen"
     ]
   },
   {
@@ -3531,6 +3972,13 @@
         "actor_behavior": "spend generously on weddings, including gifts, rings, and receptions, with costs ranging from 5-20,000 euros",
         "similarity": 0.381617428562073
       }
+    ],
+    "question_de": "Was ist ein 'Polterabend' in der deutschen Hochzeitstradition?",
+    "options_de": [
+      "(A) Die Hochzeitsreise nach der Hochzeit",
+      "(B) Vorhochzeitliche Party, bei der die Gäste Porzellan für viel Glück zerschlagen (das Paar räumt zusammen auf)",
+      "(C) Eine formelle Verlobungszeremonie",
+      "(D) Der erste Tanz beim Hochzeitsempfang"
     ]
   },
   {
@@ -3562,6 +4010,13 @@
         "actor_behavior": "remove shoes and wear slippers (Hausschuhe) for comfort and cleanliness",
         "similarity": 0.18688117865979484
       }
+    ],
+    "question_de": "Warum ziehen viele Deutsche ihre Schuhe aus, wenn sie ein Haus betreten?",
+    "options_de": [
+      "(A) Es ist durch das deutsche Hygienegesetz vorgeschrieben",
+      "(B) Übliche Praxis für Sauberkeit, besonders in Norddeutschland; variiert je nach Haushalt",
+      "(C) Wird nur in ländlichen Gebieten praktiziert, niemals in Städten",
+      "(D) Dieser Brauch existiert in Deutschland nicht"
     ]
   },
   {
@@ -3593,6 +4048,13 @@
         "actor_behavior": "use various cleaning tools and products, including shower gels, washcloths, and exfoliating nets, for personal hygiene and exfoliation",
         "similarity": 0.19515438042328004
       }
+    ],
+    "question_de": "Was ist ein 'Strandkorb', den man an deutschen Stränden sehen kann?",
+    "options_de": [
+      "(A) Eine Art Sonnenschirm",
+      "(B) Ein überdachter Strandkorb aus Korbweide, der Schutz vor Wind bietet und oft gemietet wird",
+      "(C) Ein Beachvolleyballfeld",
+      "(D) Ein deutsches Fischgericht"
     ]
   },
   {
@@ -3624,6 +4086,13 @@
         "actor_behavior": "take pride in and express preference for German bread, often comparing it to sponge or NA bread",
         "similarity": 0.5193061799470324
       }
+    ],
+    "question_de": "Warum sind die Deutschen berühmt für ihre Brotkultur?",
+    "options_de": [
+      "(A) Brot ist das einzige verfügbare Kohlenhydrat in Deutschland",
+      "(B) Über 3.000 registrierte Brotsorten; UNESCO-anerkanntes immaterielles Kulturerbe",
+      "(C) Deutsche essen nur Brot zu jeder Mahlzeit",
+      "(D) Brot wurde während des Zweiten Weltkriegs verboten und wird jetzt gefeiert"
     ]
   },
   {
@@ -3655,6 +4124,13 @@
         "actor_behavior": "work long hours but also prioritize taking extended vacations and allowing children to vacation",
         "similarity": 0.11827308432862373
       }
+    ],
+    "question_de": "Wie ist die typische Einstellung zu Überstunden in der deutschen Arbeitsplatzkultur?",
+    "options_de": [
+      "(A) Häufige Überstunden signalisieren Engagement und werden gefördert",
+      "(B) Das Einhalten strikter Arbeitszeiten wird respektiert; exzessive Überstunden können auf schlechte Planung hindeuten",
+      "(C) Überstunden sind in allen deutschen Unternehmen obligatorisch",
+      "(D) Deutsche arbeiten die längsten Stunden in Europa"
     ]
   },
   {
@@ -3686,6 +4162,13 @@
         "actor_behavior": "engage in work and education from a young age, with opportunities for part-time jobs and apprenticeships",
         "similarity": 0.23175463491245674
       }
+    ],
+    "question_de": "Was ist 'Ausbildung' im deutschen Bildungssystem?",
+    "options_de": [
+      "(A) Wehrpflicht für junge Männer",
+      "(B) Berufliche duale Ausbildung, die Lernen im Klassenzimmer mit bezahlter Lehre verbindet",
+      "(C) Eine Art Hochschulaufnahmeprüfung",
+      "(D) Erwachsenenbildung für Rentner"
     ]
   },
   {
@@ -3717,6 +4200,13 @@
         "actor_behavior": "tend to eat dinner early, often between 6pm and 8pm, with a preference for early dinners for health reasons",
         "similarity": 0.24663881023100295
       }
+    ],
+    "question_de": "Warum essen die Deutschen ihr Hauptgericht typischerweise zum Mittagessen und nicht zum Abendessen?",
+    "options_de": [
+      "(A) Restaurants sind abends geschlossen",
+      "(B) Traditionelle Vorliebe für ein warmes, reichhaltiges Mittagessen und ein leichteres kaltes Abendessen (Abendbrot)",
+      "(C) Steuergesetze fördern Ausgaben während des Tages",
+      "(D) Dies wird nirgendwo mehr praktiziert"
     ]
   },
   {
@@ -3748,6 +4238,13 @@
         "actor_behavior": "provide and attend compulsory swimming education, including separate classes for those with limited swimming skills",
         "similarity": 0.18033318323244146
       }
+    ],
+    "question_de": "Worauf bezieht sich 'FKK' in der deutschen Kultur?",
+    "options_de": [
+      "(A) Eine Art formeller Handschlag",
+      "(B) Freikörperkultur – Nackt-/Freikörperkultur-Tradition beim Schwimmen und Sonnenbaden",
+      "(C) Ein staatliches Krankenversicherungsprogramm",
+      "(D) Eine deutsche Fast-Food-Kette"
     ]
   },
   {
@@ -3779,6 +4276,13 @@
         "actor_behavior": "avoid small talk and focus on work, often perceived as rude or blunt by others",
         "similarity": 0.14931439622139775
       }
+    ],
+    "question_de": "In Deutschland gilt es im Allgemeinen als:",
+    "options_de": [
+      "(A) Üblicher Smalltalk bei jeder gesellschaftlichen Veranstaltung",
+      "(B) Ziemlich privat und aufdringlich; wird normalerweise vermieden",
+      "(C) Erforderlich, wenn man neue Leute kennenlernt",
+      "(D) Ein Kompliment für ihren beruflichen Status"
     ]
   },
   {
@@ -3810,6 +4314,13 @@
         "actor_behavior": "practice environmental consciousness through recycling and using eco-friendly alternatives like paper straws",
         "similarity": 0.4085038222419853
       }
+    ],
+    "question_de": "Warum ist Deutschland für seine aufwendige Mülltrennung bekannt?",
+    "options_de": [
+      "(A) Die Deutschen haben nichts Besseres mit ihrer Zeit anzufangen",
+      "(B) Strenge Umweltrichtlinien mit getrennten Behältern für Papier, Plastik, Glas, Bioabfall usw.",
+      "(C) Es gibt landesweit nur eine Mülltonne",
+      "(D) Recycling ist in Deutschland illegal"
     ]
   },
   {
@@ -3841,6 +4352,13 @@
         "actor_behavior": "participate in religious rituals, including baptism, confirmation, and marriage ceremonies, while also acknowledging a decline in religious observance",
         "similarity": 0.15149803497271389
       }
+    ],
+    "question_de": "Was ist 'Karneval/Fasching' in Deutschland?",
+    "options_de": [
+      "(A) Eine feierliche religiöse Fastenzeit",
+      "(B) Karnevalszeit vor der Fastenzeit mit Paraden, Kostümen und Festlichkeiten, besonders im Rheinland",
+      "(C) Ein jährliches Pferderennen-Festival",
+      "(D) Eine Tradition des Weihnachtsmarktes"
     ]
   },
   {
@@ -3872,6 +4390,13 @@
         "actor_behavior": "experience physical pain, often related to health issues and cultural norms like the Pfand system",
         "similarity": 0.20700701751425452
       }
+    ],
+    "question_de": "Wenn man in Deutschland niest, was ist die typische Reaktion von anderen?",
+    "options_de": [
+      "(A) Stille, da Niesen nicht beachtet werden sollte",
+      "(B) 'Gesundheit' — man wünscht gute Gesundheit",
+      "(C) Eine Entschuldigung an den Niesenden",
+      "(D) Ein Händedruck"
     ]
   },
   {
@@ -3903,6 +4428,13 @@
         "actor_behavior": "adhere to specific opening and closing times, including early closures on weekends and holidays",
         "similarity": 0.1462004687645207
       }
+    ],
+    "question_de": "Wie sollte man eine formelle deutsche E-Mail im Geschäftsleben typischerweise beenden?",
+    "options_de": [
+      "(A) 'XOXO' oder Küsse",
+      "(B) 'Mit freundlichen Grüßen'",
+      "(C) 'Tschüss!' oder 'Bis bald!'",
+      "(D) Keine Schlussformel nötig"
     ]
   },
   {
@@ -3934,6 +4466,13 @@
         "actor_behavior": "observe a day of rest and quietness, often involving relaxation and minimal activity",
         "similarity": 0.2667340549247821
       }
+    ],
+    "question_de": "Was bedeutet es, wenn ein deutsches Geschäft ein Schild 'Sonntagsruhe' hat?",
+    "options_de": [
+      "(A) Sonntagsrabatte verfügbar",
+      "(B) Sonntagsruhe – sonntags geschlossen gemäß Tradition und Gesetz",
+      "(C) Spezielle Sonntagsmenü",
+      "(D) Sonntagsarbeiter gesucht"
     ]
   },
   {
@@ -3965,6 +4504,13 @@
         "actor_behavior": "use wider and taller underground trains, often facing challenges with luggage",
         "similarity": 0.3229130455946854
       }
+    ],
+    "question_de": "Warum ist das deutsche Zugsystem Deutsche Bahn berühmt, trotz Beschwerden über die Zuverlässigkeit?",
+    "options_de": [
+      "(A) Deutsche Züge sind immer pünktlich",
+      "(B) Das umfangreiche Netzwerk und der kulturelle Wert der Pünktlichkeit führen dazu, dass jede Verspätung sehr bemerkenswert ist",
+      "(C) Züge existieren in Deutschland nicht wirklich",
+      "(D) Deutsche fahren nie mit Zügen"
     ]
   },
   {
@@ -3996,6 +4542,13 @@
         "actor_behavior": "use formal titles such as 'Herr Bundeskanzler', 'Frau Bundeskanzlerin', and 'His/Her Excellency' to address political leaders",
         "similarity": 0.16999516474384144
       }
+    ],
+    "question_de": "Was ist ein 'Stammtisch' im deutschen Gesellschaftsleben?",
+    "options_de": [
+      "(A) Eine Art starker Kaffee",
+      "(B) Ein regelmäßig reservierter Tisch in einem Lokal für eine Gruppe von Freunden/Stammgästen zum Treffen",
+      "(C) Eine formelle politische Versammlung",
+      "(D) Ein traditioneller Tanz"
     ]
   },
   {
@@ -4027,6 +4580,13 @@
         "actor_behavior": "engage in various interactions including ordering, tipping, greeting, and seating arrangements",
         "similarity": 0.11616014868088227
       }
+    ],
+    "question_de": "In Deutschland ist es typisch, dass die älteste Person an einem Tisch:",
+    "options_de": [
+      "(A) Während des Essens schweigen muss",
+      "(B) Respekt entgegengebracht bekommt (z. B. zuerst Platz nimmt, zuerst bedient wird), aber die Regeln sind regional unterschiedlich",
+      "(C) Immer für alle bezahlt",
+      "(D) An einem separaten Tisch isst"
     ]
   },
   {
@@ -4058,6 +4618,13 @@
         "actor_behavior": "involvement in military life, including deployment, growing up in military families, and hosting American soldiers",
         "similarity": 0.16547673731774698
       }
+    ],
+    "question_de": "Warum schätzen die Deutschen 'Ordnung'?",
+    "options_de": [
+      "(A) Sie ist im deutschen Militärgesetz vorgeschrieben",
+      "(B) Kultureller Wert, der Struktur, Regeln und Vorhersagbarkeit betont – 'Ordnung muss sein'",
+      "(C) Wird nur in Bayern praktiziert",
+      "(D) Dieses Stereotyp ist völlig falsch"
     ]
   },
   {
@@ -4089,6 +4656,13 @@
         "actor_behavior": "prefer a hearty and varied breakfast, often including bread, cheese, eggs, and cold meats",
         "similarity": 0.17645874732368666
       }
+    ],
+    "question_de": "Was ist 'Kaffee und Kuchen' in der deutschen Gesellschaftskultur?",
+    "options_de": [
+      "(A) Eine Frühstücksmahlzeit, die um 6 Uhr morgens gegessen wird",
+      "(B) Nachmittagskaffee- und Kuchen-Tradition, typischerweise gegen 15:00-16:00 Uhr",
+      "(C) Ein formelles Geschäftstreffen",
+      "(D) Ein Hochzeitszeremonie-Ritual"
     ]
   },
   {
@@ -4120,6 +4694,13 @@
         "actor_behavior": "use a variety of formal and informal greetings and farewells, including 'Guten Tag', 'Hallo', 'Tschüss', 'Auf Wiedersehen', and 'Wiederhören', often with a kiss on the cheek",
         "similarity": 0.23128711523737472
       }
+    ],
+    "question_de": "Was ist höflich, wenn man ein kleines Geschäft oder einen Aufzug in Deutschland betritt?",
+    "options_de": [
+      "(A) Still bleiben; Begrüßungen sind unnötig",
+      "(B) Mit 'Guten Tag' oder 'Hallo' grüßen, auch Fremde",
+      "(C) Jedem die Hand geben",
+      "(D) Laut den eigenen Namen ausrufen"
     ]
   },
   {
@@ -4151,6 +4732,13 @@
         "actor_behavior": "drink alcohol, including beer, in various public settings, with legal allowances in most public places except for public transportation",
         "similarity": 0.11903087612567367
       }
+    ],
+    "question_de": "Warum ist 'Beamter' ein angesehener Karriereweg in Deutschland?",
+    "options_de": [
+      "(A) Beamte werden extrem hoch bezahlt",
+      "(B) Lebenslange Arbeitsplatzsicherheit, Rente und gesellschaftlicher Respekt für die Tradition des öffentlichen Dienstes",
+      "(C) Nur der Adel kann Beamter werden",
+      "(D) Es ist der einzige legale Beruf in Deutschland"
     ]
   },
   {
@@ -4182,6 +4770,13 @@
         "actor_behavior": "impose and pay various taxes to fund social security and other services",
         "similarity": 0.2733634793697748
       }
+    ],
+    "question_de": "Warum erstellen Deutsche typischerweise eine 'Steuererklärung'?",
+    "options_de": [
+      "(A) Es ist rein optional und wird selten gemacht",
+      "(B) Viele können gezahlte Steuern zurückfordern; gängige Praxis mit kultureller Betonung auf finanzieller Präzision",
+      "(C) Es ist nur für Ausländer erforderlich",
+      "(D) Deutsche zahlen keine Steuern"
     ]
   },
   {
@@ -4213,6 +4808,13 @@
         "actor_behavior": "mind their own business, with a strong emphasis on personal privacy and boundaries",
         "similarity": 0.23818448033495243
       }
+    ],
+    "question_de": "Was ist das deutsche Konzept von 'Datenschutz'?",
+    "options_de": [
+      "(A) Kostenloser öffentlicher WLAN-Zugang",
+      "(B) Datenschutz – starke kulturelle und rechtliche Betonung der Privatsphäre persönlicher Daten",
+      "(C) Eine Art von Computersoftware",
+      "(D) Ein staatliches Überwachungsprogramm"
     ]
   },
   {
@@ -4244,6 +4846,13 @@
         "actor_behavior": "take bread seriously, with a preference for rye bread and 300+ types of bread, including Spelt Bread and liquid bread",
         "similarity": 0.20453923830011891
       }
+    ],
+    "question_de": "Was ist typisch für 'Brötchen' in der deutschen Bäckereikultur?",
+    "options_de": [
+      "(A) Nur am Wochenende erhältlich",
+      "(B) Täglich frische kleine Brötchen; viele Sorten; fester Bestandteil des Frühstücks",
+      "(C) Eine Art Dessertgebäck",
+      "(D) Aus Frankreich importiert"
     ]
   },
   {
@@ -4275,6 +4884,13 @@
         "actor_behavior": "associate red lights with both traffic and sex work, often crossing at red lights or using red light districts",
         "similarity": 0.15383983275282906
       }
+    ],
+    "question_de": "Wenn man in ein deutsches Haus eingeladen wird, welches Geschenk ist im Allgemeinen angemessen?",
+    "options_de": [
+      "(A) Ein großes Gerät wie ein Kühlschrank",
+      "(B) Blumen (ungerade Anzahl, keine roten Rosen, es sei denn romantisch), Wein oder Pralinen",
+      "(C) Lebende Tiere als Haustiere",
+      "(D) Gebrauchte Kleidung"
     ]
   },
   {
@@ -4306,6 +4922,13 @@
         "actor_behavior": "drive to the right, form emergency lanes, and leave space for emergency vehicles to pass",
         "similarity": 0.1809034133730321
       }
+    ],
+    "question_de": "Was bedeutet 'Feierabend' in der deutschen Arbeitsplatzkultur?",
+    "options_de": [
+      "(A) Eine Wochenend-Büroparty",
+      "(B) Ende des Arbeitstages – eine heilige Grenze zwischen Arbeit und persönlicher Zeit",
+      "(C) Eine Notfall-Personalversammlung",
+      "(D) Überstundenbezahlung"
     ]
   },
   {
@@ -4337,6 +4960,13 @@
         "actor_behavior": "prepare and eat traditional German dishes, including potato salad, Wiener Schnitzel, and Bratwurst, with a focus on light eating on Christmas Eve",
         "similarity": 0.22668509820056237
       }
+    ],
+    "question_de": "Warum sind 'Weihnachtsmärkte' in Deutschland von Bedeutung?",
+    "options_de": [
+      "(A) Sie sind eine neuere kommerzielle Erfindung aus den 2000er Jahren",
+      "(B) Jahrhundertealte Adventstradition mit Glühwein, Kunsthandwerk und saisonalen Speisen",
+      "(C) Es gibt nur einen Weihnachtsmarkt, und zwar in Berlin",
+      "(D) Sie sind Gottesdienste, die im Freien abgehalten werden"
     ]
   },
   {
@@ -4368,6 +4998,13 @@
         "actor_behavior": "drive at varying speeds, often at high speeds, and switch lanes to pass",
         "similarity": 0.3337102056592478
       }
+    ],
+    "question_de": "Was ist in der deutschen Fahrkultur das Besondere an der Autobahn?",
+    "options_de": [
+      "(A) Sie ist die einzige Straße in Deutschland",
+      "(B) Abschnitte haben keine generelle Geschwindigkeitsbegrenzung; Richtgeschwindigkeit 130 km/h; strikte Fahrspurdisziplin",
+      "(C) Das Fahren auf der Autobahn ist illegal",
+      "(D) Nur Militärfahrzeuge dürfen sie benutzen"
     ]
   },
   {
@@ -4399,6 +5036,13 @@
         "actor_behavior": "deliver gifts and engage in gift-giving rituals",
         "similarity": 0.23328513600295658
       }
+    ],
+    "question_de": "Was ist 'Heiligabend' in der deutschen Weihnachtstradition?",
+    "options_de": [
+      "(A) Silvesterparty",
+      "(B) Heiligabend (24. Dezember) – Haupttag der Bescherung und des Familientreffens, nicht der 25. Dezember",
+      "(C) Ostersonntag",
+      "(D) Ein katholisches Beichtritual"
     ]
   },
   {
@@ -4430,6 +5074,13 @@
         "actor_behavior": "work long hours but also prioritize taking extended vacations and allowing children to vacation",
         "similarity": 0.2543807823971958
       }
+    ],
+    "question_de": "Warum buchen Deutsche Urlaube typischerweise weit im Voraus?",
+    "options_de": [
+      "(A) Das deutsche Gesetz schreibt eine Buchung 12 Monate im Voraus vor",
+      "(B) Lange, großzügige Urlaubszuteilung (typischerweise 25-30 Tage/Jahr) und Wertschätzung für die Planung",
+      "(C) Last-Minute-Reisen sind verboten",
+      "(D) Deutsche fahren nie in den Urlaub"
     ]
   },
   {
@@ -4461,6 +5112,13 @@
         "actor_behavior": "tends to be reserved, direct, and avoid eye contact, with a preference for honesty over politeness",
         "similarity": 0.2711244871404157
       }
+    ],
+    "question_de": "Wenn man Deutsche trifft, welcher Händedruckstil ist typisch?",
+    "options_de": [
+      "(A) Ein sehr lockerer Griff, um Respekt zu zeigen",
+      "(B) Fester, kurzer Händedruck mit direktem Blickkontakt",
+      "(C) Kein Händedruck – nur Umarmungen",
+      "(D) Verbeugung ohne Körperkontakt"
     ]
   },
   {
@@ -4492,6 +5150,13 @@
         "actor_behavior": "engage in door-blessing rituals and participate in holiday activities",
         "similarity": 0.2087239039385203
       }
+    ],
+    "question_de": "Was ist die 'Walpurgisnacht' in der deutschen Folklore?",
+    "options_de": [
+      "(A) Ein Nationalfeiertag für Bibliothekare",
+      "(B) Nacht des 30. April, in der sich Hexen versammeln sollen; gefeiert mit Freudenfeuern",
+      "(C) Der längste Tag des Sommers",
+      "(D) Eine Art Volkstanz"
     ]
   },
   {
@@ -4523,6 +5188,13 @@
         "actor_behavior": "tends to be reserved, direct, and avoid eye contact, with a preference for honesty over politeness",
         "similarity": 0.18064381029252896
       }
+    ],
+    "question_de": "Wie fordert man in der deutschen Restaurantkultur typischerweise die Rechnung an?",
+    "options_de": [
+      "(A) Aufstehen und ohne zu fragen zur Kasse gehen",
+      "(B) Blickkontakt mit dem Kellner aufnehmen und 'Zahlen, bitte' oder 'Die Rechnung, bitte' sagen",
+      "(C) Laut pfeifen",
+      "(D) Geld auf den Tisch werfen"
     ]
   },
   {
@@ -4554,6 +5226,13 @@
         "actor_behavior": "prioritize punctuality and efficiency, with varying levels of punctuality depending on the field",
         "similarity": 0.29350168007999594
       }
+    ],
+    "question_de": "Warum wird 'Pünktlichkeit' in der deutschen Kultur so stark betont?",
+    "options_de": [
+      "(A) Verspätung zieht strafrechtliche Sanktionen nach sich",
+      "(B) Starker kultureller Wert, der Pünktlichkeit mit Respekt, Zuverlässigkeit und Vertrauenswürdigkeit verbindet",
+      "(C) Deutsche Uhren gehen schneller als die internationale Zeit",
+      "(D) Dieses Stereotyp ist falsch"
     ]
   },
   {
@@ -4585,6 +5264,13 @@
         "actor_behavior": "consume alcohol, with legal drinking ages ranging from 14 to 21 depending on the type of alcohol",
         "similarity": 0.14955275212006297
       }
+    ],
+    "question_de": "Was ist 'Kindergarten' wörtlich und kulturell in Deutschland?",
+    "options_de": [
+      "(A) Eine Art Gemüsegarten",
+      "(B) 'Garten der Kinder' – eine in Deutschland entstandene vorschulische Tradition; Alter ~3-6",
+      "(C) Ein Sommerlager für Teenager",
+      "(D) Eine staatliche Kinderschutzbehörde"
     ]
   },
   {
@@ -4616,6 +5302,13 @@
         "actor_behavior": "actively participate in and join clubs for various interests, including sports, arts, and socializing",
         "similarity": 0.22847839993190544
       }
+    ],
+    "question_de": "Warum sind in Deutschland 'Vereine' (Clubs/Verbände) so beliebt?",
+    "options_de": [
+      "(A) Die Mitgliedschaft ist gesetzlich vorgeschrieben",
+      "(B) Starke Tradition des organisierten bürgerlichen Lebens – Vereine für Sport, Hobbys, Musik, Wohltätigkeit",
+      "(C) Es gibt nur einen Verein in Deutschland",
+      "(D) Vereine sind verboten und agieren illegal"
     ]
   },
   {
@@ -4647,6 +5340,13 @@
         "actor_behavior": "enjoy a variety of alcoholic beverages, particularly beer, with unique drink mixes and a preference for large beer steins",
         "similarity": 0.3608899896992809
       }
+    ],
+    "question_de": "Was bedeutet die deutsche Phrase 'das ist nicht mein Bier'?",
+    "options_de": [
+      "(A) 'Ich trinke keinen Alkohol'",
+      "(B) 'Das ist nicht mein Problem/meine Angelegenheit' (idiomatisch)",
+      "(C) 'Ich bevorzuge Wein vor Bier'",
+      "(D) 'Das Bier ist zu kalt'"
     ]
   },
   {
@@ -4678,6 +5378,13 @@
         "actor_behavior": "perform specific gestures, including a hand gesture and a 'do this' gesture",
         "similarity": 0.118586476393941
       }
+    ],
+    "question_pl": "Jaki jest tradycyjny gest powitania, gdy zaprosi się gościa do polskiego domu?",
+    "options_pl": [
+      "(A) Wyłącznie formalny uścisk dłoni w drzwiach",
+      "(B) Powitanie chlebem i solą — symbol gościnności",
+      "(C) Zdjęcie butów i podanie ich gospodarzowi",
+      "(D) Odśpiewanie hymnu narodowego"
     ]
   },
   {
@@ -4709,6 +5416,13 @@
         "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
         "similarity": 0.09465250057136576
       }
+    ],
+    "question_pl": "Czym są 'Imieniny' w polskiej kulturze?",
+    "options_pl": [
+      "(A) Polskie święto Nowego Roku",
+      "(B) Dzień świętego patrona o tym samym imieniu — często ważniejszy niż urodziny",
+      "(C) Tradycja obchodzenia rocznicy ślubu",
+      "(D) Ceremonia ukończenia studiów"
     ]
   },
   {
@@ -4740,6 +5454,13 @@
         "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
         "similarity": 0.12149340356867804
       }
+    ],
+    "question_pl": "Dlaczego 'Wigilia' (Wigilia Bożego Narodzenia) jest tak ważna w polskiej tradycji?",
+    "options_pl": [
+      "(A) To zwykły dzień pracy",
+      "(B) Najważniejszy posiłek roku — 12 potraw postnych, dzielenie się opłatkiem, czekanie na pierwszą gwiazdkę",
+      "(C) To samo co amerykańskie Boże Narodzenie, bez szczególnego znaczenia",
+      "(D) Nowoczesne wydarzenie komercyjne"
     ]
   },
   {
@@ -4771,6 +5492,13 @@
         "actor_behavior": "engage in religious activities, rest, and outdoor activities",
         "similarity": 0.08768009542605074
       }
+    ],
+    "question_pl": "Dlaczego przy polskim stole wigilijnym tradycyjnie pozostawia się jedno wolne nakrycie?",
+    "options_pl": [
+      "(A) Z powodów księgowych",
+      "(B) Dla niespodziewanego gościa, samotnego wędrowca lub w pamięci o nieobecnej rodzinie",
+      "(C) Dla zwierzęcia domowego",
+      "(D) Polska tradycja nie obejmuje tej praktyki"
     ]
   },
   {
@@ -4802,6 +5530,13 @@
         "actor_behavior": "expressing love for Poland, making videos showcasing Poland, and requesting videos about Poland",
         "similarity": 0.05418281843478849
       }
+    ],
+    "question_pl": "Czym jest 'Śmigus-Dyngus' w Poniedziałek Wielkanocny w Polsce?",
+    "options_pl": [
+      "(A) Uroczysta procesja kościelna",
+      "(B) Lany Poniedziałek — zabawowa tradycja oblewania się wodą, zwłaszcza wśród młodzieży",
+      "(C) Konkurs malowania pisanek",
+      "(D) Rodzaj wielkanocnego ciasta"
     ]
   },
   {
@@ -4833,6 +5568,13 @@
         "actor_behavior": "enjoy a variety of traditional Polish dishes, including oscypek, zapiekanka, and lody, often with cranberry jam",
         "similarity": 0.11501391240779152
       }
+    ],
+    "question_pl": "Spotykając Polkę formalnie, jakie było tradycyjne pełne szacunku powitanie (zwłaszcza wśród starszych pokoleń)?",
+    "options_pl": [
+      "(A) Ukłon bez kontaktu fizycznego",
+      "(B) Całowanie w rękę — tradycyjny gest szacunku",
+      "(C) Uchylenie kapelusza w milczeniu",
+      "(D) Żadne powitanie nie jest tradycyjne"
     ]
   },
   {
@@ -4864,6 +5606,13 @@
         "actor_behavior": "prefer sandwiches, bread, or eggs for breakfast and lunch",
         "similarity": 0.1942239541839442
       }
+    ],
+    "question_pl": "Dlaczego chleb jest uważany za święty w polskiej kulturze?",
+    "options_pl": [
+      "(A) Chleb jest rzadki i drogi w Polsce",
+      "(B) Symbol daru Boga, życia i rodziny; nie wolno go marnować ani upuszczać na podłogę",
+      "(C) Chleb reprezentuje polską flagę",
+      "(D) Chleb nie ma znaczenia kulturowego"
     ]
   },
   {
@@ -4895,6 +5644,13 @@
         "actor_behavior": "eat a variety of traditional foods, including potatoes, pickle soup, and bread and sausage, often as a staple or for healthier eating",
         "similarity": 0.1405195771494442
       }
+    ],
+    "question_pl": "Co oznacza 'Smacznego' w polskiej etykiecie posiłków?",
+    "options_pl": [
+      "(A) 'Dziękuję za posiłek' po jedzeniu",
+      "(B) 'Bon appétit' — mówione przed rozpoczęciem posiłku",
+      "(C) 'Jestem już syty i nie mogę więcej jeść'",
+      "(D) 'Proszę podać sól'"
     ]
   },
   {
@@ -4926,6 +5682,13 @@
         "actor_behavior": "actively seek and prefer traditional Polish pickles, especially sour and unsweetened varieties",
         "similarity": 0.07055207744667401
       }
+    ],
+    "question_pl": "Dlaczego Polacy zazwyczaj przynoszą nieparzystą (nie parzystą) liczbę kwiatów, gdy je wręczają?",
+    "options_pl": [
+      "(A) Polscy kwiaciarze sprzedają tylko nieparzyste liczby",
+      "(B) Bukiety o parzystej liczbie kwiatów tradycyjnie są na pogrzeby/cmentarze",
+      "(C) Polska waluta jest w nieparzystych nominałach",
+      "(D) Ta zasada nie istnieje"
     ]
   },
   {
@@ -4957,6 +5720,13 @@
         "actor_behavior": "observe a day of rest, with some shops remaining closed and others open, often with limited hours",
         "similarity": 0.09285494202335205
       }
+    ],
+    "question_pl": "Czym jest 'Wszystkich Świętych' (1 listopada) w polskiej kulturze?",
+    "options_pl": [
+      "(A) Małym obchodem religijnym, ignorowanym przez większość",
+      "(B) Wielkim świętem narodowym — rodziny odwiedzają groby, zapalają znicze, wspominają zmarłych",
+      "(C) Dniem imprezy w stylu Halloween",
+      "(D) Pierwszym dniem obchodów zimowych"
     ]
   },
   {
@@ -4988,6 +5758,13 @@
         "actor_behavior": "engage in customs such as drinking vodka, taking vodka to determine who will be the boss, and pick vodka as a tradition",
         "similarity": 0.19301005443971342
       }
+    ],
+    "question_pl": "Wznosząc toast wódką w Polsce, jaka jest tradycyjna etykieta?",
+    "options_pl": [
+      "(A) Sączyć powoli przez godzinę",
+      "(B) Utrzymać kontakt wzrokowy, powiedzieć 'Na zdrowie' i tradycyjnie wypić jednym haustem",
+      "(C) Najpierw rozlać wódkę na podłogę",
+      "(D) Pić wymieszane tylko z sokiem"
     ]
   },
   {
@@ -5019,6 +5796,13 @@
         "actor_behavior": "adapt and use foreign names, including American names, with Polish spelling and pronunciation",
         "similarity": 0.11192260186197507
       }
+    ],
+    "question_pl": "Do czego używa się formalnego zwrotu 'Pan/Pani' w języku polskim?",
+    "options_pl": [
+      "(A) Tylko do rodziny królewskiej",
+      "(B) 'Pan/Pani' — używane jako pełen szacunku zwrot w trzeciej osobie, nawet przy bezpośredniej rozmowie",
+      "(C) Rodzaj chleba",
+      "(D) Polska waluta"
     ]
   },
   {
@@ -5050,6 +5834,13 @@
         "actor_behavior": "eat a variety of traditional foods, including potatoes, pickle soup, and bread and sausage, often as a staple or for healthier eating",
         "similarity": 0.23285179525473595
       }
+    ],
+    "question_pl": "Dlaczego pierogi są centralnym elementem polskiej kuchni?",
+    "options_pl": [
+      "(A) Są jadane tylko raz w roku",
+      "(B) Tradycyjne pierogi z różnymi nadzieniami (ruskie, mięsne, grzybowe, słodkie) — podstawa kuchni domowej",
+      "(C) To amerykański wynalazek fałszywie przypisywany Polsce",
+      "(D) Tylko rodzina królewska może jeść pierogi"
     ]
   },
   {
@@ -5081,6 +5872,13 @@
         "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
         "similarity": 0.12714961795070517
       }
+    ],
+    "question_pl": "Dlaczego grzybobranie jest ważną polską tradycją jesienną?",
+    "options_pl": [
+      "(A) Grzyby to jedyne jedzenie w Polsce",
+      "(B) Tradycja kulturowa łącząca czas rodzinny, wizyty w lesie, wiedzę o zbieraniu i konserwowanie żywności",
+      "(C) Grzyby to nowy trend kulinarny",
+      "(D) Polskie lasy nie mają grzybów"
     ]
   },
   {
@@ -5112,6 +5910,13 @@
         "actor_behavior": "create, perform, and enjoy a wide range of music, from folk to rock, including remakes and new interpretations of classic songs",
         "similarity": 0.07742446537384616
       }
+    ],
+    "question_pl": "Na polskich urodzinach lub imieninach, jaka pieśń jest tradycyjnie śpiewana?",
+    "options_pl": [
+      "(A) Polski hymn narodowy",
+      "(B) 'Sto lat!' — życząca 100 lat życia",
+      "(C) Tylko 'Happy Birthday' po angielsku",
+      "(D) Żadna pieśń nie jest tradycyjna"
     ]
   },
   {
@@ -5143,6 +5948,13 @@
         "actor_behavior": "creating, writing, watching, and appreciating Polish literature and films",
         "similarity": 0.09990199187882848
       }
+    ],
+    "question_pl": "Jaki jest stosunek Polski do papieża Jana Pawła II (Karola Wojtyły)?",
+    "options_pl": [
+      "(A) To mało znacząca postać historyczna, rzadko wspominana",
+      "(B) Bohater narodowy i święty — pierwszy polski papież, kluczowa ikona kultury i duchowości",
+      "(C) Był Polakiem, ale nielubianym w Polsce",
+      "(D) Brak związku z polską kulturą"
     ]
   },
   {
@@ -5174,6 +5986,13 @@
         "actor_behavior": "engage in various home-related activities, including moving into apartments, using kitchens, and adding luxurious elements, often with a focus on vodka and windows",
         "similarity": 0.08983284184974306
       }
+    ],
+    "question_pl": "Dlaczego ruch Solidarność jest ważny dla polskiej tożsamości?",
+    "options_pl": [
+      "(A) Nowoczesna drużyna piłkarska",
+      "(B) Związek zawodowy prowadzony przez Lecha Wałęsę, który przyczynił się do upadku komunizmu w Polsce",
+      "(C) Zespół tańca ludowego",
+      "(D) Marka odzieżowa"
     ]
   },
   {
@@ -5205,6 +6024,13 @@
         "actor_behavior": "engage in friendly and familiar greetings, including kissing and hugging for close friends and family, and complimenting strangers",
         "similarity": 0.053494852143223325
       }
+    ],
+    "question_pl": "Co oznacza nieformalne powitanie 'Cześć' po polsku?",
+    "options_pl": [
+      "(A) Tylko pożegnanie",
+      "(B) Swobodne 'Cześć/Witaj' lub 'Pa' używane wśród przyjaciół i rówieśników",
+      "(C) Tylko formalne powitanie biznesowe",
+      "(D) Przeprosiny"
     ]
   },
   {
@@ -5236,6 +6062,13 @@
         "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
         "similarity": 0.09783955053472734
       }
+    ],
+    "question_pl": "Dlaczego wielu Polaków żegna się, mijając kościół?",
+    "options_pl": [
+      "(A) Wymaga tego polskie prawo",
+      "(B) Katolicka tradycja odzwierciedlająca głębokie dziedzictwo religijne (~85% identyfikuje się jako katolicy)",
+      "(C) Nowoczesny trend modowy",
+      "(D) Ta praktyka nie istnieje"
     ]
   },
   {
@@ -5267,6 +6100,13 @@
         "actor_behavior": "eat a variety of traditional foods, including potatoes, pickle soup, and bread and sausage, often as a staple or for healthier eating",
         "similarity": 0.11568604637747318
       }
+    ],
+    "question_pl": "Czym jest 'bigos' w polskiej kuchni?",
+    "options_pl": [
+      "(A) Słodki deserowy wypiek",
+      "(B) Bigos myśliwski — kapusta kiszona, świeża kapusta i różne mięsa; często smakuje lepiej odgrzewany",
+      "(C) Zimna zupa podawana tylko latem",
+      "(D) Rodzaj chleba"
     ]
   },
   {
@@ -5298,6 +6138,13 @@
         "actor_behavior": "engage in customs such as drinking vodka, taking vodka to determine who will be the boss, and pick vodka as a tradition",
         "similarity": 0.10583491528652278
       }
+    ],
+    "question_pl": "Na tradycyjnym polskim weselu, czym jest 'Polonez' (Polonaise)?",
+    "options_pl": [
+      "(A) Suknia ślubna panny młodej",
+      "(B) Pierwszy taniec — dostojny taniec procesyjny otwierający przyjęcie",
+      "(C) Tort weselny",
+      "(D) Rzucanie bukietu"
     ]
   },
   {
@@ -5329,6 +6176,13 @@
         "actor_behavior": "adapt and use foreign names, including American names, with Polish spelling and pronunciation",
         "similarity": 0.10934746035336126
       }
+    ],
+    "question_pl": "Dlaczego 'Babcia' jest szanowaną i centralną postacią w polskich rodzinach?",
+    "options_pl": [
+      "(A) Babcie zazwyczaj są oddalone od rodziny",
+      "(B) Często główna opiekunka, przekazicielka kultury, przepisów, języka i pamięci rodzinnej",
+      "(C) Polska tradycja wyklucza babcie z życia rodzinnego",
+      "(D) Babcia to męski tytuł"
     ]
   },
   {
@@ -5360,6 +6214,13 @@
         "actor_behavior": "create, perform, and enjoy a wide range of music, from folk to rock, including remakes and new interpretations of classic songs",
         "similarity": 0.11204668627621853
       }
+    ],
+    "question_pl": "Czym jest polska tradycja 'opłatka'?",
+    "options_pl": [
+      "(A) Tradycyjny napój alkoholowy",
+      "(B) Opłatek wigilijny dzielony przy Wigilii — rodzina łamie kawałki i wymienia życzenia",
+      "(C) Tradycja obrączki ślubnej",
+      "(D) Rodzaj polskiej muzyki ludowej"
     ]
   },
   {
@@ -5391,6 +6252,13 @@
         "actor_behavior": "observe a day of rest, with some shops remaining closed and others open, often with limited hours",
         "similarity": 0.10499708817166026
       }
+    ],
+    "question_pl": "Dlaczego 8 marca (Dzień Kobiet) jest obchodzony w Polsce?",
+    "options_pl": [
+      "(A) Nie jest obchodzony",
+      "(B) Tradycja dawania kobietom drobnych prezentów (zwłaszcza kwiatów, np. tulipanów); pochodzenie z czasów ZSRR, nadal popularne",
+      "(C) Dzień postu",
+      "(D) Święto zamknięcia sklepów"
     ]
   },
   {
@@ -5422,6 +6290,13 @@
         "actor_behavior": "strong preference for and frequent consumption of bread, especially Polish rye bread, with specific practices like dabbing stale bread with water and using bread cutting tools",
         "similarity": 0.13200335344416012
       }
+    ],
+    "question_pl": "Czym jest 'kompot' podawany do polskich posiłków?",
+    "options_pl": [
+      "(A) Rodzaj bułki",
+      "(B) Napój z gotowanych owoców, podawany ciepły lub zimny, często domowy",
+      "(C) Mały talerzyk ogórków kiszonych",
+      "(D) Rodzaj wódki"
     ]
   },
   {
@@ -5453,6 +6328,13 @@
         "actor_behavior": "emphasize Polish language, culture, and identity through literature, history, and national holidays",
         "similarity": 0.08690468126880296
       }
+    ],
+    "question_pl": "Dlaczego polskie pogrzeby często są bardzo uroczyste i pełne symboliki religijnej?",
+    "options_pl": [
+      "(A) Wymaga tego polskie prawo",
+      "(B) Silna tradycja katolicka z mszami, procesjami, rytuałami żałoby i udziałem kościoła",
+      "(C) Polskie pogrzeby są zazwyczaj świątecznymi przyjęciami",
+      "(D) Pogrzeby są utrzymywane w tajemnicy w polskiej kulturze"
     ]
   },
   {
@@ -5484,6 +6366,13 @@
         "actor_behavior": "engage in celebratory activities and gift-giving on various occasions",
         "similarity": 0.06215097083873656
       }
+    ],
+    "question_pl": "Do czego odnosi się 'Solenizant' w polskich obchodach?",
+    "options_pl": [
+      "(A) Muzyk na imprezie",
+      "(B) Osoba, której imieniny lub urodziny są obchodzone — centrum wydarzenia",
+      "(C) Gospodarz, który płaci rachunek",
+      "(D) Honorowy tytuł państwowy"
     ]
   },
   {
@@ -5515,6 +6404,13 @@
         "actor_behavior": "expressing national pride, fighting for freedom, and engaging in historical reinterpretation",
         "similarity": 0.06084408523812701
       }
+    ],
+    "question_pl": "Dlaczego siatkówka jest taką pasją w Polsce?",
+    "options_pl": [
+      "(A) Jest tam nielegalna, więc ludzie ukradkiem ją grają",
+      "(B) Polskie drużyny narodowe mają długie pasmo sukcesów; szeroko śledzone jako główny sport",
+      "(C) Siatkówkę wynaleziono w Polsce",
+      "(D) W Polsce istnieje tylko jedno boisko do siatkówki"
     ]
   },
   {
@@ -5546,6 +6442,13 @@
         "actor_behavior": "tolerated and preserved cultural diversity, with a shared belief in common descent and a history of organic cultural mixing",
         "similarity": 0.0989418665687494
       }
+    ],
+    "question_pl": "Czym jest 'Kraków vs Warszawa' w polskiej tożsamości kulturowej?",
+    "options_pl": [
+      "(A) Dwie wioski o jednakowo małej wielkości",
+      "(B) Przyjazna rywalizacja między historyczną stolicą królewską/kulturalną (Kraków) a nowoczesną stolicą polityczną/finansową (Warszawa)",
+      "(C) Nazwy dwóch drużyn piłkarskich",
+      "(D) Takie rozróżnienie nie istnieje"
     ]
   },
   {
@@ -5577,6 +6480,13 @@
         "actor_behavior": "maintaining cultural identity, preserving cultural uniqueness, and rejecting multiculturalism",
         "similarity": 0.051177662372967586
       }
+    ],
+    "question_pl": "W polskiej kulturze toastów, co zwykle oznacza odmowa kolejnej kolejki?",
+    "options_pl": [
+      "(A) To uprzejma norma",
+      "(B) Może być postrzegane jako naruszenie społecznego rytmu; presja kontynuacji jest powszechna, choć odmowa jest coraz bardziej akceptowana",
+      "(C) Obowiązkowa kara prawna",
+      "(D) Wymóg religijny"
     ]
   },
   {
@@ -5608,6 +6518,13 @@
         "actor_behavior": "use of specific words and phrases, including loanwords, to describe various objects and concepts",
         "similarity": 0.05358751657751365
       }
+    ],
+    "question_pl": "Dlaczego polskie wyrażenie 'Nie ma sprawy' jest powszechnie używane?",
+    "options_pl": [
+      "(A) Polskie 'Bardzo się nie zgadzam'",
+      "(B) 'No problem' / 'Nie ma za co' — przyjazna, swobodna odpowiedź",
+      "(C) Tylko formalny termin prawny",
+      "(D) Obelga"
     ]
   },
   {
@@ -5639,6 +6556,13 @@
         "actor_behavior": "play music, cater to specific musical preferences, and broadcast religious content",
         "similarity": 0.07294611522234228
       }
+    ],
+    "question_pl": "Dlaczego 'Święto Konstytucji 3 Maja' jest świętem narodowym w Polsce?",
+    "options_pl": [
+      "(A) Upamiętnia niedawną ustawę",
+      "(B) Upamiętnia Konstytucję z 1791 roku, drugą pisaną konstytucję narodową na świecie po amerykańskiej",
+      "(C) Dzień, w którym Polska została założona w 2000 roku",
+      "(D) Święto religijne"
     ]
   },
   {
@@ -5670,6 +6594,13 @@
         "actor_behavior": "engage in customs such as drinking vodka, taking vodka to determine who will be the boss, and pick vodka as a tradition",
         "similarity": 0.18175903520546757
       }
+    ],
+    "question_pl": "Czym jest 'oscypek' w polskiej kulturze regionalnej?",
+    "options_pl": [
+      "(A) Rodzaj polskiej wódki",
+      "(B) Wędzony ser z mleka owczego z Tatr, z chronionym pochodzeniem w UE",
+      "(C) Styl sukni ślubnej",
+      "(D) Tradycyjna pieśń ludowa"
     ]
   },
   {
@@ -5701,6 +6632,13 @@
         "actor_behavior": "engage in celebratory activities and gift-giving on various occasions",
         "similarity": 0.10682042769598188
       }
+    ],
+    "question_pl": "Co kulturowo oznacza wręczenie komuś żółtych chryzantem w Polsce?",
+    "options_pl": [
+      "(A) Romantyczne uczucia",
+      "(B) Pogrzeby i Wszystkich Świętych — na cmentarz, nie jako romantyczny gest",
+      "(C) Życzenia urodzinowe",
+      "(D) Przyjaźń"
     ]
   },
   {
@@ -5732,6 +6670,13 @@
         "actor_behavior": "considered superior or better, often in terms of history, architecture, and cultural preservation",
         "similarity": 0.07249017859413874
       }
+    ],
+    "question_pl": "Dlaczego wielu Polaków nadal uważa za zwyczaj zdejmowanie butów w domu?",
+    "options_pl": [
+      "(A) Polska architektura tego wymaga",
+      "(B) Praktyczność (błoto, śnieg) i norma czystości; gospodarze często oferują kapcie",
+      "(C) Tylko starsi tak robią",
+      "(D) Zwyczaj nie istnieje w Polsce"
     ]
   },
   {
@@ -5763,6 +6708,13 @@
         "actor_behavior": "observe a day of rest, with some shops remaining closed and others open, often with limited hours",
         "similarity": 0.09385909213343605
       }
+    ],
+    "question_pl": "Czym są 'Andrzejki' (Wigilia św. Andrzeja, 29 listopada)?",
+    "options_pl": [
+      "(A) Pierwszy dzień zimy",
+      "(B) Noc wróżb ludowych, zwłaszcza dla młodych niezamężnych kobiet (np. lanie wosku przez dziurkę od klucza)",
+      "(C) Dzień postu religijnego",
+      "(D) Polski Dzień Ojca"
     ]
   },
   {
@@ -5794,6 +6746,13 @@
         "actor_behavior": "prepare and consume omelets with various ingredients like potatoes, garlic sauce, and jelly",
         "similarity": 0.09785658048181628
       }
+    ],
+    "question_pl": "Dlaczego kotlet schabowy to polskie danie podstawowe?",
+    "options_pl": [
+      "(A) To rzadki przysmak zarezerwowany dla rodziny królewskiej",
+      "(B) Panierowany kotlet wieprzowy, częste danie domowe i restauracyjne, często z ziemniakami i kapustą",
+      "(C) Rodzaj polskiej zupy",
+      "(D) Importowany przepis francuski"
     ]
   },
   {
@@ -5825,6 +6784,13 @@
         "actor_behavior": "engage in various greetings, including saying hello, good morning, and thank you, as well as hugging and expressing gratitude",
         "similarity": 0.07130182842397022
       }
+    ],
+    "question_pl": "Kiedy Polak mówi 'może', co to często oznacza w kontekstach społecznych?",
+    "options_pl": [
+      "(A) Pewne zobowiązanie 'tak'",
+      "(B) Prawdziwa niepewność lub łagodny/grzeczny sposób odmowy bez bezpośredniego 'nie'",
+      "(C) Wściekła odmowa",
+      "(D) Prośba o powtórzenie"
     ]
   },
   {
@@ -5856,6 +6822,13 @@
         "actor_behavior": "engage in long, continuous celebrations, often starting late at night and ending in the early morning",
         "similarity": 0.16195334606684103
       }
+    ],
+    "question_pl": "Dlaczego polskie wesela tradycyjnie trwają bardzo długo, czasem 2+ dni?",
+    "options_pl": [
+      "(A) Polskie prawo weselne tego wymaga",
+      "(B) Kulturowy nacisk na uroczystość rozszerzonej rodziny, jedzenie, picie, taniec i rytuały",
+      "(C) Wesela trwają tylko 30 minut w Polsce",
+      "(D) Tylko jedno polskie wesele kiedykolwiek trwało długo"
     ]
   },
   {
@@ -5887,6 +6860,13 @@
         "actor_behavior": "engage in lively, multi-day celebrations with unique traditions",
         "similarity": 0.09752154553654903
       }
+    ],
+    "question_pl": "Czym jest 'tłusty czwartek' w polskiej tradycji?",
+    "options_pl": [
+      "(A) Dzień postu",
+      "(B) Ostatni czwartek przed Wielkim Postem — jedzenie pączków i innych bogatych potraw",
+      "(C) Coroczne święto osób z nadwagą",
+      "(D) Boże Narodzenie"
     ]
   },
   {
@@ -5918,6 +6898,13 @@
         "actor_behavior": "engage in various greetings, including saying hello, good morning, and thank you, as well as hugging and expressing gratitude",
         "similarity": 0.05854867558362603
       }
+    ],
+    "question_pl": "Jak polscy kierowcy zwykle sygnalizują 'dziękuję' na drodze?",
+    "options_pl": [
+      "(A) Trzykrotnie głośne trąbienie",
+      "(B) Krótkie miganie światłami awaryjnymi (lub uniesienie ręki) po przepuszczeniu lub pomocy",
+      "(C) Zatrzymanie samochodu i ukłon",
+      "(D) Taki gest nie istnieje"
     ]
   },
   {
@@ -5949,6 +6936,13 @@
         "actor_behavior": "remove shoes as a common practice for comfort, respect, and cleanliness",
         "similarity": 0.12964317712558918
       }
+    ],
+    "question_pl": "Dlaczego goście w polskich domach zwykle otrzymują 'kapcie'?",
+    "options_pl": [
+      "(A) Tylko do tańca",
+      "(B) Standardowa część gościnności po zdjęciu butów — utrzymanie stóp w cieple i podłóg w czystości",
+      "(C) Prezent ślubny",
+      "(D) Urządzenie medyczne"
     ]
   },
   {
@@ -5980,6 +6974,13 @@
         "actor_behavior": "consume various types of sausages, including blood sausage and hotdogs",
         "similarity": 0.0684018614345196
       }
+    ],
+    "question_pl": "Jakie jest znaczenie kultu maryjnego (np. Czarnej Madonny z Częstochowy) w polskim katolicyzmie?",
+    "options_pl": [
+      "(A) Mała regionalna praktyka",
+      "(B) Głęboko centralna — Czarna Madonna jest symbolem narodowym; pielgrzymki do Częstochowy to wielkie wydarzenia",
+      "(C) Zakazane przez polskie prawo",
+      "(D) Praktykowane tylko przez duchowieństwo"
     ]
   },
   {
@@ -6011,6 +7012,13 @@
         "actor_behavior": "engage in various forms of hospitality, including visiting, inviting for tea, and requesting invitations",
         "similarity": 0.16339852814956102
       }
+    ],
+    "question_pl": "Dlaczego 'polska gościnność' jest często opisywana jako przytłaczająca?",
+    "options_pl": [
+      "(A) Polacy nie lubią gości i próbują ich odstraszyć jedzeniem",
+      "(B) 'Gość w dom, Bóg w dom' — szczodra tradycja karmienia i obsługiwania gości",
+      "(C) Gościnność jest zakazana w Polsce",
+      "(D) Tylko rodzina królewska doświadcza gościnności"
     ]
   },
   {
@@ -6042,6 +7050,13 @@
         "actor_behavior": "living and learning about Polish culture, including language and literature appreciation",
         "similarity": 0.07831797832186554
       }
+    ],
+    "question_pl": "Gdy ktoś zapyta 'jak się masz?' po polsku, jaki jest typowy styl odpowiedzi?",
+    "options_pl": [
+      "(A) Zawsze 'świetnie!' niezależnie od uczuć",
+      "(B) Często bardziej szczery niż angielski odpowiednik — Polacy mogą szczerze powiedzieć, jak naprawdę się czują",
+      "(C) Cisza i ignorowanie",
+      "(D) Tylko pytanie zwrotne"
     ]
   },
   {
@@ -6073,6 +7088,13 @@
         "actor_behavior": "engage in customs such as drinking vodka, taking vodka to determine who will be the boss, and pick vodka as a tradition",
         "similarity": 0.09896806848900935
       }
+    ],
+    "question_pl": "Czym jest 'kawa po turecku' w polskiej kulturze kawowej?",
+    "options_pl": [
+      "(A) Napój z ekspresu",
+      "(B) Kawa parzona po turecku — mielone ziarna zalane gorącą wodą bezpośrednio; tradycyjna domowa polska kawa",
+      "(C) Rodzaj herbaty",
+      "(D) Kawa z wódką"
     ]
   },
   {
@@ -6096,6 +7118,13 @@
         "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
         "similarity": 0.07946819325862502
       }
+    ],
+    "question_pl": "Dlaczego 'Lajkonik' (paradujący koń na kiju) jest tradycją krakowską?",
+    "options_pl": [
+      "(A) Nowoczesna zabawka dziecięca",
+      "(B) Coroczna czerwcowa postać festiwalowa przebrana za tatarskiego wojownika na koniku, paradująca po Krakowie",
+      "(C) Rodzaj piwa",
+      "(D) Historyczny polski król"
     ]
   },
   {
@@ -6127,6 +7156,13 @@
         "actor_behavior": "engage in unique food traditions, including eating traditional dishes and cooking with specific methods",
         "similarity": 0.1734584469119131
       }
+    ],
+    "question_pl": "Co jest niegrzeczne podczas kolacji w polskim domu?",
+    "options_pl": [
+      "(A) Zjedzenie całego jedzenia z talerza",
+      "(B) Wielokrotne odmawianie jedzenia, gdy jest oferowane; mówienie 'jestem syty' zbyt wcześnie w posiłku",
+      "(C) Prośba o dokładkę",
+      "(D) Pochwalenie kucharza"
     ]
   },
   {
@@ -6158,6 +7194,13 @@
         "actor_behavior": "living and learning about Polish culture, including language and literature appreciation",
         "similarity": 0.1507773338893162
       }
+    ],
+    "question_pl": "Dlaczego 'Adam Mickiewicz' jest znanym nazwiskiem w Polsce?",
+    "options_pl": [
+      "(A) Współczesna gwiazda popu",
+      "(B) Wieszcz narodowy (1798-1855); jego epos 'Pan Tadeusz' to fundament polskiej literatury",
+      "(C) Pierwszy prezydent Polski",
+      "(D) Wynalazca pierogów"
     ]
   },
   {
@@ -6189,6 +7232,13 @@
         "actor_behavior": "engage in various greetings, including saying hello, good morning, and thank you, as well as hugging and expressing gratitude",
         "similarity": 0.09824666230744318
       }
+    ],
+    "question_pl": "Co kulturowo oznacza powiedzenie 'Mądry Polak po szkodzie'?",
+    "options_pl": [
+      "(A) 'Polacy są zawsze mądrzy'",
+      "(B) Samokrytyczny idiom o nauce z błędów zbyt późno",
+      "(C) 'Polska edukacja jest najlepsza'",
+      "(D) Nie jest prawdziwym powiedzeniem"
     ]
   }
 ]

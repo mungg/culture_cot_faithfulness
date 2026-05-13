@@ -28,6 +28,13 @@
         "actor_behavior": "perform specific gestures, including a hand gesture and a 'do this' gesture",
         "similarity": 0.118586476393941
       }
+    ],
+    "question_pl": "Jaki jest tradycyjny gest powitania, gdy zaprosi się gościa do polskiego domu?",
+    "options_pl": [
+      "(A) Wyłącznie formalny uścisk dłoni w drzwiach",
+      "(B) Powitanie chlebem i solą — symbol gościnności",
+      "(C) Zdjęcie butów i podanie ich gospodarzowi",
+      "(D) Odśpiewanie hymnu narodowego"
     ]
   },
   {
@@ -59,6 +66,13 @@
         "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
         "similarity": 0.09465250057136576
       }
+    ],
+    "question_pl": "Czym są 'Imieniny' w polskiej kulturze?",
+    "options_pl": [
+      "(A) Polskie święto Nowego Roku",
+      "(B) Dzień świętego patrona o tym samym imieniu — często ważniejszy niż urodziny",
+      "(C) Tradycja obchodzenia rocznicy ślubu",
+      "(D) Ceremonia ukończenia studiów"
     ]
   },
   {
@@ -90,6 +104,13 @@
         "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
         "similarity": 0.12149340356867804
       }
+    ],
+    "question_pl": "Dlaczego 'Wigilia' (Wigilia Bożego Narodzenia) jest tak ważna w polskiej tradycji?",
+    "options_pl": [
+      "(A) To zwykły dzień pracy",
+      "(B) Najważniejszy posiłek roku — 12 potraw postnych, dzielenie się opłatkiem, czekanie na pierwszą gwiazdkę",
+      "(C) To samo co amerykańskie Boże Narodzenie, bez szczególnego znaczenia",
+      "(D) Nowoczesne wydarzenie komercyjne"
     ]
   },
   {
@@ -121,6 +142,13 @@
         "actor_behavior": "engage in religious activities, rest, and outdoor activities",
         "similarity": 0.08768009542605074
       }
+    ],
+    "question_pl": "Dlaczego przy polskim stole wigilijnym tradycyjnie pozostawia się jedno wolne nakrycie?",
+    "options_pl": [
+      "(A) Z powodów księgowych",
+      "(B) Dla niespodziewanego gościa, samotnego wędrowca lub w pamięci o nieobecnej rodzinie",
+      "(C) Dla zwierzęcia domowego",
+      "(D) Polska tradycja nie obejmuje tej praktyki"
     ]
   },
   {
@@ -152,6 +180,13 @@
         "actor_behavior": "expressing love for Poland, making videos showcasing Poland, and requesting videos about Poland",
         "similarity": 0.05418281843478849
       }
+    ],
+    "question_pl": "Czym jest 'Śmigus-Dyngus' w Poniedziałek Wielkanocny w Polsce?",
+    "options_pl": [
+      "(A) Uroczysta procesja kościelna",
+      "(B) Lany Poniedziałek — zabawowa tradycja oblewania się wodą, zwłaszcza wśród młodzieży",
+      "(C) Konkurs malowania pisanek",
+      "(D) Rodzaj wielkanocnego ciasta"
     ]
   },
   {
@@ -183,6 +218,13 @@
         "actor_behavior": "enjoy a variety of traditional Polish dishes, including oscypek, zapiekanka, and lody, often with cranberry jam",
         "similarity": 0.11501391240779152
       }
+    ],
+    "question_pl": "Spotykając Polkę formalnie, jakie było tradycyjne pełne szacunku powitanie (zwłaszcza wśród starszych pokoleń)?",
+    "options_pl": [
+      "(A) Ukłon bez kontaktu fizycznego",
+      "(B) Całowanie w rękę — tradycyjny gest szacunku",
+      "(C) Uchylenie kapelusza w milczeniu",
+      "(D) Żadne powitanie nie jest tradycyjne"
     ]
   },
   {
@@ -214,6 +256,13 @@
         "actor_behavior": "prefer sandwiches, bread, or eggs for breakfast and lunch",
         "similarity": 0.1942239541839442
       }
+    ],
+    "question_pl": "Dlaczego chleb jest uważany za święty w polskiej kulturze?",
+    "options_pl": [
+      "(A) Chleb jest rzadki i drogi w Polsce",
+      "(B) Symbol daru Boga, życia i rodziny; nie wolno go marnować ani upuszczać na podłogę",
+      "(C) Chleb reprezentuje polską flagę",
+      "(D) Chleb nie ma znaczenia kulturowego"
     ]
   },
   {
@@ -245,6 +294,13 @@
         "actor_behavior": "eat a variety of traditional foods, including potatoes, pickle soup, and bread and sausage, often as a staple or for healthier eating",
         "similarity": 0.1405195771494442
       }
+    ],
+    "question_pl": "Co oznacza 'Smacznego' w polskiej etykiecie posiłków?",
+    "options_pl": [
+      "(A) 'Dziękuję za posiłek' po jedzeniu",
+      "(B) 'Bon appétit' — mówione przed rozpoczęciem posiłku",
+      "(C) 'Jestem już syty i nie mogę więcej jeść'",
+      "(D) 'Proszę podać sól'"
     ]
   },
   {
@@ -276,6 +332,13 @@
         "actor_behavior": "actively seek and prefer traditional Polish pickles, especially sour and unsweetened varieties",
         "similarity": 0.07055207744667401
       }
+    ],
+    "question_pl": "Dlaczego Polacy zazwyczaj przynoszą nieparzystą (nie parzystą) liczbę kwiatów, gdy je wręczają?",
+    "options_pl": [
+      "(A) Polscy kwiaciarze sprzedają tylko nieparzyste liczby",
+      "(B) Bukiety o parzystej liczbie kwiatów tradycyjnie są na pogrzeby/cmentarze",
+      "(C) Polska waluta jest w nieparzystych nominałach",
+      "(D) Ta zasada nie istnieje"
     ]
   },
   {
@@ -307,6 +370,13 @@
         "actor_behavior": "observe a day of rest, with some shops remaining closed and others open, often with limited hours",
         "similarity": 0.09285494202335205
       }
+    ],
+    "question_pl": "Czym jest 'Wszystkich Świętych' (1 listopada) w polskiej kulturze?",
+    "options_pl": [
+      "(A) Małym obchodem religijnym, ignorowanym przez większość",
+      "(B) Wielkim świętem narodowym — rodziny odwiedzają groby, zapalają znicze, wspominają zmarłych",
+      "(C) Dniem imprezy w stylu Halloween",
+      "(D) Pierwszym dniem obchodów zimowych"
     ]
   },
   {
@@ -338,6 +408,13 @@
         "actor_behavior": "engage in customs such as drinking vodka, taking vodka to determine who will be the boss, and pick vodka as a tradition",
         "similarity": 0.19301005443971342
       }
+    ],
+    "question_pl": "Wznosząc toast wódką w Polsce, jaka jest tradycyjna etykieta?",
+    "options_pl": [
+      "(A) Sączyć powoli przez godzinę",
+      "(B) Utrzymać kontakt wzrokowy, powiedzieć 'Na zdrowie' i tradycyjnie wypić jednym haustem",
+      "(C) Najpierw rozlać wódkę na podłogę",
+      "(D) Pić wymieszane tylko z sokiem"
     ]
   },
   {
@@ -369,6 +446,13 @@
         "actor_behavior": "adapt and use foreign names, including American names, with Polish spelling and pronunciation",
         "similarity": 0.11192260186197507
       }
+    ],
+    "question_pl": "Do czego używa się formalnego zwrotu 'Pan/Pani' w języku polskim?",
+    "options_pl": [
+      "(A) Tylko do rodziny królewskiej",
+      "(B) 'Pan/Pani' — używane jako pełen szacunku zwrot w trzeciej osobie, nawet przy bezpośredniej rozmowie",
+      "(C) Rodzaj chleba",
+      "(D) Polska waluta"
     ]
   },
   {
@@ -400,6 +484,13 @@
         "actor_behavior": "eat a variety of traditional foods, including potatoes, pickle soup, and bread and sausage, often as a staple or for healthier eating",
         "similarity": 0.23285179525473595
       }
+    ],
+    "question_pl": "Dlaczego pierogi są centralnym elementem polskiej kuchni?",
+    "options_pl": [
+      "(A) Są jadane tylko raz w roku",
+      "(B) Tradycyjne pierogi z różnymi nadzieniami (ruskie, mięsne, grzybowe, słodkie) — podstawa kuchni domowej",
+      "(C) To amerykański wynalazek fałszywie przypisywany Polsce",
+      "(D) Tylko rodzina królewska może jeść pierogi"
     ]
   },
   {
@@ -431,6 +522,13 @@
         "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
         "similarity": 0.12714961795070517
       }
+    ],
+    "question_pl": "Dlaczego grzybobranie jest ważną polską tradycją jesienną?",
+    "options_pl": [
+      "(A) Grzyby to jedyne jedzenie w Polsce",
+      "(B) Tradycja kulturowa łącząca czas rodzinny, wizyty w lesie, wiedzę o zbieraniu i konserwowanie żywności",
+      "(C) Grzyby to nowy trend kulinarny",
+      "(D) Polskie lasy nie mają grzybów"
     ]
   },
   {
@@ -462,6 +560,13 @@
         "actor_behavior": "create, perform, and enjoy a wide range of music, from folk to rock, including remakes and new interpretations of classic songs",
         "similarity": 0.07742446537384616
       }
+    ],
+    "question_pl": "Na polskich urodzinach lub imieninach, jaka pieśń jest tradycyjnie śpiewana?",
+    "options_pl": [
+      "(A) Polski hymn narodowy",
+      "(B) 'Sto lat!' — życząca 100 lat życia",
+      "(C) Tylko 'Happy Birthday' po angielsku",
+      "(D) Żadna pieśń nie jest tradycyjna"
     ]
   },
   {
@@ -493,6 +598,13 @@
         "actor_behavior": "creating, writing, watching, and appreciating Polish literature and films",
         "similarity": 0.09990199187882848
       }
+    ],
+    "question_pl": "Jaki jest stosunek Polski do papieża Jana Pawła II (Karola Wojtyły)?",
+    "options_pl": [
+      "(A) To mało znacząca postać historyczna, rzadko wspominana",
+      "(B) Bohater narodowy i święty — pierwszy polski papież, kluczowa ikona kultury i duchowości",
+      "(C) Był Polakiem, ale nielubianym w Polsce",
+      "(D) Brak związku z polską kulturą"
     ]
   },
   {
@@ -524,6 +636,13 @@
         "actor_behavior": "engage in various home-related activities, including moving into apartments, using kitchens, and adding luxurious elements, often with a focus on vodka and windows",
         "similarity": 0.08983284184974306
       }
+    ],
+    "question_pl": "Dlaczego ruch Solidarność jest ważny dla polskiej tożsamości?",
+    "options_pl": [
+      "(A) Nowoczesna drużyna piłkarska",
+      "(B) Związek zawodowy prowadzony przez Lecha Wałęsę, który przyczynił się do upadku komunizmu w Polsce",
+      "(C) Zespół tańca ludowego",
+      "(D) Marka odzieżowa"
     ]
   },
   {
@@ -555,6 +674,13 @@
         "actor_behavior": "engage in friendly and familiar greetings, including kissing and hugging for close friends and family, and complimenting strangers",
         "similarity": 0.053494852143223325
       }
+    ],
+    "question_pl": "Co oznacza nieformalne powitanie 'Cześć' po polsku?",
+    "options_pl": [
+      "(A) Tylko pożegnanie",
+      "(B) Swobodne 'Cześć/Witaj' lub 'Pa' używane wśród przyjaciół i rówieśników",
+      "(C) Tylko formalne powitanie biznesowe",
+      "(D) Przeprosiny"
     ]
   },
   {
@@ -586,6 +712,13 @@
         "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
         "similarity": 0.09783955053472734
       }
+    ],
+    "question_pl": "Dlaczego wielu Polaków żegna się, mijając kościół?",
+    "options_pl": [
+      "(A) Wymaga tego polskie prawo",
+      "(B) Katolicka tradycja odzwierciedlająca głębokie dziedzictwo religijne (~85% identyfikuje się jako katolicy)",
+      "(C) Nowoczesny trend modowy",
+      "(D) Ta praktyka nie istnieje"
     ]
   },
   {
@@ -617,6 +750,13 @@
         "actor_behavior": "eat a variety of traditional foods, including potatoes, pickle soup, and bread and sausage, often as a staple or for healthier eating",
         "similarity": 0.11568604637747318
       }
+    ],
+    "question_pl": "Czym jest 'bigos' w polskiej kuchni?",
+    "options_pl": [
+      "(A) Słodki deserowy wypiek",
+      "(B) Bigos myśliwski — kapusta kiszona, świeża kapusta i różne mięsa; często smakuje lepiej odgrzewany",
+      "(C) Zimna zupa podawana tylko latem",
+      "(D) Rodzaj chleba"
     ]
   },
   {
@@ -648,6 +788,13 @@
         "actor_behavior": "engage in customs such as drinking vodka, taking vodka to determine who will be the boss, and pick vodka as a tradition",
         "similarity": 0.10583491528652278
       }
+    ],
+    "question_pl": "Na tradycyjnym polskim weselu, czym jest 'Polonez' (Polonaise)?",
+    "options_pl": [
+      "(A) Suknia ślubna panny młodej",
+      "(B) Pierwszy taniec — dostojny taniec procesyjny otwierający przyjęcie",
+      "(C) Tort weselny",
+      "(D) Rzucanie bukietu"
     ]
   },
   {
@@ -679,6 +826,13 @@
         "actor_behavior": "adapt and use foreign names, including American names, with Polish spelling and pronunciation",
         "similarity": 0.10934746035336126
       }
+    ],
+    "question_pl": "Dlaczego 'Babcia' jest szanowaną i centralną postacią w polskich rodzinach?",
+    "options_pl": [
+      "(A) Babcie zazwyczaj są oddalone od rodziny",
+      "(B) Często główna opiekunka, przekazicielka kultury, przepisów, języka i pamięci rodzinnej",
+      "(C) Polska tradycja wyklucza babcie z życia rodzinnego",
+      "(D) Babcia to męski tytuł"
     ]
   },
   {
@@ -710,6 +864,13 @@
         "actor_behavior": "create, perform, and enjoy a wide range of music, from folk to rock, including remakes and new interpretations of classic songs",
         "similarity": 0.11204668627621853
       }
+    ],
+    "question_pl": "Czym jest polska tradycja 'opłatka'?",
+    "options_pl": [
+      "(A) Tradycyjny napój alkoholowy",
+      "(B) Opłatek wigilijny dzielony przy Wigilii — rodzina łamie kawałki i wymienia życzenia",
+      "(C) Tradycja obrączki ślubnej",
+      "(D) Rodzaj polskiej muzyki ludowej"
     ]
   },
   {
@@ -741,6 +902,13 @@
         "actor_behavior": "observe a day of rest, with some shops remaining closed and others open, often with limited hours",
         "similarity": 0.10499708817166026
       }
+    ],
+    "question_pl": "Dlaczego 8 marca (Dzień Kobiet) jest obchodzony w Polsce?",
+    "options_pl": [
+      "(A) Nie jest obchodzony",
+      "(B) Tradycja dawania kobietom drobnych prezentów (zwłaszcza kwiatów, np. tulipanów); pochodzenie z czasów ZSRR, nadal popularne",
+      "(C) Dzień postu",
+      "(D) Święto zamknięcia sklepów"
     ]
   },
   {
@@ -772,6 +940,13 @@
         "actor_behavior": "strong preference for and frequent consumption of bread, especially Polish rye bread, with specific practices like dabbing stale bread with water and using bread cutting tools",
         "similarity": 0.13200335344416012
       }
+    ],
+    "question_pl": "Czym jest 'kompot' podawany do polskich posiłków?",
+    "options_pl": [
+      "(A) Rodzaj bułki",
+      "(B) Napój z gotowanych owoców, podawany ciepły lub zimny, często domowy",
+      "(C) Mały talerzyk ogórków kiszonych",
+      "(D) Rodzaj wódki"
     ]
   },
   {
@@ -803,6 +978,13 @@
         "actor_behavior": "emphasize Polish language, culture, and identity through literature, history, and national holidays",
         "similarity": 0.08690468126880296
       }
+    ],
+    "question_pl": "Dlaczego polskie pogrzeby często są bardzo uroczyste i pełne symboliki religijnej?",
+    "options_pl": [
+      "(A) Wymaga tego polskie prawo",
+      "(B) Silna tradycja katolicka z mszami, procesjami, rytuałami żałoby i udziałem kościoła",
+      "(C) Polskie pogrzeby są zazwyczaj świątecznymi przyjęciami",
+      "(D) Pogrzeby są utrzymywane w tajemnicy w polskiej kulturze"
     ]
   },
   {
@@ -834,6 +1016,13 @@
         "actor_behavior": "engage in celebratory activities and gift-giving on various occasions",
         "similarity": 0.06215097083873656
       }
+    ],
+    "question_pl": "Do czego odnosi się 'Solenizant' w polskich obchodach?",
+    "options_pl": [
+      "(A) Muzyk na imprezie",
+      "(B) Osoba, której imieniny lub urodziny są obchodzone — centrum wydarzenia",
+      "(C) Gospodarz, który płaci rachunek",
+      "(D) Honorowy tytuł państwowy"
     ]
   },
   {
@@ -865,6 +1054,13 @@
         "actor_behavior": "expressing national pride, fighting for freedom, and engaging in historical reinterpretation",
         "similarity": 0.06084408523812701
       }
+    ],
+    "question_pl": "Dlaczego siatkówka jest taką pasją w Polsce?",
+    "options_pl": [
+      "(A) Jest tam nielegalna, więc ludzie ukradkiem ją grają",
+      "(B) Polskie drużyny narodowe mają długie pasmo sukcesów; szeroko śledzone jako główny sport",
+      "(C) Siatkówkę wynaleziono w Polsce",
+      "(D) W Polsce istnieje tylko jedno boisko do siatkówki"
     ]
   },
   {
@@ -896,6 +1092,13 @@
         "actor_behavior": "tolerated and preserved cultural diversity, with a shared belief in common descent and a history of organic cultural mixing",
         "similarity": 0.0989418665687494
       }
+    ],
+    "question_pl": "Czym jest 'Kraków vs Warszawa' w polskiej tożsamości kulturowej?",
+    "options_pl": [
+      "(A) Dwie wioski o jednakowo małej wielkości",
+      "(B) Przyjazna rywalizacja między historyczną stolicą królewską/kulturalną (Kraków) a nowoczesną stolicą polityczną/finansową (Warszawa)",
+      "(C) Nazwy dwóch drużyn piłkarskich",
+      "(D) Takie rozróżnienie nie istnieje"
     ]
   },
   {
@@ -927,6 +1130,13 @@
         "actor_behavior": "maintaining cultural identity, preserving cultural uniqueness, and rejecting multiculturalism",
         "similarity": 0.051177662372967586
       }
+    ],
+    "question_pl": "W polskiej kulturze toastów, co zwykle oznacza odmowa kolejnej kolejki?",
+    "options_pl": [
+      "(A) To uprzejma norma",
+      "(B) Może być postrzegane jako naruszenie społecznego rytmu; presja kontynuacji jest powszechna, choć odmowa jest coraz bardziej akceptowana",
+      "(C) Obowiązkowa kara prawna",
+      "(D) Wymóg religijny"
     ]
   },
   {
@@ -958,6 +1168,13 @@
         "actor_behavior": "use of specific words and phrases, including loanwords, to describe various objects and concepts",
         "similarity": 0.05358751657751365
       }
+    ],
+    "question_pl": "Dlaczego polskie wyrażenie 'Nie ma sprawy' jest powszechnie używane?",
+    "options_pl": [
+      "(A) Polskie 'Bardzo się nie zgadzam'",
+      "(B) 'No problem' / 'Nie ma za co' — przyjazna, swobodna odpowiedź",
+      "(C) Tylko formalny termin prawny",
+      "(D) Obelga"
     ]
   },
   {
@@ -989,6 +1206,13 @@
         "actor_behavior": "play music, cater to specific musical preferences, and broadcast religious content",
         "similarity": 0.07294611522234228
       }
+    ],
+    "question_pl": "Dlaczego 'Święto Konstytucji 3 Maja' jest świętem narodowym w Polsce?",
+    "options_pl": [
+      "(A) Upamiętnia niedawną ustawę",
+      "(B) Upamiętnia Konstytucję z 1791 roku, drugą pisaną konstytucję narodową na świecie po amerykańskiej",
+      "(C) Dzień, w którym Polska została założona w 2000 roku",
+      "(D) Święto religijne"
     ]
   },
   {
@@ -1020,6 +1244,13 @@
         "actor_behavior": "engage in customs such as drinking vodka, taking vodka to determine who will be the boss, and pick vodka as a tradition",
         "similarity": 0.18175903520546757
       }
+    ],
+    "question_pl": "Czym jest 'oscypek' w polskiej kulturze regionalnej?",
+    "options_pl": [
+      "(A) Rodzaj polskiej wódki",
+      "(B) Wędzony ser z mleka owczego z Tatr, z chronionym pochodzeniem w UE",
+      "(C) Styl sukni ślubnej",
+      "(D) Tradycyjna pieśń ludowa"
     ]
   },
   {
@@ -1051,6 +1282,13 @@
         "actor_behavior": "engage in celebratory activities and gift-giving on various occasions",
         "similarity": 0.10682042769598188
       }
+    ],
+    "question_pl": "Co kulturowo oznacza wręczenie komuś żółtych chryzantem w Polsce?",
+    "options_pl": [
+      "(A) Romantyczne uczucia",
+      "(B) Pogrzeby i Wszystkich Świętych — na cmentarz, nie jako romantyczny gest",
+      "(C) Życzenia urodzinowe",
+      "(D) Przyjaźń"
     ]
   },
   {
@@ -1082,6 +1320,13 @@
         "actor_behavior": "considered superior or better, often in terms of history, architecture, and cultural preservation",
         "similarity": 0.07249017859413874
       }
+    ],
+    "question_pl": "Dlaczego wielu Polaków nadal uważa za zwyczaj zdejmowanie butów w domu?",
+    "options_pl": [
+      "(A) Polska architektura tego wymaga",
+      "(B) Praktyczność (błoto, śnieg) i norma czystości; gospodarze często oferują kapcie",
+      "(C) Tylko starsi tak robią",
+      "(D) Zwyczaj nie istnieje w Polsce"
     ]
   },
   {
@@ -1113,6 +1358,13 @@
         "actor_behavior": "observe a day of rest, with some shops remaining closed and others open, often with limited hours",
         "similarity": 0.09385909213343605
       }
+    ],
+    "question_pl": "Czym są 'Andrzejki' (Wigilia św. Andrzeja, 29 listopada)?",
+    "options_pl": [
+      "(A) Pierwszy dzień zimy",
+      "(B) Noc wróżb ludowych, zwłaszcza dla młodych niezamężnych kobiet (np. lanie wosku przez dziurkę od klucza)",
+      "(C) Dzień postu religijnego",
+      "(D) Polski Dzień Ojca"
     ]
   },
   {
@@ -1144,6 +1396,13 @@
         "actor_behavior": "prepare and consume omelets with various ingredients like potatoes, garlic sauce, and jelly",
         "similarity": 0.09785658048181628
       }
+    ],
+    "question_pl": "Dlaczego kotlet schabowy to polskie danie podstawowe?",
+    "options_pl": [
+      "(A) To rzadki przysmak zarezerwowany dla rodziny królewskiej",
+      "(B) Panierowany kotlet wieprzowy, częste danie domowe i restauracyjne, często z ziemniakami i kapustą",
+      "(C) Rodzaj polskiej zupy",
+      "(D) Importowany przepis francuski"
     ]
   },
   {
@@ -1175,6 +1434,13 @@
         "actor_behavior": "engage in various greetings, including saying hello, good morning, and thank you, as well as hugging and expressing gratitude",
         "similarity": 0.07130182842397022
       }
+    ],
+    "question_pl": "Kiedy Polak mówi 'może', co to często oznacza w kontekstach społecznych?",
+    "options_pl": [
+      "(A) Pewne zobowiązanie 'tak'",
+      "(B) Prawdziwa niepewność lub łagodny/grzeczny sposób odmowy bez bezpośredniego 'nie'",
+      "(C) Wściekła odmowa",
+      "(D) Prośba o powtórzenie"
     ]
   },
   {
@@ -1206,6 +1472,13 @@
         "actor_behavior": "engage in long, continuous celebrations, often starting late at night and ending in the early morning",
         "similarity": 0.16195334606684103
       }
+    ],
+    "question_pl": "Dlaczego polskie wesela tradycyjnie trwają bardzo długo, czasem 2+ dni?",
+    "options_pl": [
+      "(A) Polskie prawo weselne tego wymaga",
+      "(B) Kulturowy nacisk na uroczystość rozszerzonej rodziny, jedzenie, picie, taniec i rytuały",
+      "(C) Wesela trwają tylko 30 minut w Polsce",
+      "(D) Tylko jedno polskie wesele kiedykolwiek trwało długo"
     ]
   },
   {
@@ -1237,6 +1510,13 @@
         "actor_behavior": "engage in lively, multi-day celebrations with unique traditions",
         "similarity": 0.09752154553654903
       }
+    ],
+    "question_pl": "Czym jest 'tłusty czwartek' w polskiej tradycji?",
+    "options_pl": [
+      "(A) Dzień postu",
+      "(B) Ostatni czwartek przed Wielkim Postem — jedzenie pączków i innych bogatych potraw",
+      "(C) Coroczne święto osób z nadwagą",
+      "(D) Boże Narodzenie"
     ]
   },
   {
@@ -1268,6 +1548,13 @@
         "actor_behavior": "engage in various greetings, including saying hello, good morning, and thank you, as well as hugging and expressing gratitude",
         "similarity": 0.05854867558362603
       }
+    ],
+    "question_pl": "Jak polscy kierowcy zwykle sygnalizują 'dziękuję' na drodze?",
+    "options_pl": [
+      "(A) Trzykrotnie głośne trąbienie",
+      "(B) Krótkie miganie światłami awaryjnymi (lub uniesienie ręki) po przepuszczeniu lub pomocy",
+      "(C) Zatrzymanie samochodu i ukłon",
+      "(D) Taki gest nie istnieje"
     ]
   },
   {
@@ -1299,6 +1586,13 @@
         "actor_behavior": "remove shoes as a common practice for comfort, respect, and cleanliness",
         "similarity": 0.12964317712558918
       }
+    ],
+    "question_pl": "Dlaczego goście w polskich domach zwykle otrzymują 'kapcie'?",
+    "options_pl": [
+      "(A) Tylko do tańca",
+      "(B) Standardowa część gościnności po zdjęciu butów — utrzymanie stóp w cieple i podłóg w czystości",
+      "(C) Prezent ślubny",
+      "(D) Urządzenie medyczne"
     ]
   },
   {
@@ -1330,6 +1624,13 @@
         "actor_behavior": "consume various types of sausages, including blood sausage and hotdogs",
         "similarity": 0.0684018614345196
       }
+    ],
+    "question_pl": "Jakie jest znaczenie kultu maryjnego (np. Czarnej Madonny z Częstochowy) w polskim katolicyzmie?",
+    "options_pl": [
+      "(A) Mała regionalna praktyka",
+      "(B) Głęboko centralna — Czarna Madonna jest symbolem narodowym; pielgrzymki do Częstochowy to wielkie wydarzenia",
+      "(C) Zakazane przez polskie prawo",
+      "(D) Praktykowane tylko przez duchowieństwo"
     ]
   },
   {
@@ -1361,6 +1662,13 @@
         "actor_behavior": "engage in various forms of hospitality, including visiting, inviting for tea, and requesting invitations",
         "similarity": 0.16339852814956102
       }
+    ],
+    "question_pl": "Dlaczego 'polska gościnność' jest często opisywana jako przytłaczająca?",
+    "options_pl": [
+      "(A) Polacy nie lubią gości i próbują ich odstraszyć jedzeniem",
+      "(B) 'Gość w dom, Bóg w dom' — szczodra tradycja karmienia i obsługiwania gości",
+      "(C) Gościnność jest zakazana w Polsce",
+      "(D) Tylko rodzina królewska doświadcza gościnności"
     ]
   },
   {
@@ -1392,6 +1700,13 @@
         "actor_behavior": "living and learning about Polish culture, including language and literature appreciation",
         "similarity": 0.07831797832186554
       }
+    ],
+    "question_pl": "Gdy ktoś zapyta 'jak się masz?' po polsku, jaki jest typowy styl odpowiedzi?",
+    "options_pl": [
+      "(A) Zawsze 'świetnie!' niezależnie od uczuć",
+      "(B) Często bardziej szczery niż angielski odpowiednik — Polacy mogą szczerze powiedzieć, jak naprawdę się czują",
+      "(C) Cisza i ignorowanie",
+      "(D) Tylko pytanie zwrotne"
     ]
   },
   {
@@ -1423,6 +1738,13 @@
         "actor_behavior": "engage in customs such as drinking vodka, taking vodka to determine who will be the boss, and pick vodka as a tradition",
         "similarity": 0.09896806848900935
       }
+    ],
+    "question_pl": "Czym jest 'kawa po turecku' w polskiej kulturze kawowej?",
+    "options_pl": [
+      "(A) Napój z ekspresu",
+      "(B) Kawa parzona po turecku — mielone ziarna zalane gorącą wodą bezpośrednio; tradycyjna domowa polska kawa",
+      "(C) Rodzaj herbaty",
+      "(D) Kawa z wódką"
     ]
   },
   {
@@ -1446,6 +1768,13 @@
         "actor_behavior": "wear traditional clothing and dance, including the Polonez, to represent and preserve Polish culture",
         "similarity": 0.07946819325862502
       }
+    ],
+    "question_pl": "Dlaczego 'Lajkonik' (paradujący koń na kiju) jest tradycją krakowską?",
+    "options_pl": [
+      "(A) Nowoczesna zabawka dziecięca",
+      "(B) Coroczna czerwcowa postać festiwalowa przebrana za tatarskiego wojownika na koniku, paradująca po Krakowie",
+      "(C) Rodzaj piwa",
+      "(D) Historyczny polski król"
     ]
   },
   {
@@ -1477,6 +1806,13 @@
         "actor_behavior": "engage in unique food traditions, including eating traditional dishes and cooking with specific methods",
         "similarity": 0.1734584469119131
       }
+    ],
+    "question_pl": "Co jest niegrzeczne podczas kolacji w polskim domu?",
+    "options_pl": [
+      "(A) Zjedzenie całego jedzenia z talerza",
+      "(B) Wielokrotne odmawianie jedzenia, gdy jest oferowane; mówienie 'jestem syty' zbyt wcześnie w posiłku",
+      "(C) Prośba o dokładkę",
+      "(D) Pochwalenie kucharza"
     ]
   },
   {
@@ -1508,6 +1844,13 @@
         "actor_behavior": "living and learning about Polish culture, including language and literature appreciation",
         "similarity": 0.1507773338893162
       }
+    ],
+    "question_pl": "Dlaczego 'Adam Mickiewicz' jest znanym nazwiskiem w Polsce?",
+    "options_pl": [
+      "(A) Współczesna gwiazda popu",
+      "(B) Wieszcz narodowy (1798-1855); jego epos 'Pan Tadeusz' to fundament polskiej literatury",
+      "(C) Pierwszy prezydent Polski",
+      "(D) Wynalazca pierogów"
     ]
   },
   {
@@ -1539,6 +1882,13 @@
         "actor_behavior": "engage in various greetings, including saying hello, good morning, and thank you, as well as hugging and expressing gratitude",
         "similarity": 0.09824666230744318
       }
+    ],
+    "question_pl": "Co kulturowo oznacza powiedzenie 'Mądry Polak po szkodzie'?",
+    "options_pl": [
+      "(A) 'Polacy są zawsze mądrzy'",
+      "(B) Samokrytyczny idiom o nauce z błędów zbyt późno",
+      "(C) 'Polska edukacja jest najlepsza'",
+      "(D) Nie jest prawdziwym powiedzeniem"
     ]
   }
 ]
