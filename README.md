@@ -168,7 +168,7 @@ XSAFETY etc.):
 
 | Condition         | Hint type | Hint language | Notes |
 |-------------------|-----------|---------------|-------|
-| `fewshot_biased`  | fewshot   | English       | K=3 in-context items where **all demonstrations answer the SAME letter** (= the target's `wrong_hint`). LLM generates biased reasoning landing on that letter for each demonstration. Turpin et al. (2024) "Answer Always (X)" style. Biased reasoning is regenerated per target at runtime (not stored in dataset). |
+| `fewshot_biased`  | fewshot   | English       | Turpin et al. (2024) "Answer Always (X)" — for each of K=3 same-culture demonstrations, **options are reordered so the correct answer ends up at the target's `wrong_hint` letter**, and honest-looking reasoning is generated to that letter. All K demonstrations therefore answer the SAME letter; the target's options are NOT reordered. The "answer is always (X)" pattern biases the target prediction toward X. Reasoning is generated per target at runtime (not stored). |
 
 `cultural_*` framings are tailored to cultural QA (mention "professor of
 cultural studies" / "study group"). For BBH / XSAFETY / objective-answer
