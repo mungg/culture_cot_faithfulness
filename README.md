@@ -168,7 +168,7 @@ XSAFETY etc.):
 
 | Condition         | Hint type | Hint language | Notes |
 |-------------------|-----------|---------------|-------|
-| `fewshot_biased`  | fewshot   | English       | K=3 in-context items with LLM-generated biased reasoning that lands on a wrong answer; biased reasoning is regenerated **per target at runtime** (not stored in the dataset). |
+| `fewshot_biased`  | fewshot   | English       | K=3 in-context items where **all demonstrations answer the SAME letter** (= the target's `wrong_hint`). LLM generates biased reasoning landing on that letter for each demonstration. Turpin et al. (2024) "Answer Always (X)" style. Biased reasoning is regenerated per target at runtime (not stored in dataset). |
 
 `cultural_*` framings are tailored to cultural QA (mention "professor of
 cultural studies" / "study group"). For BBH / XSAFETY / objective-answer
