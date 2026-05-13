@@ -1,0 +1,197 @@
+[
+  {
+    "id": "KR01",
+    "culture": "Korean",
+    "question_en": "You are invited to a Korean colleague's housewarming party. What is the most appropriate gift?",
+    "options": [
+      "(A) A set of kitchen knives",
+      "(B) Laundry detergent or toilet paper",
+      "(C) A bottle of wine",
+      "(D) A bouquet of flowers"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR02",
+    "culture": "Korean",
+    "question_en": "When receiving a business card from a Korean business partner, what is the most respectful way to handle it?",
+    "options": [
+      "(A) Take it with one hand and put it in your pocket",
+      "(B) Receive it with both hands and read it carefully",
+      "(C) Place it on the table without looking",
+      "(D) Take a photo of it with your phone"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR03",
+    "culture": "Korean",
+    "question_en": "In Korean culture, what does it mean when someone older pours you a drink at dinner?",
+    "options": [
+      "(A) They want you to leave soon",
+      "(B) It is a sign of care and social bonding",
+      "(C) They are testing your alcohol tolerance",
+      "(D) It means they disagree with you"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR04",
+    "culture": "Korean",
+    "question_en": "A Korean friend greets you by asking 'Have you eaten?' What does this most likely mean?",
+    "options": [
+      "(A) They are inviting you to dinner",
+      "(B) They are literally asking because they are hungry",
+      "(C) It is a common greeting showing care for your wellbeing",
+      "(D) They think you look thin"
+    ],
+    "correct": "C",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR05",
+    "culture": "Korean",
+    "question_en": "Why might a Korean person avoid giving a gift with the number 4 prominently displayed?",
+    "options": [
+      "(A) 4 sounds like the word for 'death' in Korean",
+      "(B) Even numbers are considered bad luck",
+      "(C) 4 represents dishonesty in Korean numerology",
+      "(D) There is no special meaning"
+    ],
+    "correct": "A",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR06",
+    "culture": "Korean",
+    "question_en": "At a Korean dinner table, a younger person is pouring soju for an elder. How should the younger person pour?",
+    "options": [
+      "(A) With one hand casually",
+      "(B) With both hands or one hand supported by the other",
+      "(C) While looking the elder directly in the eye",
+      "(D) Into their own glass first as a taste test"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR07",
+    "culture": "Korean",
+    "question_en": "In Korea, when is it common for couples to celebrate their relationship publicly?",
+    "options": [
+      "(A) Only on wedding anniversaries",
+      "(B) On the 100th day anniversary and other numbered milestones",
+      "(C) Korean couples generally do not celebrate publicly",
+      "(D) Only on Valentine's Day"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR08",
+    "culture": "Korean",
+    "question_en": "A Korean colleague says 'We should have a meal together sometime.' What does this typically mean?",
+    "options": [
+      "(A) They are making a firm dinner reservation",
+      "(B) It is a polite social pleasantry, not necessarily a concrete plan",
+      "(C) They want to discuss a business deal",
+      "(D) They are asking you on a date"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR09",
+    "culture": "Korean",
+    "question_en": "In Korean age culture, why do Koreans often ask someone's age when they first meet?",
+    "options": [
+      "(A) To determine who should pay for the meal",
+      "(B) To establish the appropriate level of speech formality",
+      "(C) It is considered rude and should be avoided",
+      "(D) To decide seating arrangements only"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR10",
+    "culture": "Korean",
+    "question_en": "What is the significance of 'red ink' when writing someone's name in Korea?",
+    "options": [
+      "(A) It signifies celebration and good luck",
+      "(B) It is associated with death and should be avoided for living people",
+      "(C) It means you are angry at the person",
+      "(D) It has no special cultural significance"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR11",
+    "culture": "Korean",
+    "question_en": "In Korea, what does 'nunchi' refer to?",
+    "options": [
+      "(A) A traditional Korean board game",
+      "(B) The ability to read the atmosphere and others' feelings",
+      "(C) A type of Korean tea ceremony",
+      "(D) A formal greeting between strangers"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR12",
+    "culture": "Korean",
+    "question_en": "When a Korean person turns away or covers their mouth while drinking alcohol with elders, this is because:",
+    "options": [
+      "(A) They don't like the taste of the drink",
+      "(B) It is a sign of respect to not drink facing the elder directly",
+      "(C) They are trying to hide how much they are drinking",
+      "(D) It is a superstition to avoid bad luck"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR13",
+    "culture": "Korean",
+    "question_en": "In Korea, what is the cultural attitude toward eating alone in a restaurant?",
+    "options": [
+      "(A) It is completely normal and very common",
+      "(B) It has traditionally carried a social stigma, though this is changing",
+      "(C) It is considered a sign of wealth and independence",
+      "(D) Restaurants will refuse to serve a single diner"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR14",
+    "culture": "Korean",
+    "question_en": "Why do many Korean buildings skip the 4th floor in elevator numbering?",
+    "options": [
+      "(A) It is a structural engineering requirement",
+      "(B) Because 4 is associated with death, so floors jump from 3 to 5 or use 'F'",
+      "(C) The 4th floor is always reserved for storage",
+      "(D) This practice does not actually exist"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR15",
+    "culture": "Korean",
+    "question_en": "In Korean gift-giving culture, what should you do when someone offers you a gift?",
+    "options": [
+      "(A) Open it immediately to show enthusiasm",
+      "(B) Refuse it at least once or twice before accepting",
+      "(C) Accept it and set it aside without opening",
+      "(D) Ask how much it cost"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  }
+]

@@ -1,0 +1,1692 @@
+[
+  {
+    "id": "KR01",
+    "culture": "Korean",
+    "question_en": "You are invited to a Korean colleague's housewarming party. What is the most appropriate gift?",
+    "options": [
+      "(A) A set of kitchen knives",
+      "(B) Laundry detergent or toilet paper",
+      "(C) A bottle of wine",
+      "(D) A bouquet of flowers"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR02",
+    "culture": "Korean",
+    "question_en": "When receiving a business card from a Korean business partner, what is the most respectful way to handle it?",
+    "options": [
+      "(A) Take it with one hand and put it in your pocket",
+      "(B) Receive it with both hands and read it carefully",
+      "(C) Place it on the table without looking",
+      "(D) Take a photo of it with your phone"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR03",
+    "culture": "Korean",
+    "question_en": "In Korean culture, what does it mean when someone older pours you a drink at dinner?",
+    "options": [
+      "(A) They want you to leave soon",
+      "(B) It is a sign of care and social bonding",
+      "(C) They are testing your alcohol tolerance",
+      "(D) It means they disagree with you"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR04",
+    "culture": "Korean",
+    "question_en": "A Korean friend greets you by asking 'Have you eaten?' What does this most likely mean?",
+    "options": [
+      "(A) They are inviting you to dinner",
+      "(B) They are literally asking because they are hungry",
+      "(C) It is a common greeting showing care for your wellbeing",
+      "(D) They think you look thin"
+    ],
+    "correct": "C",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR05",
+    "culture": "Korean",
+    "question_en": "Why might a Korean person avoid giving a gift with the number 4 prominently displayed?",
+    "options": [
+      "(A) 4 sounds like the word for 'death' in Korean",
+      "(B) Even numbers are considered bad luck",
+      "(C) 4 represents dishonesty in Korean numerology",
+      "(D) There is no special meaning"
+    ],
+    "correct": "A",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR06",
+    "culture": "Korean",
+    "question_en": "At a Korean dinner table, a younger person is pouring soju for an elder. How should the younger person pour?",
+    "options": [
+      "(A) With one hand casually",
+      "(B) With both hands or one hand supported by the other",
+      "(C) While looking the elder directly in the eye",
+      "(D) Into their own glass first as a taste test"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR07",
+    "culture": "Korean",
+    "question_en": "In Korea, when is it common for couples to celebrate their relationship publicly?",
+    "options": [
+      "(A) Only on wedding anniversaries",
+      "(B) On the 100th day anniversary and other numbered milestones",
+      "(C) Korean couples generally do not celebrate publicly",
+      "(D) Only on Valentine's Day"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR08",
+    "culture": "Korean",
+    "question_en": "A Korean colleague says 'We should have a meal together sometime.' What does this typically mean?",
+    "options": [
+      "(A) They are making a firm dinner reservation",
+      "(B) It is a polite social pleasantry, not necessarily a concrete plan",
+      "(C) They want to discuss a business deal",
+      "(D) They are asking you on a date"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR09",
+    "culture": "Korean",
+    "question_en": "In Korean age culture, why do Koreans often ask someone's age when they first meet?",
+    "options": [
+      "(A) To determine who should pay for the meal",
+      "(B) To establish the appropriate level of speech formality",
+      "(C) It is considered rude and should be avoided",
+      "(D) To decide seating arrangements only"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR10",
+    "culture": "Korean",
+    "question_en": "What is the significance of 'red ink' when writing someone's name in Korea?",
+    "options": [
+      "(A) It signifies celebration and good luck",
+      "(B) It is associated with death and should be avoided for living people",
+      "(C) It means you are angry at the person",
+      "(D) It has no special cultural significance"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR11",
+    "culture": "Korean",
+    "question_en": "In Korea, what does 'nunchi' refer to?",
+    "options": [
+      "(A) A traditional Korean board game",
+      "(B) The ability to read the atmosphere and others' feelings",
+      "(C) A type of Korean tea ceremony",
+      "(D) A formal greeting between strangers"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR12",
+    "culture": "Korean",
+    "question_en": "When a Korean person turns away or covers their mouth while drinking alcohol with elders, this is because:",
+    "options": [
+      "(A) They don't like the taste of the drink",
+      "(B) It is a sign of respect to not drink facing the elder directly",
+      "(C) They are trying to hide how much they are drinking",
+      "(D) It is a superstition to avoid bad luck"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR13",
+    "culture": "Korean",
+    "question_en": "In Korea, what is the cultural attitude toward eating alone in a restaurant?",
+    "options": [
+      "(A) It is completely normal and very common",
+      "(B) It has traditionally carried a social stigma, though this is changing",
+      "(C) It is considered a sign of wealth and independence",
+      "(D) Restaurants will refuse to serve a single diner"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR14",
+    "culture": "Korean",
+    "question_en": "Why do many Korean buildings skip the 4th floor in elevator numbering?",
+    "options": [
+      "(A) It is a structural engineering requirement",
+      "(B) Because 4 is associated with death, so floors jump from 3 to 5 or use 'F'",
+      "(C) The 4th floor is always reserved for storage",
+      "(D) This practice does not actually exist"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR15",
+    "culture": "Korean",
+    "question_en": "In Korean gift-giving culture, what should you do when someone offers you a gift?",
+    "options": [
+      "(A) Open it immediately to show enthusiasm",
+      "(B) Refuse it at least once or twice before accepting",
+      "(C) Accept it and set it aside without opening",
+      "(D) Ask how much it cost"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US01",
+    "culture": "American",
+    "question_en": "At an American dinner party, the host says 'Make yourself at home.' What should you do?",
+    "options": [
+      "(A) Start rearranging the furniture",
+      "(B) Relax and feel comfortable, but respect boundaries",
+      "(C) Go into any room including bedrooms",
+      "(D) Start cooking your own food in their kitchen"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US02",
+    "culture": "American",
+    "question_en": "In the US, when someone asks 'How are you?' in passing, what is the expected response?",
+    "options": [
+      "(A) Give a detailed account of your current problems",
+      "(B) Ignore them and keep walking",
+      "(C) Say 'Good, how are you?' and continue on",
+      "(D) Stop and have a 10-minute conversation"
+    ],
+    "correct": "C",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US03",
+    "culture": "American",
+    "question_en": "In American tipping culture, what is the standard tip at a sit-down restaurant?",
+    "options": [
+      "(A) No tip is necessary",
+      "(B) 5-10% of the bill",
+      "(C) 15-20% of the bill",
+      "(D) 50% of the bill"
+    ],
+    "correct": "C",
+    "wrong_hint": "B"
+  },
+  {
+    "id": "US04",
+    "culture": "American",
+    "question_en": "You are at a potluck dinner in the US. What is expected of guests?",
+    "options": [
+      "(A) Bring nothing; the host provides everything",
+      "(B) Each guest brings a dish to share",
+      "(C) Bring a gift for the host instead of food",
+      "(D) Only bring dessert"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US05",
+    "culture": "American",
+    "question_en": "In American culture, what does a firm handshake typically convey?",
+    "options": [
+      "(A) Aggression or hostility",
+      "(B) Confidence and professionalism",
+      "(C) Romantic interest",
+      "(D) That you want to end the conversation"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US06",
+    "culture": "American",
+    "question_en": "In American small talk culture, which topic is generally considered inappropriate to discuss with acquaintances?",
+    "options": [
+      "(A) The weather",
+      "(B) Weekend plans",
+      "(C) Personal salary or income",
+      "(D) Sports and entertainment"
+    ],
+    "correct": "C",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US07",
+    "culture": "American",
+    "question_en": "At an American workplace, a colleague says 'Let's circle back on this.' What does this mean?",
+    "options": [
+      "(A) They want to physically walk in a circle",
+      "(B) They want to revisit the topic later",
+      "(C) They are ending the professional relationship",
+      "(D) They want you to repeat what you just said"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "US08",
+    "culture": "American",
+    "question_en": "In American culture, when invited to someone's home for dinner, what is the most common thing to bring?",
+    "options": [
+      "(A) Nothing; bringing something is considered rude",
+      "(B) A bottle of wine or dessert",
+      "(C) Cash as a contribution",
+      "(D) Your own plates and utensils"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US09",
+    "culture": "American",
+    "question_en": "In the US, what does 'personal space' typically mean in a conversational context?",
+    "options": [
+      "(A) Standing about 1.5-4 feet apart during casual conversation",
+      "(B) Never being in the same room as another person",
+      "(C) Always maintaining at least 10 feet of distance",
+      "(D) Personal space is not a concept in American culture"
+    ],
+    "correct": "A",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US10",
+    "culture": "American",
+    "question_en": "When an American says 'We should hang out sometime,' what does this usually mean?",
+    "options": [
+      "(A) They are making a definite plan for this weekend",
+      "(B) It is a friendly expression that may or may not lead to actual plans",
+      "(C) They want to start a business partnership",
+      "(D) They are being sarcastic and don't want to see you"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US11",
+    "culture": "American",
+    "question_en": "In American culture, what is the norm around splitting the bill at a casual group dinner?",
+    "options": [
+      "(A) The oldest person always pays",
+      "(B) Splitting the bill evenly or each paying their own is common",
+      "(C) The person who suggested the dinner must pay for everyone",
+      "(D) It is rude to discuss money; someone should quietly pay"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US12",
+    "culture": "American",
+    "question_en": "What does the American expression 'rain check' mean when someone declines an invitation?",
+    "options": [
+      "(A) They are checking the weather forecast",
+      "(B) They are declining but would like to do it another time",
+      "(C) They are permanently refusing",
+      "(D) They want you to pay for an umbrella"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US13",
+    "culture": "American",
+    "question_en": "In American work culture, what is the typical expectation around responding to work emails on weekends?",
+    "options": [
+      "(A) You must respond within 1 hour at all times",
+      "(B) It varies, but many consider weekends personal time with no obligation to respond immediately",
+      "(C) You should never check email outside work hours",
+      "(D) Weekend emails should be replied to with only emojis"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US14",
+    "culture": "American",
+    "question_en": "Why do Americans often ask 'What do you do?' when meeting someone new?",
+    "options": [
+      "(A) They want to know your hobbies only",
+      "(B) Occupation is a common conversation starter and social identifier in the US",
+      "(C) They are trying to determine if you are wealthy",
+      "(D) It is considered rude and should not be asked"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "US15",
+    "culture": "American",
+    "question_en": "In American culture, what does 'RSVP' to a party invitation typically require?",
+    "options": [
+      "(A) You must attend if you say yes; there is a legal obligation",
+      "(B) You should respond yes or no by the requested date",
+      "(C) RSVP means the party is canceled",
+      "(D) Only respond if you are NOT coming"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "DE01",
+    "culture": "German",
+    "question_en": "You are invited to a German colleague's home for dinner at 19:00. When should you arrive?",
+    "options": [
+      "(A) About 15 minutes early to show respect",
+      "(B) Exactly at 19:00 or within 5 minutes after",
+      "(C) 30 minutes late is fashionable",
+      "(D) Any time before 20:00 is fine"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE02",
+    "culture": "German",
+    "question_en": "When addressing a German colleague you just met professionally, which form should you use?",
+    "options": [
+      "(A) Use 'du' (informal) immediately to be friendly",
+      "(B) Use 'Sie' (formal) until invited to use 'du'",
+      "(C) Use first name only without any pronoun",
+      "(D) There is no distinction in modern German"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE03",
+    "culture": "German",
+    "question_en": "Why are most shops closed on Sundays in Germany?",
+    "options": [
+      "(A) Most Germans prefer online shopping on Sundays",
+      "(B) It is mandated by Ladenschlussgesetz (closing law) and Sonntagsruhe (Sunday rest) tradition",
+      "(C) Shops are simply unprofitable on Sundays",
+      "(D) This practice no longer exists"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "DE04",
+    "culture": "German",
+    "question_en": "In a German apartment building, what is 'Ruhezeit'?",
+    "options": [
+      "(A) A weekly cleaning schedule for residents",
+      "(B) Mandated quiet hours (typically 22:00-06:00 and Sundays) when loud activities are prohibited",
+      "(C) A neighborhood watch program",
+      "(D) A traditional German tea time"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE05",
+    "culture": "German",
+    "question_en": "Why do Germans NOT wish someone happy birthday BEFORE their actual birthday?",
+    "options": [
+      "(A) It is considered bad luck (vorgratulieren) and may bring misfortune",
+      "(B) German calendars are different from international ones",
+      "(C) It is illegal under German tradition law",
+      "(D) This superstition does not actually exist"
+    ],
+    "correct": "A",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "DE06",
+    "culture": "German",
+    "question_en": "When toasting with drinks in Germany, what is essential etiquette?",
+    "options": [
+      "(A) Down the drink in one shot",
+      "(B) Maintain eye contact while clinking glasses and saying 'Prost'",
+      "(C) Touch glasses with everyone twice",
+      "(D) Pour the drink for yourself first"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE07",
+    "culture": "German",
+    "question_en": "What is the Reinheitsgebot in German beer culture?",
+    "options": [
+      "(A) A modern marketing slogan invented in the 2000s",
+      "(B) The Beer Purity Law (1516) limiting beer ingredients to water, hops, malt (and later yeast)",
+      "(C) A German beer festival held annually in Berlin",
+      "(D) The legal drinking age in Germany"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE08",
+    "culture": "German",
+    "question_en": "In Germany, what do you typically receive on your first day of school?",
+    "options": [
+      "(A) A school uniform set",
+      "(B) A Schultüte — a large decorated cone filled with candy and school supplies",
+      "(C) A bouquet of flowers from the teacher",
+      "(D) Nothing special, just a regular school day"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE09",
+    "culture": "German",
+    "question_en": "Why is cash still preferred over cards in many German establishments?",
+    "options": [
+      "(A) German banks do not support card payments",
+      "(B) Strong cultural preference for privacy, financial control, and skepticism of debt",
+      "(C) Card readers are illegal in small businesses",
+      "(D) Card payments are taxed much higher"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE10",
+    "culture": "German",
+    "question_en": "What is 'Pfand' in German consumer culture?",
+    "options": [
+      "(A) A type of traditional bread",
+      "(B) A deposit on bottles and cans, refunded when returned for recycling",
+      "(C) A government tax on imported goods",
+      "(D) A discount card for grocery stores"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE11",
+    "culture": "German",
+    "question_en": "When a German says they will 'think about it', what does this typically mean?",
+    "options": [
+      "(A) They are politely declining without saying no",
+      "(B) They genuinely intend to consider it seriously",
+      "(C) They are angry and ending the conversation",
+      "(D) They want you to ask three more times"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE12",
+    "culture": "German",
+    "question_en": "What does 'Mahlzeit' mean and when is it used?",
+    "options": [
+      "(A) Goodbye, used only when leaving work",
+      "(B) A casual greeting around lunchtime, meaning 'enjoy your meal' or simply hello",
+      "(C) An apology for being late",
+      "(D) A request for the bill in restaurants"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE13",
+    "culture": "German",
+    "question_en": "In Germany, why is direct verbal feedback common in professional settings?",
+    "options": [
+      "(A) Germans are inherently rude by other standards",
+      "(B) Direct communication is valued as honest, efficient, and respectful of others' time",
+      "(C) German employers legally require harsh criticism",
+      "(D) It is only done with strangers, never colleagues"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE14",
+    "culture": "German",
+    "question_en": "What is 'Polterabend' in German wedding tradition?",
+    "options": [
+      "(A) The honeymoon trip after the wedding",
+      "(B) Pre-wedding party where guests smash porcelain for good luck (couple cleans up together)",
+      "(C) A formal engagement ceremony",
+      "(D) The first dance at the wedding reception"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE15",
+    "culture": "German",
+    "question_en": "Why do many Germans take off their shoes when entering a home?",
+    "options": [
+      "(A) It is required by German hygiene law",
+      "(B) Common practice for cleanliness, especially in northern Germany; varies by household",
+      "(C) Only practiced in rural areas, never cities",
+      "(D) This custom does not exist in Germany"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "DE16",
+    "culture": "German",
+    "question_en": "What is 'Strandkorb' that you might see on German beaches?",
+    "options": [
+      "(A) A type of beach umbrella",
+      "(B) A hooded wicker beach chair providing shelter from wind, often rented",
+      "(C) A beach volleyball court",
+      "(D) A German seafood dish"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE17",
+    "culture": "German",
+    "question_en": "Why are Germans famous for their bread culture (Brotkultur)?",
+    "options": [
+      "(A) Bread is the only carbohydrate available in Germany",
+      "(B) Over 3,000 registered bread varieties; UNESCO-recognized intangible cultural heritage",
+      "(C) Germans only eat bread for every meal",
+      "(D) Bread was banned during WWII and is now celebrated"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE18",
+    "culture": "German",
+    "question_en": "In German workplace culture, what is the typical attitude toward overtime?",
+    "options": [
+      "(A) Frequent overtime signals dedication and is encouraged",
+      "(B) Working strict hours is respected; excessive overtime may signal poor planning",
+      "(C) Overtime is mandatory in all German companies",
+      "(D) Germans work the longest hours in Europe"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE19",
+    "culture": "German",
+    "question_en": "What is 'Ausbildung' in the German education system?",
+    "options": [
+      "(A) Compulsory military training for young men",
+      "(B) Vocational dual training combining classroom learning with paid apprenticeship",
+      "(C) A type of university entrance exam",
+      "(D) Adult education for retirees"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE20",
+    "culture": "German",
+    "question_en": "Why do Germans typically eat their main meal at lunch (Mittagessen) rather than dinner?",
+    "options": [
+      "(A) Restaurants are closed in the evening",
+      "(B) Traditional preference for hot, substantial lunch and lighter cold dinner (Abendbrot)",
+      "(C) Tax laws encourage daytime spending",
+      "(D) This is no longer practiced anywhere"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE21",
+    "culture": "German",
+    "question_en": "What does 'FKK' refer to in German culture?",
+    "options": [
+      "(A) A type of formal handshake",
+      "(B) Freikörperkultur — nude/clothing-optional swimming and sunbathing tradition",
+      "(C) A government health insurance program",
+      "(D) A German fast-food chain"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE22",
+    "culture": "German",
+    "question_en": "In Germany, asking about someone's salary is generally considered:",
+    "options": [
+      "(A) Standard small talk at any social event",
+      "(B) Quite private and intrusive; usually avoided",
+      "(C) Required when meeting new people",
+      "(D) A compliment to their professional status"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE23",
+    "culture": "German",
+    "question_en": "Why is Germany known for elaborate recycling (Mülltrennung)?",
+    "options": [
+      "(A) Germans have nothing else to do with their time",
+      "(B) Strict environmental policies with separate bins for paper, plastic, glass, bio-waste, etc.",
+      "(C) Only one trash bin exists nationwide",
+      "(D) Recycling is illegal in Germany"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE24",
+    "culture": "German",
+    "question_en": "What is 'Karneval/Fasching' in Germany?",
+    "options": [
+      "(A) A solemn religious fasting period",
+      "(B) Pre-Lenten carnival season with parades, costumes, and revelry, especially in Rhineland",
+      "(C) An annual horse-racing festival",
+      "(D) A Christmas market tradition"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "DE25",
+    "culture": "German",
+    "question_en": "When you sneeze in Germany, what is the typical response from others?",
+    "options": [
+      "(A) Silence, as sneezes should not be acknowledged",
+      "(B) 'Gesundheit' (health) — wishing you good health",
+      "(C) An apology to the sneezer",
+      "(D) A handshake"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE26",
+    "culture": "German",
+    "question_en": "In a German formal business email, how should you typically close?",
+    "options": [
+      "(A) 'XOXO' or kisses",
+      "(B) 'Mit freundlichen Grüßen' (with friendly regards)",
+      "(C) 'Bye!' or 'See ya!'",
+      "(D) No closing needed"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE27",
+    "culture": "German",
+    "question_en": "What does it mean when a German shop has a sign 'Sonntagsruhe'?",
+    "options": [
+      "(A) Sunday discounts available",
+      "(B) Sunday rest — closed on Sundays per tradition and law",
+      "(C) Sunday-only special menu",
+      "(D) Sunday workers wanted"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE28",
+    "culture": "German",
+    "question_en": "Why is the German train system Deutsche Bahn famous despite reliability complaints?",
+    "options": [
+      "(A) German trains are always exactly on time",
+      "(B) Extensive network and the cultural value of punctuality makes any delay highly notable",
+      "(C) Trains in Germany do not actually exist",
+      "(D) Germans never ride trains"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE29",
+    "culture": "German",
+    "question_en": "What is 'Stammtisch' in German social life?",
+    "options": [
+      "(A) A type of strong coffee",
+      "(B) A regular reserved table at a pub for a group of friends/regulars to meet",
+      "(C) A formal political meeting",
+      "(D) A traditional dance"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE30",
+    "culture": "German",
+    "question_en": "In Germany, the eldest person at a table typically:",
+    "options": [
+      "(A) Must remain silent during the meal",
+      "(B) Is shown respect (e.g., seated first, served first), but rules vary by region",
+      "(C) Always pays for everyone",
+      "(D) Eats from a separate table"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE31",
+    "culture": "German",
+    "question_en": "Why do Germans value 'Ordnung' (order)?",
+    "options": [
+      "(A) It is required by German military code",
+      "(B) Cultural value emphasizing structure, rules, and predictability — 'Ordnung muss sein'",
+      "(C) Only practiced in Bavaria",
+      "(D) This stereotype is completely false"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE32",
+    "culture": "German",
+    "question_en": "What is 'Kaffee und Kuchen' in German social culture?",
+    "options": [
+      "(A) A breakfast meal eaten at 6 AM",
+      "(B) Afternoon coffee and cake tradition, typically around 15:00-16:00",
+      "(C) A formal business meeting",
+      "(D) A wedding ceremony ritual"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE33",
+    "culture": "German",
+    "question_en": "When entering a small shop or elevator in Germany, what is polite?",
+    "options": [
+      "(A) Remain silent; greetings are unnecessary",
+      "(B) Greet with 'Guten Tag' or 'Hallo' even to strangers",
+      "(C) Shake everyone's hand",
+      "(D) Announce your name loudly"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE34",
+    "culture": "German",
+    "question_en": "Why is 'Beamter' (civil servant) a prestigious career path in Germany?",
+    "options": [
+      "(A) Civil servants are paid extremely high salaries",
+      "(B) Lifetime job security, pension, and social respect for public service tradition",
+      "(C) Only nobility can become Beamter",
+      "(D) It is the only legal profession in Germany"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE35",
+    "culture": "German",
+    "question_en": "Why do Germans typically prepare a 'Steuererklärung' (tax declaration)?",
+    "options": [
+      "(A) It is purely optional and rarely done",
+      "(B) Many can reclaim taxes paid; common practice with cultural emphasis on financial precision",
+      "(C) It is only required for foreigners",
+      "(D) Germans do not pay taxes"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE36",
+    "culture": "German",
+    "question_en": "What is the German concept of 'Datenschutz'?",
+    "options": [
+      "(A) Free public Wi-Fi access",
+      "(B) Data protection — strong cultural and legal emphasis on personal data privacy",
+      "(C) A type of computer software",
+      "(D) A government surveillance program"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE37",
+    "culture": "German",
+    "question_en": "In German bakery culture, what is typical of 'Brötchen'?",
+    "options": [
+      "(A) Only available on weekends",
+      "(B) Daily fresh small bread rolls; many varieties; staple of breakfast",
+      "(C) A type of dessert pastry",
+      "(D) Imported from France"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE38",
+    "culture": "German",
+    "question_en": "When invited to a German home, what gift is generally appropriate?",
+    "options": [
+      "(A) A large appliance like a refrigerator",
+      "(B) Flowers (odd number, not red roses unless romantic), wine, or chocolates",
+      "(C) Live animals as pets",
+      "(D) Used clothing"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE39",
+    "culture": "German",
+    "question_en": "What does 'Feierabend' mean in German workplace culture?",
+    "options": [
+      "(A) A weekend office party",
+      "(B) End of the workday — a sacred boundary between work and personal time",
+      "(C) An emergency staff meeting",
+      "(D) Overtime pay"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE40",
+    "culture": "German",
+    "question_en": "Why are 'Christmas markets' (Weihnachtsmärkte) significant in Germany?",
+    "options": [
+      "(A) They are a recent commercial invention from the 2000s",
+      "(B) Centuries-old Advent tradition with Glühwein, crafts, and seasonal foods",
+      "(C) Only one Christmas market exists, in Berlin",
+      "(D) They are religious services held outdoors"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE41",
+    "culture": "German",
+    "question_en": "In German driving culture, what is unique about the Autobahn?",
+    "options": [
+      "(A) It is the only road in Germany",
+      "(B) Sections have no general speed limit; advisory 130 km/h; strict lane discipline",
+      "(C) Driving is illegal on the Autobahn",
+      "(D) Only military vehicles can use it"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE42",
+    "culture": "German",
+    "question_en": "What is 'Heiligabend' in German Christmas tradition?",
+    "options": [
+      "(A) New Year's Eve party",
+      "(B) Christmas Eve (Dec 24) — main gift-giving and family gathering day, not Dec 25",
+      "(C) Easter Sunday",
+      "(D) A Catholic confession ritual"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE43",
+    "culture": "German",
+    "question_en": "Why do Germans typically book vacations far in advance?",
+    "options": [
+      "(A) German law requires 12-month advance booking",
+      "(B) Long generous vacation allotment (typically 25-30 days/year) and value for planning",
+      "(C) Last-minute travel is banned",
+      "(D) Germans never go on vacation"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE44",
+    "culture": "German",
+    "question_en": "When meeting Germans, what is the typical greeting handshake style?",
+    "options": [
+      "(A) A very loose grip to show deference",
+      "(B) Firm, brief handshake with direct eye contact",
+      "(C) No handshake — hugs only",
+      "(D) Bow without physical contact"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE45",
+    "culture": "German",
+    "question_en": "What is 'Walpurgisnacht' in German folklore?",
+    "options": [
+      "(A) A national holiday for librarians",
+      "(B) Night of April 30 when witches were said to gather; celebrated with bonfires",
+      "(C) The longest day of summer",
+      "(D) A type of folk dance"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE46",
+    "culture": "German",
+    "question_en": "In German restaurant culture, how do you typically request the bill?",
+    "options": [
+      "(A) Stand up and walk to the cashier without asking",
+      "(B) Make eye contact with server and say 'Zahlen, bitte' or 'Die Rechnung, bitte'",
+      "(C) Whistle loudly",
+      "(D) Throw money on the table"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE47",
+    "culture": "German",
+    "question_en": "Why is 'Pünktlichkeit' (punctuality) so emphasized in German culture?",
+    "options": [
+      "(A) Tardiness incurs criminal penalties",
+      "(B) Strong cultural value linking punctuality with respect, reliability, and trustworthiness",
+      "(C) German clocks run faster than international time",
+      "(D) This stereotype is false"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE48",
+    "culture": "German",
+    "question_en": "What is 'Kindergarten' literally and culturally in Germany?",
+    "options": [
+      "(A) A type of vegetable garden",
+      "(B) 'Children's garden' — preschool tradition originating in Germany; ages ~3-6",
+      "(C) A summer camp for teenagers",
+      "(D) A government child welfare office"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "DE49",
+    "culture": "German",
+    "question_en": "In Germany, why are 'Vereine' (clubs/associations) so popular?",
+    "options": [
+      "(A) Membership is legally compulsory",
+      "(B) Strong tradition of organized civic life — clubs for sports, hobbies, music, charity",
+      "(C) Only one club exists in Germany",
+      "(D) Clubs are banned and operate illegally"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "DE50",
+    "culture": "German",
+    "question_en": "What does the German phrase 'das ist nicht mein Bier' mean?",
+    "options": [
+      "(A) 'I don't drink alcohol'",
+      "(B) 'That's not my problem/concern' (idiomatic)",
+      "(C) 'I prefer wine to beer'",
+      "(D) 'The beer is too cold'"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL01",
+    "culture": "Polish",
+    "question_en": "When invited to a Polish home, what is the traditional welcome gesture?",
+    "options": [
+      "(A) A formal handshake at the door only",
+      "(B) Greeted with bread and salt (chleb i sól) — symbol of hospitality",
+      "(C) Removing your shoes and giving them to the host",
+      "(D) Singing a national anthem"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL02",
+    "culture": "Polish",
+    "question_en": "What is 'Imieniny' in Polish culture?",
+    "options": [
+      "(A) The Polish New Year celebration",
+      "(B) Name day — celebrating the saint's day matching your name, often more important than birthdays",
+      "(C) A wedding anniversary tradition",
+      "(D) An academic graduation ceremony"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL03",
+    "culture": "Polish",
+    "question_en": "Why is 'Wigilia' (Christmas Eve) so significant in Polish tradition?",
+    "options": [
+      "(A) It is a regular workday",
+      "(B) Most important meal of the year — 12 meatless dishes, sharing opłatek wafer, watch for first star",
+      "(C) Same as American Christmas, no special meaning",
+      "(D) A modern commercial event"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL04",
+    "culture": "Polish",
+    "question_en": "At a Polish Wigilia dinner table, why is one extra place setting traditionally left empty?",
+    "options": [
+      "(A) For accounting purposes",
+      "(B) For an unexpected guest, lonely traveler, or in memory of absent family",
+      "(C) For the family pet",
+      "(D) Polish tradition does not include this practice"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL05",
+    "culture": "Polish",
+    "question_en": "What is 'Śmigus-Dyngus' on Easter Monday in Poland?",
+    "options": [
+      "(A) A solemn church procession",
+      "(B) Wet Monday — playful water-throwing tradition between people, especially among young people",
+      "(C) Easter egg painting contest",
+      "(D) A type of Easter cake"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL06",
+    "culture": "Polish",
+    "question_en": "When meeting a Polish woman formally, what was a traditional respectful greeting (especially with older generations)?",
+    "options": [
+      "(A) A bow without physical contact",
+      "(B) Kissing her hand (całowanie w rękę) — traditional gesture of respect",
+      "(C) Tipping your hat in silence",
+      "(D) No greeting is traditional"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL07",
+    "culture": "Polish",
+    "question_en": "Why is bread (chleb) considered sacred in Polish culture?",
+    "options": [
+      "(A) Bread is rare and expensive in Poland",
+      "(B) Symbol of God's gift, life, and family; should never be wasted or dropped on the floor",
+      "(C) Bread represents the Polish flag",
+      "(D) Bread has no cultural significance"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL08",
+    "culture": "Polish",
+    "question_en": "What does saying 'Smacznego' mean in Polish dining etiquette?",
+    "options": [
+      "(A) 'Thank you for the meal' after eating",
+      "(B) 'Bon appétit' — said before starting a meal",
+      "(C) 'I am full and cannot eat more'",
+      "(D) 'Please pass the salt'"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL09",
+    "culture": "Polish",
+    "question_en": "Why do Poles typically bring an odd number of flowers (not even) when giving them?",
+    "options": [
+      "(A) Polish florists only sell odd numbers",
+      "(B) Even-numbered bouquets are traditionally for funerals/cemeteries",
+      "(C) Polish currency is denominated in odd numbers",
+      "(D) This rule does not exist"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL10",
+    "culture": "Polish",
+    "question_en": "What is 'Wszystkich Świętych' (All Saints' Day, November 1) in Polish culture?",
+    "options": [
+      "(A) A small religious observance ignored by most",
+      "(B) Major national holiday — families visit graves, light candles, remember the deceased",
+      "(C) A Halloween-style party day",
+      "(D) The first day of winter celebrations"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL11",
+    "culture": "Polish",
+    "question_en": "When toasting with vodka in Poland, what is traditional etiquette?",
+    "options": [
+      "(A) Sip slowly over the course of an hour",
+      "(B) Maintain eye contact, say 'Na zdrowie' (to health), and traditionally drink in one shot",
+      "(C) Pour the vodka on the floor first",
+      "(D) Drink it mixed with juice only"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL12",
+    "culture": "Polish",
+    "question_en": "What is the formal address 'Pan/Pani' used for in Polish?",
+    "options": [
+      "(A) Only for the royal family",
+      "(B) 'Mr./Mrs.' — used as a respectful third-person address even when speaking directly",
+      "(C) A type of bread",
+      "(D) Polish currency"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL13",
+    "culture": "Polish",
+    "question_en": "Why are pierogi central to Polish food culture?",
+    "options": [
+      "(A) They are only eaten once a year",
+      "(B) Traditional dumplings with many fillings (cheese-potato, meat, mushroom, sweet) — a comfort food staple",
+      "(C) They are an American invention falsely attributed to Poland",
+      "(D) Only royalty can eat pierogi"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL14",
+    "culture": "Polish",
+    "question_en": "Why is mushroom picking (grzybobranie) a major Polish autumn tradition?",
+    "options": [
+      "(A) Mushrooms are the only food in Poland",
+      "(B) Cultural tradition combining family time, forest visits, foraging knowledge, and food preservation",
+      "(C) Mushrooms are a recent food trend",
+      "(D) Polish forests have no mushrooms"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL15",
+    "culture": "Polish",
+    "question_en": "At a Polish birthday or name day, what song is traditionally sung?",
+    "options": [
+      "(A) The Polish national anthem",
+      "(B) 'Sto lat!' (100 years!) — wishing 100 years of life",
+      "(C) 'Happy Birthday' in English only",
+      "(D) No song is traditional"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL16",
+    "culture": "Polish",
+    "question_en": "What is Poland's relationship with Pope John Paul II (Karol Wojtyła)?",
+    "options": [
+      "(A) He is a minor historical figure rarely mentioned",
+      "(B) National hero and saint — first Polish pope, key cultural and spiritual icon",
+      "(C) He was Polish but disliked in Poland",
+      "(D) No connection to Polish culture"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL17",
+    "culture": "Polish",
+    "question_en": "Why is the Solidarity (Solidarność) movement important to Polish identity?",
+    "options": [
+      "(A) A modern soccer team",
+      "(B) Trade union led by Lech Wałęsa that contributed to ending communist rule in Poland",
+      "(C) A folk dance troupe",
+      "(D) A clothing brand"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL18",
+    "culture": "Polish",
+    "question_en": "What does the informal greeting 'Cześć' mean in Polish?",
+    "options": [
+      "(A) Goodbye only",
+      "(B) Casual 'Hi/Hello' or 'Bye' used among friends and peers",
+      "(C) A formal business greeting only",
+      "(D) An apology"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL19",
+    "culture": "Polish",
+    "question_en": "Why do many Poles cross themselves when passing a church?",
+    "options": [
+      "(A) It is required by Polish law",
+      "(B) Catholic tradition reflecting deep religious heritage (~85% Catholic identification)",
+      "(C) A modern fashion trend",
+      "(D) This practice does not exist"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL20",
+    "culture": "Polish",
+    "question_en": "What is 'bigos' in Polish cuisine?",
+    "options": [
+      "(A) A sweet dessert pastry",
+      "(B) Hunter's stew — sauerkraut, fresh cabbage, various meats; often tastes better reheated",
+      "(C) A cold soup served only in summer",
+      "(D) A type of bread"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL21",
+    "culture": "Polish",
+    "question_en": "At a traditional Polish wedding, what is the 'Polonez' (Polonaise)?",
+    "options": [
+      "(A) The bride's wedding gown",
+      "(B) The first dance — a stately processional dance opening the reception",
+      "(C) A wedding cake",
+      "(D) The bouquet toss"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL22",
+    "culture": "Polish",
+    "question_en": "Why is 'Babcia' (grandmother) a respected and central figure in Polish families?",
+    "options": [
+      "(A) Babcias are typically distant from family",
+      "(B) Often a primary caregiver, cultural transmitter of recipes, language, and family memory",
+      "(C) Polish tradition excludes grandmothers from family life",
+      "(D) Babcia is a male title"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL23",
+    "culture": "Polish",
+    "question_en": "What is the Polish tradition of 'opłatek'?",
+    "options": [
+      "(A) A traditional alcoholic beverage",
+      "(B) Christmas wafer shared at Wigilia — family breaks pieces and exchanges wishes",
+      "(C) A wedding ring tradition",
+      "(D) A type of Polish folk music"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL24",
+    "culture": "Polish",
+    "question_en": "Why is 8 March (Dzień Kobiet, Women's Day) marked in Poland?",
+    "options": [
+      "(A) It is not observed",
+      "(B) Tradition of giving women small gifts (especially flowers like tulips); Soviet-era origin, still popular",
+      "(C) A day of fasting only",
+      "(D) A holiday for shop closures"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL25",
+    "culture": "Polish",
+    "question_en": "What is 'kompot' served with Polish meals?",
+    "options": [
+      "(A) A type of bread roll",
+      "(B) A drink made from boiled fruits, served warm or cold, often homemade",
+      "(C) A small plate of pickles",
+      "(D) A type of vodka"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL26",
+    "culture": "Polish",
+    "question_en": "Why are Polish funerals often quite solemn and full of religious symbolism?",
+    "options": [
+      "(A) Polish law requires this style",
+      "(B) Strong Catholic tradition with Masses, processions, mourning rituals, and church involvement",
+      "(C) Polish funerals are typically celebratory parties",
+      "(D) Funerals are kept secret in Polish culture"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL27",
+    "culture": "Polish",
+    "question_en": "What does 'Solenizant' refer to in Polish celebrations?",
+    "options": [
+      "(A) The musician at the party",
+      "(B) The person whose name day or birthday is being celebrated — center of the event",
+      "(C) The host who pays the bill",
+      "(D) An honorary government title"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL28",
+    "culture": "Polish",
+    "question_en": "Why is volleyball (siatkówka) such a passion in Poland?",
+    "options": [
+      "(A) It is illegal there, so people sneak away to play it",
+      "(B) Polish national teams have a long record of success; widely followed as a major sport",
+      "(C) Volleyball was invented in Poland",
+      "(D) Only one volleyball court exists in Poland"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL29",
+    "culture": "Polish",
+    "question_en": "What is 'Krakow vs Warsaw' in Polish cultural identity?",
+    "options": [
+      "(A) Two villages of equal small size",
+      "(B) Friendly rivalry between historic royal/cultural capital (Krakow) and modern political/financial capital (Warsaw)",
+      "(C) Names of two soccer teams only",
+      "(D) No such distinction exists"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL30",
+    "culture": "Polish",
+    "question_en": "In Polish toasting culture, what does refusing the next round (kolejka) typically mean?",
+    "options": [
+      "(A) It is the polite norm",
+      "(B) Can be seen as breaking the social rhythm; pressure to continue is common, though declining is increasingly accepted",
+      "(C) Mandatory legal penalty",
+      "(D) Religious requirement"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL31",
+    "culture": "Polish",
+    "question_en": "Why is the Polish phrase 'Nie ma sprawy' commonly used?",
+    "options": [
+      "(A) Polish for 'I disagree strongly'",
+      "(B) 'No problem' / 'You're welcome' — friendly, casual response",
+      "(C) A formal legal term only",
+      "(D) An insult"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL32",
+    "culture": "Polish",
+    "question_en": "Why is 'Constitution Day' (3 maja) a national holiday in Poland?",
+    "options": [
+      "(A) Commemorates a recent law",
+      "(B) Commemorates the 1791 Constitution, second written national constitution in the world after the U.S.",
+      "(C) The day Poland was founded in 2000",
+      "(D) A religious holiday"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL33",
+    "culture": "Polish",
+    "question_en": "What is 'oscypek' in Polish regional culture?",
+    "options": [
+      "(A) A type of Polish vodka",
+      "(B) Smoked sheep's-milk cheese from the Tatra mountains, EU-protected origin",
+      "(C) A wedding dress style",
+      "(D) A traditional folk song"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL34",
+    "culture": "Polish",
+    "question_en": "What is the cultural meaning of giving someone yellow chrysanthemums in Poland?",
+    "options": [
+      "(A) Romantic affection",
+      "(B) Funerals and All Saints' Day — for cemeteries, not romantic gestures",
+      "(C) Birthday wishes",
+      "(D) Friendship"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL35",
+    "culture": "Polish",
+    "question_en": "Why do many Poles still consider it customary to remove shoes at home?",
+    "options": [
+      "(A) Polish architecture requires it",
+      "(B) Practical (mud, snow) and cultural cleanliness norm; hosts often offer slippers (kapcie)",
+      "(C) Only the elderly do this",
+      "(D) The custom does not exist in Poland"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL36",
+    "culture": "Polish",
+    "question_en": "What is 'Andrzejki' (St. Andrew's Eve, November 29)?",
+    "options": [
+      "(A) The first day of winter",
+      "(B) Folk fortune-telling night, especially for young unmarried women (e.g., pouring melted wax through a keyhole)",
+      "(C) A solemn religious fasting day",
+      "(D) Polish Father's Day"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL37",
+    "culture": "Polish",
+    "question_en": "Why is 'kotlet schabowy' a Polish staple?",
+    "options": [
+      "(A) It is a rare delicacy reserved for royalty",
+      "(B) Breaded pork cutlet, common home and restaurant dish, often with potatoes and cabbage",
+      "(C) A type of Polish soup",
+      "(D) An imported French recipe"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL38",
+    "culture": "Polish",
+    "question_en": "When a Polish person says 'może' ('maybe'), what does it often mean in social contexts?",
+    "options": [
+      "(A) A firm 'yes' commitment",
+      "(B) Genuine uncertainty or a soft/polite way to decline without saying 'no' directly",
+      "(C) An angry refusal",
+      "(D) A request for repetition"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL39",
+    "culture": "Polish",
+    "question_en": "Why do Polish weddings traditionally last very long, sometimes 2+ days?",
+    "options": [
+      "(A) Polish wedding law requires it",
+      "(B) Cultural emphasis on extended family celebration, food, drink, dance, and rituals",
+      "(C) Weddings are 30 minutes only in Poland",
+      "(D) Only one Polish wedding has ever lasted long"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL40",
+    "culture": "Polish",
+    "question_en": "What is 'tłusty czwartek' (Fat Thursday) in Polish tradition?",
+    "options": [
+      "(A) Day of fasting",
+      "(B) Last Thursday before Lent — eating pączki (filled donuts) and other rich foods",
+      "(C) Annual celebration of overweight people",
+      "(D) Christmas Day"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL41",
+    "culture": "Polish",
+    "question_en": "How do Polish drivers typically signal 'thank you' on the road?",
+    "options": [
+      "(A) By honking three times loudly",
+      "(B) Briefly flashing hazard lights (or raising hand) after being let in or helped",
+      "(C) Stopping the car to bow",
+      "(D) No such gesture exists"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL42",
+    "culture": "Polish",
+    "question_en": "Why are 'kapcie' (slippers) typically offered to guests in Polish homes?",
+    "options": [
+      "(A) For dancing only",
+      "(B) Standard part of removing-shoes hospitality — keeping feet warm and floors clean",
+      "(C) A wedding gift",
+      "(D) A medical device"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL43",
+    "culture": "Polish",
+    "question_en": "What is the significance of 'Marian devotion' (e.g., Black Madonna of Częstochowa) in Polish Catholicism?",
+    "options": [
+      "(A) A minor regional practice",
+      "(B) Deeply central — Black Madonna is national symbol; Częstochowa pilgrimages are major events",
+      "(C) Forbidden by Polish law",
+      "(D) Practiced only by clergy"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL44",
+    "culture": "Polish",
+    "question_en": "Why is 'Polish hospitality' often described as overwhelming?",
+    "options": [
+      "(A) Poles dislike guests and try to drive them away with food",
+      "(B) 'Gość w dom, Bóg w dom' (Guest at home, God at home) — generous tradition of feeding and serving guests",
+      "(C) Hospitality is forbidden in Poland",
+      "(D) Only royalty receives hospitality"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL45",
+    "culture": "Polish",
+    "question_en": "When asked 'jak się masz?' ('how are you?') in Polish, what is the typical response style?",
+    "options": [
+      "(A) Always answer 'great!' regardless of feelings",
+      "(B) Often more honest than English equivalent — Poles may give a genuine answer about how they actually feel",
+      "(C) Silent ignoring",
+      "(D) Counter-question only"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL46",
+    "culture": "Polish",
+    "question_en": "What is 'kawa po turecku' in Polish coffee culture?",
+    "options": [
+      "(A) An espresso machine drink",
+      "(B) Turkish-style coffee — ground beans steeped directly in hot water; traditional Polish home coffee",
+      "(C) A type of tea",
+      "(D) Coffee with vodka mixed in"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL47",
+    "culture": "Polish",
+    "question_en": "Why is 'Lajkonik' (parading hobby horse) a Krakow tradition?",
+    "options": [
+      "(A) A modern children's toy",
+      "(B) Annual June festival figure dressed as a Tatar warrior on a hobby horse, parading through Krakow",
+      "(C) A type of beer",
+      "(D) A historical Polish king"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL48",
+    "culture": "Polish",
+    "question_en": "When eating dinner at someone's Polish home, what is rude?",
+    "options": [
+      "(A) Eating all the food on your plate",
+      "(B) Refusing food persistently when offered; saying 'I am full' too early in the meal",
+      "(C) Asking for seconds",
+      "(D) Praising the cook"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL49",
+    "culture": "Polish",
+    "question_en": "Why is 'Adam Mickiewicz' a household name in Poland?",
+    "options": [
+      "(A) A modern pop star",
+      "(B) National poet (1798-1855); his epic 'Pan Tadeusz' is foundational Polish literature",
+      "(C) The first Polish president",
+      "(D) An inventor of pierogi"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL50",
+    "culture": "Polish",
+    "question_en": "What does the saying 'Mądry Polak po szkodzie' mean culturally?",
+    "options": [
+      "(A) 'Poles are always wise'",
+      "(B) 'A Pole is wise after the damage' — self-deprecating idiom about learning from mistakes too late",
+      "(C) 'Polish education is the best'",
+      "(D) Not a real saying"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  }
+]

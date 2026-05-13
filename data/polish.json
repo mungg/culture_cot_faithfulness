@@ -1,0 +1,652 @@
+[
+  {
+    "id": "PL01",
+    "culture": "Polish",
+    "question_en": "When invited to a Polish home, what is the traditional welcome gesture?",
+    "options": [
+      "(A) A formal handshake at the door only",
+      "(B) Greeted with bread and salt (chleb i sól) — symbol of hospitality",
+      "(C) Removing your shoes and giving them to the host",
+      "(D) Singing a national anthem"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL02",
+    "culture": "Polish",
+    "question_en": "What is 'Imieniny' in Polish culture?",
+    "options": [
+      "(A) The Polish New Year celebration",
+      "(B) Name day — celebrating the saint's day matching your name, often more important than birthdays",
+      "(C) A wedding anniversary tradition",
+      "(D) An academic graduation ceremony"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL03",
+    "culture": "Polish",
+    "question_en": "Why is 'Wigilia' (Christmas Eve) so significant in Polish tradition?",
+    "options": [
+      "(A) It is a regular workday",
+      "(B) Most important meal of the year — 12 meatless dishes, sharing opłatek wafer, watch for first star",
+      "(C) Same as American Christmas, no special meaning",
+      "(D) A modern commercial event"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL04",
+    "culture": "Polish",
+    "question_en": "At a Polish Wigilia dinner table, why is one extra place setting traditionally left empty?",
+    "options": [
+      "(A) For accounting purposes",
+      "(B) For an unexpected guest, lonely traveler, or in memory of absent family",
+      "(C) For the family pet",
+      "(D) Polish tradition does not include this practice"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL05",
+    "culture": "Polish",
+    "question_en": "What is 'Śmigus-Dyngus' on Easter Monday in Poland?",
+    "options": [
+      "(A) A solemn church procession",
+      "(B) Wet Monday — playful water-throwing tradition between people, especially among young people",
+      "(C) Easter egg painting contest",
+      "(D) A type of Easter cake"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL06",
+    "culture": "Polish",
+    "question_en": "When meeting a Polish woman formally, what was a traditional respectful greeting (especially with older generations)?",
+    "options": [
+      "(A) A bow without physical contact",
+      "(B) Kissing her hand (całowanie w rękę) — traditional gesture of respect",
+      "(C) Tipping your hat in silence",
+      "(D) No greeting is traditional"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL07",
+    "culture": "Polish",
+    "question_en": "Why is bread (chleb) considered sacred in Polish culture?",
+    "options": [
+      "(A) Bread is rare and expensive in Poland",
+      "(B) Symbol of God's gift, life, and family; should never be wasted or dropped on the floor",
+      "(C) Bread represents the Polish flag",
+      "(D) Bread has no cultural significance"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL08",
+    "culture": "Polish",
+    "question_en": "What does saying 'Smacznego' mean in Polish dining etiquette?",
+    "options": [
+      "(A) 'Thank you for the meal' after eating",
+      "(B) 'Bon appétit' — said before starting a meal",
+      "(C) 'I am full and cannot eat more'",
+      "(D) 'Please pass the salt'"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL09",
+    "culture": "Polish",
+    "question_en": "Why do Poles typically bring an odd number of flowers (not even) when giving them?",
+    "options": [
+      "(A) Polish florists only sell odd numbers",
+      "(B) Even-numbered bouquets are traditionally for funerals/cemeteries",
+      "(C) Polish currency is denominated in odd numbers",
+      "(D) This rule does not exist"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL10",
+    "culture": "Polish",
+    "question_en": "What is 'Wszystkich Świętych' (All Saints' Day, November 1) in Polish culture?",
+    "options": [
+      "(A) A small religious observance ignored by most",
+      "(B) Major national holiday — families visit graves, light candles, remember the deceased",
+      "(C) A Halloween-style party day",
+      "(D) The first day of winter celebrations"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL11",
+    "culture": "Polish",
+    "question_en": "When toasting with vodka in Poland, what is traditional etiquette?",
+    "options": [
+      "(A) Sip slowly over the course of an hour",
+      "(B) Maintain eye contact, say 'Na zdrowie' (to health), and traditionally drink in one shot",
+      "(C) Pour the vodka on the floor first",
+      "(D) Drink it mixed with juice only"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL12",
+    "culture": "Polish",
+    "question_en": "What is the formal address 'Pan/Pani' used for in Polish?",
+    "options": [
+      "(A) Only for the royal family",
+      "(B) 'Mr./Mrs.' — used as a respectful third-person address even when speaking directly",
+      "(C) A type of bread",
+      "(D) Polish currency"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL13",
+    "culture": "Polish",
+    "question_en": "Why are pierogi central to Polish food culture?",
+    "options": [
+      "(A) They are only eaten once a year",
+      "(B) Traditional dumplings with many fillings (cheese-potato, meat, mushroom, sweet) — a comfort food staple",
+      "(C) They are an American invention falsely attributed to Poland",
+      "(D) Only royalty can eat pierogi"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL14",
+    "culture": "Polish",
+    "question_en": "Why is mushroom picking (grzybobranie) a major Polish autumn tradition?",
+    "options": [
+      "(A) Mushrooms are the only food in Poland",
+      "(B) Cultural tradition combining family time, forest visits, foraging knowledge, and food preservation",
+      "(C) Mushrooms are a recent food trend",
+      "(D) Polish forests have no mushrooms"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL15",
+    "culture": "Polish",
+    "question_en": "At a Polish birthday or name day, what song is traditionally sung?",
+    "options": [
+      "(A) The Polish national anthem",
+      "(B) 'Sto lat!' (100 years!) — wishing 100 years of life",
+      "(C) 'Happy Birthday' in English only",
+      "(D) No song is traditional"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL16",
+    "culture": "Polish",
+    "question_en": "What is Poland's relationship with Pope John Paul II (Karol Wojtyła)?",
+    "options": [
+      "(A) He is a minor historical figure rarely mentioned",
+      "(B) National hero and saint — first Polish pope, key cultural and spiritual icon",
+      "(C) He was Polish but disliked in Poland",
+      "(D) No connection to Polish culture"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL17",
+    "culture": "Polish",
+    "question_en": "Why is the Solidarity (Solidarność) movement important to Polish identity?",
+    "options": [
+      "(A) A modern soccer team",
+      "(B) Trade union led by Lech Wałęsa that contributed to ending communist rule in Poland",
+      "(C) A folk dance troupe",
+      "(D) A clothing brand"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL18",
+    "culture": "Polish",
+    "question_en": "What does the informal greeting 'Cześć' mean in Polish?",
+    "options": [
+      "(A) Goodbye only",
+      "(B) Casual 'Hi/Hello' or 'Bye' used among friends and peers",
+      "(C) A formal business greeting only",
+      "(D) An apology"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL19",
+    "culture": "Polish",
+    "question_en": "Why do many Poles cross themselves when passing a church?",
+    "options": [
+      "(A) It is required by Polish law",
+      "(B) Catholic tradition reflecting deep religious heritage (~85% Catholic identification)",
+      "(C) A modern fashion trend",
+      "(D) This practice does not exist"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL20",
+    "culture": "Polish",
+    "question_en": "What is 'bigos' in Polish cuisine?",
+    "options": [
+      "(A) A sweet dessert pastry",
+      "(B) Hunter's stew — sauerkraut, fresh cabbage, various meats; often tastes better reheated",
+      "(C) A cold soup served only in summer",
+      "(D) A type of bread"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL21",
+    "culture": "Polish",
+    "question_en": "At a traditional Polish wedding, what is the 'Polonez' (Polonaise)?",
+    "options": [
+      "(A) The bride's wedding gown",
+      "(B) The first dance — a stately processional dance opening the reception",
+      "(C) A wedding cake",
+      "(D) The bouquet toss"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL22",
+    "culture": "Polish",
+    "question_en": "Why is 'Babcia' (grandmother) a respected and central figure in Polish families?",
+    "options": [
+      "(A) Babcias are typically distant from family",
+      "(B) Often a primary caregiver, cultural transmitter of recipes, language, and family memory",
+      "(C) Polish tradition excludes grandmothers from family life",
+      "(D) Babcia is a male title"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL23",
+    "culture": "Polish",
+    "question_en": "What is the Polish tradition of 'opłatek'?",
+    "options": [
+      "(A) A traditional alcoholic beverage",
+      "(B) Christmas wafer shared at Wigilia — family breaks pieces and exchanges wishes",
+      "(C) A wedding ring tradition",
+      "(D) A type of Polish folk music"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL24",
+    "culture": "Polish",
+    "question_en": "Why is 8 March (Dzień Kobiet, Women's Day) marked in Poland?",
+    "options": [
+      "(A) It is not observed",
+      "(B) Tradition of giving women small gifts (especially flowers like tulips); Soviet-era origin, still popular",
+      "(C) A day of fasting only",
+      "(D) A holiday for shop closures"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL25",
+    "culture": "Polish",
+    "question_en": "What is 'kompot' served with Polish meals?",
+    "options": [
+      "(A) A type of bread roll",
+      "(B) A drink made from boiled fruits, served warm or cold, often homemade",
+      "(C) A small plate of pickles",
+      "(D) A type of vodka"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL26",
+    "culture": "Polish",
+    "question_en": "Why are Polish funerals often quite solemn and full of religious symbolism?",
+    "options": [
+      "(A) Polish law requires this style",
+      "(B) Strong Catholic tradition with Masses, processions, mourning rituals, and church involvement",
+      "(C) Polish funerals are typically celebratory parties",
+      "(D) Funerals are kept secret in Polish culture"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL27",
+    "culture": "Polish",
+    "question_en": "What does 'Solenizant' refer to in Polish celebrations?",
+    "options": [
+      "(A) The musician at the party",
+      "(B) The person whose name day or birthday is being celebrated — center of the event",
+      "(C) The host who pays the bill",
+      "(D) An honorary government title"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL28",
+    "culture": "Polish",
+    "question_en": "Why is volleyball (siatkówka) such a passion in Poland?",
+    "options": [
+      "(A) It is illegal there, so people sneak away to play it",
+      "(B) Polish national teams have a long record of success; widely followed as a major sport",
+      "(C) Volleyball was invented in Poland",
+      "(D) Only one volleyball court exists in Poland"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL29",
+    "culture": "Polish",
+    "question_en": "What is 'Krakow vs Warsaw' in Polish cultural identity?",
+    "options": [
+      "(A) Two villages of equal small size",
+      "(B) Friendly rivalry between historic royal/cultural capital (Krakow) and modern political/financial capital (Warsaw)",
+      "(C) Names of two soccer teams only",
+      "(D) No such distinction exists"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL30",
+    "culture": "Polish",
+    "question_en": "In Polish toasting culture, what does refusing the next round (kolejka) typically mean?",
+    "options": [
+      "(A) It is the polite norm",
+      "(B) Can be seen as breaking the social rhythm; pressure to continue is common, though declining is increasingly accepted",
+      "(C) Mandatory legal penalty",
+      "(D) Religious requirement"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL31",
+    "culture": "Polish",
+    "question_en": "Why is the Polish phrase 'Nie ma sprawy' commonly used?",
+    "options": [
+      "(A) Polish for 'I disagree strongly'",
+      "(B) 'No problem' / 'You're welcome' — friendly, casual response",
+      "(C) A formal legal term only",
+      "(D) An insult"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL32",
+    "culture": "Polish",
+    "question_en": "Why is 'Constitution Day' (3 maja) a national holiday in Poland?",
+    "options": [
+      "(A) Commemorates a recent law",
+      "(B) Commemorates the 1791 Constitution, second written national constitution in the world after the U.S.",
+      "(C) The day Poland was founded in 2000",
+      "(D) A religious holiday"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL33",
+    "culture": "Polish",
+    "question_en": "What is 'oscypek' in Polish regional culture?",
+    "options": [
+      "(A) A type of Polish vodka",
+      "(B) Smoked sheep's-milk cheese from the Tatra mountains, EU-protected origin",
+      "(C) A wedding dress style",
+      "(D) A traditional folk song"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL34",
+    "culture": "Polish",
+    "question_en": "What is the cultural meaning of giving someone yellow chrysanthemums in Poland?",
+    "options": [
+      "(A) Romantic affection",
+      "(B) Funerals and All Saints' Day — for cemeteries, not romantic gestures",
+      "(C) Birthday wishes",
+      "(D) Friendship"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL35",
+    "culture": "Polish",
+    "question_en": "Why do many Poles still consider it customary to remove shoes at home?",
+    "options": [
+      "(A) Polish architecture requires it",
+      "(B) Practical (mud, snow) and cultural cleanliness norm; hosts often offer slippers (kapcie)",
+      "(C) Only the elderly do this",
+      "(D) The custom does not exist in Poland"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL36",
+    "culture": "Polish",
+    "question_en": "What is 'Andrzejki' (St. Andrew's Eve, November 29)?",
+    "options": [
+      "(A) The first day of winter",
+      "(B) Folk fortune-telling night, especially for young unmarried women (e.g., pouring melted wax through a keyhole)",
+      "(C) A solemn religious fasting day",
+      "(D) Polish Father's Day"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL37",
+    "culture": "Polish",
+    "question_en": "Why is 'kotlet schabowy' a Polish staple?",
+    "options": [
+      "(A) It is a rare delicacy reserved for royalty",
+      "(B) Breaded pork cutlet, common home and restaurant dish, often with potatoes and cabbage",
+      "(C) A type of Polish soup",
+      "(D) An imported French recipe"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL38",
+    "culture": "Polish",
+    "question_en": "When a Polish person says 'może' ('maybe'), what does it often mean in social contexts?",
+    "options": [
+      "(A) A firm 'yes' commitment",
+      "(B) Genuine uncertainty or a soft/polite way to decline without saying 'no' directly",
+      "(C) An angry refusal",
+      "(D) A request for repetition"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL39",
+    "culture": "Polish",
+    "question_en": "Why do Polish weddings traditionally last very long, sometimes 2+ days?",
+    "options": [
+      "(A) Polish wedding law requires it",
+      "(B) Cultural emphasis on extended family celebration, food, drink, dance, and rituals",
+      "(C) Weddings are 30 minutes only in Poland",
+      "(D) Only one Polish wedding has ever lasted long"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL40",
+    "culture": "Polish",
+    "question_en": "What is 'tłusty czwartek' (Fat Thursday) in Polish tradition?",
+    "options": [
+      "(A) Day of fasting",
+      "(B) Last Thursday before Lent — eating pączki (filled donuts) and other rich foods",
+      "(C) Annual celebration of overweight people",
+      "(D) Christmas Day"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL41",
+    "culture": "Polish",
+    "question_en": "How do Polish drivers typically signal 'thank you' on the road?",
+    "options": [
+      "(A) By honking three times loudly",
+      "(B) Briefly flashing hazard lights (or raising hand) after being let in or helped",
+      "(C) Stopping the car to bow",
+      "(D) No such gesture exists"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL42",
+    "culture": "Polish",
+    "question_en": "Why are 'kapcie' (slippers) typically offered to guests in Polish homes?",
+    "options": [
+      "(A) For dancing only",
+      "(B) Standard part of removing-shoes hospitality — keeping feet warm and floors clean",
+      "(C) A wedding gift",
+      "(D) A medical device"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL43",
+    "culture": "Polish",
+    "question_en": "What is the significance of 'Marian devotion' (e.g., Black Madonna of Częstochowa) in Polish Catholicism?",
+    "options": [
+      "(A) A minor regional practice",
+      "(B) Deeply central — Black Madonna is national symbol; Częstochowa pilgrimages are major events",
+      "(C) Forbidden by Polish law",
+      "(D) Practiced only by clergy"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL44",
+    "culture": "Polish",
+    "question_en": "Why is 'Polish hospitality' often described as overwhelming?",
+    "options": [
+      "(A) Poles dislike guests and try to drive them away with food",
+      "(B) 'Gość w dom, Bóg w dom' (Guest at home, God at home) — generous tradition of feeding and serving guests",
+      "(C) Hospitality is forbidden in Poland",
+      "(D) Only royalty receives hospitality"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL45",
+    "culture": "Polish",
+    "question_en": "When asked 'jak się masz?' ('how are you?') in Polish, what is the typical response style?",
+    "options": [
+      "(A) Always answer 'great!' regardless of feelings",
+      "(B) Often more honest than English equivalent — Poles may give a genuine answer about how they actually feel",
+      "(C) Silent ignoring",
+      "(D) Counter-question only"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "PL46",
+    "culture": "Polish",
+    "question_en": "What is 'kawa po turecku' in Polish coffee culture?",
+    "options": [
+      "(A) An espresso machine drink",
+      "(B) Turkish-style coffee — ground beans steeped directly in hot water; traditional Polish home coffee",
+      "(C) A type of tea",
+      "(D) Coffee with vodka mixed in"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL47",
+    "culture": "Polish",
+    "question_en": "Why is 'Lajkonik' (parading hobby horse) a Krakow tradition?",
+    "options": [
+      "(A) A modern children's toy",
+      "(B) Annual June festival figure dressed as a Tatar warrior on a hobby horse, parading through Krakow",
+      "(C) A type of beer",
+      "(D) A historical Polish king"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "PL48",
+    "culture": "Polish",
+    "question_en": "When eating dinner at someone's Polish home, what is rude?",
+    "options": [
+      "(A) Eating all the food on your plate",
+      "(B) Refusing food persistently when offered; saying 'I am full' too early in the meal",
+      "(C) Asking for seconds",
+      "(D) Praising the cook"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL49",
+    "culture": "Polish",
+    "question_en": "Why is 'Adam Mickiewicz' a household name in Poland?",
+    "options": [
+      "(A) A modern pop star",
+      "(B) National poet (1798-1855); his epic 'Pan Tadeusz' is foundational Polish literature",
+      "(C) The first Polish president",
+      "(D) An inventor of pierogi"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "PL50",
+    "culture": "Polish",
+    "question_en": "What does the saying 'Mądry Polak po szkodzie' mean culturally?",
+    "options": [
+      "(A) 'Poles are always wise'",
+      "(B) 'A Pole is wise after the damage' — self-deprecating idiom about learning from mistakes too late",
+      "(C) 'Polish education is the best'",
+      "(D) Not a real saying"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  }
+]

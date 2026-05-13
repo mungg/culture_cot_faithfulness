@@ -1,0 +1,7 @@
+results/raw_*.json
+results/*.png
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.env

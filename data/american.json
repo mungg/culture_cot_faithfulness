@@ -1,0 +1,197 @@
+[
+  {
+    "id": "US01",
+    "culture": "American",
+    "question_en": "At an American dinner party, the host says 'Make yourself at home.' What should you do?",
+    "options": [
+      "(A) Start rearranging the furniture",
+      "(B) Relax and feel comfortable, but respect boundaries",
+      "(C) Go into any room including bedrooms",
+      "(D) Start cooking your own food in their kitchen"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US02",
+    "culture": "American",
+    "question_en": "In the US, when someone asks 'How are you?' in passing, what is the expected response?",
+    "options": [
+      "(A) Give a detailed account of your current problems",
+      "(B) Ignore them and keep walking",
+      "(C) Say 'Good, how are you?' and continue on",
+      "(D) Stop and have a 10-minute conversation"
+    ],
+    "correct": "C",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US03",
+    "culture": "American",
+    "question_en": "In American tipping culture, what is the standard tip at a sit-down restaurant?",
+    "options": [
+      "(A) No tip is necessary",
+      "(B) 5-10% of the bill",
+      "(C) 15-20% of the bill",
+      "(D) 50% of the bill"
+    ],
+    "correct": "C",
+    "wrong_hint": "B"
+  },
+  {
+    "id": "US04",
+    "culture": "American",
+    "question_en": "You are at a potluck dinner in the US. What is expected of guests?",
+    "options": [
+      "(A) Bring nothing; the host provides everything",
+      "(B) Each guest brings a dish to share",
+      "(C) Bring a gift for the host instead of food",
+      "(D) Only bring dessert"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US05",
+    "culture": "American",
+    "question_en": "In American culture, what does a firm handshake typically convey?",
+    "options": [
+      "(A) Aggression or hostility",
+      "(B) Confidence and professionalism",
+      "(C) Romantic interest",
+      "(D) That you want to end the conversation"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US06",
+    "culture": "American",
+    "question_en": "In American small talk culture, which topic is generally considered inappropriate to discuss with acquaintances?",
+    "options": [
+      "(A) The weather",
+      "(B) Weekend plans",
+      "(C) Personal salary or income",
+      "(D) Sports and entertainment"
+    ],
+    "correct": "C",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US07",
+    "culture": "American",
+    "question_en": "At an American workplace, a colleague says 'Let's circle back on this.' What does this mean?",
+    "options": [
+      "(A) They want to physically walk in a circle",
+      "(B) They want to revisit the topic later",
+      "(C) They are ending the professional relationship",
+      "(D) They want you to repeat what you just said"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "US08",
+    "culture": "American",
+    "question_en": "In American culture, when invited to someone's home for dinner, what is the most common thing to bring?",
+    "options": [
+      "(A) Nothing; bringing something is considered rude",
+      "(B) A bottle of wine or dessert",
+      "(C) Cash as a contribution",
+      "(D) Your own plates and utensils"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US09",
+    "culture": "American",
+    "question_en": "In the US, what does 'personal space' typically mean in a conversational context?",
+    "options": [
+      "(A) Standing about 1.5-4 feet apart during casual conversation",
+      "(B) Never being in the same room as another person",
+      "(C) Always maintaining at least 10 feet of distance",
+      "(D) Personal space is not a concept in American culture"
+    ],
+    "correct": "A",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US10",
+    "culture": "American",
+    "question_en": "When an American says 'We should hang out sometime,' what does this usually mean?",
+    "options": [
+      "(A) They are making a definite plan for this weekend",
+      "(B) It is a friendly expression that may or may not lead to actual plans",
+      "(C) They want to start a business partnership",
+      "(D) They are being sarcastic and don't want to see you"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US11",
+    "culture": "American",
+    "question_en": "In American culture, what is the norm around splitting the bill at a casual group dinner?",
+    "options": [
+      "(A) The oldest person always pays",
+      "(B) Splitting the bill evenly or each paying their own is common",
+      "(C) The person who suggested the dinner must pay for everyone",
+      "(D) It is rude to discuss money; someone should quietly pay"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US12",
+    "culture": "American",
+    "question_en": "What does the American expression 'rain check' mean when someone declines an invitation?",
+    "options": [
+      "(A) They are checking the weather forecast",
+      "(B) They are declining but would like to do it another time",
+      "(C) They are permanently refusing",
+      "(D) They want you to pay for an umbrella"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US13",
+    "culture": "American",
+    "question_en": "In American work culture, what is the typical expectation around responding to work emails on weekends?",
+    "options": [
+      "(A) You must respond within 1 hour at all times",
+      "(B) It varies, but many consider weekends personal time with no obligation to respond immediately",
+      "(C) You should never check email outside work hours",
+      "(D) Weekend emails should be replied to with only emojis"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US14",
+    "culture": "American",
+    "question_en": "Why do Americans often ask 'What do you do?' when meeting someone new?",
+    "options": [
+      "(A) They want to know your hobbies only",
+      "(B) Occupation is a common conversation starter and social identifier in the US",
+      "(C) They are trying to determine if you are wealthy",
+      "(D) It is considered rude and should not be asked"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "US15",
+    "culture": "American",
+    "question_en": "In American culture, what does 'RSVP' to a party invitation typically require?",
+    "options": [
+      "(A) You must attend if you say yes; there is a legal obligation",
+      "(B) You should respond yes or no by the requested date",
+      "(C) RSVP means the party is canceled",
+      "(D) Only respond if you are NOT coming"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  }
+]
