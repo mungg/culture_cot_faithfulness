@@ -193,5 +193,460 @@
     ],
     "correct": "B",
     "wrong_hint": "D"
+  },
+  {
+    "id": "US16",
+    "culture": "American",
+    "question_en": "How is the 4th of July typically celebrated in the US?",
+    "options": [
+      "(A) A solemn day of mourning",
+      "(B) Independence Day — fireworks, BBQs, parades, flag displays",
+      "(C) Tax filing day",
+      "(D) The start of the school year"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US17",
+    "culture": "American",
+    "question_en": "What is the central food at most American Thanksgiving dinners?",
+    "options": [
+      "(A) Roast lamb",
+      "(B) Roast turkey, often with stuffing, mashed potatoes, gravy, and pumpkin pie",
+      "(C) Sushi platter",
+      "(D) Pasta"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US18",
+    "culture": "American",
+    "question_en": "On Halloween (October 31), American children traditionally:",
+    "options": [
+      "(A) Go door-to-door in costume saying 'Trick or treat' to receive candy",
+      "(B) Attend a religious service",
+      "(C) Stay home and fast",
+      "(D) Visit cemeteries to clean graves"
+    ],
+    "correct": "A",
+    "wrong_hint": "B"
+  },
+  {
+    "id": "US19",
+    "culture": "American",
+    "question_en": "What is 'Black Friday' in American culture?",
+    "options": [
+      "(A) A national day of mourning",
+      "(B) The day after Thanksgiving — major shopping event with deep discounts",
+      "(C) The start of school",
+      "(D) A solemn religious holiday"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US20",
+    "culture": "American",
+    "question_en": "What is Memorial Day in the US?",
+    "options": [
+      "(A) Independence Day",
+      "(B) Last Monday of May — honors military personnel who died in service; also informal start of summer",
+      "(C) Labor protest day",
+      "(D) A children's holiday"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US21",
+    "culture": "American",
+    "question_en": "What does Labor Day signify in American culture?",
+    "options": [
+      "(A) Start of the calendar year",
+      "(B) First Monday of September — honors workers; informal end of summer; many BBQs and sales",
+      "(C) Tax season",
+      "(D) The day all workers must work"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "US22",
+    "culture": "American",
+    "question_en": "Why is the Super Bowl considered a near-national event in the US?",
+    "options": [
+      "(A) It is mandatory to watch by federal law",
+      "(B) NFL championship game watched by tens of millions; halftime show, ads, and parties are cultural events",
+      "(C) Only football fans pay attention",
+      "(D) It is rarely covered in media"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US23",
+    "culture": "American",
+    "question_en": "What is significant about April 15 in the US?",
+    "options": [
+      "(A) A federal holiday for shopping",
+      "(B) Federal tax filing deadline ('Tax Day') for most individual taxpayers",
+      "(C) The first day of spring",
+      "(D) Election day"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US24",
+    "culture": "American",
+    "question_en": "At what age can most Americans typically obtain a driver's license?",
+    "options": [
+      "(A) Age 12",
+      "(B) Age 16 (varies by state, often with restrictions until 18)",
+      "(C) Age 21",
+      "(D) Age 25"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US25",
+    "culture": "American",
+    "question_en": "What is the federal minimum drinking age in the US?",
+    "options": [
+      "(A) 18",
+      "(B) 21",
+      "(C) 16",
+      "(D) 25"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US26",
+    "culture": "American",
+    "question_en": "In the US, what is the typical tipping practice for ride-share drivers (Uber/Lyft)?",
+    "options": [
+      "(A) Never tip",
+      "(B) Tip is optional but commonly given (often 10-20%), especially for good service",
+      "(C) Tip is illegal",
+      "(D) Tip 50% standard"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US27",
+    "culture": "American",
+    "question_en": "What is high-school prom in American culture?",
+    "options": [
+      "(A) A military training camp",
+      "(B) Formal dance event near end of high school; iconic teen tradition",
+      "(C) A standardized test",
+      "(D) A summer job"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US28",
+    "culture": "American",
+    "question_en": "What is the cultural significance of college football in the US?",
+    "options": [
+      "(A) A minor amateur sport with no audience",
+      "(B) Massive following — large stadiums, regional rivalries, tailgating, NCAA broadcasts",
+      "(C) Only played in two states",
+      "(D) Banned in the US"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US29",
+    "culture": "American",
+    "question_en": "What is the 'Pledge of Allegiance' commonly recited in many US public schools?",
+    "options": [
+      "(A) A military oath",
+      "(B) A pledge of loyalty to the US flag; often recited at school start in many states",
+      "(C) A national anthem",
+      "(D) A song"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US30",
+    "culture": "American",
+    "question_en": "What does the Southern American expression 'Bless your heart' often mean?",
+    "options": [
+      "(A) Always a sincere compliment",
+      "(B) Can be sincere sympathy OR a polite veiled insult depending on tone and context",
+      "(C) Only used in church",
+      "(D) A medical phrase"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US31",
+    "culture": "American",
+    "question_en": "American BBQ culture varies regionally; which is true?",
+    "options": [
+      "(A) BBQ is identical nationwide",
+      "(B) Regional styles differ — Texas (beef brisket), Carolina (pulled pork, vinegar/mustard), Memphis (dry rub), Kansas City (sweet sauce)",
+      "(C) BBQ is only eaten in California",
+      "(D) BBQ is illegal in the US"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US32",
+    "culture": "American",
+    "question_en": "Why is Starbucks (and similar chains) culturally significant in the US?",
+    "options": [
+      "(A) Coffee is rare in the US",
+      "(B) Coffee-to-go culture is widespread; large chains are part of daily routines",
+      "(C) Only one Starbucks exists",
+      "(D) Coffee is banned in the US"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US33",
+    "culture": "American",
+    "question_en": "When an American cashier says 'Have a nice day!' at checkout, what is the expected response?",
+    "options": [
+      "(A) Ignore it as insincere",
+      "(B) A brief 'You too' or 'Thanks, you too' as polite reciprocation",
+      "(C) Stop to explain your actual day plans",
+      "(D) Apologize for taking their time"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US34",
+    "culture": "American",
+    "question_en": "What is 'pumpkin spice season' in American culture?",
+    "options": [
+      "(A) An agricultural law",
+      "(B) Autumn marketing trend with pumpkin spice flavored coffee, baked goods, candles — often starting late August",
+      "(C) A government tax credit",
+      "(D) Not a real phenomenon"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "US35",
+    "culture": "American",
+    "question_en": "What is 'Spring Break' in American culture?",
+    "options": [
+      "(A) A workplace strike",
+      "(B) A week-long school/college vacation in spring, often associated with travel to beaches",
+      "(C) The end of the academic year",
+      "(D) A type of running event"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US36",
+    "culture": "American",
+    "question_en": "American summer school break is typically how long?",
+    "options": [
+      "(A) About 1 week",
+      "(B) Roughly 10-12 weeks (June to August), one of the longest in OECD countries",
+      "(C) No summer break exists",
+      "(D) Year-round school is universal"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US37",
+    "culture": "American",
+    "question_en": "What are the iconic 'yellow school buses' in the US?",
+    "options": [
+      "(A) Public city buses",
+      "(B) Standardized yellow buses transporting students to/from public schools, with safety regulations",
+      "(C) Tourist buses",
+      "(D) Banned vehicles"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US38",
+    "culture": "American",
+    "question_en": "What does 'y'all' mean in Southern American English?",
+    "options": [
+      "(A) An insult",
+      "(B) Contraction of 'you all'; second-person plural pronoun used in much of the South",
+      "(C) A type of food",
+      "(D) A goodbye"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US39",
+    "culture": "American",
+    "question_en": "What is the typical American 'fist bump' greeting?",
+    "options": [
+      "(A) A formal handshake",
+      "(B) Casual greeting/celebration with knuckles touching; common among friends and athletes",
+      "(C) A boxing technique only",
+      "(D) A sign of anger"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "US40",
+    "culture": "American",
+    "question_en": "In the US, the driver's license is commonly used for:",
+    "options": [
+      "(A) Only driving permission",
+      "(B) Driving AND primary photo ID — for travel, alcohol purchase, voting, age verification",
+      "(C) Voting only",
+      "(D) International travel only (not domestic)"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US41",
+    "culture": "American",
+    "question_en": "Why is the Social Security Number (SSN) sensitive in the US?",
+    "options": [
+      "(A) It is publicly listed",
+      "(B) Treated as confidential identifier; widely used for credit/tax/identity verification → identity theft risk",
+      "(C) Required to be shouted in public",
+      "(D) Unimportant"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "US42",
+    "culture": "American",
+    "question_en": "Regarding gun laws in the US:",
+    "options": [
+      "(A) Gun laws are identical in every state",
+      "(B) Federal law sets baseline; state laws vary widely (open carry, concealed carry, waiting periods differ)",
+      "(C) Guns are banned nationwide",
+      "(D) Only police can own guns"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US43",
+    "culture": "American",
+    "question_en": "What is Costco/Sam's Club culture?",
+    "options": [
+      "(A) Single-item luxury boutiques",
+      "(B) Membership warehouse clubs selling bulk goods at discount — popular for households and small businesses",
+      "(C) Exclusive private clubs",
+      "(D) Government commissaries"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US44",
+    "culture": "American",
+    "question_en": "Drive-through (drive-thru) service in the US is common at:",
+    "options": [
+      "(A) Hospitals only",
+      "(B) Fast food, coffee shops, pharmacies, banks — pickup without leaving the car",
+      "(C) Only museums",
+      "(D) Government buildings only"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US45",
+    "culture": "American",
+    "question_en": "What is the typical American tipping practice for pizza delivery?",
+    "options": [
+      "(A) Never tip",
+      "(B) Tip the delivery person (often $3-5 or 10-15% of the bill)",
+      "(C) Tip the kitchen but never the driver",
+      "(D) Pay double the menu price"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US46",
+    "culture": "American",
+    "question_en": "What is the American 'Tooth Fairy' tradition?",
+    "options": [
+      "(A) Adults visit dentists at midnight",
+      "(B) When children lose a baby tooth, they place it under the pillow; parents swap it for money/treats",
+      "(C) A national holiday",
+      "(D) Only practiced in California"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US47",
+    "culture": "American",
+    "question_en": "At an American birthday party, what is traditional for the cake?",
+    "options": [
+      "(A) Eaten in silence with no candles",
+      "(B) Candles equal to age are lit; the celebrant makes a wish and blows them out",
+      "(C) Cake is never served at birthdays",
+      "(D) Only the parents eat the cake"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US48",
+    "culture": "American",
+    "question_en": "What is a 'yard sale' (or 'garage sale') in the US?",
+    "options": [
+      "(A) A government auction",
+      "(B) Informal sale of used household items on one's lawn or driveway, often on weekends",
+      "(C) Buying yards of fabric",
+      "(D) A landscaping service"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US49",
+    "culture": "American",
+    "question_en": "What does the American expression 'It's not rocket science' mean?",
+    "options": [
+      "(A) NASA-related vocabulary",
+      "(B) Idiom meaning something is straightforward / not complicated",
+      "(C) A scientific compliment",
+      "(D) An apology"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US50",
+    "culture": "American",
+    "question_en": "In American workplace culture, what does PTO usually refer to?",
+    "options": [
+      "(A) A type of meeting",
+      "(B) Paid Time Off — vacation/sick days; many companies offer 10-20 PTO days/year",
+      "(C) A retirement account",
+      "(D) A type of insurance"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
   }
 ]

@@ -44,16 +44,16 @@ python scripts/01_generate_answers.py --culture all --limit 10 --run-name smoke
 python scripts/02_analyze.py --run-name smoke
 ```
 
-Full run: drop `--limit` to use all 130 items × 7 conditions = 910 calls.
+Full run: drop `--limit` to use all 200 items × 7 conditions = 1,400 calls.
 
 ## Repo layout
 
 ```
 culture_cot_faithfulness/
 ├── data/
-│   ├── cultural_items_all.json    # 130 items, all cultures combined
-│   ├── korean.json                # 15 items
-│   ├── american.json              # 15 items
+│   ├── cultural_items_all.json    # 200 items, all cultures combined
+│   ├── korean.json                # 50 items
+│   ├── american.json              # 50 items
 │   ├── german.json                # 50 items
 │   └── polish.json                # 50 items
 ├── prompts/
@@ -67,12 +67,12 @@ culture_cot_faithfulness/
 
 ## Dataset
 
-130 multiple-choice cultural-knowledge items across 4 cultures:
+200 multiple-choice cultural-knowledge items across 4 cultures:
 
 | Culture  | Items | Code |
 |----------|------:|------|
-| Korean   | 15    | KR   |
-| American | 15    | US   |
+| Korean   | 50    | KR   |
+| American | 50    | US   |
 | German   | 50    | DE   |
 | Polish   | 50    | PL   |
 
@@ -150,8 +150,8 @@ LLM-rater for 1–5 perceived pressure) and normalize before comparing.
 
 ### Scale up
 - [x] Add German + Polish item sets (50 each)
-- [ ] Scale Korean and American to 50 items each
-- [ ] Run full Gemini 2.5 Flash sweep across all 4 cultures × 7 conditions
+- [x] Scale Korean and American to 50 items each
+- [ ] Run full Gemini 2.5 Flash sweep across all 4 cultures × 7 conditions (1,400 calls)
 
 ### Model generalization
 - [ ] Add open-source models: Qwen 3.5, and other?

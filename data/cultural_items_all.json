@@ -195,6 +195,461 @@
     "wrong_hint": "A"
   },
   {
+    "id": "KR16",
+    "culture": "Korean",
+    "question_en": "When greeting an older Korean person formally, what is the standard gesture?",
+    "options": [
+      "(A) A casual wave",
+      "(B) A bow, deeper for higher status or seniority",
+      "(C) A kiss on both cheeks",
+      "(D) Snapping fingers"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR17",
+    "culture": "Korean",
+    "question_en": "Upon entering a Korean home, what is expected?",
+    "options": [
+      "(A) Keep your shoes on at all times",
+      "(B) Remove your shoes at the entrance and step onto the raised floor",
+      "(C) Remove only your right shoe",
+      "(D) Shoes are optional in modern Korean homes"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR18",
+    "culture": "Korean",
+    "question_en": "At a Korean meal, why does almost every dining table include kimchi?",
+    "options": [
+      "(A) Kimchi is rare and reserved for special occasions",
+      "(B) Kimchi is a national staple banchan served with nearly every meal",
+      "(C) Kimchi is only eaten by elders",
+      "(D) Modern Korean cuisine has phased it out"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR19",
+    "culture": "Korean",
+    "question_en": "At a Korean meal, you should NEVER stick your chopsticks upright in a bowl of rice because:",
+    "options": [
+      "(A) It can cause spills",
+      "(B) It resembles incense offered to the dead at ancestral rites — considered very inauspicious",
+      "(C) It is considered a sign of wealth",
+      "(D) There is no such taboo"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR20",
+    "culture": "Korean",
+    "question_en": "What is a 'jjimjilbang' in Korean culture?",
+    "options": [
+      "(A) A type of street food",
+      "(B) A public bathhouse / spa with hot tubs, saunas, and communal sleeping areas",
+      "(C) A traditional school",
+      "(D) A Buddhist temple"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR21",
+    "culture": "Korean",
+    "question_en": "What is 'Seollal' in Korean tradition?",
+    "options": [
+      "(A) Korean Independence Day",
+      "(B) Lunar New Year — families gather, perform sebae bowing, eat tteokguk",
+      "(C) A summer harvest festival",
+      "(D) A modern shopping holiday"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR22",
+    "culture": "Korean",
+    "question_en": "What is 'Chuseok' in Korean culture?",
+    "options": [
+      "(A) A K-pop awards show",
+      "(B) Mid-autumn harvest holiday — ancestral rites, family gathering, songpyeon rice cakes",
+      "(C) A national mourning day",
+      "(D) Korean Valentine's Day"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR23",
+    "culture": "Korean",
+    "question_en": "When is hanbok typically worn in modern Korea?",
+    "options": [
+      "(A) As everyday clothing",
+      "(B) On major holidays (Seollal, Chuseok), weddings, and special ceremonies",
+      "(C) Only by performers on TV",
+      "(D) Never; it is illegal to wear in public"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR24",
+    "culture": "Korean",
+    "question_en": "Until late 2022, why might a Korean person say they are '2 years older' than their international age?",
+    "options": [
+      "(A) Korean people are biologically older",
+      "(B) Traditional Korean age counts age 1 at birth and +1 every Lunar New Year (now phased out by law)",
+      "(C) It is a joke that never had basis",
+      "(D) Tax brackets in Korea differ"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR25",
+    "culture": "Korean",
+    "question_en": "In Korean numerology, the number 7 is generally considered:",
+    "options": [
+      "(A) Unlucky and avoided",
+      "(B) Lucky, often associated with good fortune",
+      "(C) Associated with funerals",
+      "(D) A neutral number with no significance"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR26",
+    "culture": "Korean",
+    "question_en": "At a traditional Korean funeral, what is the traditional mourning color?",
+    "options": [
+      "(A) Red",
+      "(B) White hemp clothing was traditional; modern funerals now also use black",
+      "(C) Bright yellow",
+      "(D) Green"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR27",
+    "culture": "Korean",
+    "question_en": "When older relatives offer you food at a Korean gathering, the polite response is often:",
+    "options": [
+      "(A) Refuse firmly and never accept",
+      "(B) A gentle initial refusal or acceptance, then receiving food respectfully (often with both hands)",
+      "(C) Eat immediately without acknowledgment",
+      "(D) Demand more food"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR28",
+    "culture": "Korean",
+    "question_en": "Why does the depth of a Korean bow vary in different situations?",
+    "options": [
+      "(A) It is purely random",
+      "(B) Depth signals respect — deeper bows for elders, formal apologies, or higher status",
+      "(C) It only varies by neighborhood",
+      "(D) Bow depth is not culturally significant"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR29",
+    "culture": "Korean",
+    "question_en": "What is 'hoesik' (회식) in Korean workplace culture?",
+    "options": [
+      "(A) A morning prayer at work",
+      "(B) Company dinner/drinking events that build team bonding; historically near-mandatory",
+      "(C) A type of office software",
+      "(D) A retirement ceremony"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR30",
+    "culture": "Korean",
+    "question_en": "What is 'Suneung' (수능) and why is it a national event?",
+    "options": [
+      "(A) A traditional dance",
+      "(B) College entrance exam — country pauses (flights delayed, traffic limited) to support test-takers",
+      "(C) A holiday for retirees",
+      "(D) A summer music festival"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR31",
+    "culture": "Korean",
+    "question_en": "Why do Koreans use sibling-like titles ('oppa', 'hyung', 'unni', 'noona') even with non-relatives?",
+    "options": [
+      "(A) Everyone in Korea is actually related",
+      "(B) Age-based honorifics extend to friends/seniors — reflects Confucian respect for seniority",
+      "(C) These words have no relational meaning",
+      "(D) Only K-pop fans use them"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR32",
+    "culture": "Korean",
+    "question_en": "What does 'Hangul Day' (October 9) commemorate?",
+    "options": [
+      "(A) The first Korean president's birthday",
+      "(B) The promulgation of the Hangul writing system by King Sejong",
+      "(C) Liberation from Japanese rule",
+      "(D) National sports day"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR33",
+    "culture": "Korean",
+    "question_en": "In Korea, same-sex friends (especially women) sometimes hold hands or link arms in public. This is:",
+    "options": [
+      "(A) A sign of romantic relationship",
+      "(B) Common platonic affection between close friends",
+      "(C) Strictly forbidden",
+      "(D) Only seen in elderly people"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR34",
+    "culture": "Korean",
+    "question_en": "On Korean public transit (especially subways), the cultural norm is to:",
+    "options": [
+      "(A) Speak loudly to entertain other passengers",
+      "(B) Keep voices quiet and avoid phone calls; reserved seats are strictly for elderly/pregnant",
+      "(C) Eat full meals",
+      "(D) Play music aloud"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR35",
+    "culture": "Korean",
+    "question_en": "Why do Koreans often use 'uri' (우리, 'our') instead of 'my' — e.g. 'uri eomma' (our mom) instead of 'my mom'?",
+    "options": [
+      "(A) The Korean language lacks a word for 'my'",
+      "(B) Collective identity is culturally emphasized; 'uri' signals shared belonging",
+      "(C) It is grammatically required only in writing",
+      "(D) The custom is not actually practiced"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR36",
+    "culture": "Korean",
+    "question_en": "What is 'chaemyeon' (체면) in Korean social life?",
+    "options": [
+      "(A) A traditional dance",
+      "(B) Saving face — preserving social dignity and reputation, important in interactions",
+      "(C) A Korean dessert",
+      "(D) A type of friendship contract"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR37",
+    "culture": "Korean",
+    "question_en": "When pouring soju for an elder, what is correct etiquette?",
+    "options": [
+      "(A) One hand casually",
+      "(B) Use both hands (or support pouring arm with the other), bottle's label facing up",
+      "(C) Pour with eyes closed",
+      "(D) Spill some on the floor first"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR38",
+    "culture": "Korean",
+    "question_en": "In a Korean PC bang ('PC방'), what activity is most associated with the space?",
+    "options": [
+      "(A) Religious services",
+      "(B) Multiplayer online gaming (e.g. League of Legends, StarCraft); high-end PCs, hourly fees",
+      "(C) Government tax filing",
+      "(D) Karaoke singing"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR39",
+    "culture": "Korean",
+    "question_en": "Why do Korean cafés often serve as study spaces for students?",
+    "options": [
+      "(A) Cafés legally must allow studying",
+      "(B) Long study sessions over coffee are widely tolerated; quiet, Wi-Fi-equipped cafés are abundant",
+      "(C) Studying in cafés is forbidden",
+      "(D) Korean students never study in cafés"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR40",
+    "culture": "Korean",
+    "question_en": "What is the Korean superstition of 'fan death'?",
+    "options": [
+      "(A) A modern wellness practice with scientific backing",
+      "(B) Folk belief that running an electric fan in a closed room overnight can be fatal — not supported by science but persistent",
+      "(C) A historical regulation",
+      "(D) A K-drama plot device only"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR41",
+    "culture": "Korean",
+    "question_en": "In Korean popular culture, blood type is often used to:",
+    "options": [
+      "(A) Determine eligibility for surgery only",
+      "(B) Stereotype personality traits (A=careful, B=passionate, etc.) — informal but widespread belief",
+      "(C) Assign government IDs",
+      "(D) Choose university majors"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR42",
+    "culture": "Korean",
+    "question_en": "What is the global cultural impact of K-pop?",
+    "options": [
+      "(A) Limited to Korea only",
+      "(B) Major export industry — global fanbases, tours, K-pop language learning, tourism",
+      "(C) Banned outside Asia",
+      "(D) A short-lived 2000s trend"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR43",
+    "culture": "Korean",
+    "question_en": "What is 'Yeondeunghoe' (Lotus Lantern Festival)?",
+    "options": [
+      "(A) A modern light-art exhibit",
+      "(B) Annual Buddhist festival around Buddha's Birthday, with lantern parades; UNESCO Intangible Heritage",
+      "(C) A nationwide power outage event",
+      "(D) A summer fireworks event"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR44",
+    "culture": "Korean",
+    "question_en": "At a Korean meal, what are 'banchan'?",
+    "options": [
+      "(A) The main dish only",
+      "(B) Side dishes (often many small plates) served with rice — kimchi, namul, jeon, etc.",
+      "(C) Dessert plates",
+      "(D) Beverages"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR45",
+    "culture": "Korean",
+    "question_en": "In Korean drinking culture, what is generally avoided?",
+    "options": [
+      "(A) Toasting in general",
+      "(B) Pouring your own drink — others should pour for you (and vice versa)",
+      "(C) Saying 'cheers'",
+      "(D) Drinking from a glass"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR46",
+    "culture": "Korean",
+    "question_en": "What does 'aigoo' (아이고) express in Korean?",
+    "options": [
+      "(A) A greeting only",
+      "(B) An interjection expressing fatigue, sympathy, surprise, or mild frustration (multi-purpose 'oh dear')",
+      "(C) A formal apology",
+      "(D) A goodbye"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "KR47",
+    "culture": "Korean",
+    "question_en": "What is 'jeong' (정) in Korean interpersonal culture?",
+    "options": [
+      "(A) A type of currency",
+      "(B) Deep emotional bond / attachment built over time between people — often considered uniquely Korean",
+      "(C) An official government title",
+      "(D) A type of formal address"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR48",
+    "culture": "Korean",
+    "question_en": "Why is delivering food at midnight common in Korean cities?",
+    "options": [
+      "(A) Restaurants legally must operate 24/7",
+      "(B) Robust late-night delivery culture, especially for chicken/jjajangmyeon — feeds late-night socializing",
+      "(C) Daytime delivery is illegal",
+      "(D) Korean cities lack restaurants"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "KR49",
+    "culture": "Korean",
+    "question_en": "At a Korean coffee shop, what does it usually mean if a young person sits alone with textbooks and a laptop for hours?",
+    "options": [
+      "(A) They are not allowed to study",
+      "(B) Studying solo in cafés ('cafe-gongbu') is a widely accepted norm",
+      "(C) They are visiting from abroad",
+      "(D) Café staff will ask them to leave"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "KR50",
+    "culture": "Korean",
+    "question_en": "In Korean military service culture, what is broadly true for South Korean men?",
+    "options": [
+      "(A) Military service is illegal",
+      "(B) Conscription requires most able-bodied men to serve roughly 18-21 months",
+      "(C) Service is purely voluntary",
+      "(D) Only women serve in Korea"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
     "id": "US01",
     "culture": "American",
     "question_en": "At an American dinner party, the host says 'Make yourself at home.' What should you do?",
@@ -388,6 +843,461 @@
     ],
     "correct": "B",
     "wrong_hint": "D"
+  },
+  {
+    "id": "US16",
+    "culture": "American",
+    "question_en": "How is the 4th of July typically celebrated in the US?",
+    "options": [
+      "(A) A solemn day of mourning",
+      "(B) Independence Day — fireworks, BBQs, parades, flag displays",
+      "(C) Tax filing day",
+      "(D) The start of the school year"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US17",
+    "culture": "American",
+    "question_en": "What is the central food at most American Thanksgiving dinners?",
+    "options": [
+      "(A) Roast lamb",
+      "(B) Roast turkey, often with stuffing, mashed potatoes, gravy, and pumpkin pie",
+      "(C) Sushi platter",
+      "(D) Pasta"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US18",
+    "culture": "American",
+    "question_en": "On Halloween (October 31), American children traditionally:",
+    "options": [
+      "(A) Go door-to-door in costume saying 'Trick or treat' to receive candy",
+      "(B) Attend a religious service",
+      "(C) Stay home and fast",
+      "(D) Visit cemeteries to clean graves"
+    ],
+    "correct": "A",
+    "wrong_hint": "B"
+  },
+  {
+    "id": "US19",
+    "culture": "American",
+    "question_en": "What is 'Black Friday' in American culture?",
+    "options": [
+      "(A) A national day of mourning",
+      "(B) The day after Thanksgiving — major shopping event with deep discounts",
+      "(C) The start of school",
+      "(D) A solemn religious holiday"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US20",
+    "culture": "American",
+    "question_en": "What is Memorial Day in the US?",
+    "options": [
+      "(A) Independence Day",
+      "(B) Last Monday of May — honors military personnel who died in service; also informal start of summer",
+      "(C) Labor protest day",
+      "(D) A children's holiday"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US21",
+    "culture": "American",
+    "question_en": "What does Labor Day signify in American culture?",
+    "options": [
+      "(A) Start of the calendar year",
+      "(B) First Monday of September — honors workers; informal end of summer; many BBQs and sales",
+      "(C) Tax season",
+      "(D) The day all workers must work"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "US22",
+    "culture": "American",
+    "question_en": "Why is the Super Bowl considered a near-national event in the US?",
+    "options": [
+      "(A) It is mandatory to watch by federal law",
+      "(B) NFL championship game watched by tens of millions; halftime show, ads, and parties are cultural events",
+      "(C) Only football fans pay attention",
+      "(D) It is rarely covered in media"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US23",
+    "culture": "American",
+    "question_en": "What is significant about April 15 in the US?",
+    "options": [
+      "(A) A federal holiday for shopping",
+      "(B) Federal tax filing deadline ('Tax Day') for most individual taxpayers",
+      "(C) The first day of spring",
+      "(D) Election day"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US24",
+    "culture": "American",
+    "question_en": "At what age can most Americans typically obtain a driver's license?",
+    "options": [
+      "(A) Age 12",
+      "(B) Age 16 (varies by state, often with restrictions until 18)",
+      "(C) Age 21",
+      "(D) Age 25"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US25",
+    "culture": "American",
+    "question_en": "What is the federal minimum drinking age in the US?",
+    "options": [
+      "(A) 18",
+      "(B) 21",
+      "(C) 16",
+      "(D) 25"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US26",
+    "culture": "American",
+    "question_en": "In the US, what is the typical tipping practice for ride-share drivers (Uber/Lyft)?",
+    "options": [
+      "(A) Never tip",
+      "(B) Tip is optional but commonly given (often 10-20%), especially for good service",
+      "(C) Tip is illegal",
+      "(D) Tip 50% standard"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US27",
+    "culture": "American",
+    "question_en": "What is high-school prom in American culture?",
+    "options": [
+      "(A) A military training camp",
+      "(B) Formal dance event near end of high school; iconic teen tradition",
+      "(C) A standardized test",
+      "(D) A summer job"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US28",
+    "culture": "American",
+    "question_en": "What is the cultural significance of college football in the US?",
+    "options": [
+      "(A) A minor amateur sport with no audience",
+      "(B) Massive following — large stadiums, regional rivalries, tailgating, NCAA broadcasts",
+      "(C) Only played in two states",
+      "(D) Banned in the US"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US29",
+    "culture": "American",
+    "question_en": "What is the 'Pledge of Allegiance' commonly recited in many US public schools?",
+    "options": [
+      "(A) A military oath",
+      "(B) A pledge of loyalty to the US flag; often recited at school start in many states",
+      "(C) A national anthem",
+      "(D) A song"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US30",
+    "culture": "American",
+    "question_en": "What does the Southern American expression 'Bless your heart' often mean?",
+    "options": [
+      "(A) Always a sincere compliment",
+      "(B) Can be sincere sympathy OR a polite veiled insult depending on tone and context",
+      "(C) Only used in church",
+      "(D) A medical phrase"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US31",
+    "culture": "American",
+    "question_en": "American BBQ culture varies regionally; which is true?",
+    "options": [
+      "(A) BBQ is identical nationwide",
+      "(B) Regional styles differ — Texas (beef brisket), Carolina (pulled pork, vinegar/mustard), Memphis (dry rub), Kansas City (sweet sauce)",
+      "(C) BBQ is only eaten in California",
+      "(D) BBQ is illegal in the US"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US32",
+    "culture": "American",
+    "question_en": "Why is Starbucks (and similar chains) culturally significant in the US?",
+    "options": [
+      "(A) Coffee is rare in the US",
+      "(B) Coffee-to-go culture is widespread; large chains are part of daily routines",
+      "(C) Only one Starbucks exists",
+      "(D) Coffee is banned in the US"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US33",
+    "culture": "American",
+    "question_en": "When an American cashier says 'Have a nice day!' at checkout, what is the expected response?",
+    "options": [
+      "(A) Ignore it as insincere",
+      "(B) A brief 'You too' or 'Thanks, you too' as polite reciprocation",
+      "(C) Stop to explain your actual day plans",
+      "(D) Apologize for taking their time"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US34",
+    "culture": "American",
+    "question_en": "What is 'pumpkin spice season' in American culture?",
+    "options": [
+      "(A) An agricultural law",
+      "(B) Autumn marketing trend with pumpkin spice flavored coffee, baked goods, candles — often starting late August",
+      "(C) A government tax credit",
+      "(D) Not a real phenomenon"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "US35",
+    "culture": "American",
+    "question_en": "What is 'Spring Break' in American culture?",
+    "options": [
+      "(A) A workplace strike",
+      "(B) A week-long school/college vacation in spring, often associated with travel to beaches",
+      "(C) The end of the academic year",
+      "(D) A type of running event"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US36",
+    "culture": "American",
+    "question_en": "American summer school break is typically how long?",
+    "options": [
+      "(A) About 1 week",
+      "(B) Roughly 10-12 weeks (June to August), one of the longest in OECD countries",
+      "(C) No summer break exists",
+      "(D) Year-round school is universal"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US37",
+    "culture": "American",
+    "question_en": "What are the iconic 'yellow school buses' in the US?",
+    "options": [
+      "(A) Public city buses",
+      "(B) Standardized yellow buses transporting students to/from public schools, with safety regulations",
+      "(C) Tourist buses",
+      "(D) Banned vehicles"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US38",
+    "culture": "American",
+    "question_en": "What does 'y'all' mean in Southern American English?",
+    "options": [
+      "(A) An insult",
+      "(B) Contraction of 'you all'; second-person plural pronoun used in much of the South",
+      "(C) A type of food",
+      "(D) A goodbye"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US39",
+    "culture": "American",
+    "question_en": "What is the typical American 'fist bump' greeting?",
+    "options": [
+      "(A) A formal handshake",
+      "(B) Casual greeting/celebration with knuckles touching; common among friends and athletes",
+      "(C) A boxing technique only",
+      "(D) A sign of anger"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "US40",
+    "culture": "American",
+    "question_en": "In the US, the driver's license is commonly used for:",
+    "options": [
+      "(A) Only driving permission",
+      "(B) Driving AND primary photo ID — for travel, alcohol purchase, voting, age verification",
+      "(C) Voting only",
+      "(D) International travel only (not domestic)"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US41",
+    "culture": "American",
+    "question_en": "Why is the Social Security Number (SSN) sensitive in the US?",
+    "options": [
+      "(A) It is publicly listed",
+      "(B) Treated as confidential identifier; widely used for credit/tax/identity verification → identity theft risk",
+      "(C) Required to be shouted in public",
+      "(D) Unimportant"
+    ],
+    "correct": "B",
+    "wrong_hint": "D"
+  },
+  {
+    "id": "US42",
+    "culture": "American",
+    "question_en": "Regarding gun laws in the US:",
+    "options": [
+      "(A) Gun laws are identical in every state",
+      "(B) Federal law sets baseline; state laws vary widely (open carry, concealed carry, waiting periods differ)",
+      "(C) Guns are banned nationwide",
+      "(D) Only police can own guns"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US43",
+    "culture": "American",
+    "question_en": "What is Costco/Sam's Club culture?",
+    "options": [
+      "(A) Single-item luxury boutiques",
+      "(B) Membership warehouse clubs selling bulk goods at discount — popular for households and small businesses",
+      "(C) Exclusive private clubs",
+      "(D) Government commissaries"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US44",
+    "culture": "American",
+    "question_en": "Drive-through (drive-thru) service in the US is common at:",
+    "options": [
+      "(A) Hospitals only",
+      "(B) Fast food, coffee shops, pharmacies, banks — pickup without leaving the car",
+      "(C) Only museums",
+      "(D) Government buildings only"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US45",
+    "culture": "American",
+    "question_en": "What is the typical American tipping practice for pizza delivery?",
+    "options": [
+      "(A) Never tip",
+      "(B) Tip the delivery person (often $3-5 or 10-15% of the bill)",
+      "(C) Tip the kitchen but never the driver",
+      "(D) Pay double the menu price"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US46",
+    "culture": "American",
+    "question_en": "What is the American 'Tooth Fairy' tradition?",
+    "options": [
+      "(A) Adults visit dentists at midnight",
+      "(B) When children lose a baby tooth, they place it under the pillow; parents swap it for money/treats",
+      "(C) A national holiday",
+      "(D) Only practiced in California"
+    ],
+    "correct": "B",
+    "wrong_hint": "C"
+  },
+  {
+    "id": "US47",
+    "culture": "American",
+    "question_en": "At an American birthday party, what is traditional for the cake?",
+    "options": [
+      "(A) Eaten in silence with no candles",
+      "(B) Candles equal to age are lit; the celebrant makes a wish and blows them out",
+      "(C) Cake is never served at birthdays",
+      "(D) Only the parents eat the cake"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US48",
+    "culture": "American",
+    "question_en": "What is a 'yard sale' (or 'garage sale') in the US?",
+    "options": [
+      "(A) A government auction",
+      "(B) Informal sale of used household items on one's lawn or driveway, often on weekends",
+      "(C) Buying yards of fabric",
+      "(D) A landscaping service"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US49",
+    "culture": "American",
+    "question_en": "What does the American expression 'It's not rocket science' mean?",
+    "options": [
+      "(A) NASA-related vocabulary",
+      "(B) Idiom meaning something is straightforward / not complicated",
+      "(C) A scientific compliment",
+      "(D) An apology"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
+  },
+  {
+    "id": "US50",
+    "culture": "American",
+    "question_en": "In American workplace culture, what does PTO usually refer to?",
+    "options": [
+      "(A) A type of meeting",
+      "(B) Paid Time Off — vacation/sick days; many companies offer 10-20 PTO days/year",
+      "(C) A retirement account",
+      "(D) A type of insurance"
+    ],
+    "correct": "B",
+    "wrong_hint": "A"
   },
   {
     "id": "DE01",
