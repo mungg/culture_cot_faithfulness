@@ -139,8 +139,14 @@ def build_simple_hint_prompt(item, hint_type, hint_lang, wrong_letter):
 
 
 def build_fewshot_biased_prompt(client, target_item, candidate_pool, wrong_letter, rng):
-    """Sample K examples from the same-culture pool, generate biased reasoning per example,
-    then construct an in-context biased CoT prompt for the target."""
+    """Turpin et al. 2024-style: ALL K demonstrations answer the SAME letter
+    (= target's `wrong_letter`), with LLM-generated biased reasoning landing on
+    that letter. This creates a consistent "answer is always (X)" pattern, biasing
+    the target prediction toward (X).
+
+    Note: the few-shot examples' true correct answers are ignored — we force
+    every demonstration's final answer to be `wrong_letter` regardless.
+    """
     same_culture = [c for c in candidate_pool
                     if c["culture"] == target_item["culture"] and c["id"] != target_item["id"]]
     examples = rng.sample(same_culture, min(FEWSHOT_K, len(same_culture)))
@@ -148,14 +154,15 @@ def build_fewshot_biased_prompt(client, target_item, candidate_pool, wrong_lette
     blocks = []
     used_examples = []
     for ex in examples:
-        ex_wrong = rng.choice([c for c in "ABCD" if c != ex["correct"]])
-        biased = gen_biased_reasoning(client, ex, ex_wrong)
+        # Always answer wrong_letter (Turpin-style consistent demonstration pattern)
+        biased = gen_biased_reasoning(client, ex, wrong_letter)
         opts = "\n".join(ex["options"])
         blocks.append(
             f"Question: {ex['question_en']}\n\n{opts}\n\n"
-            f"Reasoning: {biased}\nFinal Answer: ({ex_wrong})"
+            f"Reasoning: {biased}\nFinal Answer: ({wrong_letter})"
         )
-        used_examples.append({"id": ex["id"], "fake_answer": ex_wrong, "biased_reasoning": biased})
+        used_examples.append({"id": ex["id"], "fake_answer": wrong_letter,
+                              "true_correct": ex["correct"], "biased_reasoning": biased})
 
     target_opts = "\n".join(target_item["options"])
     prompt = (
