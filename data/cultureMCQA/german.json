@@ -28,13 +28,6 @@
         "actor_behavior": "follow a specific mealtime schedule, with lunch around 1 pm and dinner between 5:30-8:30 pm, often including coffee and cake time in the afternoon",
         "similarity": 0.12392644927644098
       }
-    ],
-    "question_de": "Sie sind zum Abendessen um 19:00 Uhr zum Haus eines deutschen Kollegen eingeladen. Wann sollten Sie ankommen?",
-    "options_de": [
-      "(A) Ungefähr 15 Minuten zu früh, um Respekt zu zeigen",
-      "(B) Genau um 19:00 Uhr oder innerhalb von 5 Minuten danach",
-      "(C) 30 Minuten zu spät ist modern",
-      "(D) Jede Zeit vor 20:00 Uhr ist in Ordnung"
     ]
   },
   {
@@ -66,13 +59,6 @@
         "actor_behavior": "use Herr/Frau as a formal title, with doctorate title if applicable, or use first name for informal address",
         "similarity": 0.2858274978061566
       }
-    ],
-    "question_de": "Wenn Sie einen deutschen Kollegen, den Sie gerade beruflich kennengelernt haben, ansprechen, welche Form sollten Sie verwenden?",
-    "options_de": [
-      "(A) Verwenden Sie sofort 'du' (informell), um freundlich zu sein",
-      "(B) Verwenden Sie 'Sie' (formell), bis Sie eingeladen werden, 'du' zu verwenden",
-      "(C) Verwenden Sie nur den Vornamen ohne Pronomen",
-      "(D) Es gibt keinen Unterschied im modernen Deutsch"
     ]
   },
   {
@@ -104,13 +90,6 @@
         "actor_behavior": "strict adherence to time schedules, including closing early on Saturdays and Sundays, and delivering groceries to disabled individuals",
         "similarity": 0.4595597516559087
       }
-    ],
-    "question_de": "Warum sind die meisten Geschäfte sonntags in Deutschland geschlossen?",
-    "options_de": [
-      "(A) Die meisten Deutschen bevorzugen sonntags Online-Shopping",
-      "(B) Es ist durch das Ladenschlussgesetz und die Tradition der Sonntagsruhe vorgeschrieben",
-      "(C) Geschäfte sind sonntags einfach unrentabel",
-      "(D) Diese Praxis existiert nicht mehr"
     ]
   },
   {
@@ -142,13 +121,6 @@
         "actor_behavior": "prefer tea over sweet tea, with tea being the most popular beverage and a significant aspect of culture",
         "similarity": 0.1681606073109013
       }
-    ],
-    "question_de": "Was ist in einem deutschen Wohnhaus die 'Ruhezeit'?",
-    "options_de": [
-      "(A) Ein wöchentlicher Putzplan für die Bewohner",
-      "(B) Vorgeschriebene Ruhezeiten (typischerweise 22:00-06:00 Uhr und sonntags), in denen laute Aktivitäten verboten sind",
-      "(C) Ein Nachbarschaftswachprogramm",
-      "(D) Eine traditionelle deutsche Teestunde"
     ]
   },
   {
@@ -180,13 +152,6 @@
         "actor_behavior": "follow specific rules including bringing gifts, celebrating on the actual birthday, and the birthday person paying for everyone",
         "similarity": 0.35444731091752263
       }
-    ],
-    "question_de": "Warum wünschen Deutsche jemandem NICHT vor seinem eigentlichen Geburtstag alles Gute?",
-    "options_de": [
-      "(A) Es gilt als Unglück (vorgratulieren) und kann Unglück bringen",
-      "(B) Deutsche Kalender unterscheiden sich von internationalen",
-      "(C) Es ist nach deutschem Traditionsrecht illegal",
-      "(D) Dieser Aberglaube existiert nicht wirklich"
     ]
   },
   {
@@ -218,13 +183,6 @@
         "actor_behavior": "engage in physical touch, including specific gestures and facial contact, reflecting a cultural value of touch",
         "similarity": 0.24272351918808388
       }
-    ],
-    "question_de": "Was ist beim Anstoßen mit Getränken in Deutschland unbedingt zu beachten?",
-    "options_de": [
-      "(A) Das Getränk auf Ex trinken",
-      "(B) Blickkontakt halten, während man die Gläser anstößt und 'Prost' sagt",
-      "(C) Zweimal mit jedem die Gläser berühren",
-      "(D) Das Getränk zuerst für sich selbst einschenken"
     ]
   },
   {
@@ -256,13 +214,6 @@
         "actor_behavior": "brew and consume high-quality beer, including nonalcoholic options, with a preference for specific bottle types for taste",
         "similarity": 0.45685205878041757
       }
-    ],
-    "question_de": "Was ist das Reinheitsgebot in der deutschen Bierkultur?",
-    "options_de": [
-      "(A) Ein moderner Marketingslogan, der in den 2000er Jahren erfunden wurde",
-      "(B) Das Bier Reinheitsgebot (1516), das die Bierbestandteile auf Wasser, Hopfen, Malz (und später Hefe) beschränkt",
-      "(C) Ein deutsches Bierfestival, das jährlich in Berlin stattfindet",
-      "(D) Das gesetzliche Trinkalter in Deutschland"
     ]
   },
   {
@@ -294,13 +245,6 @@
         "actor_behavior": "behave in a respectful and well-mannered manner, including shielding, hiding, and engaging in playful behavior",
         "similarity": 0.22060037659372006
       }
-    ],
-    "question_de": "Was bekommt man in Deutschland typischerweise an seinem ersten Schultag?",
-    "options_de": [
-      "(A) Eine Schuluniform",
-      "(B) Eine Schultüte – eine große, dekorierte Tüte gefüllt mit Süßigkeiten und Schulmaterialien",
-      "(C) Einen Blumenstrauß von der Lehrerin",
-      "(D) Nichts Besonderes, nur ein normaler Schultag"
     ]
   },
   {
@@ -332,13 +276,6 @@
         "actor_behavior": "use unique 32 or 40 card decks, including German-suited playing cards, for specific games like Skat and Doppelkopf",
         "similarity": 0.33787351070412386
       }
-    ],
-    "question_de": "Warum wird Bargeld in vielen deutschen Betrieben immer noch Karten vorgezogen?",
-    "options_de": [
-      "(A) Deutsche Banken unterstützen keine Kartenzahlungen",
-      "(B) Starke kulturelle Präferenz für Privatsphäre, finanzielle Kontrolle und Skepsis gegenüber Schulden",
-      "(C) Kartenlesegeräte sind in kleinen Unternehmen illegal",
-      "(D) Kartenzahlungen werden viel höher besteuert"
     ]
   },
   {
@@ -370,13 +307,6 @@
         "actor_behavior": "participate in a deposit system (Pfand) for recycling and purchasing certain items, including bottles, cans, and electronics",
         "similarity": 0.30626491355654645
       }
-    ],
-    "question_de": "Was ist 'Pfand' in der deutschen Konsumkultur?",
-    "options_de": [
-      "(A) Eine Art traditionelles Brot",
-      "(B) Ein Pfand auf Flaschen und Dosen, das bei der Rückgabe zum Recycling erstattet wird",
-      "(C) Eine staatliche Steuer auf importierte Güter",
-      "(D) Eine Rabattkarte für Lebensmittelgeschäfte"
     ]
   },
   {
@@ -408,13 +338,6 @@
         "actor_behavior": "use of specific language practices, including saying 'Siebzehn Uhr' and creating words to express negative feelings",
         "similarity": 0.10412173282921512
       }
-    ],
-    "question_de": "Wenn ein Deutscher sagt, er werde 'darüber nachdenken', was bedeutet das typischerweise?",
-    "options_de": [
-      "(A) Sie lehnen höflich ab, ohne Nein zu sagen",
-      "(B) Sie haben wirklich vor, es ernsthaft zu prüfen",
-      "(C) Sie sind wütend und beenden das Gespräch",
-      "(D) Sie möchten, dass Sie noch dreimal fragen"
     ]
   },
   {
@@ -446,13 +369,6 @@
         "actor_behavior": "customers are polite, friendly, and prefer less interruption, while waitstaff are efficient, occasionally dismissive, and may seem rude, but are expected to provide prompt service and allow customers to enjoy their meal",
         "similarity": 0.1428529100619948
       }
-    ],
-    "question_de": "Was bedeutet 'Mahlzeit' und wann wird es verwendet?",
-    "options_de": [
-      "(A) Auf Wiedersehen, nur verwendet, wenn man die Arbeit verlässt",
-      "(B) Eine zwanglose Begrüßung um die Mittagszeit, was so viel bedeutet wie 'guten Appetit' oder einfach nur hallo",
-      "(C) Eine Entschuldigung für die Verspätung",
-      "(D) Eine Bitte um die Rechnung in Restaurants"
     ]
   },
   {
@@ -484,13 +400,6 @@
         "actor_behavior": "express honesty in a direct, blunt, and sometimes brutally honest manner",
         "similarity": 0.19698675357007042
       }
-    ],
-    "question_de": "Warum ist in Deutschland direktes verbales Feedback in beruflichen Kontexten üblich?",
-    "options_de": [
-      "(A) Deutsche sind von Natur aus unhöflich nach anderen Maßstäben",
-      "(B) Direkte Kommunikation wird als ehrlich, effizient und respektvoll gegenüber der Zeit anderer geschätzt",
-      "(C) Deutsche Arbeitgeber schreiben harsche Kritik gesetzlich vor",
-      "(D) Es wird nur mit Fremden gemacht, niemals mit Kollegen"
     ]
   },
   {
@@ -522,13 +431,6 @@
         "actor_behavior": "spend generously on weddings, including gifts, rings, and receptions, with costs ranging from 5-20,000 euros",
         "similarity": 0.381617428562073
       }
-    ],
-    "question_de": "Was ist ein 'Polterabend' in der deutschen Hochzeitstradition?",
-    "options_de": [
-      "(A) Die Hochzeitsreise nach der Hochzeit",
-      "(B) Vorhochzeitliche Party, bei der die Gäste Porzellan für viel Glück zerschlagen (das Paar räumt zusammen auf)",
-      "(C) Eine formelle Verlobungszeremonie",
-      "(D) Der erste Tanz beim Hochzeitsempfang"
     ]
   },
   {
@@ -560,13 +462,6 @@
         "actor_behavior": "remove shoes and wear slippers (Hausschuhe) for comfort and cleanliness",
         "similarity": 0.18688117865979484
       }
-    ],
-    "question_de": "Warum ziehen viele Deutsche ihre Schuhe aus, wenn sie ein Haus betreten?",
-    "options_de": [
-      "(A) Es ist durch das deutsche Hygienegesetz vorgeschrieben",
-      "(B) Übliche Praxis für Sauberkeit, besonders in Norddeutschland; variiert je nach Haushalt",
-      "(C) Wird nur in ländlichen Gebieten praktiziert, niemals in Städten",
-      "(D) Dieser Brauch existiert in Deutschland nicht"
     ]
   },
   {
@@ -598,13 +493,6 @@
         "actor_behavior": "use various cleaning tools and products, including shower gels, washcloths, and exfoliating nets, for personal hygiene and exfoliation",
         "similarity": 0.19515438042328004
       }
-    ],
-    "question_de": "Was ist ein 'Strandkorb', den man an deutschen Stränden sehen kann?",
-    "options_de": [
-      "(A) Eine Art Sonnenschirm",
-      "(B) Ein überdachter Strandkorb aus Korbweide, der Schutz vor Wind bietet und oft gemietet wird",
-      "(C) Ein Beachvolleyballfeld",
-      "(D) Ein deutsches Fischgericht"
     ]
   },
   {
@@ -636,13 +524,6 @@
         "actor_behavior": "take pride in and express preference for German bread, often comparing it to sponge or NA bread",
         "similarity": 0.5193061799470324
       }
-    ],
-    "question_de": "Warum sind die Deutschen berühmt für ihre Brotkultur?",
-    "options_de": [
-      "(A) Brot ist das einzige verfügbare Kohlenhydrat in Deutschland",
-      "(B) Über 3.000 registrierte Brotsorten; UNESCO-anerkanntes immaterielles Kulturerbe",
-      "(C) Deutsche essen nur Brot zu jeder Mahlzeit",
-      "(D) Brot wurde während des Zweiten Weltkriegs verboten und wird jetzt gefeiert"
     ]
   },
   {
@@ -674,13 +555,6 @@
         "actor_behavior": "work long hours but also prioritize taking extended vacations and allowing children to vacation",
         "similarity": 0.11827308432862373
       }
-    ],
-    "question_de": "Wie ist die typische Einstellung zu Überstunden in der deutschen Arbeitsplatzkultur?",
-    "options_de": [
-      "(A) Häufige Überstunden signalisieren Engagement und werden gefördert",
-      "(B) Das Einhalten strikter Arbeitszeiten wird respektiert; exzessive Überstunden können auf schlechte Planung hindeuten",
-      "(C) Überstunden sind in allen deutschen Unternehmen obligatorisch",
-      "(D) Deutsche arbeiten die längsten Stunden in Europa"
     ]
   },
   {
@@ -712,13 +586,6 @@
         "actor_behavior": "engage in work and education from a young age, with opportunities for part-time jobs and apprenticeships",
         "similarity": 0.23175463491245674
       }
-    ],
-    "question_de": "Was ist 'Ausbildung' im deutschen Bildungssystem?",
-    "options_de": [
-      "(A) Wehrpflicht für junge Männer",
-      "(B) Berufliche duale Ausbildung, die Lernen im Klassenzimmer mit bezahlter Lehre verbindet",
-      "(C) Eine Art Hochschulaufnahmeprüfung",
-      "(D) Erwachsenenbildung für Rentner"
     ]
   },
   {
@@ -750,13 +617,6 @@
         "actor_behavior": "tend to eat dinner early, often between 6pm and 8pm, with a preference for early dinners for health reasons",
         "similarity": 0.24663881023100295
       }
-    ],
-    "question_de": "Warum essen die Deutschen ihr Hauptgericht typischerweise zum Mittagessen und nicht zum Abendessen?",
-    "options_de": [
-      "(A) Restaurants sind abends geschlossen",
-      "(B) Traditionelle Vorliebe für ein warmes, reichhaltiges Mittagessen und ein leichteres kaltes Abendessen (Abendbrot)",
-      "(C) Steuergesetze fördern Ausgaben während des Tages",
-      "(D) Dies wird nirgendwo mehr praktiziert"
     ]
   },
   {
@@ -788,13 +648,6 @@
         "actor_behavior": "provide and attend compulsory swimming education, including separate classes for those with limited swimming skills",
         "similarity": 0.18033318323244146
       }
-    ],
-    "question_de": "Worauf bezieht sich 'FKK' in der deutschen Kultur?",
-    "options_de": [
-      "(A) Eine Art formeller Handschlag",
-      "(B) Freikörperkultur – Nackt-/Freikörperkultur-Tradition beim Schwimmen und Sonnenbaden",
-      "(C) Ein staatliches Krankenversicherungsprogramm",
-      "(D) Eine deutsche Fast-Food-Kette"
     ]
   },
   {
@@ -826,13 +679,6 @@
         "actor_behavior": "avoid small talk and focus on work, often perceived as rude or blunt by others",
         "similarity": 0.14931439622139775
       }
-    ],
-    "question_de": "In Deutschland gilt es im Allgemeinen als:",
-    "options_de": [
-      "(A) Üblicher Smalltalk bei jeder gesellschaftlichen Veranstaltung",
-      "(B) Ziemlich privat und aufdringlich; wird normalerweise vermieden",
-      "(C) Erforderlich, wenn man neue Leute kennenlernt",
-      "(D) Ein Kompliment für ihren beruflichen Status"
     ]
   },
   {
@@ -864,13 +710,6 @@
         "actor_behavior": "practice environmental consciousness through recycling and using eco-friendly alternatives like paper straws",
         "similarity": 0.4085038222419853
       }
-    ],
-    "question_de": "Warum ist Deutschland für seine aufwendige Mülltrennung bekannt?",
-    "options_de": [
-      "(A) Die Deutschen haben nichts Besseres mit ihrer Zeit anzufangen",
-      "(B) Strenge Umweltrichtlinien mit getrennten Behältern für Papier, Plastik, Glas, Bioabfall usw.",
-      "(C) Es gibt landesweit nur eine Mülltonne",
-      "(D) Recycling ist in Deutschland illegal"
     ]
   },
   {
@@ -902,13 +741,6 @@
         "actor_behavior": "participate in religious rituals, including baptism, confirmation, and marriage ceremonies, while also acknowledging a decline in religious observance",
         "similarity": 0.15149803497271389
       }
-    ],
-    "question_de": "Was ist 'Karneval/Fasching' in Deutschland?",
-    "options_de": [
-      "(A) Eine feierliche religiöse Fastenzeit",
-      "(B) Karnevalszeit vor der Fastenzeit mit Paraden, Kostümen und Festlichkeiten, besonders im Rheinland",
-      "(C) Ein jährliches Pferderennen-Festival",
-      "(D) Eine Tradition des Weihnachtsmarktes"
     ]
   },
   {
@@ -940,13 +772,6 @@
         "actor_behavior": "experience physical pain, often related to health issues and cultural norms like the Pfand system",
         "similarity": 0.20700701751425452
       }
-    ],
-    "question_de": "Wenn man in Deutschland niest, was ist die typische Reaktion von anderen?",
-    "options_de": [
-      "(A) Stille, da Niesen nicht beachtet werden sollte",
-      "(B) 'Gesundheit' — man wünscht gute Gesundheit",
-      "(C) Eine Entschuldigung an den Niesenden",
-      "(D) Ein Händedruck"
     ]
   },
   {
@@ -978,13 +803,6 @@
         "actor_behavior": "adhere to specific opening and closing times, including early closures on weekends and holidays",
         "similarity": 0.1462004687645207
       }
-    ],
-    "question_de": "Wie sollte man eine formelle deutsche E-Mail im Geschäftsleben typischerweise beenden?",
-    "options_de": [
-      "(A) 'XOXO' oder Küsse",
-      "(B) 'Mit freundlichen Grüßen'",
-      "(C) 'Tschüss!' oder 'Bis bald!'",
-      "(D) Keine Schlussformel nötig"
     ]
   },
   {
@@ -1016,13 +834,6 @@
         "actor_behavior": "observe a day of rest and quietness, often involving relaxation and minimal activity",
         "similarity": 0.2667340549247821
       }
-    ],
-    "question_de": "Was bedeutet es, wenn ein deutsches Geschäft ein Schild 'Sonntagsruhe' hat?",
-    "options_de": [
-      "(A) Sonntagsrabatte verfügbar",
-      "(B) Sonntagsruhe – sonntags geschlossen gemäß Tradition und Gesetz",
-      "(C) Spezielle Sonntagsmenü",
-      "(D) Sonntagsarbeiter gesucht"
     ]
   },
   {
@@ -1054,13 +865,6 @@
         "actor_behavior": "use wider and taller underground trains, often facing challenges with luggage",
         "similarity": 0.3229130455946854
       }
-    ],
-    "question_de": "Warum ist das deutsche Zugsystem Deutsche Bahn berühmt, trotz Beschwerden über die Zuverlässigkeit?",
-    "options_de": [
-      "(A) Deutsche Züge sind immer pünktlich",
-      "(B) Das umfangreiche Netzwerk und der kulturelle Wert der Pünktlichkeit führen dazu, dass jede Verspätung sehr bemerkenswert ist",
-      "(C) Züge existieren in Deutschland nicht wirklich",
-      "(D) Deutsche fahren nie mit Zügen"
     ]
   },
   {
@@ -1092,13 +896,6 @@
         "actor_behavior": "use formal titles such as 'Herr Bundeskanzler', 'Frau Bundeskanzlerin', and 'His/Her Excellency' to address political leaders",
         "similarity": 0.16999516474384144
       }
-    ],
-    "question_de": "Was ist ein 'Stammtisch' im deutschen Gesellschaftsleben?",
-    "options_de": [
-      "(A) Eine Art starker Kaffee",
-      "(B) Ein regelmäßig reservierter Tisch in einem Lokal für eine Gruppe von Freunden/Stammgästen zum Treffen",
-      "(C) Eine formelle politische Versammlung",
-      "(D) Ein traditioneller Tanz"
     ]
   },
   {
@@ -1130,13 +927,6 @@
         "actor_behavior": "engage in various interactions including ordering, tipping, greeting, and seating arrangements",
         "similarity": 0.11616014868088227
       }
-    ],
-    "question_de": "In Deutschland ist es typisch, dass die älteste Person an einem Tisch:",
-    "options_de": [
-      "(A) Während des Essens schweigen muss",
-      "(B) Respekt entgegengebracht bekommt (z. B. zuerst Platz nimmt, zuerst bedient wird), aber die Regeln sind regional unterschiedlich",
-      "(C) Immer für alle bezahlt",
-      "(D) An einem separaten Tisch isst"
     ]
   },
   {
@@ -1168,13 +958,6 @@
         "actor_behavior": "involvement in military life, including deployment, growing up in military families, and hosting American soldiers",
         "similarity": 0.16547673731774698
       }
-    ],
-    "question_de": "Warum schätzen die Deutschen 'Ordnung'?",
-    "options_de": [
-      "(A) Sie ist im deutschen Militärgesetz vorgeschrieben",
-      "(B) Kultureller Wert, der Struktur, Regeln und Vorhersagbarkeit betont – 'Ordnung muss sein'",
-      "(C) Wird nur in Bayern praktiziert",
-      "(D) Dieses Stereotyp ist völlig falsch"
     ]
   },
   {
@@ -1206,13 +989,6 @@
         "actor_behavior": "prefer a hearty and varied breakfast, often including bread, cheese, eggs, and cold meats",
         "similarity": 0.17645874732368666
       }
-    ],
-    "question_de": "Was ist 'Kaffee und Kuchen' in der deutschen Gesellschaftskultur?",
-    "options_de": [
-      "(A) Eine Frühstücksmahlzeit, die um 6 Uhr morgens gegessen wird",
-      "(B) Nachmittagskaffee- und Kuchen-Tradition, typischerweise gegen 15:00-16:00 Uhr",
-      "(C) Ein formelles Geschäftstreffen",
-      "(D) Ein Hochzeitszeremonie-Ritual"
     ]
   },
   {
@@ -1244,13 +1020,6 @@
         "actor_behavior": "use a variety of formal and informal greetings and farewells, including 'Guten Tag', 'Hallo', 'Tschüss', 'Auf Wiedersehen', and 'Wiederhören', often with a kiss on the cheek",
         "similarity": 0.23128711523737472
       }
-    ],
-    "question_de": "Was ist höflich, wenn man ein kleines Geschäft oder einen Aufzug in Deutschland betritt?",
-    "options_de": [
-      "(A) Still bleiben; Begrüßungen sind unnötig",
-      "(B) Mit 'Guten Tag' oder 'Hallo' grüßen, auch Fremde",
-      "(C) Jedem die Hand geben",
-      "(D) Laut den eigenen Namen ausrufen"
     ]
   },
   {
@@ -1282,13 +1051,6 @@
         "actor_behavior": "drink alcohol, including beer, in various public settings, with legal allowances in most public places except for public transportation",
         "similarity": 0.11903087612567367
       }
-    ],
-    "question_de": "Warum ist 'Beamter' ein angesehener Karriereweg in Deutschland?",
-    "options_de": [
-      "(A) Beamte werden extrem hoch bezahlt",
-      "(B) Lebenslange Arbeitsplatzsicherheit, Rente und gesellschaftlicher Respekt für die Tradition des öffentlichen Dienstes",
-      "(C) Nur der Adel kann Beamter werden",
-      "(D) Es ist der einzige legale Beruf in Deutschland"
     ]
   },
   {
@@ -1320,13 +1082,6 @@
         "actor_behavior": "impose and pay various taxes to fund social security and other services",
         "similarity": 0.2733634793697748
       }
-    ],
-    "question_de": "Warum erstellen Deutsche typischerweise eine 'Steuererklärung'?",
-    "options_de": [
-      "(A) Es ist rein optional und wird selten gemacht",
-      "(B) Viele können gezahlte Steuern zurückfordern; gängige Praxis mit kultureller Betonung auf finanzieller Präzision",
-      "(C) Es ist nur für Ausländer erforderlich",
-      "(D) Deutsche zahlen keine Steuern"
     ]
   },
   {
@@ -1358,13 +1113,6 @@
         "actor_behavior": "mind their own business, with a strong emphasis on personal privacy and boundaries",
         "similarity": 0.23818448033495243
       }
-    ],
-    "question_de": "Was ist das deutsche Konzept von 'Datenschutz'?",
-    "options_de": [
-      "(A) Kostenloser öffentlicher WLAN-Zugang",
-      "(B) Datenschutz – starke kulturelle und rechtliche Betonung der Privatsphäre persönlicher Daten",
-      "(C) Eine Art von Computersoftware",
-      "(D) Ein staatliches Überwachungsprogramm"
     ]
   },
   {
@@ -1396,13 +1144,6 @@
         "actor_behavior": "take bread seriously, with a preference for rye bread and 300+ types of bread, including Spelt Bread and liquid bread",
         "similarity": 0.20453923830011891
       }
-    ],
-    "question_de": "Was ist typisch für 'Brötchen' in der deutschen Bäckereikultur?",
-    "options_de": [
-      "(A) Nur am Wochenende erhältlich",
-      "(B) Täglich frische kleine Brötchen; viele Sorten; fester Bestandteil des Frühstücks",
-      "(C) Eine Art Dessertgebäck",
-      "(D) Aus Frankreich importiert"
     ]
   },
   {
@@ -1434,13 +1175,6 @@
         "actor_behavior": "associate red lights with both traffic and sex work, often crossing at red lights or using red light districts",
         "similarity": 0.15383983275282906
       }
-    ],
-    "question_de": "Wenn man in ein deutsches Haus eingeladen wird, welches Geschenk ist im Allgemeinen angemessen?",
-    "options_de": [
-      "(A) Ein großes Gerät wie ein Kühlschrank",
-      "(B) Blumen (ungerade Anzahl, keine roten Rosen, es sei denn romantisch), Wein oder Pralinen",
-      "(C) Lebende Tiere als Haustiere",
-      "(D) Gebrauchte Kleidung"
     ]
   },
   {
@@ -1472,13 +1206,6 @@
         "actor_behavior": "drive to the right, form emergency lanes, and leave space for emergency vehicles to pass",
         "similarity": 0.1809034133730321
       }
-    ],
-    "question_de": "Was bedeutet 'Feierabend' in der deutschen Arbeitsplatzkultur?",
-    "options_de": [
-      "(A) Eine Wochenend-Büroparty",
-      "(B) Ende des Arbeitstages – eine heilige Grenze zwischen Arbeit und persönlicher Zeit",
-      "(C) Eine Notfall-Personalversammlung",
-      "(D) Überstundenbezahlung"
     ]
   },
   {
@@ -1510,13 +1237,6 @@
         "actor_behavior": "prepare and eat traditional German dishes, including potato salad, Wiener Schnitzel, and Bratwurst, with a focus on light eating on Christmas Eve",
         "similarity": 0.22668509820056237
       }
-    ],
-    "question_de": "Warum sind 'Weihnachtsmärkte' in Deutschland von Bedeutung?",
-    "options_de": [
-      "(A) Sie sind eine neuere kommerzielle Erfindung aus den 2000er Jahren",
-      "(B) Jahrhundertealte Adventstradition mit Glühwein, Kunsthandwerk und saisonalen Speisen",
-      "(C) Es gibt nur einen Weihnachtsmarkt, und zwar in Berlin",
-      "(D) Sie sind Gottesdienste, die im Freien abgehalten werden"
     ]
   },
   {
@@ -1548,13 +1268,6 @@
         "actor_behavior": "drive at varying speeds, often at high speeds, and switch lanes to pass",
         "similarity": 0.3337102056592478
       }
-    ],
-    "question_de": "Was ist in der deutschen Fahrkultur das Besondere an der Autobahn?",
-    "options_de": [
-      "(A) Sie ist die einzige Straße in Deutschland",
-      "(B) Abschnitte haben keine generelle Geschwindigkeitsbegrenzung; Richtgeschwindigkeit 130 km/h; strikte Fahrspurdisziplin",
-      "(C) Das Fahren auf der Autobahn ist illegal",
-      "(D) Nur Militärfahrzeuge dürfen sie benutzen"
     ]
   },
   {
@@ -1586,13 +1299,6 @@
         "actor_behavior": "deliver gifts and engage in gift-giving rituals",
         "similarity": 0.23328513600295658
       }
-    ],
-    "question_de": "Was ist 'Heiligabend' in der deutschen Weihnachtstradition?",
-    "options_de": [
-      "(A) Silvesterparty",
-      "(B) Heiligabend (24. Dezember) – Haupttag der Bescherung und des Familientreffens, nicht der 25. Dezember",
-      "(C) Ostersonntag",
-      "(D) Ein katholisches Beichtritual"
     ]
   },
   {
@@ -1624,13 +1330,6 @@
         "actor_behavior": "work long hours but also prioritize taking extended vacations and allowing children to vacation",
         "similarity": 0.2543807823971958
       }
-    ],
-    "question_de": "Warum buchen Deutsche Urlaube typischerweise weit im Voraus?",
-    "options_de": [
-      "(A) Das deutsche Gesetz schreibt eine Buchung 12 Monate im Voraus vor",
-      "(B) Lange, großzügige Urlaubszuteilung (typischerweise 25-30 Tage/Jahr) und Wertschätzung für die Planung",
-      "(C) Last-Minute-Reisen sind verboten",
-      "(D) Deutsche fahren nie in den Urlaub"
     ]
   },
   {
@@ -1662,13 +1361,6 @@
         "actor_behavior": "tends to be reserved, direct, and avoid eye contact, with a preference for honesty over politeness",
         "similarity": 0.2711244871404157
       }
-    ],
-    "question_de": "Wenn man Deutsche trifft, welcher Händedruckstil ist typisch?",
-    "options_de": [
-      "(A) Ein sehr lockerer Griff, um Respekt zu zeigen",
-      "(B) Fester, kurzer Händedruck mit direktem Blickkontakt",
-      "(C) Kein Händedruck – nur Umarmungen",
-      "(D) Verbeugung ohne Körperkontakt"
     ]
   },
   {
@@ -1700,13 +1392,6 @@
         "actor_behavior": "engage in door-blessing rituals and participate in holiday activities",
         "similarity": 0.2087239039385203
       }
-    ],
-    "question_de": "Was ist die 'Walpurgisnacht' in der deutschen Folklore?",
-    "options_de": [
-      "(A) Ein Nationalfeiertag für Bibliothekare",
-      "(B) Nacht des 30. April, in der sich Hexen versammeln sollen; gefeiert mit Freudenfeuern",
-      "(C) Der längste Tag des Sommers",
-      "(D) Eine Art Volkstanz"
     ]
   },
   {
@@ -1738,13 +1423,6 @@
         "actor_behavior": "tends to be reserved, direct, and avoid eye contact, with a preference for honesty over politeness",
         "similarity": 0.18064381029252896
       }
-    ],
-    "question_de": "Wie fordert man in der deutschen Restaurantkultur typischerweise die Rechnung an?",
-    "options_de": [
-      "(A) Aufstehen und ohne zu fragen zur Kasse gehen",
-      "(B) Blickkontakt mit dem Kellner aufnehmen und 'Zahlen, bitte' oder 'Die Rechnung, bitte' sagen",
-      "(C) Laut pfeifen",
-      "(D) Geld auf den Tisch werfen"
     ]
   },
   {
@@ -1776,13 +1454,6 @@
         "actor_behavior": "prioritize punctuality and efficiency, with varying levels of punctuality depending on the field",
         "similarity": 0.29350168007999594
       }
-    ],
-    "question_de": "Warum wird 'Pünktlichkeit' in der deutschen Kultur so stark betont?",
-    "options_de": [
-      "(A) Verspätung zieht strafrechtliche Sanktionen nach sich",
-      "(B) Starker kultureller Wert, der Pünktlichkeit mit Respekt, Zuverlässigkeit und Vertrauenswürdigkeit verbindet",
-      "(C) Deutsche Uhren gehen schneller als die internationale Zeit",
-      "(D) Dieses Stereotyp ist falsch"
     ]
   },
   {
@@ -1814,13 +1485,6 @@
         "actor_behavior": "consume alcohol, with legal drinking ages ranging from 14 to 21 depending on the type of alcohol",
         "similarity": 0.14955275212006297
       }
-    ],
-    "question_de": "Was ist 'Kindergarten' wörtlich und kulturell in Deutschland?",
-    "options_de": [
-      "(A) Eine Art Gemüsegarten",
-      "(B) 'Garten der Kinder' – eine in Deutschland entstandene vorschulische Tradition; Alter ~3-6",
-      "(C) Ein Sommerlager für Teenager",
-      "(D) Eine staatliche Kinderschutzbehörde"
     ]
   },
   {
@@ -1852,13 +1516,6 @@
         "actor_behavior": "actively participate in and join clubs for various interests, including sports, arts, and socializing",
         "similarity": 0.22847839993190544
       }
-    ],
-    "question_de": "Warum sind in Deutschland 'Vereine' (Clubs/Verbände) so beliebt?",
-    "options_de": [
-      "(A) Die Mitgliedschaft ist gesetzlich vorgeschrieben",
-      "(B) Starke Tradition des organisierten bürgerlichen Lebens – Vereine für Sport, Hobbys, Musik, Wohltätigkeit",
-      "(C) Es gibt nur einen Verein in Deutschland",
-      "(D) Vereine sind verboten und agieren illegal"
     ]
   },
   {
@@ -1890,13 +1547,6 @@
         "actor_behavior": "enjoy a variety of alcoholic beverages, particularly beer, with unique drink mixes and a preference for large beer steins",
         "similarity": 0.3608899896992809
       }
-    ],
-    "question_de": "Was bedeutet die deutsche Phrase 'das ist nicht mein Bier'?",
-    "options_de": [
-      "(A) 'Ich trinke keinen Alkohol'",
-      "(B) 'Das ist nicht mein Problem/meine Angelegenheit' (idiomatisch)",
-      "(C) 'Ich bevorzuge Wein vor Bier'",
-      "(D) 'Das Bier ist zu kalt'"
     ]
   }
 ]

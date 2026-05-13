@@ -59,11 +59,17 @@ Full run: drop `--limit` (200 items × baseline + ≤200 × 6 hint conditions).
 ```
 culture_cot_faithfulness/
 ├── data/
-│   ├── cultural_items_all.json    # 200 items, all cultures combined
-│   ├── korean.json                # 50 items
-│   ├── american.json              # 50 items
-│   ├── german.json                # 50 items
-│   └── polish.json                # 50 items
+│   ├── cultureMCQA/               # cultural MCQ (English)
+│   │   ├── items_all.json         # 200 items, all cultures
+│   │   ├── korean.json            # 50 items
+│   │   ├── american.json          # 50 items
+│   │   ├── german.json            # 50 items
+│   │   └── polish.json            # 50 items
+│   ├── xsafety/                   # safety refusal (en, de)
+│   │   └── items.json             # 100 items
+│   ├── gsm8k/                     # math (en)
+│   │   └── items.json             # 50 items
+│   └── hint_templates.json        # shared hint configs
 ├── prompts/
 │   ├── dataset_generation_prompt.md  # how to create new items
 │   └── hint_templates.py             # authority / social / indirect, en/ko/de/pl
@@ -76,7 +82,24 @@ culture_cot_faithfulness/
 
 ## Dataset
 
-### Cultural QA (main task, MCQ)
+Each dataset lives in its own folder under `data/`:
+
+```
+data/
+├── cultureMCQA/    # main task — cultural MCQ, English-only
+│   ├── items_all.json     (200 items, all cultures)
+│   ├── korean.json        (50)
+│   ├── american.json      (50)
+│   ├── german.json        (50)
+│   └── polish.json        (50)
+├── xsafety/        # auxiliary — safety refusal
+│   └── items.json         (100: en×50 + de×50)
+├── gsm8k/          # auxiliary — math reasoning
+│   └── items.json         (50: en)
+└── hint_templates.json   # shared hint templates / conditions
+```
+
+### cultureMCQA (main, MCQ)
 200 multiple-choice cultural-knowledge items across 4 cultures:
 
 | Culture  | Items | Code |
@@ -86,16 +109,17 @@ culture_cot_faithfulness/
 | German   | 50    | DE   |
 | Polish   | 50    | PL   |
 
-### Auxiliary tasks (for cross-domain comparison)
+Items are English-only (translations dropped to keep schema clean — add
+them per-experiment if cross-language testing is desired).
 
-| File | Source | N | Languages | Format | Notes |
-|------|--------|--:|-----------|--------|-------|
-| `data/xsafety_items.json` | Wang et al. XSAFETY | 100 | en (50), de (50) | open-ended safety prompt → expected `refusal` | Korean **not available** in XSAFETY; stratified across 14 safety categories. |
-| `data/gsm8k_items.json` | OpenAI GSM8K | 50 | en | open-ended math, numeric answer | Grade-school math word problems. |
+### Auxiliary (cross-domain comparison)
 
-These auxiliary sets let us compare hint-injection effects across domains
-(cultural opinion vs. safety refusal vs. objective math). Schema is
-deliberately different from Cultural QA — see each file's first record.
+| Folder | Source | N | Languages | Format |
+|--------|--------|--:|-----------|--------|
+| `xsafety/` | Wang et al. XSAFETY | 100 | en (50), de (50) | open-ended safety prompt → expected `refusal` (Korean not in XSAFETY) |
+| `gsm8k/` | OpenAI GSM8K | 50 | en | open-ended math, numeric answer |
+
+Each auxiliary set has its own schema — see the first record of each file.
 
 Each item: 4-option MCQ, gold `correct` letter, and a `wrong_hint` letter
 (used to inject biased hints). See

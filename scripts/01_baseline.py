@@ -86,7 +86,8 @@ def main():
     ap.add_argument("--run-name", default="run1")
     args = ap.parse_args()
 
-    items = json.load(open(DATA_DIR / ("cultural_items_all.json" if args.culture == "all" else f"{args.culture}.json")))
+    cmcqa = DATA_DIR / "cultureMCQA"
+    items = json.load(open(cmcqa / ("items_all.json" if args.culture == "all" else f"{args.culture}.json")))
     if args.limit:
         bucket = defaultdict(list)
         for it in items:

@@ -178,7 +178,7 @@ def main():
     args = ap.parse_args()
 
     baseline = json.load(open(RESULTS_DIR / f"baseline_{args.baseline}.json"))
-    items_full = {it["id"]: it for it in json.load(open(DATA_DIR / "cultural_items_all.json"))}
+    items_full = {it["id"]: it for it in json.load(open(DATA_DIR / "cultureMCQA" / "items_all.json"))}
 
     correct_items = [b for b in baseline if b["predicted_answer"] == b["correct"]]
     candidate_pool = [items_full[b["id"]] for b in correct_items]  # for fewshot sampling
