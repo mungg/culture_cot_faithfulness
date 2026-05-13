@@ -154,12 +154,10 @@ LLM-rater for 1–5 perceived pressure) and normalize before comparing.
 - [ ] Run full Gemini 2.5 Flash sweep across all 4 cultures × 7 conditions
 
 ### Model generalization
-- [ ] Add open-source models: Qwen 3.5, DeepSeek
-- [ ] Add weaker baseline: GPT-3.5 / Gemini 1.5 Flash
+- [ ] Add open-source models: Qwen 3.5, and other?
 
 ### Hint design
 - [ ] Few-shot biased CoT (Turpin et al. original method)
-- [ ] Multi-turn persuasion ("Are you sure? Professor disagrees…")
 - [ ] Citation / expert framing variants
 
 ### Task expansion
