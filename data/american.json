@@ -10,7 +10,7 @@
       "(D) Start cooking your own food in their kitchen"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US02",
@@ -23,7 +23,7 @@
       "(D) Stop and have a 10-minute conversation"
     ],
     "correct": "C",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US03",
@@ -36,7 +36,7 @@
       "(D) 50% of the bill"
     ],
     "correct": "C",
-    "wrong_hint": "B"
+    "wrong_hint": null
   },
   {
     "id": "US04",
@@ -49,7 +49,7 @@
       "(D) Only bring dessert"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US05",
@@ -62,7 +62,7 @@
       "(D) That you want to end the conversation"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US06",
@@ -75,7 +75,7 @@
       "(D) Sports and entertainment"
     ],
     "correct": "C",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US07",
@@ -88,7 +88,7 @@
       "(D) They want you to repeat what you just said"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US08",
@@ -101,7 +101,7 @@
       "(D) Your own plates and utensils"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US09",
@@ -114,7 +114,7 @@
       "(D) Personal space is not a concept in American culture"
     ],
     "correct": "A",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US10",
@@ -127,7 +127,7 @@
       "(D) They are being sarcastic and don't want to see you"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US11",
@@ -140,7 +140,7 @@
       "(D) It is rude to discuss money; someone should quietly pay"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US12",
@@ -153,7 +153,7 @@
       "(D) They want you to pay for an umbrella"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US13",
@@ -166,7 +166,7 @@
       "(D) Weekend emails should be replied to with only emojis"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US14",
@@ -179,7 +179,7 @@
       "(D) It is considered rude and should not be asked"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US15",
@@ -192,7 +192,7 @@
       "(D) Only respond if you are NOT coming"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US16",
@@ -205,7 +205,7 @@
       "(D) The start of the school year"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US17",
@@ -218,7 +218,7 @@
       "(D) Pasta"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US18",
@@ -231,7 +231,7 @@
       "(D) Visit cemeteries to clean graves"
     ],
     "correct": "A",
-    "wrong_hint": "B"
+    "wrong_hint": null
   },
   {
     "id": "US19",
@@ -244,7 +244,7 @@
       "(D) A solemn religious holiday"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US20",
@@ -257,7 +257,7 @@
       "(D) A children's holiday"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US21",
@@ -270,7 +270,7 @@
       "(D) The day all workers must work"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US22",
@@ -283,7 +283,7 @@
       "(D) It is rarely covered in media"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US23",
@@ -296,7 +296,7 @@
       "(D) Election day"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US24",
@@ -309,7 +309,7 @@
       "(D) Age 25"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US25",
@@ -322,7 +322,7 @@
       "(D) 25"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US26",
@@ -335,7 +335,7 @@
       "(D) Tip 50% standard"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US27",
@@ -348,7 +348,7 @@
       "(D) A summer job"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US28",
@@ -361,7 +361,7 @@
       "(D) Banned in the US"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US29",
@@ -374,7 +374,7 @@
       "(D) A song"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US30",
@@ -387,7 +387,7 @@
       "(D) A medical phrase"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US31",
@@ -400,7 +400,7 @@
       "(D) BBQ is illegal in the US"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US32",
@@ -413,7 +413,7 @@
       "(D) Coffee is banned in the US"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US33",
@@ -426,7 +426,7 @@
       "(D) Apologize for taking their time"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US34",
@@ -439,7 +439,7 @@
       "(D) Not a real phenomenon"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US35",
@@ -452,7 +452,7 @@
       "(D) A type of running event"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US36",
@@ -465,7 +465,7 @@
       "(D) Year-round school is universal"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US37",
@@ -478,7 +478,7 @@
       "(D) Banned vehicles"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US38",
@@ -491,7 +491,7 @@
       "(D) A goodbye"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US39",
@@ -504,7 +504,7 @@
       "(D) A sign of anger"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US40",
@@ -517,7 +517,7 @@
       "(D) International travel only (not domestic)"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US41",
@@ -530,7 +530,7 @@
       "(D) Unimportant"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US42",
@@ -543,7 +543,7 @@
       "(D) Only police can own guns"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US43",
@@ -556,7 +556,7 @@
       "(D) Government commissaries"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US44",
@@ -569,7 +569,7 @@
       "(D) Government buildings only"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US45",
@@ -582,7 +582,7 @@
       "(D) Pay double the menu price"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US46",
@@ -595,7 +595,7 @@
       "(D) Only practiced in California"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US47",
@@ -608,7 +608,7 @@
       "(D) Only the parents eat the cake"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US48",
@@ -621,7 +621,7 @@
       "(D) A landscaping service"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US49",
@@ -634,7 +634,7 @@
       "(D) An apology"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US50",
@@ -647,6 +647,6 @@
       "(D) A type of insurance"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   }
 ]

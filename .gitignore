@@ -1,4 +1,5 @@
-results/raw_*.json
+results/baseline_*.json
+results/hints_*.json
 results/*.png
 __pycache__/
 *.pyc

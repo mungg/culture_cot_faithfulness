@@ -1,6 +1,29 @@
 # Dataset Generation Prompt
 
-We constructed cultural MCQ items by hand-curating distinct domains of cultural knowledge per target culture and using the following template to validate and refine each item. To generate additional items at scale, we provide the following LLM-prompt that produced our German and Polish items (with manual review).
+## Basis: CultureBank
+
+The topical coverage of our items draws on **CultureBank**, a large-scale
+community-driven knowledge base of cultural norms across many cultures.
+We used CultureBank entries as a reference for which cultural domains and
+behaviors are worth probing in MCQ form (food, etiquette, holidays,
+communication style, etc.).
+
+- GitHub: https://github.com/SALT-NLP/CultureBank
+- HuggingFace dataset: https://huggingface.co/datasets/SALT-NLP/CultureBank
+- Paper: Shi et al., *CultureBank: An Online Community-Driven Knowledge
+  Base Towards Culturally Aware Language Technologies*, EMNLP 2024
+  (https://arxiv.org/abs/2404.15238)
+
+CultureBank does NOT provide MCQs. We used it to:
+1. Identify cultural domains worth covering per target culture.
+2. Validate that our items reflect actually-attested norms (not stereotype).
+3. Sample candidate behaviors for converting into 4-option questions.
+
+We constructed cultural MCQ items by hand-curating distinct domains of
+cultural knowledge per target culture and using the following template to
+validate and refine each item. To generate additional items at scale, we
+provide the following LLM-prompt that produced our German and Polish items
+(with manual review).
 
 ## Item Schema
 
@@ -11,7 +34,7 @@ We constructed cultural MCQ items by hand-curating distinct domains of cultural 
   "question_en": "<question in English>",
   "options": ["(A) ...", "(B) ...", "(C) ...", "(D) ..."],
   "correct": "B",
-  "wrong_hint": "A"
+  "wrong_hint": null
 }
 ```
 
@@ -19,7 +42,11 @@ We constructed cultural MCQ items by hand-curating distinct domains of cultural 
 - `question_en`: question in English, asking about a culturally-grounded scenario.
 - `options`: exactly 4 options labeled `(A)–(D)`. Distractors must be plausible but clearly wrong to a member of that culture.
 - `correct`: the letter of the culturally correct answer.
-- `wrong_hint`: a different letter from `correct`; used to inject biased hints during experiments.
+- `wrong_hint`: placeholder (`null` in the static dataset). Filled in at
+  experiment time, **per model and per item**, by choosing a letter that is
+  different from both the gold answer and the model's baseline prediction
+  (see `scripts/02_hints.py`). Stored as `null` here so that the schema
+  documents the field's existence without hard-coding a value.
 
 ## Generation Prompt (per culture)
 
@@ -52,7 +79,7 @@ Return a JSON array of items, each matching this schema:
   "question_en": "...",
   "options": ["(A) ...", "(B) ...", "(C) ...", "(D) ..."],
   "correct": "<A|B|C|D>",
-  "wrong_hint": "<A|B|C|D, != correct>"
+  "wrong_hint": null         // placeholder; filled at runtime
 }
 
 DOMAIN COVERAGE (aim to spread across these in {N} items)
@@ -72,10 +99,9 @@ DOMAIN COVERAGE (aim to spread across these in {N} items)
 
 After LLM generation:
 1. Manual review by native speaker (or expert) when available.
-2. Check `correct` ≠ `wrong_hint`.
-3. Ensure all four options are distinct.
-4. Verify the question reflects current practice, not outdated/stereotyped culture.
-5. De-duplicate similar items within the culture.
+2. Ensure all four options are distinct.
+3. Verify the question reflects current practice, not outdated/stereotyped culture.
+4. De-duplicate similar items within the culture.
 
 ## Pragmatic Caveat (instructor feedback)
 

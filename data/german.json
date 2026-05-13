@@ -10,7 +10,7 @@
       "(D) Any time before 20:00 is fine"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE02",
@@ -23,7 +23,7 @@
       "(D) There is no distinction in modern German"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE03",
@@ -36,7 +36,7 @@
       "(D) This practice no longer exists"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "DE04",
@@ -49,7 +49,7 @@
       "(D) A traditional German tea time"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE05",
@@ -62,7 +62,7 @@
       "(D) This superstition does not actually exist"
     ],
     "correct": "A",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "DE06",
@@ -75,7 +75,7 @@
       "(D) Pour the drink for yourself first"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE07",
@@ -88,7 +88,7 @@
       "(D) The legal drinking age in Germany"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE08",
@@ -101,7 +101,7 @@
       "(D) Nothing special, just a regular school day"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE09",
@@ -114,7 +114,7 @@
       "(D) Card payments are taxed much higher"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE10",
@@ -127,7 +127,7 @@
       "(D) A discount card for grocery stores"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE11",
@@ -140,7 +140,7 @@
       "(D) They want you to ask three more times"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE12",
@@ -153,7 +153,7 @@
       "(D) A request for the bill in restaurants"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE13",
@@ -166,7 +166,7 @@
       "(D) It is only done with strangers, never colleagues"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE14",
@@ -179,7 +179,7 @@
       "(D) The first dance at the wedding reception"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE15",
@@ -192,7 +192,7 @@
       "(D) This custom does not exist in Germany"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "DE16",
@@ -205,7 +205,7 @@
       "(D) A German seafood dish"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE17",
@@ -218,7 +218,7 @@
       "(D) Bread was banned during WWII and is now celebrated"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE18",
@@ -231,7 +231,7 @@
       "(D) Germans work the longest hours in Europe"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE19",
@@ -244,7 +244,7 @@
       "(D) Adult education for retirees"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE20",
@@ -257,7 +257,7 @@
       "(D) This is no longer practiced anywhere"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE21",
@@ -270,7 +270,7 @@
       "(D) A German fast-food chain"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE22",
@@ -283,7 +283,7 @@
       "(D) A compliment to their professional status"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE23",
@@ -296,7 +296,7 @@
       "(D) Recycling is illegal in Germany"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE24",
@@ -309,7 +309,7 @@
       "(D) A Christmas market tradition"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "DE25",
@@ -322,7 +322,7 @@
       "(D) A handshake"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE26",
@@ -335,7 +335,7 @@
       "(D) No closing needed"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE27",
@@ -348,7 +348,7 @@
       "(D) Sunday workers wanted"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE28",
@@ -361,7 +361,7 @@
       "(D) Germans never ride trains"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE29",
@@ -374,7 +374,7 @@
       "(D) A traditional dance"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE30",
@@ -387,7 +387,7 @@
       "(D) Eats from a separate table"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE31",
@@ -400,7 +400,7 @@
       "(D) This stereotype is completely false"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE32",
@@ -413,7 +413,7 @@
       "(D) A wedding ceremony ritual"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE33",
@@ -426,7 +426,7 @@
       "(D) Announce your name loudly"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE34",
@@ -439,7 +439,7 @@
       "(D) It is the only legal profession in Germany"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE35",
@@ -452,7 +452,7 @@
       "(D) Germans do not pay taxes"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE36",
@@ -465,7 +465,7 @@
       "(D) A government surveillance program"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE37",
@@ -478,7 +478,7 @@
       "(D) Imported from France"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE38",
@@ -491,7 +491,7 @@
       "(D) Used clothing"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE39",
@@ -504,7 +504,7 @@
       "(D) Overtime pay"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE40",
@@ -517,7 +517,7 @@
       "(D) They are religious services held outdoors"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE41",
@@ -530,7 +530,7 @@
       "(D) Only military vehicles can use it"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE42",
@@ -543,7 +543,7 @@
       "(D) A Catholic confession ritual"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE43",
@@ -556,7 +556,7 @@
       "(D) Germans never go on vacation"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE44",
@@ -569,7 +569,7 @@
       "(D) Bow without physical contact"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE45",
@@ -582,7 +582,7 @@
       "(D) A type of folk dance"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE46",
@@ -595,7 +595,7 @@
       "(D) Throw money on the table"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE47",
@@ -608,7 +608,7 @@
       "(D) This stereotype is false"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE48",
@@ -621,7 +621,7 @@
       "(D) A government child welfare office"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE49",
@@ -634,7 +634,7 @@
       "(D) Clubs are banned and operate illegally"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE50",
@@ -647,6 +647,6 @@
       "(D) 'The beer is too cold'"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   }
 ]

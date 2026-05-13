@@ -10,7 +10,7 @@
       "(D) Singing a national anthem"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL02",
@@ -23,7 +23,7 @@
       "(D) An academic graduation ceremony"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL03",
@@ -36,7 +36,7 @@
       "(D) A modern commercial event"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL04",
@@ -49,7 +49,7 @@
       "(D) Polish tradition does not include this practice"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL05",
@@ -62,7 +62,7 @@
       "(D) A type of Easter cake"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL06",
@@ -75,7 +75,7 @@
       "(D) No greeting is traditional"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL07",
@@ -88,7 +88,7 @@
       "(D) Bread has no cultural significance"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL08",
@@ -101,7 +101,7 @@
       "(D) 'Please pass the salt'"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL09",
@@ -114,7 +114,7 @@
       "(D) This rule does not exist"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL10",
@@ -127,7 +127,7 @@
       "(D) The first day of winter celebrations"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL11",
@@ -140,7 +140,7 @@
       "(D) Drink it mixed with juice only"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL12",
@@ -153,7 +153,7 @@
       "(D) Polish currency"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL13",
@@ -166,7 +166,7 @@
       "(D) Only royalty can eat pierogi"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL14",
@@ -179,7 +179,7 @@
       "(D) Polish forests have no mushrooms"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL15",
@@ -192,7 +192,7 @@
       "(D) No song is traditional"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL16",
@@ -205,7 +205,7 @@
       "(D) No connection to Polish culture"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL17",
@@ -218,7 +218,7 @@
       "(D) A clothing brand"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL18",
@@ -231,7 +231,7 @@
       "(D) An apology"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL19",
@@ -244,7 +244,7 @@
       "(D) This practice does not exist"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL20",
@@ -257,7 +257,7 @@
       "(D) A type of bread"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL21",
@@ -270,7 +270,7 @@
       "(D) The bouquet toss"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL22",
@@ -283,7 +283,7 @@
       "(D) Babcia is a male title"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL23",
@@ -296,7 +296,7 @@
       "(D) A type of Polish folk music"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL24",
@@ -309,7 +309,7 @@
       "(D) A holiday for shop closures"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL25",
@@ -322,7 +322,7 @@
       "(D) A type of vodka"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL26",
@@ -335,7 +335,7 @@
       "(D) Funerals are kept secret in Polish culture"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL27",
@@ -348,7 +348,7 @@
       "(D) An honorary government title"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL28",
@@ -361,7 +361,7 @@
       "(D) Only one volleyball court exists in Poland"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL29",
@@ -374,7 +374,7 @@
       "(D) No such distinction exists"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL30",
@@ -387,7 +387,7 @@
       "(D) Religious requirement"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL31",
@@ -400,7 +400,7 @@
       "(D) An insult"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL32",
@@ -413,7 +413,7 @@
       "(D) A religious holiday"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL33",
@@ -426,7 +426,7 @@
       "(D) A traditional folk song"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL34",
@@ -439,7 +439,7 @@
       "(D) Friendship"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL35",
@@ -452,7 +452,7 @@
       "(D) The custom does not exist in Poland"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL36",
@@ -465,7 +465,7 @@
       "(D) Polish Father's Day"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL37",
@@ -478,7 +478,7 @@
       "(D) An imported French recipe"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL38",
@@ -491,7 +491,7 @@
       "(D) A request for repetition"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL39",
@@ -504,7 +504,7 @@
       "(D) Only one Polish wedding has ever lasted long"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL40",
@@ -517,7 +517,7 @@
       "(D) Christmas Day"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL41",
@@ -530,7 +530,7 @@
       "(D) No such gesture exists"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL42",
@@ -543,7 +543,7 @@
       "(D) A medical device"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL43",
@@ -556,7 +556,7 @@
       "(D) Practiced only by clergy"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL44",
@@ -569,7 +569,7 @@
       "(D) Only royalty receives hospitality"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL45",
@@ -582,7 +582,7 @@
       "(D) Counter-question only"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL46",
@@ -595,7 +595,7 @@
       "(D) Coffee with vodka mixed in"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL47",
@@ -608,7 +608,7 @@
       "(D) A historical Polish king"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL48",
@@ -621,7 +621,7 @@
       "(D) Praising the cook"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL49",
@@ -634,7 +634,7 @@
       "(D) An inventor of pierogi"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL50",
@@ -647,6 +647,6 @@
       "(D) Not a real saying"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   }
 ]

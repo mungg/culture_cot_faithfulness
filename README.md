@@ -29,22 +29,30 @@ culture), **hint type** (authority / social / indirect), and **culture**
 
 ## Quick start
 
+Two-phase pipeline. Phase 1 collects each model's baseline answer
+(no hint). Phase 2 picks `wrong_hint` **per item** based on what the
+model actually predicted, then runs hint conditions only on items the
+model got right at baseline.
+
 ```bash
 # 1. Install
 pip install google-genai
 gcloud auth application-default login   # for Vertex AI
 
-# 2. Set your project in scripts/01_generate_answers.py
+# 2. Set your project in scripts/01_baseline.py and 02_hints.py
 #    (PROJECT_ID, LOCATION, MODEL_ID)
 
-# 3. Run a small smoke test (10 items per culture, all 7 conditions)
-python scripts/01_generate_answers.py --culture all --limit 10 --run-name smoke
+# 3. Phase 1 — baseline (no hint), e.g. 10 items per culture
+python scripts/01_baseline.py --culture all --limit 10 --run-name smoke
 
-# 4. Compute metrics
-python scripts/02_analyze.py --run-name smoke
+# 4. Phase 2 — hint conditions, on baseline-correct items only
+python scripts/02_hints.py --baseline smoke --run-name smoke
+
+# 5. Analyze
+python scripts/03_analyze.py --run-name smoke
 ```
 
-Full run: drop `--limit` to use all 200 items × 7 conditions = 1,400 calls.
+Full run: drop `--limit` (200 items × baseline + ≤200 × 6 hint conditions).
 
 ## Repo layout
 
@@ -60,8 +68,9 @@ culture_cot_faithfulness/
 │   ├── dataset_generation_prompt.md  # how to create new items
 │   └── hint_templates.py             # authority / social / indirect, en/ko/de/pl
 ├── scripts/
-│   ├── 01_generate_answers.py     # main driver — uses Gemini structured output (JSON)
-│   └── 02_analyze.py              # compute metrics
+│   ├── 01_baseline.py             # Phase 1: no-hint baseline, per-model predictions
+│   ├── 02_hints.py                # Phase 2: hints with dynamic wrong_hint per item
+│   └── 03_analyze.py              # compute metrics
 └── results/                       # output dir (gitignored)
 ```
 
@@ -81,6 +90,21 @@ Each item: 4-option MCQ, gold `correct` letter, and a `wrong_hint` letter
 [`prompts/dataset_generation_prompt.md`](prompts/dataset_generation_prompt.md)
 for the schema and the LLM-prompt used to generate items.
 
+**Basis:** Topical coverage draws on
+[**CultureBank**](https://github.com/SALT-NLP/CultureBank)
+(Shi et al., EMNLP 2024;
+[paper](https://arxiv.org/abs/2404.15238),
+[HF dataset](https://huggingface.co/datasets/SALT-NLP/CultureBank))
+— a community-driven knowledge base of cultural norms. CultureBank entries
+informed which domains and behaviors to probe; we converted candidate
+behaviors into 4-option MCQs with manual curation.
+
+**Note on `wrong_hint`:** the field exists in the schema but is `null` in
+the static dataset. It is filled in at experiment time, per model and per
+item, by `scripts/02_hints.py` — choosing a letter that is different from
+both the gold answer and the model's baseline prediction, so the hint
+truly contradicts the model's belief (Turpin et al. 2024 style).
+
 ## Experimental conditions
 
 For each item, 7 conditions are run:
@@ -97,6 +121,10 @@ For each item, 7 conditions are run:
 
 Hint templates for German (`de`) and Polish (`pl`) are also provided in
 `prompts/hint_templates.py` for parallel "matched-culture" experiments.
+
+After Phase 2 runs, each entry in `results/hints_<run>.json` carries the
+`wrong_hint` letter chosen for that specific (model, item) pair, so the
+analysis stage can compute sycophancy correctly.
 
 ## Metrics produced by `03_analyze.py`
 
@@ -137,6 +165,8 @@ LLM-rater for 1–5 perceived pressure) and normalize before comparing.
 ## TODO
 
 ### Methodology (feedback-driven)
+- [x] **Two-phase pipeline**: `01_baseline.py` → `02_hints.py` with
+      `wrong_hint` chosen dynamically per (model, item)
 - [ ] Quantify per-culture pragmatic strength of each hint type
       (e.g. LLM-rater scoring perceived pressure 1–5) and normalize before
       cross-culture comparison

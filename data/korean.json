@@ -10,7 +10,7 @@
       "(D) A bouquet of flowers"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR02",
@@ -23,7 +23,7 @@
       "(D) Take a photo of it with your phone"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR03",
@@ -36,7 +36,7 @@
       "(D) It means they disagree with you"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR04",
@@ -49,7 +49,7 @@
       "(D) They think you look thin"
     ],
     "correct": "C",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR05",
@@ -62,7 +62,7 @@
       "(D) There is no special meaning"
     ],
     "correct": "A",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR06",
@@ -75,7 +75,7 @@
       "(D) Into their own glass first as a taste test"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR07",
@@ -88,7 +88,7 @@
       "(D) Only on Valentine's Day"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR08",
@@ -101,7 +101,7 @@
       "(D) They are asking you on a date"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR09",
@@ -114,7 +114,7 @@
       "(D) To decide seating arrangements only"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR10",
@@ -127,7 +127,7 @@
       "(D) It has no special cultural significance"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR11",
@@ -140,7 +140,7 @@
       "(D) A formal greeting between strangers"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR12",
@@ -153,7 +153,7 @@
       "(D) It is a superstition to avoid bad luck"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR13",
@@ -166,7 +166,7 @@
       "(D) Restaurants will refuse to serve a single diner"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR14",
@@ -179,7 +179,7 @@
       "(D) This practice does not actually exist"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR15",
@@ -192,7 +192,7 @@
       "(D) Ask how much it cost"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR16",
@@ -205,7 +205,7 @@
       "(D) Snapping fingers"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR17",
@@ -218,7 +218,7 @@
       "(D) Shoes are optional in modern Korean homes"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR18",
@@ -231,7 +231,7 @@
       "(D) Modern Korean cuisine has phased it out"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR19",
@@ -244,7 +244,7 @@
       "(D) There is no such taboo"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR20",
@@ -257,7 +257,7 @@
       "(D) A Buddhist temple"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR21",
@@ -270,7 +270,7 @@
       "(D) A modern shopping holiday"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR22",
@@ -283,7 +283,7 @@
       "(D) Korean Valentine's Day"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR23",
@@ -296,7 +296,7 @@
       "(D) Never; it is illegal to wear in public"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR24",
@@ -309,7 +309,7 @@
       "(D) Tax brackets in Korea differ"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR25",
@@ -322,7 +322,7 @@
       "(D) A neutral number with no significance"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR26",
@@ -335,7 +335,7 @@
       "(D) Green"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR27",
@@ -348,7 +348,7 @@
       "(D) Demand more food"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR28",
@@ -361,7 +361,7 @@
       "(D) Bow depth is not culturally significant"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR29",
@@ -374,7 +374,7 @@
       "(D) A retirement ceremony"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR30",
@@ -387,7 +387,7 @@
       "(D) A summer music festival"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR31",
@@ -400,7 +400,7 @@
       "(D) Only K-pop fans use them"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR32",
@@ -413,7 +413,7 @@
       "(D) National sports day"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR33",
@@ -426,7 +426,7 @@
       "(D) Only seen in elderly people"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR34",
@@ -439,7 +439,7 @@
       "(D) Play music aloud"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR35",
@@ -452,7 +452,7 @@
       "(D) The custom is not actually practiced"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR36",
@@ -465,7 +465,7 @@
       "(D) A type of friendship contract"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR37",
@@ -478,7 +478,7 @@
       "(D) Spill some on the floor first"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR38",
@@ -491,7 +491,7 @@
       "(D) Karaoke singing"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR39",
@@ -504,7 +504,7 @@
       "(D) Korean students never study in cafés"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR40",
@@ -517,7 +517,7 @@
       "(D) A K-drama plot device only"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR41",
@@ -530,7 +530,7 @@
       "(D) Choose university majors"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR42",
@@ -543,7 +543,7 @@
       "(D) A short-lived 2000s trend"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR43",
@@ -556,7 +556,7 @@
       "(D) A summer fireworks event"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR44",
@@ -569,7 +569,7 @@
       "(D) Beverages"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR45",
@@ -582,7 +582,7 @@
       "(D) Drinking from a glass"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR46",
@@ -595,7 +595,7 @@
       "(D) A goodbye"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR47",
@@ -608,7 +608,7 @@
       "(D) A type of formal address"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR48",
@@ -621,7 +621,7 @@
       "(D) Korean cities lack restaurants"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR49",
@@ -634,7 +634,7 @@
       "(D) Café staff will ask them to leave"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR50",
@@ -647,6 +647,6 @@
       "(D) Only women serve in Korea"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   }
 ]

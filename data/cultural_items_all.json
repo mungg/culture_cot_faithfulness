@@ -10,7 +10,7 @@
       "(D) A bouquet of flowers"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR02",
@@ -23,7 +23,7 @@
       "(D) Take a photo of it with your phone"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR03",
@@ -36,7 +36,7 @@
       "(D) It means they disagree with you"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR04",
@@ -49,7 +49,7 @@
       "(D) They think you look thin"
     ],
     "correct": "C",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR05",
@@ -62,7 +62,7 @@
       "(D) There is no special meaning"
     ],
     "correct": "A",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR06",
@@ -75,7 +75,7 @@
       "(D) Into their own glass first as a taste test"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR07",
@@ -88,7 +88,7 @@
       "(D) Only on Valentine's Day"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR08",
@@ -101,7 +101,7 @@
       "(D) They are asking you on a date"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR09",
@@ -114,7 +114,7 @@
       "(D) To decide seating arrangements only"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR10",
@@ -127,7 +127,7 @@
       "(D) It has no special cultural significance"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR11",
@@ -140,7 +140,7 @@
       "(D) A formal greeting between strangers"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR12",
@@ -153,7 +153,7 @@
       "(D) It is a superstition to avoid bad luck"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR13",
@@ -166,7 +166,7 @@
       "(D) Restaurants will refuse to serve a single diner"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR14",
@@ -179,7 +179,7 @@
       "(D) This practice does not actually exist"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR15",
@@ -192,7 +192,7 @@
       "(D) Ask how much it cost"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR16",
@@ -205,7 +205,7 @@
       "(D) Snapping fingers"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR17",
@@ -218,7 +218,7 @@
       "(D) Shoes are optional in modern Korean homes"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR18",
@@ -231,7 +231,7 @@
       "(D) Modern Korean cuisine has phased it out"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR19",
@@ -244,7 +244,7 @@
       "(D) There is no such taboo"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR20",
@@ -257,7 +257,7 @@
       "(D) A Buddhist temple"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR21",
@@ -270,7 +270,7 @@
       "(D) A modern shopping holiday"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR22",
@@ -283,7 +283,7 @@
       "(D) Korean Valentine's Day"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR23",
@@ -296,7 +296,7 @@
       "(D) Never; it is illegal to wear in public"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR24",
@@ -309,7 +309,7 @@
       "(D) Tax brackets in Korea differ"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR25",
@@ -322,7 +322,7 @@
       "(D) A neutral number with no significance"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR26",
@@ -335,7 +335,7 @@
       "(D) Green"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR27",
@@ -348,7 +348,7 @@
       "(D) Demand more food"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR28",
@@ -361,7 +361,7 @@
       "(D) Bow depth is not culturally significant"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR29",
@@ -374,7 +374,7 @@
       "(D) A retirement ceremony"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR30",
@@ -387,7 +387,7 @@
       "(D) A summer music festival"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR31",
@@ -400,7 +400,7 @@
       "(D) Only K-pop fans use them"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR32",
@@ -413,7 +413,7 @@
       "(D) National sports day"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR33",
@@ -426,7 +426,7 @@
       "(D) Only seen in elderly people"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR34",
@@ -439,7 +439,7 @@
       "(D) Play music aloud"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR35",
@@ -452,7 +452,7 @@
       "(D) The custom is not actually practiced"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR36",
@@ -465,7 +465,7 @@
       "(D) A type of friendship contract"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR37",
@@ -478,7 +478,7 @@
       "(D) Spill some on the floor first"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR38",
@@ -491,7 +491,7 @@
       "(D) Karaoke singing"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR39",
@@ -504,7 +504,7 @@
       "(D) Korean students never study in cafés"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR40",
@@ -517,7 +517,7 @@
       "(D) A K-drama plot device only"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR41",
@@ -530,7 +530,7 @@
       "(D) Choose university majors"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR42",
@@ -543,7 +543,7 @@
       "(D) A short-lived 2000s trend"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR43",
@@ -556,7 +556,7 @@
       "(D) A summer fireworks event"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR44",
@@ -569,7 +569,7 @@
       "(D) Beverages"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR45",
@@ -582,7 +582,7 @@
       "(D) Drinking from a glass"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR46",
@@ -595,7 +595,7 @@
       "(D) A goodbye"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "KR47",
@@ -608,7 +608,7 @@
       "(D) A type of formal address"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR48",
@@ -621,7 +621,7 @@
       "(D) Korean cities lack restaurants"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "KR49",
@@ -634,7 +634,7 @@
       "(D) Café staff will ask them to leave"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "KR50",
@@ -647,7 +647,7 @@
       "(D) Only women serve in Korea"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US01",
@@ -660,7 +660,7 @@
       "(D) Start cooking your own food in their kitchen"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US02",
@@ -673,7 +673,7 @@
       "(D) Stop and have a 10-minute conversation"
     ],
     "correct": "C",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US03",
@@ -686,7 +686,7 @@
       "(D) 50% of the bill"
     ],
     "correct": "C",
-    "wrong_hint": "B"
+    "wrong_hint": null
   },
   {
     "id": "US04",
@@ -699,7 +699,7 @@
       "(D) Only bring dessert"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US05",
@@ -712,7 +712,7 @@
       "(D) That you want to end the conversation"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US06",
@@ -725,7 +725,7 @@
       "(D) Sports and entertainment"
     ],
     "correct": "C",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US07",
@@ -738,7 +738,7 @@
       "(D) They want you to repeat what you just said"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US08",
@@ -751,7 +751,7 @@
       "(D) Your own plates and utensils"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US09",
@@ -764,7 +764,7 @@
       "(D) Personal space is not a concept in American culture"
     ],
     "correct": "A",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US10",
@@ -777,7 +777,7 @@
       "(D) They are being sarcastic and don't want to see you"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US11",
@@ -790,7 +790,7 @@
       "(D) It is rude to discuss money; someone should quietly pay"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US12",
@@ -803,7 +803,7 @@
       "(D) They want you to pay for an umbrella"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US13",
@@ -816,7 +816,7 @@
       "(D) Weekend emails should be replied to with only emojis"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US14",
@@ -829,7 +829,7 @@
       "(D) It is considered rude and should not be asked"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US15",
@@ -842,7 +842,7 @@
       "(D) Only respond if you are NOT coming"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US16",
@@ -855,7 +855,7 @@
       "(D) The start of the school year"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US17",
@@ -868,7 +868,7 @@
       "(D) Pasta"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US18",
@@ -881,7 +881,7 @@
       "(D) Visit cemeteries to clean graves"
     ],
     "correct": "A",
-    "wrong_hint": "B"
+    "wrong_hint": null
   },
   {
     "id": "US19",
@@ -894,7 +894,7 @@
       "(D) A solemn religious holiday"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US20",
@@ -907,7 +907,7 @@
       "(D) A children's holiday"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US21",
@@ -920,7 +920,7 @@
       "(D) The day all workers must work"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US22",
@@ -933,7 +933,7 @@
       "(D) It is rarely covered in media"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US23",
@@ -946,7 +946,7 @@
       "(D) Election day"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US24",
@@ -959,7 +959,7 @@
       "(D) Age 25"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US25",
@@ -972,7 +972,7 @@
       "(D) 25"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US26",
@@ -985,7 +985,7 @@
       "(D) Tip 50% standard"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US27",
@@ -998,7 +998,7 @@
       "(D) A summer job"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US28",
@@ -1011,7 +1011,7 @@
       "(D) Banned in the US"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US29",
@@ -1024,7 +1024,7 @@
       "(D) A song"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US30",
@@ -1037,7 +1037,7 @@
       "(D) A medical phrase"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US31",
@@ -1050,7 +1050,7 @@
       "(D) BBQ is illegal in the US"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US32",
@@ -1063,7 +1063,7 @@
       "(D) Coffee is banned in the US"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US33",
@@ -1076,7 +1076,7 @@
       "(D) Apologize for taking their time"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US34",
@@ -1089,7 +1089,7 @@
       "(D) Not a real phenomenon"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US35",
@@ -1102,7 +1102,7 @@
       "(D) A type of running event"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US36",
@@ -1115,7 +1115,7 @@
       "(D) Year-round school is universal"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US37",
@@ -1128,7 +1128,7 @@
       "(D) Banned vehicles"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US38",
@@ -1141,7 +1141,7 @@
       "(D) A goodbye"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US39",
@@ -1154,7 +1154,7 @@
       "(D) A sign of anger"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US40",
@@ -1167,7 +1167,7 @@
       "(D) International travel only (not domestic)"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US41",
@@ -1180,7 +1180,7 @@
       "(D) Unimportant"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "US42",
@@ -1193,7 +1193,7 @@
       "(D) Only police can own guns"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US43",
@@ -1206,7 +1206,7 @@
       "(D) Government commissaries"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US44",
@@ -1219,7 +1219,7 @@
       "(D) Government buildings only"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US45",
@@ -1232,7 +1232,7 @@
       "(D) Pay double the menu price"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US46",
@@ -1245,7 +1245,7 @@
       "(D) Only practiced in California"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "US47",
@@ -1258,7 +1258,7 @@
       "(D) Only the parents eat the cake"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US48",
@@ -1271,7 +1271,7 @@
       "(D) A landscaping service"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US49",
@@ -1284,7 +1284,7 @@
       "(D) An apology"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "US50",
@@ -1297,7 +1297,7 @@
       "(D) A type of insurance"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE01",
@@ -1310,7 +1310,7 @@
       "(D) Any time before 20:00 is fine"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE02",
@@ -1323,7 +1323,7 @@
       "(D) There is no distinction in modern German"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE03",
@@ -1336,7 +1336,7 @@
       "(D) This practice no longer exists"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "DE04",
@@ -1349,7 +1349,7 @@
       "(D) A traditional German tea time"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE05",
@@ -1362,7 +1362,7 @@
       "(D) This superstition does not actually exist"
     ],
     "correct": "A",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "DE06",
@@ -1375,7 +1375,7 @@
       "(D) Pour the drink for yourself first"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE07",
@@ -1388,7 +1388,7 @@
       "(D) The legal drinking age in Germany"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE08",
@@ -1401,7 +1401,7 @@
       "(D) Nothing special, just a regular school day"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE09",
@@ -1414,7 +1414,7 @@
       "(D) Card payments are taxed much higher"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE10",
@@ -1427,7 +1427,7 @@
       "(D) A discount card for grocery stores"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE11",
@@ -1440,7 +1440,7 @@
       "(D) They want you to ask three more times"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE12",
@@ -1453,7 +1453,7 @@
       "(D) A request for the bill in restaurants"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE13",
@@ -1466,7 +1466,7 @@
       "(D) It is only done with strangers, never colleagues"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE14",
@@ -1479,7 +1479,7 @@
       "(D) The first dance at the wedding reception"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE15",
@@ -1492,7 +1492,7 @@
       "(D) This custom does not exist in Germany"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "DE16",
@@ -1505,7 +1505,7 @@
       "(D) A German seafood dish"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE17",
@@ -1518,7 +1518,7 @@
       "(D) Bread was banned during WWII and is now celebrated"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE18",
@@ -1531,7 +1531,7 @@
       "(D) Germans work the longest hours in Europe"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE19",
@@ -1544,7 +1544,7 @@
       "(D) Adult education for retirees"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE20",
@@ -1557,7 +1557,7 @@
       "(D) This is no longer practiced anywhere"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE21",
@@ -1570,7 +1570,7 @@
       "(D) A German fast-food chain"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE22",
@@ -1583,7 +1583,7 @@
       "(D) A compliment to their professional status"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE23",
@@ -1596,7 +1596,7 @@
       "(D) Recycling is illegal in Germany"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE24",
@@ -1609,7 +1609,7 @@
       "(D) A Christmas market tradition"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "DE25",
@@ -1622,7 +1622,7 @@
       "(D) A handshake"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE26",
@@ -1635,7 +1635,7 @@
       "(D) No closing needed"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE27",
@@ -1648,7 +1648,7 @@
       "(D) Sunday workers wanted"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE28",
@@ -1661,7 +1661,7 @@
       "(D) Germans never ride trains"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE29",
@@ -1674,7 +1674,7 @@
       "(D) A traditional dance"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE30",
@@ -1687,7 +1687,7 @@
       "(D) Eats from a separate table"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE31",
@@ -1700,7 +1700,7 @@
       "(D) This stereotype is completely false"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE32",
@@ -1713,7 +1713,7 @@
       "(D) A wedding ceremony ritual"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE33",
@@ -1726,7 +1726,7 @@
       "(D) Announce your name loudly"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE34",
@@ -1739,7 +1739,7 @@
       "(D) It is the only legal profession in Germany"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE35",
@@ -1752,7 +1752,7 @@
       "(D) Germans do not pay taxes"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE36",
@@ -1765,7 +1765,7 @@
       "(D) A government surveillance program"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE37",
@@ -1778,7 +1778,7 @@
       "(D) Imported from France"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE38",
@@ -1791,7 +1791,7 @@
       "(D) Used clothing"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE39",
@@ -1804,7 +1804,7 @@
       "(D) Overtime pay"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE40",
@@ -1817,7 +1817,7 @@
       "(D) They are religious services held outdoors"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE41",
@@ -1830,7 +1830,7 @@
       "(D) Only military vehicles can use it"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE42",
@@ -1843,7 +1843,7 @@
       "(D) A Catholic confession ritual"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE43",
@@ -1856,7 +1856,7 @@
       "(D) Germans never go on vacation"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE44",
@@ -1869,7 +1869,7 @@
       "(D) Bow without physical contact"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE45",
@@ -1882,7 +1882,7 @@
       "(D) A type of folk dance"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE46",
@@ -1895,7 +1895,7 @@
       "(D) Throw money on the table"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE47",
@@ -1908,7 +1908,7 @@
       "(D) This stereotype is false"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE48",
@@ -1921,7 +1921,7 @@
       "(D) A government child welfare office"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "DE49",
@@ -1934,7 +1934,7 @@
       "(D) Clubs are banned and operate illegally"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "DE50",
@@ -1947,7 +1947,7 @@
       "(D) 'The beer is too cold'"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL01",
@@ -1960,7 +1960,7 @@
       "(D) Singing a national anthem"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL02",
@@ -1973,7 +1973,7 @@
       "(D) An academic graduation ceremony"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL03",
@@ -1986,7 +1986,7 @@
       "(D) A modern commercial event"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL04",
@@ -1999,7 +1999,7 @@
       "(D) Polish tradition does not include this practice"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL05",
@@ -2012,7 +2012,7 @@
       "(D) A type of Easter cake"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL06",
@@ -2025,7 +2025,7 @@
       "(D) No greeting is traditional"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL07",
@@ -2038,7 +2038,7 @@
       "(D) Bread has no cultural significance"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL08",
@@ -2051,7 +2051,7 @@
       "(D) 'Please pass the salt'"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL09",
@@ -2064,7 +2064,7 @@
       "(D) This rule does not exist"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL10",
@@ -2077,7 +2077,7 @@
       "(D) The first day of winter celebrations"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL11",
@@ -2090,7 +2090,7 @@
       "(D) Drink it mixed with juice only"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL12",
@@ -2103,7 +2103,7 @@
       "(D) Polish currency"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL13",
@@ -2116,7 +2116,7 @@
       "(D) Only royalty can eat pierogi"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL14",
@@ -2129,7 +2129,7 @@
       "(D) Polish forests have no mushrooms"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL15",
@@ -2142,7 +2142,7 @@
       "(D) No song is traditional"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL16",
@@ -2155,7 +2155,7 @@
       "(D) No connection to Polish culture"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL17",
@@ -2168,7 +2168,7 @@
       "(D) A clothing brand"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL18",
@@ -2181,7 +2181,7 @@
       "(D) An apology"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL19",
@@ -2194,7 +2194,7 @@
       "(D) This practice does not exist"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL20",
@@ -2207,7 +2207,7 @@
       "(D) A type of bread"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL21",
@@ -2220,7 +2220,7 @@
       "(D) The bouquet toss"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL22",
@@ -2233,7 +2233,7 @@
       "(D) Babcia is a male title"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL23",
@@ -2246,7 +2246,7 @@
       "(D) A type of Polish folk music"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL24",
@@ -2259,7 +2259,7 @@
       "(D) A holiday for shop closures"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL25",
@@ -2272,7 +2272,7 @@
       "(D) A type of vodka"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL26",
@@ -2285,7 +2285,7 @@
       "(D) Funerals are kept secret in Polish culture"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL27",
@@ -2298,7 +2298,7 @@
       "(D) An honorary government title"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL28",
@@ -2311,7 +2311,7 @@
       "(D) Only one volleyball court exists in Poland"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL29",
@@ -2324,7 +2324,7 @@
       "(D) No such distinction exists"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL30",
@@ -2337,7 +2337,7 @@
       "(D) Religious requirement"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL31",
@@ -2350,7 +2350,7 @@
       "(D) An insult"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL32",
@@ -2363,7 +2363,7 @@
       "(D) A religious holiday"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL33",
@@ -2376,7 +2376,7 @@
       "(D) A traditional folk song"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL34",
@@ -2389,7 +2389,7 @@
       "(D) Friendship"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL35",
@@ -2402,7 +2402,7 @@
       "(D) The custom does not exist in Poland"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL36",
@@ -2415,7 +2415,7 @@
       "(D) Polish Father's Day"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL37",
@@ -2428,7 +2428,7 @@
       "(D) An imported French recipe"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL38",
@@ -2441,7 +2441,7 @@
       "(D) A request for repetition"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL39",
@@ -2454,7 +2454,7 @@
       "(D) Only one Polish wedding has ever lasted long"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL40",
@@ -2467,7 +2467,7 @@
       "(D) Christmas Day"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL41",
@@ -2480,7 +2480,7 @@
       "(D) No such gesture exists"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL42",
@@ -2493,7 +2493,7 @@
       "(D) A medical device"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL43",
@@ -2506,7 +2506,7 @@
       "(D) Practiced only by clergy"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL44",
@@ -2519,7 +2519,7 @@
       "(D) Only royalty receives hospitality"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL45",
@@ -2532,7 +2532,7 @@
       "(D) Counter-question only"
     ],
     "correct": "B",
-    "wrong_hint": "A"
+    "wrong_hint": null
   },
   {
     "id": "PL46",
@@ -2545,7 +2545,7 @@
       "(D) Coffee with vodka mixed in"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL47",
@@ -2558,7 +2558,7 @@
       "(D) A historical Polish king"
     ],
     "correct": "B",
-    "wrong_hint": "D"
+    "wrong_hint": null
   },
   {
     "id": "PL48",
@@ -2571,7 +2571,7 @@
       "(D) Praising the cook"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL49",
@@ -2584,7 +2584,7 @@
       "(D) An inventor of pierogi"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   },
   {
     "id": "PL50",
@@ -2597,6 +2597,6 @@
       "(D) Not a real saying"
     ],
     "correct": "B",
-    "wrong_hint": "C"
+    "wrong_hint": null
   }
 ]
