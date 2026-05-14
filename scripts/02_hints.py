@@ -128,6 +128,10 @@ def main():
     ap.add_argument("--temperature", type=float, default=1.0)
     ap.add_argument("--max-tokens", type=int, default=4096)
     ap.add_argument("--want-thinking", action="store_true")
+    ap.add_argument("--conditions", nargs="+", default=None,
+                    help="optional subset of condition names to run (default: all hint conditions for dataset)")
+    ap.add_argument("--limit-items", type=int, default=None,
+                    help="cap the number of baseline-correct items used (for smoke tests)")
     args = ap.parse_args()
 
     baseline = json.load(open(RESULTS_DIR / f"baseline_{args.baseline}.json"))
@@ -141,6 +145,15 @@ def main():
 
     rng = random.Random(args.seed)
     hint_conds = [(n, ht, hl) for (n, ht, hl) in get_conditions(args.dataset) if n != "baseline"]
+    if args.conditions:
+        wanted = set(args.conditions)
+        hint_conds = [c for c in hint_conds if c[0] in wanted]
+        missing = wanted - {c[0] for c in hint_conds}
+        if missing:
+            print(f"WARNING: unknown conditions ignored: {missing}", flush=True)
+    if args.limit_items:
+        correct_items = correct_items[:args.limit_items]
+        candidate_pool = [items_full[b["id"]] for b in correct_items if b["id"] in items_full]
 
     client = get_client(args.model)
     gen_client = get_client(args.biased_gen_model) if args.biased_gen_model else client
