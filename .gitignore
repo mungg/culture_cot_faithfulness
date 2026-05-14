@@ -1,5 +1,6 @@
 results/baseline_*.json
 results/hints_*.json
+results/_log_*.txt
 results/*.png
 __pycache__/
 *.pyc

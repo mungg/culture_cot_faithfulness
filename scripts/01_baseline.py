@@ -51,7 +51,8 @@ def main():
     ap.add_argument("--limit", type=int, default=None)
     ap.add_argument("--run-name", default="run1")
     ap.add_argument("--temperature", type=float, default=1.0)
-    ap.add_argument("--max-tokens", type=int, default=4096)
+    ap.add_argument("--max-tokens", type=int, default=8192,
+                    help="raised from 4096 to avoid thinking-trace truncation on long GSM8K problems")
     ap.add_argument("--want-thinking", action="store_true",
                     help="include thinking trace (Gemini 2.5+; ignored otherwise)")
     args = ap.parse_args()

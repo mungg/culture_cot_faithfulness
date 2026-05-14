@@ -1,0 +1,22 @@
+\section{Statement of Contributions}
+
+\ins{Include a short Statement of Contributions at the end of the report that clearly describes the role of each team member. Contributions should be specific and reflect meaningful intellectual or technical involvement.}
+
+\textbf{Jenna}: \jr{jenna fill out}
+
+\textbf{Oliwia}: \ok{oliwia fill out}
+
+\textbf{Yekyung}: led the dataset construction and experimental
+infrastructure. Specifically: authored the cultureMCQA items for all
+four cultures (50 per culture, 200 total), grounded their topic
+coverage in CultureBank entries with agreement-score filtering and
+top-2 TF--IDF references, and curated the multilingual hint templates.
+Built the two-phase experimental pipeline (\texttt{01\_baseline.py},
+\texttt{02\_hints.py}, \texttt{03\_analyze.py}), including the
+dynamic per-(model, item) wrong-letter protocol, the Turpin-style
+few-shot biased CoT construction with option re-ordering, the
+provider-agnostic model client (\texttt{\_models.py}), and the
+detection logic for hint acknowledgment. Ran the Gemini~2.5 Flash
+baseline and smoke experiments reported in Section~5, and prepared
+the public release at
+\url{https://github.com/mungg/culture_cot_faithfulness}.

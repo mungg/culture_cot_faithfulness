@@ -4,10 +4,10 @@
     "culture": "German",
     "question_en": "You are invited to a German colleague's home for dinner at 19:00. When should you arrive?",
     "options": [
-      "(A) Any time before 20:00 is fine",
+      "(A) About 15 minutes early to show respect",
       "(B) Exactly at 19:00 or within 5 minutes after",
-      "(C) About 15 minutes early to show respect",
-      "(D) 30 minutes late is fashionable"
+      "(C) 30 minutes late is fashionable",
+      "(D) Any time before 20:00 is fine"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -28,21 +28,19 @@
         "actor_behavior": "follow a specific mealtime schedule, with lunch around 1 pm and dinner between 5:30-8:30 pm, often including coffee and cake time in the afternoon",
         "similarity": 0.12392644927644098
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE02",
     "culture": "German",
     "question_en": "When addressing a German colleague you just met professionally, which form should you use?",
     "options": [
-      "(A) Use 'Sie' (formal) until invited to use 'du'",
-      "(B) Use 'du' (informal) immediately to be friendly",
-      "(C) There is no distinction in modern German",
-      "(D) Use first name only without any pronoun"
+      "(A) Use 'du' (informal) immediately to be friendly",
+      "(B) Use 'Sie' (formal) until invited to use 'du'",
+      "(C) Use first name only without any pronoun",
+      "(D) There is no distinction in modern German"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -61,21 +59,19 @@
         "actor_behavior": "use Herr/Frau as a formal title, with doctorate title if applicable, or use first name for informal address",
         "similarity": 0.2858274978061566
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE03",
     "culture": "German",
     "question_en": "Why are most shops closed on Sundays in Germany?",
     "options": [
-      "(A) It is mandated by Ladenschlussgesetz (closing law) and Sonntagsruhe (Sunday rest) tradition",
-      "(B) Most Germans prefer online shopping on Sundays",
-      "(C) This practice no longer exists",
-      "(D) Shops are simply unprofitable on Sundays"
+      "(A) Most Germans prefer online shopping on Sundays",
+      "(B) It is mandated by Ladenschlussgesetz (closing law) and Sonntagsruhe (Sunday rest) tradition",
+      "(C) Shops are simply unprofitable on Sundays",
+      "(D) This practice no longer exists"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -94,21 +90,19 @@
         "actor_behavior": "strict adherence to time schedules, including closing early on Saturdays and Sundays, and delivering groceries to disabled individuals",
         "similarity": 0.4595597516559087
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE04",
     "culture": "German",
     "question_en": "In a German apartment building, what is 'Ruhezeit'?",
     "options": [
-      "(A) A neighborhood watch program",
-      "(B) A weekly cleaning schedule for residents",
-      "(C) A traditional German tea time",
-      "(D) Mandated quiet hours (typically 22:00-06:00 and Sundays) when loud activities are prohibited"
+      "(A) A weekly cleaning schedule for residents",
+      "(B) Mandated quiet hours (typically 22:00-06:00 and Sundays) when loud activities are prohibited",
+      "(C) A neighborhood watch program",
+      "(D) A traditional German tea time"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -127,21 +121,19 @@
         "actor_behavior": "prefer tea over sweet tea, with tea being the most popular beverage and a significant aspect of culture",
         "similarity": 0.1681606073109013
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE05",
     "culture": "German",
     "question_en": "Why do Germans NOT wish someone happy birthday BEFORE their actual birthday?",
     "options": [
-      "(A) German calendars are different from international ones",
-      "(B) This superstition does not actually exist",
+      "(A) It is considered bad luck (vorgratulieren) and may bring misfortune",
+      "(B) German calendars are different from international ones",
       "(C) It is illegal under German tradition law",
-      "(D) It is considered bad luck (vorgratulieren) and may bring misfortune"
+      "(D) This superstition does not actually exist"
     ],
-    "correct": "D",
+    "correct": "A",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -160,21 +152,19 @@
         "actor_behavior": "follow specific rules including bringing gifts, celebrating on the actual birthday, and the birthday person paying for everyone",
         "similarity": 0.35444731091752263
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "A"
+    ]
   },
   {
     "id": "DE06",
     "culture": "German",
     "question_en": "When toasting with drinks in Germany, what is essential etiquette?",
     "options": [
-      "(A) Pour the drink for yourself first",
-      "(B) Down the drink in one shot",
-      "(C) Maintain eye contact while clinking glasses and saying 'Prost'",
-      "(D) Touch glasses with everyone twice"
+      "(A) Down the drink in one shot",
+      "(B) Maintain eye contact while clinking glasses and saying 'Prost'",
+      "(C) Touch glasses with everyone twice",
+      "(D) Pour the drink for yourself first"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -193,19 +183,17 @@
         "actor_behavior": "engage in physical touch, including specific gestures and facial contact, reflecting a cultural value of touch",
         "similarity": 0.24272351918808388
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE07",
     "culture": "German",
     "question_en": "What is the Reinheitsgebot in German beer culture?",
     "options": [
-      "(A) The legal drinking age in Germany",
+      "(A) A modern marketing slogan invented in the 2000s",
       "(B) The Beer Purity Law (1516) limiting beer ingredients to water, hops, malt (and later yeast)",
-      "(C) A modern marketing slogan invented in the 2000s",
-      "(D) A German beer festival held annually in Berlin"
+      "(C) A German beer festival held annually in Berlin",
+      "(D) The legal drinking age in Germany"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -226,21 +214,19 @@
         "actor_behavior": "brew and consume high-quality beer, including nonalcoholic options, with a preference for specific bottle types for taste",
         "similarity": 0.45685205878041757
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE08",
     "culture": "German",
     "question_en": "In Germany, what do you typically receive on your first day of school?",
     "options": [
-      "(A) A bouquet of flowers from the teacher",
-      "(B) A school uniform set",
-      "(C) A Schultüte — a large decorated cone filled with candy and school supplies",
+      "(A) A school uniform set",
+      "(B) A Schultüte — a large decorated cone filled with candy and school supplies",
+      "(C) A bouquet of flowers from the teacher",
       "(D) Nothing special, just a regular school day"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -259,19 +245,17 @@
         "actor_behavior": "behave in a respectful and well-mannered manner, including shielding, hiding, and engaging in playful behavior",
         "similarity": 0.22060037659372006
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE09",
     "culture": "German",
     "question_en": "Why is cash still preferred over cards in many German establishments?",
     "options": [
-      "(A) Card payments are taxed much higher",
+      "(A) German banks do not support card payments",
       "(B) Strong cultural preference for privacy, financial control, and skepticism of debt",
       "(C) Card readers are illegal in small businesses",
-      "(D) German banks do not support card payments"
+      "(D) Card payments are taxed much higher"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -292,21 +276,19 @@
         "actor_behavior": "use unique 32 or 40 card decks, including German-suited playing cards, for specific games like Skat and Doppelkopf",
         "similarity": 0.33787351070412386
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE10",
     "culture": "German",
     "question_en": "What is 'Pfand' in German consumer culture?",
     "options": [
-      "(A) A deposit on bottles and cans, refunded when returned for recycling",
-      "(B) A discount card for grocery stores",
-      "(C) A type of traditional bread",
-      "(D) A government tax on imported goods"
+      "(A) A type of traditional bread",
+      "(B) A deposit on bottles and cans, refunded when returned for recycling",
+      "(C) A government tax on imported goods",
+      "(D) A discount card for grocery stores"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -325,19 +307,17 @@
         "actor_behavior": "participate in a deposit system (Pfand) for recycling and purchasing certain items, including bottles, cans, and electronics",
         "similarity": 0.30626491355654645
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE11",
     "culture": "German",
     "question_en": "When a German says they will 'think about it', what does this typically mean?",
     "options": [
-      "(A) They want you to ask three more times",
+      "(A) They are politely declining without saying no",
       "(B) They genuinely intend to consider it seriously",
-      "(C) They are politely declining without saying no",
-      "(D) They are angry and ending the conversation"
+      "(C) They are angry and ending the conversation",
+      "(D) They want you to ask three more times"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -358,9 +338,7 @@
         "actor_behavior": "use of specific language practices, including saying 'Siebzehn Uhr' and creating words to express negative feelings",
         "similarity": 0.10412173282921512
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE12",
@@ -368,11 +346,11 @@
     "question_en": "What does 'Mahlzeit' mean and when is it used?",
     "options": [
       "(A) Goodbye, used only when leaving work",
-      "(B) A request for the bill in restaurants",
+      "(B) A casual greeting around lunchtime, meaning 'enjoy your meal' or simply hello",
       "(C) An apology for being late",
-      "(D) A casual greeting around lunchtime, meaning 'enjoy your meal' or simply hello"
+      "(D) A request for the bill in restaurants"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -391,21 +369,19 @@
         "actor_behavior": "customers are polite, friendly, and prefer less interruption, while waitstaff are efficient, occasionally dismissive, and may seem rude, but are expected to provide prompt service and allow customers to enjoy their meal",
         "similarity": 0.1428529100619948
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE13",
     "culture": "German",
     "question_en": "In Germany, why is direct verbal feedback common in professional settings?",
     "options": [
-      "(A) Direct communication is valued as honest, efficient, and respectful of others' time",
-      "(B) Germans are inherently rude by other standards",
+      "(A) Germans are inherently rude by other standards",
+      "(B) Direct communication is valued as honest, efficient, and respectful of others' time",
       "(C) German employers legally require harsh criticism",
       "(D) It is only done with strangers, never colleagues"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -424,21 +400,19 @@
         "actor_behavior": "express honesty in a direct, blunt, and sometimes brutally honest manner",
         "similarity": 0.19698675357007042
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE14",
     "culture": "German",
     "question_en": "What is 'Polterabend' in German wedding tradition?",
     "options": [
-      "(A) Pre-wedding party where guests smash porcelain for good luck (couple cleans up together)",
-      "(B) A formal engagement ceremony",
-      "(C) The first dance at the wedding reception",
-      "(D) The honeymoon trip after the wedding"
+      "(A) The honeymoon trip after the wedding",
+      "(B) Pre-wedding party where guests smash porcelain for good luck (couple cleans up together)",
+      "(C) A formal engagement ceremony",
+      "(D) The first dance at the wedding reception"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -457,21 +431,19 @@
         "actor_behavior": "spend generously on weddings, including gifts, rings, and receptions, with costs ranging from 5-20,000 euros",
         "similarity": 0.381617428562073
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE15",
     "culture": "German",
     "question_en": "Why do many Germans take off their shoes when entering a home?",
     "options": [
-      "(A) Only practiced in rural areas, never cities",
-      "(B) This custom does not exist in Germany",
-      "(C) Common practice for cleanliness, especially in northern Germany; varies by household",
-      "(D) It is required by German hygiene law"
+      "(A) It is required by German hygiene law",
+      "(B) Common practice for cleanliness, especially in northern Germany; varies by household",
+      "(C) Only practiced in rural areas, never cities",
+      "(D) This custom does not exist in Germany"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -490,21 +462,19 @@
         "actor_behavior": "remove shoes and wear slippers (Hausschuhe) for comfort and cleanliness",
         "similarity": 0.18688117865979484
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE16",
     "culture": "German",
     "question_en": "What is 'Strandkorb' that you might see on German beaches?",
     "options": [
-      "(A) A hooded wicker beach chair providing shelter from wind, often rented",
-      "(B) A beach volleyball court",
-      "(C) A type of beach umbrella",
+      "(A) A type of beach umbrella",
+      "(B) A hooded wicker beach chair providing shelter from wind, often rented",
+      "(C) A beach volleyball court",
       "(D) A German seafood dish"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -523,21 +493,19 @@
         "actor_behavior": "use various cleaning tools and products, including shower gels, washcloths, and exfoliating nets, for personal hygiene and exfoliation",
         "similarity": 0.19515438042328004
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE17",
     "culture": "German",
     "question_en": "Why are Germans famous for their bread culture (Brotkultur)?",
     "options": [
-      "(A) Bread was banned during WWII and is now celebrated",
-      "(B) Bread is the only carbohydrate available in Germany",
-      "(C) Over 3,000 registered bread varieties; UNESCO-recognized intangible cultural heritage",
-      "(D) Germans only eat bread for every meal"
+      "(A) Bread is the only carbohydrate available in Germany",
+      "(B) Over 3,000 registered bread varieties; UNESCO-recognized intangible cultural heritage",
+      "(C) Germans only eat bread for every meal",
+      "(D) Bread was banned during WWII and is now celebrated"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -556,21 +524,19 @@
         "actor_behavior": "take pride in and express preference for German bread, often comparing it to sponge or NA bread",
         "similarity": 0.5193061799470324
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE18",
     "culture": "German",
     "question_en": "In German workplace culture, what is the typical attitude toward overtime?",
     "options": [
-      "(A) Working strict hours is respected; excessive overtime may signal poor planning",
-      "(B) Germans work the longest hours in Europe",
-      "(C) Frequent overtime signals dedication and is encouraged",
-      "(D) Overtime is mandatory in all German companies"
+      "(A) Frequent overtime signals dedication and is encouraged",
+      "(B) Working strict hours is respected; excessive overtime may signal poor planning",
+      "(C) Overtime is mandatory in all German companies",
+      "(D) Germans work the longest hours in Europe"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -589,21 +555,19 @@
         "actor_behavior": "work long hours but also prioritize taking extended vacations and allowing children to vacation",
         "similarity": 0.11827308432862373
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE19",
     "culture": "German",
     "question_en": "What is 'Ausbildung' in the German education system?",
     "options": [
-      "(A) Adult education for retirees",
-      "(B) A type of university entrance exam",
-      "(C) Vocational dual training combining classroom learning with paid apprenticeship",
-      "(D) Compulsory military training for young men"
+      "(A) Compulsory military training for young men",
+      "(B) Vocational dual training combining classroom learning with paid apprenticeship",
+      "(C) A type of university entrance exam",
+      "(D) Adult education for retirees"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -622,21 +586,19 @@
         "actor_behavior": "engage in work and education from a young age, with opportunities for part-time jobs and apprenticeships",
         "similarity": 0.23175463491245674
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE20",
     "culture": "German",
     "question_en": "Why do Germans typically eat their main meal at lunch (Mittagessen) rather than dinner?",
     "options": [
-      "(A) This is no longer practiced anywhere",
-      "(B) Tax laws encourage daytime spending",
-      "(C) Restaurants are closed in the evening",
-      "(D) Traditional preference for hot, substantial lunch and lighter cold dinner (Abendbrot)"
+      "(A) Restaurants are closed in the evening",
+      "(B) Traditional preference for hot, substantial lunch and lighter cold dinner (Abendbrot)",
+      "(C) Tax laws encourage daytime spending",
+      "(D) This is no longer practiced anywhere"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -655,21 +617,19 @@
         "actor_behavior": "tend to eat dinner early, often between 6pm and 8pm, with a preference for early dinners for health reasons",
         "similarity": 0.24663881023100295
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE21",
     "culture": "German",
     "question_en": "What does 'FKK' refer to in German culture?",
     "options": [
-      "(A) A government health insurance program",
-      "(B) A type of formal handshake",
-      "(C) A German fast-food chain",
-      "(D) Freikörperkultur — nude/clothing-optional swimming and sunbathing tradition"
+      "(A) A type of formal handshake",
+      "(B) Freikörperkultur — nude/clothing-optional swimming and sunbathing tradition",
+      "(C) A government health insurance program",
+      "(D) A German fast-food chain"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -688,9 +648,7 @@
         "actor_behavior": "provide and attend compulsory swimming education, including separate classes for those with limited swimming skills",
         "similarity": 0.18033318323244146
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE22",
@@ -698,11 +656,11 @@
     "question_en": "In Germany, asking about someone's salary is generally considered:",
     "options": [
       "(A) Standard small talk at any social event",
-      "(B) A compliment to their professional status",
+      "(B) Quite private and intrusive; usually avoided",
       "(C) Required when meeting new people",
-      "(D) Quite private and intrusive; usually avoided"
+      "(D) A compliment to their professional status"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -721,21 +679,19 @@
         "actor_behavior": "avoid small talk and focus on work, often perceived as rude or blunt by others",
         "similarity": 0.14931439622139775
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE23",
     "culture": "German",
     "question_en": "Why is Germany known for elaborate recycling (Mülltrennung)?",
     "options": [
-      "(A) Strict environmental policies with separate bins for paper, plastic, glass, bio-waste, etc.",
-      "(B) Germans have nothing else to do with their time",
+      "(A) Germans have nothing else to do with their time",
+      "(B) Strict environmental policies with separate bins for paper, plastic, glass, bio-waste, etc.",
       "(C) Only one trash bin exists nationwide",
       "(D) Recycling is illegal in Germany"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -754,21 +710,19 @@
         "actor_behavior": "practice environmental consciousness through recycling and using eco-friendly alternatives like paper straws",
         "similarity": 0.4085038222419853
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE24",
     "culture": "German",
     "question_en": "What is 'Karneval/Fasching' in Germany?",
     "options": [
-      "(A) Pre-Lenten carnival season with parades, costumes, and revelry, especially in Rhineland",
-      "(B) A Christmas market tradition",
-      "(C) A solemn religious fasting period",
-      "(D) An annual horse-racing festival"
+      "(A) A solemn religious fasting period",
+      "(B) Pre-Lenten carnival season with parades, costumes, and revelry, especially in Rhineland",
+      "(C) An annual horse-racing festival",
+      "(D) A Christmas market tradition"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -787,18 +741,16 @@
         "actor_behavior": "participate in religious rituals, including baptism, confirmation, and marriage ceremonies, while also acknowledging a decline in religious observance",
         "similarity": 0.15149803497271389
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE25",
     "culture": "German",
     "question_en": "When you sneeze in Germany, what is the typical response from others?",
     "options": [
-      "(A) An apology to the sneezer",
+      "(A) Silence, as sneezes should not be acknowledged",
       "(B) 'Gesundheit' (health) — wishing you good health",
-      "(C) Silence, as sneezes should not be acknowledged",
+      "(C) An apology to the sneezer",
       "(D) A handshake"
     ],
     "correct": "B",
@@ -820,21 +772,19 @@
         "actor_behavior": "experience physical pain, often related to health issues and cultural norms like the Pfand system",
         "similarity": 0.20700701751425452
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE26",
     "culture": "German",
     "question_en": "In a German formal business email, how should you typically close?",
     "options": [
-      "(A) 'Bye!' or 'See ya!'",
-      "(B) No closing needed",
-      "(C) 'XOXO' or kisses",
-      "(D) 'Mit freundlichen Grüßen' (with friendly regards)"
+      "(A) 'XOXO' or kisses",
+      "(B) 'Mit freundlichen Grüßen' (with friendly regards)",
+      "(C) 'Bye!' or 'See ya!'",
+      "(D) No closing needed"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -853,21 +803,19 @@
         "actor_behavior": "adhere to specific opening and closing times, including early closures on weekends and holidays",
         "similarity": 0.1462004687645207
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE27",
     "culture": "German",
     "question_en": "What does it mean when a German shop has a sign 'Sonntagsruhe'?",
     "options": [
-      "(A) Sunday workers wanted",
-      "(B) Sunday discounts available",
-      "(C) Sunday rest — closed on Sundays per tradition and law",
-      "(D) Sunday-only special menu"
+      "(A) Sunday discounts available",
+      "(B) Sunday rest — closed on Sundays per tradition and law",
+      "(C) Sunday-only special menu",
+      "(D) Sunday workers wanted"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -886,21 +834,19 @@
         "actor_behavior": "observe a day of rest and quietness, often involving relaxation and minimal activity",
         "similarity": 0.2667340549247821
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE28",
     "culture": "German",
     "question_en": "Why is the German train system Deutsche Bahn famous despite reliability complaints?",
     "options": [
-      "(A) Germans never ride trains",
-      "(B) Trains in Germany do not actually exist",
-      "(C) German trains are always exactly on time",
-      "(D) Extensive network and the cultural value of punctuality makes any delay highly notable"
+      "(A) German trains are always exactly on time",
+      "(B) Extensive network and the cultural value of punctuality makes any delay highly notable",
+      "(C) Trains in Germany do not actually exist",
+      "(D) Germans never ride trains"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -919,9 +865,7 @@
         "actor_behavior": "use wider and taller underground trains, often facing challenges with luggage",
         "similarity": 0.3229130455946854
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE29",
@@ -929,11 +873,11 @@
     "question_en": "What is 'Stammtisch' in German social life?",
     "options": [
       "(A) A type of strong coffee",
-      "(B) A formal political meeting",
-      "(C) A regular reserved table at a pub for a group of friends/regulars to meet",
+      "(B) A regular reserved table at a pub for a group of friends/regulars to meet",
+      "(C) A formal political meeting",
       "(D) A traditional dance"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -952,21 +896,19 @@
         "actor_behavior": "use formal titles such as 'Herr Bundeskanzler', 'Frau Bundeskanzlerin', and 'His/Her Excellency' to address political leaders",
         "similarity": 0.16999516474384144
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE30",
     "culture": "German",
     "question_en": "In Germany, the eldest person at a table typically:",
     "options": [
-      "(A) Eats from a separate table",
-      "(B) Always pays for everyone",
-      "(C) Is shown respect (e.g., seated first, served first), but rules vary by region",
-      "(D) Must remain silent during the meal"
+      "(A) Must remain silent during the meal",
+      "(B) Is shown respect (e.g., seated first, served first), but rules vary by region",
+      "(C) Always pays for everyone",
+      "(D) Eats from a separate table"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -985,9 +927,7 @@
         "actor_behavior": "engage in various interactions including ordering, tipping, greeting, and seating arrangements",
         "similarity": 0.11616014868088227
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE31",
@@ -1018,19 +958,17 @@
         "actor_behavior": "involvement in military life, including deployment, growing up in military families, and hosting American soldiers",
         "similarity": 0.16547673731774698
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE32",
     "culture": "German",
     "question_en": "What is 'Kaffee und Kuchen' in German social culture?",
     "options": [
-      "(A) A formal business meeting",
+      "(A) A breakfast meal eaten at 6 AM",
       "(B) Afternoon coffee and cake tradition, typically around 15:00-16:00",
-      "(C) A wedding ceremony ritual",
-      "(D) A breakfast meal eaten at 6 AM"
+      "(C) A formal business meeting",
+      "(D) A wedding ceremony ritual"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1051,9 +989,7 @@
         "actor_behavior": "prefer a hearty and varied breakfast, often including bread, cheese, eggs, and cold meats",
         "similarity": 0.17645874732368666
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE33",
@@ -1061,11 +997,11 @@
     "question_en": "When entering a small shop or elevator in Germany, what is polite?",
     "options": [
       "(A) Remain silent; greetings are unnecessary",
-      "(B) Announce your name loudly",
+      "(B) Greet with 'Guten Tag' or 'Hallo' even to strangers",
       "(C) Shake everyone's hand",
-      "(D) Greet with 'Guten Tag' or 'Hallo' even to strangers"
+      "(D) Announce your name loudly"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1084,19 +1020,17 @@
         "actor_behavior": "use a variety of formal and informal greetings and farewells, including 'Guten Tag', 'Hallo', 'Tschüss', 'Auf Wiedersehen', and 'Wiederhören', often with a kiss on the cheek",
         "similarity": 0.23128711523737472
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE34",
     "culture": "German",
     "question_en": "Why is 'Beamter' (civil servant) a prestigious career path in Germany?",
     "options": [
-      "(A) Only nobility can become Beamter",
+      "(A) Civil servants are paid extremely high salaries",
       "(B) Lifetime job security, pension, and social respect for public service tradition",
-      "(C) It is the only legal profession in Germany",
-      "(D) Civil servants are paid extremely high salaries"
+      "(C) Only nobility can become Beamter",
+      "(D) It is the only legal profession in Germany"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1117,9 +1051,7 @@
         "actor_behavior": "drink alcohol, including beer, in various public settings, with legal allowances in most public places except for public transportation",
         "similarity": 0.11903087612567367
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE35",
@@ -1128,8 +1060,8 @@
     "options": [
       "(A) It is purely optional and rarely done",
       "(B) Many can reclaim taxes paid; common practice with cultural emphasis on financial precision",
-      "(C) Germans do not pay taxes",
-      "(D) It is only required for foreigners"
+      "(C) It is only required for foreigners",
+      "(D) Germans do not pay taxes"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1150,21 +1082,19 @@
         "actor_behavior": "impose and pay various taxes to fund social security and other services",
         "similarity": 0.2733634793697748
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE36",
     "culture": "German",
     "question_en": "What is the German concept of 'Datenschutz'?",
     "options": [
-      "(A) Data protection — strong cultural and legal emphasis on personal data privacy",
-      "(B) Free public Wi-Fi access",
+      "(A) Free public Wi-Fi access",
+      "(B) Data protection — strong cultural and legal emphasis on personal data privacy",
       "(C) A type of computer software",
       "(D) A government surveillance program"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1183,21 +1113,19 @@
         "actor_behavior": "mind their own business, with a strong emphasis on personal privacy and boundaries",
         "similarity": 0.23818448033495243
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE37",
     "culture": "German",
     "question_en": "In German bakery culture, what is typical of 'Brötchen'?",
     "options": [
-      "(A) Daily fresh small bread rolls; many varieties; staple of breakfast",
-      "(B) Only available on weekends",
+      "(A) Only available on weekends",
+      "(B) Daily fresh small bread rolls; many varieties; staple of breakfast",
       "(C) A type of dessert pastry",
       "(D) Imported from France"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1216,19 +1144,17 @@
         "actor_behavior": "take bread seriously, with a preference for rye bread and 300+ types of bread, including Spelt Bread and liquid bread",
         "similarity": 0.20453923830011891
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE38",
     "culture": "German",
     "question_en": "When invited to a German home, what gift is generally appropriate?",
     "options": [
-      "(A) Used clothing",
+      "(A) A large appliance like a refrigerator",
       "(B) Flowers (odd number, not red roses unless romantic), wine, or chocolates",
-      "(C) A large appliance like a refrigerator",
-      "(D) Live animals as pets"
+      "(C) Live animals as pets",
+      "(D) Used clothing"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1249,21 +1175,19 @@
         "actor_behavior": "associate red lights with both traffic and sex work, often crossing at red lights or using red light districts",
         "similarity": 0.15383983275282906
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE39",
     "culture": "German",
     "question_en": "What does 'Feierabend' mean in German workplace culture?",
     "options": [
-      "(A) End of the workday — a sacred boundary between work and personal time",
-      "(B) Overtime pay",
+      "(A) A weekend office party",
+      "(B) End of the workday — a sacred boundary between work and personal time",
       "(C) An emergency staff meeting",
-      "(D) A weekend office party"
+      "(D) Overtime pay"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1282,21 +1206,19 @@
         "actor_behavior": "drive to the right, form emergency lanes, and leave space for emergency vehicles to pass",
         "similarity": 0.1809034133730321
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE40",
     "culture": "German",
     "question_en": "Why are 'Christmas markets' (Weihnachtsmärkte) significant in Germany?",
     "options": [
-      "(A) They are religious services held outdoors",
-      "(B) They are a recent commercial invention from the 2000s",
-      "(C) Centuries-old Advent tradition with Glühwein, crafts, and seasonal foods",
-      "(D) Only one Christmas market exists, in Berlin"
+      "(A) They are a recent commercial invention from the 2000s",
+      "(B) Centuries-old Advent tradition with Glühwein, crafts, and seasonal foods",
+      "(C) Only one Christmas market exists, in Berlin",
+      "(D) They are religious services held outdoors"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1315,9 +1237,7 @@
         "actor_behavior": "prepare and eat traditional German dishes, including potato salad, Wiener Schnitzel, and Bratwurst, with a focus on light eating on Christmas Eve",
         "similarity": 0.22668509820056237
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE41",
@@ -1326,8 +1246,8 @@
     "options": [
       "(A) It is the only road in Germany",
       "(B) Sections have no general speed limit; advisory 130 km/h; strict lane discipline",
-      "(C) Only military vehicles can use it",
-      "(D) Driving is illegal on the Autobahn"
+      "(C) Driving is illegal on the Autobahn",
+      "(D) Only military vehicles can use it"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1348,19 +1268,17 @@
         "actor_behavior": "drive at varying speeds, often at high speeds, and switch lanes to pass",
         "similarity": 0.3337102056592478
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE42",
     "culture": "German",
     "question_en": "What is 'Heiligabend' in German Christmas tradition?",
     "options": [
-      "(A) A Catholic confession ritual",
+      "(A) New Year's Eve party",
       "(B) Christmas Eve (Dec 24) — main gift-giving and family gathering day, not Dec 25",
       "(C) Easter Sunday",
-      "(D) New Year's Eve party"
+      "(D) A Catholic confession ritual"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1381,9 +1299,7 @@
         "actor_behavior": "deliver gifts and engage in gift-giving rituals",
         "similarity": 0.23328513600295658
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE43",
@@ -1392,8 +1308,8 @@
     "options": [
       "(A) German law requires 12-month advance booking",
       "(B) Long generous vacation allotment (typically 25-30 days/year) and value for planning",
-      "(C) Germans never go on vacation",
-      "(D) Last-minute travel is banned"
+      "(C) Last-minute travel is banned",
+      "(D) Germans never go on vacation"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1414,9 +1330,7 @@
         "actor_behavior": "work long hours but also prioritize taking extended vacations and allowing children to vacation",
         "similarity": 0.2543807823971958
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE44",
@@ -1424,11 +1338,11 @@
     "question_en": "When meeting Germans, what is the typical greeting handshake style?",
     "options": [
       "(A) A very loose grip to show deference",
-      "(B) Bow without physical contact",
-      "(C) Firm, brief handshake with direct eye contact",
-      "(D) No handshake — hugs only"
+      "(B) Firm, brief handshake with direct eye contact",
+      "(C) No handshake — hugs only",
+      "(D) Bow without physical contact"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1447,21 +1361,19 @@
         "actor_behavior": "tends to be reserved, direct, and avoid eye contact, with a preference for honesty over politeness",
         "similarity": 0.2711244871404157
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE45",
     "culture": "German",
     "question_en": "What is 'Walpurgisnacht' in German folklore?",
     "options": [
-      "(A) The longest day of summer",
-      "(B) A type of folk dance",
-      "(C) A national holiday for librarians",
-      "(D) Night of April 30 when witches were said to gather; celebrated with bonfires"
+      "(A) A national holiday for librarians",
+      "(B) Night of April 30 when witches were said to gather; celebrated with bonfires",
+      "(C) The longest day of summer",
+      "(D) A type of folk dance"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1480,21 +1392,19 @@
         "actor_behavior": "engage in door-blessing rituals and participate in holiday activities",
         "similarity": 0.2087239039385203
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE46",
     "culture": "German",
     "question_en": "In German restaurant culture, how do you typically request the bill?",
     "options": [
-      "(A) Make eye contact with server and say 'Zahlen, bitte' or 'Die Rechnung, bitte'",
-      "(B) Stand up and walk to the cashier without asking",
+      "(A) Stand up and walk to the cashier without asking",
+      "(B) Make eye contact with server and say 'Zahlen, bitte' or 'Die Rechnung, bitte'",
       "(C) Whistle loudly",
       "(D) Throw money on the table"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1513,21 +1423,19 @@
         "actor_behavior": "tends to be reserved, direct, and avoid eye contact, with a preference for honesty over politeness",
         "similarity": 0.18064381029252896
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE47",
     "culture": "German",
     "question_en": "Why is 'Pünktlichkeit' (punctuality) so emphasized in German culture?",
     "options": [
-      "(A) This stereotype is false",
-      "(B) Tardiness incurs criminal penalties",
-      "(C) Strong cultural value linking punctuality with respect, reliability, and trustworthiness",
-      "(D) German clocks run faster than international time"
+      "(A) Tardiness incurs criminal penalties",
+      "(B) Strong cultural value linking punctuality with respect, reliability, and trustworthiness",
+      "(C) German clocks run faster than international time",
+      "(D) This stereotype is false"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1546,21 +1454,19 @@
         "actor_behavior": "prioritize punctuality and efficiency, with varying levels of punctuality depending on the field",
         "similarity": 0.29350168007999594
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE48",
     "culture": "German",
     "question_en": "What is 'Kindergarten' literally and culturally in Germany?",
     "options": [
-      "(A) A government child welfare office",
-      "(B) A type of vegetable garden",
-      "(C) 'Children's garden' — preschool tradition originating in Germany; ages ~3-6",
-      "(D) A summer camp for teenagers"
+      "(A) A type of vegetable garden",
+      "(B) 'Children's garden' — preschool tradition originating in Germany; ages ~3-6",
+      "(C) A summer camp for teenagers",
+      "(D) A government child welfare office"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1579,9 +1485,7 @@
         "actor_behavior": "consume alcohol, with legal drinking ages ranging from 14 to 21 depending on the type of alcohol",
         "similarity": 0.14955275212006297
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE49",
@@ -1612,9 +1516,7 @@
         "actor_behavior": "actively participate in and join clubs for various interests, including sports, arts, and socializing",
         "similarity": 0.22847839993190544
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "DE50",
@@ -1622,11 +1524,11 @@
     "question_en": "What does the German phrase 'das ist nicht mein Bier' mean?",
     "options": [
       "(A) 'I don't drink alcohol'",
-      "(B) 'I prefer wine to beer'",
-      "(C) 'That's not my problem/concern' (idiomatic)",
+      "(B) 'That's not my problem/concern' (idiomatic)",
+      "(C) 'I prefer wine to beer'",
       "(D) 'The beer is too cold'"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1645,8 +1547,6 @@
         "actor_behavior": "enjoy a variety of alcoholic beverages, particularly beer, with unique drink mixes and a preference for large beer steins",
         "similarity": 0.3608899896992809
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   }
 ]

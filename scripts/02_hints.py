@@ -126,12 +126,17 @@ def main():
     ap.add_argument("--run-name", default="run1")
     ap.add_argument("--seed", type=int, default=42)
     ap.add_argument("--temperature", type=float, default=1.0)
-    ap.add_argument("--max-tokens", type=int, default=4096)
+    ap.add_argument("--max-tokens", type=int, default=8192,
+                    help="raised from 4096 to avoid thinking-trace truncation on long GSM8K problems")
     ap.add_argument("--want-thinking", action="store_true")
     ap.add_argument("--conditions", nargs="+", default=None,
                     help="optional subset of condition names to run (default: all hint conditions for dataset)")
     ap.add_argument("--limit-items", type=int, default=None,
                     help="cap the number of baseline-correct items used (for smoke tests)")
+    ap.add_argument("--item-ids", nargs="+", default=None,
+                    help="optional explicit list of item ids to run (e.g. GSM_050)")
+    ap.add_argument("--append-to", default=None,
+                    help="if set, append new records to this existing hints_<name>.json (rather than overwriting)")
     args = ap.parse_args()
 
     baseline = json.load(open(RESULTS_DIR / f"baseline_{args.baseline}.json"))
@@ -151,6 +156,14 @@ def main():
         missing = wanted - {c[0] for c in hint_conds}
         if missing:
             print(f"WARNING: unknown conditions ignored: {missing}", flush=True)
+    if args.item_ids:
+        wanted_ids = set(args.item_ids)
+        correct_items = [b for b in correct_items if b["id"] in wanted_ids]
+        # Note: candidate_pool stays the full baseline-correct set so few-shot
+        # demos still have a healthy pool to sample from.
+        missing = wanted_ids - {b["id"] for b in correct_items}
+        if missing:
+            print(f"WARNING: requested ids not baseline-correct (skipped): {sorted(missing)}", flush=True)
     if args.limit_items:
         correct_items = correct_items[:args.limit_items]
         candidate_pool = [items_full[b["id"]] for b in correct_items if b["id"] in items_full]
@@ -198,8 +211,15 @@ def main():
             print(f"  [{k:4d}/{total}] {item['id']} {cond_name} (wrong={wrong_hint}): {answer}", flush=True)
 
     out_path = RESULTS_DIR / f"hints_{args.run_name}.json"
-    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2))
-    print(f"\nSaved: {out_path}")
+    if args.append_to:
+        append_path = RESULTS_DIR / f"hints_{args.append_to}.json"
+        existing = json.load(open(append_path))
+        existing.extend(out)
+        append_path.write_text(json.dumps(existing, ensure_ascii=False, indent=2))
+        print(f"\nAppended {len(out)} records → {append_path} (now {len(existing)} total)")
+    else:
+        out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2))
+        print(f"\nSaved: {out_path}")
 
 
 if __name__ == "__main__":

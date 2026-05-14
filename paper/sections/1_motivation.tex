@@ -1,0 +1,22 @@
+\section{Problem Statement, Motivation, and Approach}
+
+\ins{Clearly define the problem you are addressing and explain why it is interesting or important. Describe the scope of the problem and briefly summarize your overall approach. A reader should quickly understand what question you are asking and why it is worth asking.}
+
+% % % Problem Definition & Motivation
+% % % 5
+% % % Clear statement of the problem, appropriate scope, and strong motivation grounded in theory, prior work, or real‑world relevance.
+
+
+Frontier LLMs increasingly generate explicit reasoning traces, often in the form of chain-of-thought (CoT) explanations, to improve performance on complex reasoning tasks \citep{wei2022chain,turpin2023language}. These explanations are frequently interpreted as windows into the model’s reasoning process and are often treated as evidence of deliberative reasoning or interpretability \citep{lanham2023measuring}. However, recent work has shown that CoT traces can diverge substantially from the actual factors driving model behavior \citep{turpin2023language, lanham2023measuring, paul2024making}. In particular, models may produce plausible post-hoc rationalizations that omit or misrepresent the true causes of their decisions \citep{chen2025reasoning}, raising concerns about the faithfulness and reliability of generated reasoning \citep{arcuschin2025chainofthought}. 
+
+At the same time, a growing body of work demonstrates that cultural background knowledge and language-specific context substantially influence model behavior, particularly for socially grounded or culturally sensitive tasks \citep{masoud2025cultural,naous2024multicultural,shi2024xcot}. Multilingual reasoning models encode different distributions of social norms, cultural associations, and linguistic priors across languages, which can lead to significant variation in reasoning behavior across linguistic settings \citep{hammerl2022moral, aksoy2024morality}. These findings suggest that the faithfulness of reasoning traces may itself vary across languages and cultural contexts. Despite increasing interest in multilingual reasoning, the interaction between multilinguality, culturally grounded bias cues, and CoT faithfulness remains largely unexplored.
+
+In this project, we investigate whether chain-of-thought explanations faithfully reflect the influence of externally injected bias cues in multilingual reasoning settings. We focus specifically on scenarios in which models are exposed to subtle contextual signals, such as authority pressure, social consensus, or indirect suggestion, that may alter their final decisions. Rather than studying reasoning faithfulness purely as an internal mechanistic property, we frame multilinguality as a stress test for interpretability: a setting in which latent cultural priors and linguistic associations can shift independently of task semantics. Our central question is whether models explicitly acknowledge these influences in their reasoning traces, or whether the effects remain hidden despite measurable behavioral changes. Specifically, we ask:
+
+\textbf{RQ1}: How often do CoT explanations explicitly acknowledge versus omit the influence of injected bias, relative to the model’s observed behavioral change?
+
+\textbf{RQ2}: Does cross-lingual mismatch between the task language and the language of the injected bias reduce the likelihood that CoT explanations faithfully reflect the true influence of the bias?
+
+\textbf{RQ3}: Which categories of bias cues (e.g., authority-based cues, social pressure, or indirect suggestion) most strongly induce unfaithful CoT reasoning, and how does this vary across languages and cultural contexts?
+
+To address these questions, we introduce a controlled multilingual evaluation framework in which reasoning models solve culturally grounded tasks under systematically injected bias cues. We compare model behavior across matched and mismatched language settings, quantify behavioral shifts induced by different categories of bias cues, and evaluate whether generated CoT explanations faithfully attribute those shifts. By systematically studying the relationship between multilingual context and reasoning faithfulness, our work aims to provide insight into the interpretability, safety, and reliability of reasoning models deployed in culturally diverse environments.

@@ -3,11 +3,16 @@ Model-agnostic client wrapper for the experiment pipeline.
 
 Usage:
     from _models import get_client
-    client = get_client("gemini/gemini-2.5-flash")   # via Vertex AI, user=yekyung
+    client = get_client("gemini/gemini-2.5-flash")   # via Vertex AI
     client = get_client("gemini/gemini-2.0-flash")
     client = get_client("groq/llama-3.3-70b-versatile")
     client = get_client("groq/qwen-2.5-32b")
     client = get_client("openai/gpt-4o-mini")
+
+Vertex/Gemini knobs are read from env vars (with sensible defaults):
+    VERTEX_PROJECT       (required for non-author Vertex projects)
+    VERTEX_LOCATION      (default us-central1)
+    VERTEX_USER_LABEL    (billing label, default 'anon')
 
 Each client exposes:
     client.generate_structured(prompt, schema, *, temperature, max_tokens,
@@ -25,9 +30,11 @@ import time
 from abc import ABC, abstractmethod
 from typing import Any
 
-USER_LABEL = "yekyung"
-DEFAULT_PROJECT = "gen-lang-client-0966014990"
-DEFAULT_LOCATION = "us-central1"
+# Vertex AI knobs — overridable via environment variables so collaborators
+# can use their own project without editing source.
+USER_LABEL = os.environ.get("VERTEX_USER_LABEL", "anon")
+DEFAULT_PROJECT = os.environ.get("VERTEX_PROJECT", "gen-lang-client-0966014990")
+DEFAULT_LOCATION = os.environ.get("VERTEX_LOCATION", "us-central1")
 
 
 class ModelClient(ABC):
@@ -45,6 +52,19 @@ class ModelClient(ABC):
         thinking_budget: int = 8000,
     ) -> dict[str, Any]:
         """Returns {'text': raw text, 'json': parsed dict or None, 'thinking': str}."""
+
+    @abstractmethod
+    def generate_text(
+        self,
+        prompt: str,
+        *,
+        temperature: float = 0.7,
+        max_tokens: int = 2048,
+        want_thinking: bool = False,
+        thinking_budget: int = 8000,
+    ) -> dict[str, Any]:
+        """Free-form text generation (no JSON constraint).
+        Returns {'text': str, 'thinking': str}. Used for safety/refusal-type tasks."""
 
 
 # ─── Gemini via Vertex AI ────────────────────────────────────────────────────
@@ -96,6 +116,35 @@ class GeminiVertexClient(ModelClient):
                 time.sleep(2 * (attempt + 1))
         return {"text": "", "json": None, "thinking": ""}
 
+    def generate_text(self, prompt, *, temperature=0.7, max_tokens=2048,
+                      want_thinking=False, thinking_budget=8000):
+        types = self._types
+        cfg_kwargs = dict(
+            temperature=temperature,
+            max_output_tokens=max_tokens,
+            labels={"user": USER_LABEL},
+        )
+        if want_thinking and self.supports_thinking:
+            cfg_kwargs["thinking_config"] = types.ThinkingConfig(
+                thinking_budget=thinking_budget, include_thoughts=True,
+            )
+        cfg = types.GenerateContentConfig(**cfg_kwargs)
+
+        for attempt in range(3):
+            try:
+                r = self._client.models.generate_content(model=self.model, contents=prompt, config=cfg)
+                thinking, text = "", ""
+                for part in r.candidates[0].content.parts:
+                    if getattr(part, "thought", None):
+                        thinking += part.text or ""
+                    else:
+                        text += part.text or ""
+                return {"text": text, "thinking": thinking}
+            except Exception as e:
+                print(f"    [{self.name}] err ({attempt+1}): {str(e)[:120]}", flush=True)
+                time.sleep(2 * (attempt + 1))
+        return {"text": "", "thinking": ""}
+
 
 # ─── Groq (Llama-3.3, Qwen, Mixtral, …) ──────────────────────────────────────
 class GroqClient(ModelClient):
@@ -134,6 +183,22 @@ class GroqClient(ModelClient):
                 time.sleep(2 * (attempt + 1))
         return {"text": "", "json": None, "thinking": ""}
 
+    def generate_text(self, prompt, *, temperature=0.7, max_tokens=2048,
+                      want_thinking=False, thinking_budget=None):
+        for attempt in range(3):
+            try:
+                r = self._client.chat.completions.create(
+                    model=self.model,
+                    temperature=temperature,
+                    max_tokens=max_tokens,
+                    messages=[{"role": "user", "content": prompt}],
+                )
+                return {"text": r.choices[0].message.content or "", "thinking": ""}
+            except Exception as e:
+                print(f"    [{self.name}] err ({attempt+1}): {str(e)[:120]}", flush=True)
+                time.sleep(2 * (attempt + 1))
+        return {"text": "", "thinking": ""}
+
 
 # ─── OpenAI (GPT-4o, GPT-4o-mini, …) ─────────────────────────────────────────
 class OpenAIClient(ModelClient):
@@ -171,13 +236,29 @@ class OpenAIClient(ModelClient):
                 time.sleep(2 * (attempt + 1))
         return {"text": "", "json": None, "thinking": ""}
 
+    def generate_text(self, prompt, *, temperature=0.7, max_tokens=2048,
+                      want_thinking=False, thinking_budget=None):
+        for attempt in range(3):
+            try:
+                r = self._client.chat.completions.create(
+                    model=self.model,
+                    temperature=temperature,
+                    max_tokens=max_tokens,
+                    messages=[{"role": "user", "content": prompt}],
+                )
+                return {"text": r.choices[0].message.content or "", "thinking": ""}
+            except Exception as e:
+                print(f"    [{self.name}] err ({attempt+1}): {str(e)[:120]}", flush=True)
+                time.sleep(2 * (attempt + 1))
+        return {"text": "", "thinking": ""}
+
 
 # ─── Factory ─────────────────────────────────────────────────────────────────
 def get_client(model_spec: str) -> ModelClient:
     """
     model_spec format: "<provider>/<model_name>"
 
-      gemini/gemini-2.5-flash         # via Vertex AI, with user=yekyung
+      gemini/gemini-2.5-flash         # via Vertex AI (set VERTEX_PROJECT)
       gemini/gemini-2.0-flash
       gemini/gemini-1.5-pro
       groq/llama-3.3-70b-versatile

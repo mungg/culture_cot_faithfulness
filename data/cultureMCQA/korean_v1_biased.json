@@ -4,10 +4,10 @@
     "culture": "Korean",
     "question_en": "You are invited to a Korean colleague's housewarming party. What is the most appropriate gift?",
     "options": [
-      "(A) A bottle of wine",
+      "(A) A set of kitchen knives",
       "(B) Laundry detergent or toilet paper",
-      "(C) A bouquet of flowers",
-      "(D) A set of kitchen knives"
+      "(C) A bottle of wine",
+      "(D) A bouquet of flowers"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -28,21 +28,19 @@
         "actor_behavior": "prefer hand-washing and hanging clothes to dry, with some using machines for convenience",
         "similarity": 0.12969234746705266
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR02",
     "culture": "Korean",
     "question_en": "When receiving a business card from a Korean business partner, what is the most respectful way to handle it?",
     "options": [
-      "(A) Take a photo of it with your phone",
-      "(B) Place it on the table without looking",
-      "(C) Take it with one hand and put it in your pocket",
-      "(D) Receive it with both hands and read it carefully"
+      "(A) Take it with one hand and put it in your pocket",
+      "(B) Receive it with both hands and read it carefully",
+      "(C) Place it on the table without looking",
+      "(D) Take a photo of it with your phone"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -61,21 +59,19 @@
         "actor_behavior": "maintain unique business hours, including late-night operation and confusion about opening times",
         "similarity": 0.14010614968942997
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR03",
     "culture": "Korean",
     "question_en": "In Korean culture, what does it mean when someone older pours you a drink at dinner?",
     "options": [
-      "(A) It is a sign of care and social bonding",
-      "(B) It means they disagree with you",
+      "(A) They want you to leave soon",
+      "(B) It is a sign of care and social bonding",
       "(C) They are testing your alcohol tolerance",
-      "(D) They want you to leave soon"
+      "(D) It means they disagree with you"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -94,21 +90,19 @@
         "actor_behavior": "engage in drinking culture, including alcohol, coffee, and green tea lattes, often in a relaxed and welcoming manner",
         "similarity": 0.10421819790466348
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR04",
     "culture": "Korean",
     "question_en": "A Korean friend greets you by asking 'Have you eaten?' What does this most likely mean?",
     "options": [
-      "(A) They are literally asking because they are hungry",
-      "(B) It is a common greeting showing care for your wellbeing",
-      "(C) They are inviting you to dinner",
+      "(A) They are inviting you to dinner",
+      "(B) They are literally asking because they are hungry",
+      "(C) It is a common greeting showing care for your wellbeing",
       "(D) They think you look thin"
     ],
-    "correct": "B",
+    "correct": "C",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -127,21 +121,19 @@
         "actor_behavior": "engage in dating practices, including asking for advice and dating",
         "similarity": 0.128367498353104
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "C"
+    ]
   },
   {
     "id": "KR05",
     "culture": "Korean",
     "question_en": "Why might a Korean person avoid giving a gift with the number 4 prominently displayed?",
     "options": [
-      "(A) Even numbers are considered bad luck",
-      "(B) 4 represents dishonesty in Korean numerology",
-      "(C) There is no special meaning",
-      "(D) 4 sounds like the word for 'death' in Korean"
+      "(A) 4 sounds like the word for 'death' in Korean",
+      "(B) Even numbers are considered bad luck",
+      "(C) 4 represents dishonesty in Korean numerology",
+      "(D) There is no special meaning"
     ],
-    "correct": "D",
+    "correct": "A",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -160,21 +152,19 @@
         "actor_behavior": "preference for not wearing sunglasses due to cultural beliefs and lack of popularity",
         "similarity": 0.14186201867077214
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "A"
+    ]
   },
   {
     "id": "KR06",
     "culture": "Korean",
     "question_en": "At a Korean dinner table, a younger person is pouring soju for an elder. How should the younger person pour?",
     "options": [
-      "(A) With both hands or one hand supported by the other",
-      "(B) Into their own glass first as a taste test",
+      "(A) With one hand casually",
+      "(B) With both hands or one hand supported by the other",
       "(C) While looking the elder directly in the eye",
-      "(D) With one hand casually"
+      "(D) Into their own glass first as a taste test"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -193,18 +183,16 @@
         "actor_behavior": "avoid or make eye contact based on context and perceived politeness",
         "similarity": 0.09620802109510154
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR07",
     "culture": "Korean",
     "question_en": "In Korea, when is it common for couples to celebrate their relationship publicly?",
     "options": [
-      "(A) Korean couples generally do not celebrate publicly",
+      "(A) Only on wedding anniversaries",
       "(B) On the 100th day anniversary and other numbered milestones",
-      "(C) Only on wedding anniversaries",
+      "(C) Korean couples generally do not celebrate publicly",
       "(D) Only on Valentine's Day"
     ],
     "correct": "B",
@@ -226,21 +214,19 @@
         "actor_behavior": "include Venmo or similar payment methods for financial contributions and gifts",
         "similarity": 0.09714743917368027
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR08",
     "culture": "Korean",
     "question_en": "A Korean colleague says 'We should have a meal together sometime.' What does this typically mean?",
     "options": [
-      "(A) It is a polite social pleasantry, not necessarily a concrete plan",
-      "(B) They are asking you on a date",
-      "(C) They are making a firm dinner reservation",
-      "(D) They want to discuss a business deal"
+      "(A) They are making a firm dinner reservation",
+      "(B) It is a polite social pleasantry, not necessarily a concrete plan",
+      "(C) They want to discuss a business deal",
+      "(D) They are asking you on a date"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -259,9 +245,7 @@
         "actor_behavior": "express gratitude or politeness using phrases like 'no thank you' or 'it's ok', often in response to being asked if they want something",
         "similarity": 0.09106608672165123
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR09",
@@ -269,11 +253,11 @@
     "question_en": "In Korean age culture, why do Koreans often ask someone's age when they first meet?",
     "options": [
       "(A) To determine who should pay for the meal",
-      "(B) It is considered rude and should be avoided",
-      "(C) To establish the appropriate level of speech formality",
+      "(B) To establish the appropriate level of speech formality",
+      "(C) It is considered rude and should be avoided",
       "(D) To decide seating arrangements only"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -292,21 +276,19 @@
         "actor_behavior": "maintain societal norms and expectations, including respect for elders and age-based seniority ranking",
         "similarity": 0.16050431207582821
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR10",
     "culture": "Korean",
     "question_en": "What is the significance of 'red ink' when writing someone's name in Korea?",
     "options": [
-      "(A) It means you are angry at the person",
-      "(B) It has no special cultural significance",
-      "(C) It signifies celebration and good luck",
-      "(D) It is associated with death and should be avoided for living people"
+      "(A) It signifies celebration and good luck",
+      "(B) It is associated with death and should be avoided for living people",
+      "(C) It means you are angry at the person",
+      "(D) It has no special cultural significance"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -325,19 +307,17 @@
         "actor_behavior": "emphasize the importance of facial acting skills, often associated with having a good face",
         "similarity": 0.10717208453757293
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR11",
     "culture": "Korean",
     "question_en": "In Korea, what does 'nunchi' refer to?",
     "options": [
-      "(A) A type of Korean tea ceremony",
+      "(A) A traditional Korean board game",
       "(B) The ability to read the atmosphere and others' feelings",
-      "(C) A formal greeting between strangers",
-      "(D) A traditional Korean board game"
+      "(C) A type of Korean tea ceremony",
+      "(D) A formal greeting between strangers"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -358,21 +338,19 @@
         "actor_behavior": "enjoying and learning about Korean food, including table etiquette and traditional dishes",
         "similarity": 0.11055514648572373
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR12",
     "culture": "Korean",
     "question_en": "When a Korean person turns away or covers their mouth while drinking alcohol with elders, this is because:",
     "options": [
-      "(A) It is a superstition to avoid bad luck",
-      "(B) They are trying to hide how much they are drinking",
-      "(C) It is a sign of respect to not drink facing the elder directly",
-      "(D) They don't like the taste of the drink"
+      "(A) They don't like the taste of the drink",
+      "(B) It is a sign of respect to not drink facing the elder directly",
+      "(C) They are trying to hide how much they are drinking",
+      "(D) It is a superstition to avoid bad luck"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -391,19 +369,17 @@
         "actor_behavior": "engage in unique drinking practices, including drinking soju with tonic water and shouting cheers",
         "similarity": 0.21214326430134423
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR13",
     "culture": "Korean",
     "question_en": "In Korea, what is the cultural attitude toward eating alone in a restaurant?",
     "options": [
-      "(A) Restaurants will refuse to serve a single diner",
+      "(A) It is completely normal and very common",
       "(B) It has traditionally carried a social stigma, though this is changing",
-      "(C) It is completely normal and very common",
-      "(D) It is considered a sign of wealth and independence"
+      "(C) It is considered a sign of wealth and independence",
+      "(D) Restaurants will refuse to serve a single diner"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -424,21 +400,19 @@
         "actor_behavior": "engage in bill division, including splitting evenly or requesting recalculation",
         "similarity": 0.11690409312476453
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR14",
     "culture": "Korean",
     "question_en": "Why do many Korean buildings skip the 4th floor in elevator numbering?",
     "options": [
-      "(A) The 4th floor is always reserved for storage",
-      "(B) This practice does not actually exist",
-      "(C) Because 4 is associated with death, so floors jump from 3 to 5 or use 'F'",
-      "(D) It is a structural engineering requirement"
+      "(A) It is a structural engineering requirement",
+      "(B) Because 4 is associated with death, so floors jump from 3 to 5 or use 'F'",
+      "(C) The 4th floor is always reserved for storage",
+      "(D) This practice does not actually exist"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -457,9 +431,7 @@
         "actor_behavior": "a mix of reserved and friendly behavior, with a tendency to be reserved initially and warm up over time, often involving food or seeking recommendations",
         "similarity": 0.09086622271361043
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR15",
@@ -468,8 +440,8 @@
     "options": [
       "(A) Open it immediately to show enthusiasm",
       "(B) Refuse it at least once or twice before accepting",
-      "(C) Ask how much it cost",
-      "(D) Accept it and set it aside without opening"
+      "(C) Accept it and set it aside without opening",
+      "(D) Ask how much it cost"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -490,21 +462,19 @@
         "actor_behavior": "give and receive red envelopes containing cash",
         "similarity": 0.14228079504327062
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR16",
     "culture": "Korean",
     "question_en": "When greeting an older Korean person formally, what is the standard gesture?",
     "options": [
-      "(A) Snapping fingers",
-      "(B) A casual wave",
+      "(A) A casual wave",
+      "(B) A bow, deeper for higher status or seniority",
       "(C) A kiss on both cheeks",
-      "(D) A bow, deeper for higher status or seniority"
+      "(D) Snapping fingers"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -523,21 +493,19 @@
         "actor_behavior": "engage in various activities including living, eating, dressing, and seeking medical care, reflecting a higher socioeconomic status compared to other regions",
         "similarity": 0.1244411884021639
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR17",
     "culture": "Korean",
     "question_en": "Upon entering a Korean home, what is expected?",
     "options": [
-      "(A) Remove your shoes at the entrance and step onto the raised floor",
-      "(B) Shoes are optional in modern Korean homes",
+      "(A) Keep your shoes on at all times",
+      "(B) Remove your shoes at the entrance and step onto the raised floor",
       "(C) Remove only your right shoe",
-      "(D) Keep your shoes on at all times"
+      "(D) Shoes are optional in modern Korean homes"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -556,21 +524,19 @@
         "actor_behavior": "remove shoes and use slippers to maintain cleanliness and dryness",
         "similarity": 0.19159440904366562
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR18",
     "culture": "Korean",
     "question_en": "At a Korean meal, why does almost every dining table include kimchi?",
     "options": [
-      "(A) Kimchi is a national staple banchan served with nearly every meal",
-      "(B) Modern Korean cuisine has phased it out",
-      "(C) Kimchi is rare and reserved for special occasions",
-      "(D) Kimchi is only eaten by elders"
+      "(A) Kimchi is rare and reserved for special occasions",
+      "(B) Kimchi is a national staple banchan served with nearly every meal",
+      "(C) Kimchi is only eaten by elders",
+      "(D) Modern Korean cuisine has phased it out"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -589,21 +555,19 @@
         "actor_behavior": "associate Korea with the smell of kimchi, often seen as a positive or unique scent",
         "similarity": 0.24556142057434124
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR19",
     "culture": "Korean",
     "question_en": "At a Korean meal, you should NEVER stick your chopsticks upright in a bowl of rice because:",
     "options": [
-      "(A) There is no such taboo",
-      "(B) It is considered a sign of wealth",
-      "(C) It resembles incense offered to the dead at ancestral rites — considered very inauspicious",
-      "(D) It can cause spills"
+      "(A) It can cause spills",
+      "(B) It resembles incense offered to the dead at ancestral rites — considered very inauspicious",
+      "(C) It is considered a sign of wealth",
+      "(D) There is no such taboo"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -622,9 +586,7 @@
         "actor_behavior": "prioritize eating rice before meat, cook rice on the stove, and finish rice before eating meat",
         "similarity": 0.14603662354802116
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR20",
@@ -655,9 +617,7 @@
         "actor_behavior": "engage in communal nudity and use of saunas for relaxation and cultural experiences",
         "similarity": 0.19511256121960271
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR21",
@@ -665,11 +625,11 @@
     "question_en": "What is 'Seollal' in Korean tradition?",
     "options": [
       "(A) Korean Independence Day",
-      "(B) A summer harvest festival",
-      "(C) A modern shopping holiday",
-      "(D) Lunar New Year — families gather, perform sebae bowing, eat tteokguk"
+      "(B) Lunar New Year — families gather, perform sebae bowing, eat tteokguk",
+      "(C) A summer harvest festival",
+      "(D) A modern shopping holiday"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -688,9 +648,7 @@
         "actor_behavior": "use bows as a sign of respect, greeting, or acknowledgement",
         "similarity": 0.1167533784033454
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR22",
@@ -698,11 +656,11 @@
     "question_en": "What is 'Chuseok' in Korean culture?",
     "options": [
       "(A) A K-pop awards show",
-      "(B) Korean Valentine's Day",
+      "(B) Mid-autumn harvest holiday — ancestral rites, family gathering, songpyeon rice cakes",
       "(C) A national mourning day",
-      "(D) Mid-autumn harvest holiday — ancestral rites, family gathering, songpyeon rice cakes"
+      "(D) Korean Valentine's Day"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -721,21 +679,19 @@
         "actor_behavior": "includes performing, investing, and promoting K-pop music and culture",
         "similarity": 0.1267108236814539
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR23",
     "culture": "Korean",
     "question_en": "When is hanbok typically worn in modern Korea?",
     "options": [
-      "(A) On major holidays (Seollal, Chuseok), weddings, and special ceremonies",
-      "(B) Never; it is illegal to wear in public",
+      "(A) As everyday clothing",
+      "(B) On major holidays (Seollal, Chuseok), weddings, and special ceremonies",
       "(C) Only by performers on TV",
-      "(D) As everyday clothing"
+      "(D) Never; it is illegal to wear in public"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -754,21 +710,19 @@
         "actor_behavior": "engage in formal, short, and sometimes large-scale wedding ceremonies",
         "similarity": 0.15782799043252524
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR24",
     "culture": "Korean",
     "question_en": "Until late 2022, why might a Korean person say they are '2 years older' than their international age?",
     "options": [
-      "(A) It is a joke that never had basis",
-      "(B) Tax brackets in Korea differ",
-      "(C) Korean people are biologically older",
-      "(D) Traditional Korean age counts age 1 at birth and +1 every Lunar New Year (now phased out by law)"
+      "(A) Korean people are biologically older",
+      "(B) Traditional Korean age counts age 1 at birth and +1 every Lunar New Year (now phased out by law)",
+      "(C) It is a joke that never had basis",
+      "(D) Tax brackets in Korea differ"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -787,21 +741,19 @@
         "actor_behavior": "count months during pregnancy and consider babies 1 year old at birth due to lunar calendar influence",
         "similarity": 0.2834852429354988
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR25",
     "culture": "Korean",
     "question_en": "In Korean numerology, the number 7 is generally considered:",
     "options": [
-      "(A) Associated with funerals",
-      "(B) Unlucky and avoided",
-      "(C) Lucky, often associated with good fortune",
+      "(A) Unlucky and avoided",
+      "(B) Lucky, often associated with good fortune",
+      "(C) Associated with funerals",
       "(D) A neutral number with no significance"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -820,21 +772,19 @@
         "actor_behavior": "considered rich with more than $1,000 in their pocket, often associated with owning luxury items like cars and fridges",
         "similarity": 0.1449795888512905
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR26",
     "culture": "Korean",
     "question_en": "At a traditional Korean funeral, what is the traditional mourning color?",
     "options": [
-      "(A) White hemp clothing was traditional; modern funerals now also use black",
-      "(B) Green",
-      "(C) Red",
-      "(D) Bright yellow"
+      "(A) Red",
+      "(B) White hemp clothing was traditional; modern funerals now also use black",
+      "(C) Bright yellow",
+      "(D) Green"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -853,21 +803,19 @@
         "actor_behavior": "use flower arrangements, with specific color codes indicating the nature of the event",
         "similarity": 0.16497538228371747
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR27",
     "culture": "Korean",
     "question_en": "When older relatives offer you food at a Korean gathering, the polite response is often:",
     "options": [
-      "(A) Demand more food",
-      "(B) Eat immediately without acknowledgment",
-      "(C) A gentle initial refusal or acceptance, then receiving food respectfully (often with both hands)",
-      "(D) Refuse firmly and never accept"
+      "(A) Refuse firmly and never accept",
+      "(B) A gentle initial refusal or acceptance, then receiving food respectfully (often with both hands)",
+      "(C) Eat immediately without acknowledgment",
+      "(D) Demand more food"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -886,21 +834,19 @@
         "actor_behavior": "engage in various activities related to Korean culture, including seeking Korean food, sharing Korean culinary culture, and preparing Korean food",
         "similarity": 0.21379260055719154
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR28",
     "culture": "Korean",
     "question_en": "Why does the depth of a Korean bow vary in different situations?",
     "options": [
-      "(A) Depth signals respect — deeper bows for elders, formal apologies, or higher status",
-      "(B) Bow depth is not culturally significant",
-      "(C) It is purely random",
-      "(D) It only varies by neighborhood"
+      "(A) It is purely random",
+      "(B) Depth signals respect — deeper bows for elders, formal apologies, or higher status",
+      "(C) It only varies by neighborhood",
+      "(D) Bow depth is not culturally significant"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -919,19 +865,17 @@
         "actor_behavior": "engage in various activities including living, eating, dressing, and seeking medical care, reflecting a higher socioeconomic status compared to other regions",
         "similarity": 0.09166035957956759
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR29",
     "culture": "Korean",
     "question_en": "What is 'hoesik' (회식) in Korean workplace culture?",
     "options": [
-      "(A) A retirement ceremony",
+      "(A) A morning prayer at work",
       "(B) Company dinner/drinking events that build team bonding; historically near-mandatory",
-      "(C) A morning prayer at work",
-      "(D) A type of office software"
+      "(C) A type of office software",
+      "(D) A retirement ceremony"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -952,9 +896,7 @@
         "actor_behavior": "engage in creative drinking games and drinking culture, with awareness of negative health effects",
         "similarity": 0.15555698279889893
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR30",
@@ -985,21 +927,19 @@
         "actor_behavior": "create, perform, and listen to music with a unique style, combining singing and rapping in Korean language",
         "similarity": 0.09583023363190889
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR31",
     "culture": "Korean",
     "question_en": "Why do Koreans use sibling-like titles ('oppa', 'hyung', 'unni', 'noona') even with non-relatives?",
     "options": [
-      "(A) These words have no relational meaning",
-      "(B) Everyone in Korea is actually related",
-      "(C) Only K-pop fans use them",
-      "(D) Age-based honorifics extend to friends/seniors — reflects Confucian respect for seniority"
+      "(A) Everyone in Korea is actually related",
+      "(B) Age-based honorifics extend to friends/seniors — reflects Confucian respect for seniority",
+      "(C) These words have no relational meaning",
+      "(D) Only K-pop fans use them"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1018,9 +958,7 @@
         "actor_behavior": "use formal address and honorifics, including names and titles, to show respect",
         "similarity": 0.1618719060971075
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR32",
@@ -1028,11 +966,11 @@
     "question_en": "What does 'Hangul Day' (October 9) commemorate?",
     "options": [
       "(A) The first Korean president's birthday",
-      "(B) National sports day",
+      "(B) The promulgation of the Hangul writing system by King Sejong",
       "(C) Liberation from Japanese rule",
-      "(D) The promulgation of the Hangul writing system by King Sejong"
+      "(D) National sports day"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1051,9 +989,7 @@
         "actor_behavior": "prefer using taxis due to their affordability and convenience, with fares starting at 3.6 USD during the day and increasing at night",
         "similarity": 0.09807026367321833
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR33",
@@ -1084,21 +1020,19 @@
         "actor_behavior": "prioritize respect, consideration, and seeking recommendations from trusted sources",
         "similarity": 0.1868352089606773
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR34",
     "culture": "Korean",
     "question_en": "On Korean public transit (especially subways), the cultural norm is to:",
     "options": [
-      "(A) Keep voices quiet and avoid phone calls; reserved seats are strictly for elderly/pregnant",
-      "(B) Play music aloud",
-      "(C) Speak loudly to entertain other passengers",
-      "(D) Eat full meals"
+      "(A) Speak loudly to entertain other passengers",
+      "(B) Keep voices quiet and avoid phone calls; reserved seats are strictly for elderly/pregnant",
+      "(C) Eat full meals",
+      "(D) Play music aloud"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1117,21 +1051,19 @@
         "actor_behavior": "tend to speak loudly and expressively, including yelling and making loud noises",
         "similarity": 0.14782232170473614
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR35",
     "culture": "Korean",
     "question_en": "Why do Koreans often use 'uri' (우리, 'our') instead of 'my' — e.g. 'uri eomma' (our mom) instead of 'my mom'?",
     "options": [
-      "(A) Collective identity is culturally emphasized; 'uri' signals shared belonging",
-      "(B) It is grammatically required only in writing",
-      "(C) The Korean language lacks a word for 'my'",
+      "(A) The Korean language lacks a word for 'my'",
+      "(B) Collective identity is culturally emphasized; 'uri' signals shared belonging",
+      "(C) It is grammatically required only in writing",
       "(D) The custom is not actually practiced"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1150,21 +1082,19 @@
         "actor_behavior": "carry tissues or use sprayers instead of toilet paper, and avoid throwing tissue or toilet paper in the toilet",
         "similarity": 0.07370527836853591
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR36",
     "culture": "Korean",
     "question_en": "What is 'chaemyeon' (체면) in Korean social life?",
     "options": [
-      "(A) Saving face — preserving social dignity and reputation, important in interactions",
-      "(B) A Korean dessert",
-      "(C) A type of friendship contract",
-      "(D) A traditional dance"
+      "(A) A traditional dance",
+      "(B) Saving face — preserving social dignity and reputation, important in interactions",
+      "(C) A Korean dessert",
+      "(D) A type of friendship contract"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1183,21 +1113,19 @@
         "actor_behavior": "create, share, and discuss videos about Korean culture, life, and experiences",
         "similarity": 0.12965814654489952
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR37",
     "culture": "Korean",
     "question_en": "When pouring soju for an elder, what is correct etiquette?",
     "options": [
-      "(A) Use both hands (or support pouring arm with the other), bottle's label facing up",
-      "(B) One hand casually",
+      "(A) One hand casually",
+      "(B) Use both hands (or support pouring arm with the other), bottle's label facing up",
       "(C) Pour with eyes closed",
       "(D) Spill some on the floor first"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1216,9 +1144,7 @@
         "actor_behavior": "engage in financial support and communication, including asking for money and saving for future independence",
         "similarity": 0.07392064629761948
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR38",
@@ -1226,11 +1152,11 @@
     "question_en": "In a Korean PC bang ('PC방'), what activity is most associated with the space?",
     "options": [
       "(A) Religious services",
-      "(B) Government tax filing",
-      "(C) Multiplayer online gaming (e.g. League of Legends, StarCraft); high-end PCs, hourly fees",
+      "(B) Multiplayer online gaming (e.g. League of Legends, StarCraft); high-end PCs, hourly fees",
+      "(C) Government tax filing",
       "(D) Karaoke singing"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1249,21 +1175,19 @@
         "actor_behavior": "embrace gaming as a lifestyle, engage in extensive gaming, and develop gaming infrastructure",
         "similarity": 0.19558903201550823
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR39",
     "culture": "Korean",
     "question_en": "Why do Korean cafés often serve as study spaces for students?",
     "options": [
-      "(A) Long study sessions over coffee are widely tolerated; quiet, Wi-Fi-equipped cafés are abundant",
-      "(B) Cafés legally must allow studying",
-      "(C) Korean students never study in cafés",
-      "(D) Studying in cafés is forbidden"
+      "(A) Cafés legally must allow studying",
+      "(B) Long study sessions over coffee are widely tolerated; quiet, Wi-Fi-equipped cafés are abundant",
+      "(C) Studying in cafés is forbidden",
+      "(D) Korean students never study in cafés"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1282,19 +1206,17 @@
         "actor_behavior": "intense dedication to studying, including cram schools and studying hard",
         "similarity": 0.10282555360341504
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR40",
     "culture": "Korean",
     "question_en": "What is the Korean superstition of 'fan death'?",
     "options": [
-      "(A) A K-drama plot device only",
+      "(A) A modern wellness practice with scientific backing",
       "(B) Folk belief that running an electric fan in a closed room overnight can be fatal — not supported by science but persistent",
       "(C) A historical regulation",
-      "(D) A modern wellness practice with scientific backing"
+      "(D) A K-drama plot device only"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1315,19 +1237,17 @@
         "actor_behavior": "engage in meticulous grooming, long hours of photoshoots, and active fan engagement",
         "similarity": 0.09773735578677842
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR41",
     "culture": "Korean",
     "question_en": "In Korean popular culture, blood type is often used to:",
     "options": [
-      "(A) Choose university majors",
+      "(A) Determine eligibility for surgery only",
       "(B) Stereotype personality traits (A=careful, B=passionate, etc.) — informal but widespread belief",
-      "(C) Determine eligibility for surgery only",
-      "(D) Assign government IDs"
+      "(C) Assign government IDs",
+      "(D) Choose university majors"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1348,18 +1268,16 @@
         "actor_behavior": "engage in self-diagnosis or testing to determine personal color palettes, often using reflective surfaces",
         "similarity": 0.0896963870253642
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR42",
     "culture": "Korean",
     "question_en": "What is the global cultural impact of K-pop?",
     "options": [
-      "(A) Banned outside Asia",
+      "(A) Limited to Korea only",
       "(B) Major export industry — global fanbases, tours, K-pop language learning, tourism",
-      "(C) Limited to Korea only",
+      "(C) Banned outside Asia",
       "(D) A short-lived 2000s trend"
     ],
     "correct": "B",
@@ -1381,19 +1299,17 @@
         "actor_behavior": "K-pop idols present idealized images and engage in entertainment, while fans admire and relate to them",
         "similarity": 0.2693549234916855
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR43",
     "culture": "Korean",
     "question_en": "What is 'Yeondeunghoe' (Lotus Lantern Festival)?",
     "options": [
-      "(A) A summer fireworks event",
+      "(A) A modern light-art exhibit",
       "(B) Annual Buddhist festival around Buddha's Birthday, with lantern parades; UNESCO Intangible Heritage",
       "(C) A nationwide power outage event",
-      "(D) A modern light-art exhibit"
+      "(D) A summer fireworks event"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1414,21 +1330,19 @@
         "actor_behavior": "engage in marriage, often facing societal pressure and expectations",
         "similarity": 0.07452515151460125
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR44",
     "culture": "Korean",
     "question_en": "At a Korean meal, what are 'banchan'?",
     "options": [
-      "(A) Beverages",
-      "(B) The main dish only",
+      "(A) The main dish only",
+      "(B) Side dishes (often many small plates) served with rice — kimchi, namul, jeon, etc.",
       "(C) Dessert plates",
-      "(D) Side dishes (often many small plates) served with rice — kimchi, namul, jeon, etc."
+      "(D) Beverages"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1447,21 +1361,19 @@
         "actor_behavior": "prioritize eating rice before meat, cook rice on the stove, and finish rice before eating meat",
         "similarity": 0.1536044919556742
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR45",
     "culture": "Korean",
     "question_en": "In Korean drinking culture, what is generally avoided?",
     "options": [
-      "(A) Pouring your own drink — others should pour for you (and vice versa)",
-      "(B) Toasting in general",
-      "(C) Drinking from a glass",
-      "(D) Saying 'cheers'"
+      "(A) Toasting in general",
+      "(B) Pouring your own drink — others should pour for you (and vice versa)",
+      "(C) Saying 'cheers'",
+      "(D) Drinking from a glass"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1480,21 +1392,19 @@
         "actor_behavior": "engage in creative drinking games and drinking culture, with awareness of negative health effects",
         "similarity": 0.3112107625542869
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR46",
     "culture": "Korean",
     "question_en": "What does 'aigoo' (아이고) express in Korean?",
     "options": [
-      "(A) A formal apology",
-      "(B) A greeting only",
-      "(C) A goodbye",
-      "(D) An interjection expressing fatigue, sympathy, surprise, or mild frustration (multi-purpose 'oh dear')"
+      "(A) A greeting only",
+      "(B) An interjection expressing fatigue, sympathy, surprise, or mild frustration (multi-purpose 'oh dear')",
+      "(C) A formal apology",
+      "(D) A goodbye"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1513,19 +1423,17 @@
         "actor_behavior": "express shock and surprise in various situations",
         "similarity": 0.1332487976419106
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR47",
     "culture": "Korean",
     "question_en": "What is 'jeong' (정) in Korean interpersonal culture?",
     "options": [
-      "(A) A type of formal address",
+      "(A) A type of currency",
       "(B) Deep emotional bond / attachment built over time between people — often considered uniquely Korean",
       "(C) An official government title",
-      "(D) A type of currency"
+      "(D) A type of formal address"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1546,21 +1454,19 @@
         "actor_behavior": "use BTS for various purposes including improving image, expressing gratitude, and addressing safety concerns",
         "similarity": 0.11592572901395953
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR48",
     "culture": "Korean",
     "question_en": "Why is delivering food at midnight common in Korean cities?",
     "options": [
-      "(A) Robust late-night delivery culture, especially for chicken/jjajangmyeon — feeds late-night socializing",
-      "(B) Daytime delivery is illegal",
-      "(C) Restaurants legally must operate 24/7",
+      "(A) Restaurants legally must operate 24/7",
+      "(B) Robust late-night delivery culture, especially for chicken/jjajangmyeon — feeds late-night socializing",
+      "(C) Daytime delivery is illegal",
       "(D) Korean cities lack restaurants"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1579,21 +1485,19 @@
         "actor_behavior": "prioritize safety and awareness of surroundings due to perceived danger",
         "similarity": 0.15494510452958704
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR49",
     "culture": "Korean",
     "question_en": "At a Korean coffee shop, what does it usually mean if a young person sits alone with textbooks and a laptop for hours?",
     "options": [
-      "(A) Café staff will ask them to leave",
-      "(B) They are not allowed to study",
-      "(C) Studying solo in cafés ('cafe-gongbu') is a widely accepted norm",
-      "(D) They are visiting from abroad"
+      "(A) They are not allowed to study",
+      "(B) Studying solo in cafés ('cafe-gongbu') is a widely accepted norm",
+      "(C) They are visiting from abroad",
+      "(D) Café staff will ask them to leave"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1612,21 +1516,19 @@
         "actor_behavior": "intense dedication to studying, including cram schools and studying hard",
         "similarity": 0.10725188515234765
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "KR50",
     "culture": "Korean",
     "question_en": "In Korean military service culture, what is broadly true for South Korean men?",
     "options": [
-      "(A) Conscription requires most able-bodied men to serve roughly 18-21 months",
-      "(B) Service is purely voluntary",
-      "(C) Only women serve in Korea",
-      "(D) Military service is illegal"
+      "(A) Military service is illegal",
+      "(B) Conscription requires most able-bodied men to serve roughly 18-21 months",
+      "(C) Service is purely voluntary",
+      "(D) Only women serve in Korea"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1645,8 +1547,6 @@
         "actor_behavior": "mandatory military service for men, with women serving in various capacities",
         "similarity": 0.3342172912958959
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   }
 ]

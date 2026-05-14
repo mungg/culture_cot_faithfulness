@@ -4,10 +4,10 @@
     "culture": "American",
     "question_en": "At an American dinner party, the host says 'Make yourself at home.' What should you do?",
     "options": [
-      "(A) Start cooking your own food in their kitchen",
+      "(A) Start rearranging the furniture",
       "(B) Relax and feel comfortable, but respect boundaries",
       "(C) Go into any room including bedrooms",
-      "(D) Start rearranging the furniture"
+      "(D) Start cooking your own food in their kitchen"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -28,19 +28,17 @@
         "actor_behavior": "ranging from assembling flat-pack furniture to custom-building and repairing",
         "similarity": 0.22632820027558825
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US02",
     "culture": "American",
     "question_en": "In the US, when someone asks 'How are you?' in passing, what is the expected response?",
     "options": [
-      "(A) Ignore them and keep walking",
-      "(B) Stop and have a 10-minute conversation",
+      "(A) Give a detailed account of your current problems",
+      "(B) Ignore them and keep walking",
       "(C) Say 'Good, how are you?' and continue on",
-      "(D) Give a detailed account of your current problems"
+      "(D) Stop and have a 10-minute conversation"
     ],
     "correct": "C",
     "wrong_hint": null,
@@ -61,9 +59,7 @@
         "actor_behavior": "use of slurs, with a growing effort to stop swearing",
         "similarity": 0.17341186112594797
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "C"
+    ]
   },
   {
     "id": "US03",
@@ -71,9 +67,9 @@
     "question_en": "In American tipping culture, what is the standard tip at a sit-down restaurant?",
     "options": [
       "(A) No tip is necessary",
-      "(B) 50% of the bill",
+      "(B) 5-10% of the bill",
       "(C) 15-20% of the bill",
-      "(D) 5-10% of the bill"
+      "(D) 50% of the bill"
     ],
     "correct": "C",
     "wrong_hint": null,
@@ -94,9 +90,7 @@
         "actor_behavior": "tip between 15% to 20% as a gesture of appreciation for haircut services",
         "similarity": 0.3733177354252638
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "C"
+    ]
   },
   {
     "id": "US04",
@@ -104,11 +98,11 @@
     "question_en": "You are at a potluck dinner in the US. What is expected of guests?",
     "options": [
       "(A) Bring nothing; the host provides everything",
-      "(B) Bring a gift for the host instead of food",
-      "(C) Only bring dessert",
-      "(D) Each guest brings a dish to share"
+      "(B) Each guest brings a dish to share",
+      "(C) Bring a gift for the host instead of food",
+      "(D) Only bring dessert"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -127,21 +121,19 @@
         "actor_behavior": "bring food representing their cultural backgrounds, sometimes misunderstood as promoting racial issues",
         "similarity": 0.33740358346883204
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US05",
     "culture": "American",
     "question_en": "In American culture, what does a firm handshake typically convey?",
     "options": [
-      "(A) That you want to end the conversation",
-      "(B) Aggression or hostility",
+      "(A) Aggression or hostility",
+      "(B) Confidence and professionalism",
       "(C) Romantic interest",
-      "(D) Confidence and professionalism"
+      "(D) That you want to end the conversation"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -160,9 +152,7 @@
         "actor_behavior": "engage in auditions, aiming for authenticity and confidence",
         "similarity": 0.22029805810698366
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US06",
@@ -170,11 +160,11 @@
     "question_en": "In American small talk culture, which topic is generally considered inappropriate to discuss with acquaintances?",
     "options": [
       "(A) The weather",
-      "(B) Sports and entertainment",
-      "(C) Weekend plans",
-      "(D) Personal salary or income"
+      "(B) Weekend plans",
+      "(C) Personal salary or income",
+      "(D) Sports and entertainment"
     ],
-    "correct": "D",
+    "correct": "C",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -193,9 +183,7 @@
         "actor_behavior": "engage in random chit-chats and small talk",
         "similarity": 0.22618619782210087
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "C"
+    ]
   },
   {
     "id": "US07",
@@ -226,21 +214,19 @@
         "actor_behavior": "engage in personal conversations and express concerns about job fit",
         "similarity": 0.2145669339409441
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US08",
     "culture": "American",
     "question_en": "In American culture, when invited to someone's home for dinner, what is the most common thing to bring?",
     "options": [
-      "(A) A bottle of wine or dessert",
-      "(B) Cash as a contribution",
-      "(C) Your own plates and utensils",
-      "(D) Nothing; bringing something is considered rude"
+      "(A) Nothing; bringing something is considered rude",
+      "(B) A bottle of wine or dessert",
+      "(C) Cash as a contribution",
+      "(D) Your own plates and utensils"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -259,21 +245,19 @@
         "actor_behavior": "engage in bottle collection, including returning empty bottles and cans for cash or recycling rewards",
         "similarity": 0.25493250008108986
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US09",
     "culture": "American",
     "question_en": "In the US, what does 'personal space' typically mean in a conversational context?",
     "options": [
-      "(A) Always maintaining at least 10 feet of distance",
-      "(B) Personal space is not a concept in American culture",
-      "(C) Never being in the same room as another person",
-      "(D) Standing about 1.5-4 feet apart during casual conversation"
+      "(A) Standing about 1.5-4 feet apart during casual conversation",
+      "(B) Never being in the same room as another person",
+      "(C) Always maintaining at least 10 feet of distance",
+      "(D) Personal space is not a concept in American culture"
     ],
-    "correct": "D",
+    "correct": "A",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -292,21 +276,19 @@
         "actor_behavior": "invade personal space, including standing close and getting in someone's personal space",
         "similarity": 0.3964574226065315
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "A"
+    ]
   },
   {
     "id": "US10",
     "culture": "American",
     "question_en": "When an American says 'We should hang out sometime,' what does this usually mean?",
     "options": [
-      "(A) They are being sarcastic and don't want to see you",
-      "(B) They are making a definite plan for this weekend",
+      "(A) They are making a definite plan for this weekend",
+      "(B) It is a friendly expression that may or may not lead to actual plans",
       "(C) They want to start a business partnership",
-      "(D) It is a friendly expression that may or may not lead to actual plans"
+      "(D) They are being sarcastic and don't want to see you"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -325,21 +307,19 @@
         "actor_behavior": "engage in various social activities including making plans, consuming alcohol, and teasing each other",
         "similarity": 0.17459653965638122
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US11",
     "culture": "American",
     "question_en": "In American culture, what is the norm around splitting the bill at a casual group dinner?",
     "options": [
-      "(A) Splitting the bill evenly or each paying their own is common",
-      "(B) The person who suggested the dinner must pay for everyone",
-      "(C) It is rude to discuss money; someone should quietly pay",
-      "(D) The oldest person always pays"
+      "(A) The oldest person always pays",
+      "(B) Splitting the bill evenly or each paying their own is common",
+      "(C) The person who suggested the dinner must pay for everyone",
+      "(D) It is rude to discuss money; someone should quietly pay"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -358,21 +338,19 @@
         "actor_behavior": "participate in rehearsal dinner and rehearsal, pay for dinner, and exchange vows",
         "similarity": 0.3166256984566287
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US12",
     "culture": "American",
     "question_en": "What does the American expression 'rain check' mean when someone declines an invitation?",
     "options": [
-      "(A) They want you to pay for an umbrella",
-      "(B) They are permanently refusing",
-      "(C) They are checking the weather forecast",
-      "(D) They are declining but would like to do it another time"
+      "(A) They are checking the weather forecast",
+      "(B) They are declining but would like to do it another time",
+      "(C) They are permanently refusing",
+      "(D) They want you to pay for an umbrella"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -391,21 +369,19 @@
         "actor_behavior": "engage in various payment practices, including paying with credit cards, waiting for the bill, and sometimes paying separately, often without asking for the check",
         "similarity": 0.24933043046199574
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US13",
     "culture": "American",
     "question_en": "In American work culture, what is the typical expectation around responding to work emails on weekends?",
     "options": [
-      "(A) It varies, but many consider weekends personal time with no obligation to respond immediately",
-      "(B) Weekend emails should be replied to with only emojis",
-      "(C) You must respond within 1 hour at all times",
-      "(D) You should never check email outside work hours"
+      "(A) You must respond within 1 hour at all times",
+      "(B) It varies, but many consider weekends personal time with no obligation to respond immediately",
+      "(C) You should never check email outside work hours",
+      "(D) Weekend emails should be replied to with only emojis"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -424,9 +400,7 @@
         "actor_behavior": "engage in full-time, seven-day work weeks, often including holidays and weekends",
         "similarity": 0.3654827852089725
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US14",
@@ -435,8 +409,8 @@
     "options": [
       "(A) They want to know your hobbies only",
       "(B) Occupation is a common conversation starter and social identifier in the US",
-      "(C) It is considered rude and should not be asked",
-      "(D) They are trying to determine if you are wealthy"
+      "(C) They are trying to determine if you are wealthy",
+      "(D) It is considered rude and should not be asked"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -457,21 +431,19 @@
         "actor_behavior": "uses colloquialisms, including 'people I know' and 'you know what'",
         "similarity": 0.23015342426105528
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US15",
     "culture": "American",
     "question_en": "In American culture, what does 'RSVP' to a party invitation typically require?",
     "options": [
-      "(A) Only respond if you are NOT coming",
-      "(B) You must attend if you say yes; there is a legal obligation",
+      "(A) You must attend if you say yes; there is a legal obligation",
+      "(B) You should respond yes or no by the requested date",
       "(C) RSVP means the party is canceled",
-      "(D) You should respond yes or no by the requested date"
+      "(D) Only respond if you are NOT coming"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -490,18 +462,16 @@
         "actor_behavior": "engage in party culture, including drinking alcohol and socializing",
         "similarity": 0.2679200623563406
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US16",
     "culture": "American",
     "question_en": "How is the 4th of July typically celebrated in the US?",
     "options": [
-      "(A) Tax filing day",
+      "(A) A solemn day of mourning",
       "(B) Independence Day — fireworks, BBQs, parades, flag displays",
-      "(C) A solemn day of mourning",
+      "(C) Tax filing day",
       "(D) The start of the school year"
     ],
     "correct": "B",
@@ -523,21 +493,19 @@
         "actor_behavior": "engage in firework displays",
         "similarity": 0.3895499002381201
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US17",
     "culture": "American",
     "question_en": "What is the central food at most American Thanksgiving dinners?",
     "options": [
-      "(A) Roast turkey, often with stuffing, mashed potatoes, gravy, and pumpkin pie",
-      "(B) Sushi platter",
-      "(C) Roast lamb",
+      "(A) Roast lamb",
+      "(B) Roast turkey, often with stuffing, mashed potatoes, gravy, and pumpkin pie",
+      "(C) Sushi platter",
       "(D) Pasta"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -556,21 +524,19 @@
         "actor_behavior": "frequently request sushi and express impatience",
         "similarity": 0.32695070677865845
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US18",
     "culture": "American",
     "question_en": "On Halloween (October 31), American children traditionally:",
     "options": [
-      "(A) Visit cemeteries to clean graves",
+      "(A) Go door-to-door in costume saying 'Trick or treat' to receive candy",
       "(B) Attend a religious service",
       "(C) Stay home and fast",
-      "(D) Go door-to-door in costume saying 'Trick or treat' to receive candy"
+      "(D) Visit cemeteries to clean graves"
     ],
-    "correct": "D",
+    "correct": "A",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -589,9 +555,7 @@
         "actor_behavior": "engage in various activities such as dressing up, carving pumpkins, giving out candy, and trick-or-treating",
         "similarity": 0.29070134022205035
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "A"
+    ]
   },
   {
     "id": "US19",
@@ -599,11 +563,11 @@
     "question_en": "What is 'Black Friday' in American culture?",
     "options": [
       "(A) A national day of mourning",
-      "(B) A solemn religious holiday",
-      "(C) The day after Thanksgiving — major shopping event with deep discounts",
-      "(D) The start of school"
+      "(B) The day after Thanksgiving — major shopping event with deep discounts",
+      "(C) The start of school",
+      "(D) A solemn religious holiday"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -622,21 +586,19 @@
         "actor_behavior": "engage in paid time off and holiday celebrations, including Juneteenth, New Years Day, MLK, Presidents Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, Christmas, and Halloween",
         "similarity": 0.3095187999190843
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US20",
     "culture": "American",
     "question_en": "What is Memorial Day in the US?",
     "options": [
-      "(A) Last Monday of May — honors military personnel who died in service; also informal start of summer",
-      "(B) Independence Day",
+      "(A) Independence Day",
+      "(B) Last Monday of May — honors military personnel who died in service; also informal start of summer",
       "(C) Labor protest day",
       "(D) A children's holiday"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -655,19 +617,17 @@
         "actor_behavior": "engage in paid time off and holiday celebrations, including Juneteenth, New Years Day, MLK, Presidents Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, Christmas, and Halloween",
         "similarity": 0.4453495518181382
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US21",
     "culture": "American",
     "question_en": "What does Labor Day signify in American culture?",
     "options": [
-      "(A) Tax season",
+      "(A) Start of the calendar year",
       "(B) First Monday of September — honors workers; informal end of summer; many BBQs and sales",
-      "(C) The day all workers must work",
-      "(D) Start of the calendar year"
+      "(C) Tax season",
+      "(D) The day all workers must work"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -688,21 +648,19 @@
         "actor_behavior": "traditionally start calendar weeks from Sunday, influenced by the Christian calendar and cultural norms",
         "similarity": 0.26960674462049194
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US22",
     "culture": "American",
     "question_en": "Why is the Super Bowl considered a near-national event in the US?",
     "options": [
-      "(A) NFL championship game watched by tens of millions; halftime show, ads, and parties are cultural events",
-      "(B) It is rarely covered in media",
-      "(C) It is mandatory to watch by federal law",
-      "(D) Only football fans pay attention"
+      "(A) It is mandatory to watch by federal law",
+      "(B) NFL championship game watched by tens of millions; halftime show, ads, and parties are cultural events",
+      "(C) Only football fans pay attention",
+      "(D) It is rarely covered in media"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -721,21 +679,19 @@
         "actor_behavior": "hosting, attending, and contributing to parties with food and drinks",
         "similarity": 0.3101606180495054
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US23",
     "culture": "American",
     "question_en": "What is significant about April 15 in the US?",
     "options": [
-      "(A) The first day of spring",
-      "(B) Election day",
-      "(C) A federal holiday for shopping",
-      "(D) Federal tax filing deadline ('Tax Day') for most individual taxpayers"
+      "(A) A federal holiday for shopping",
+      "(B) Federal tax filing deadline ('Tax Day') for most individual taxpayers",
+      "(C) The first day of spring",
+      "(D) Election day"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -754,21 +710,19 @@
         "actor_behavior": "engage in paid time off and holiday celebrations, including Juneteenth, New Years Day, MLK, Presidents Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, Christmas, and Halloween",
         "similarity": 0.3506881034067149
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US24",
     "culture": "American",
     "question_en": "At what age can most Americans typically obtain a driver's license?",
     "options": [
-      "(A) Age 21",
-      "(B) Age 12",
-      "(C) Age 25",
-      "(D) Age 16 (varies by state, often with restrictions until 18)"
+      "(A) Age 12",
+      "(B) Age 16 (varies by state, often with restrictions until 18)",
+      "(C) Age 21",
+      "(D) Age 25"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -787,21 +741,19 @@
         "actor_behavior": "perceive and express age in various ways, often noting differences between perceived and actual age",
         "similarity": 0.4678637421948943
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US25",
     "culture": "American",
     "question_en": "What is the federal minimum drinking age in the US?",
     "options": [
-      "(A) 25",
-      "(B) 18",
-      "(C) 21",
-      "(D) 16"
+      "(A) 18",
+      "(B) 21",
+      "(C) 16",
+      "(D) 25"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -820,21 +772,19 @@
         "actor_behavior": "celebrate significant birthdays, such as turning 18 and 21, with legal drinking and coming of age rituals",
         "similarity": 0.3853821400379231
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US26",
     "culture": "American",
     "question_en": "In the US, what is the typical tipping practice for ride-share drivers (Uber/Lyft)?",
     "options": [
-      "(A) Tip is illegal",
-      "(B) Tip 50% standard",
-      "(C) Tip is optional but commonly given (often 10-20%), especially for good service",
-      "(D) Never tip"
+      "(A) Never tip",
+      "(B) Tip is optional but commonly given (often 10-20%), especially for good service",
+      "(C) Tip is illegal",
+      "(D) Tip 50% standard"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -853,21 +803,19 @@
         "actor_behavior": "tip between 15% to 20% as a gesture of appreciation for haircut services",
         "similarity": 0.4039076164573797
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US27",
     "culture": "American",
     "question_en": "What is high-school prom in American culture?",
     "options": [
-      "(A) Formal dance event near end of high school; iconic teen tradition",
-      "(B) A summer job",
+      "(A) A military training camp",
+      "(B) Formal dance event near end of high school; iconic teen tradition",
       "(C) A standardized test",
-      "(D) A military training camp"
+      "(D) A summer job"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -886,21 +834,19 @@
         "actor_behavior": "participate in and organize proms, often with excitement and obsession",
         "similarity": 0.3354820405379193
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US28",
     "culture": "American",
     "question_en": "What is the cultural significance of college football in the US?",
     "options": [
-      "(A) Massive following — large stadiums, regional rivalries, tailgating, NCAA broadcasts",
-      "(B) Only played in two states",
-      "(C) Banned in the US",
-      "(D) A minor amateur sport with no audience"
+      "(A) A minor amateur sport with no audience",
+      "(B) Massive following — large stadiums, regional rivalries, tailgating, NCAA broadcasts",
+      "(C) Only played in two states",
+      "(D) Banned in the US"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -919,9 +865,7 @@
         "actor_behavior": "engage in American Football as a popular sport, including playing, watching, and learning about it",
         "similarity": 0.27733576847792546
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US29",
@@ -929,11 +873,11 @@
     "question_en": "What is the 'Pledge of Allegiance' commonly recited in many US public schools?",
     "options": [
       "(A) A military oath",
-      "(B) A national anthem",
-      "(C) A pledge of loyalty to the US flag; often recited at school start in many states",
+      "(B) A pledge of loyalty to the US flag; often recited at school start in many states",
+      "(C) A national anthem",
       "(D) A song"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -952,21 +896,19 @@
         "actor_behavior": "engage in the Pledge of Allegiance, often daily, as a symbolic act of patriotism",
         "similarity": 0.38517777849954626
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US30",
     "culture": "American",
     "question_en": "What does the Southern American expression 'Bless your heart' often mean?",
     "options": [
-      "(A) Only used in church",
-      "(B) Always a sincere compliment",
-      "(C) A medical phrase",
-      "(D) Can be sincere sympathy OR a polite veiled insult depending on tone and context"
+      "(A) Always a sincere compliment",
+      "(B) Can be sincere sympathy OR a polite veiled insult depending on tone and context",
+      "(C) Only used in church",
+      "(D) A medical phrase"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -985,21 +927,19 @@
         "actor_behavior": "use the phrase 'lol' as a colloquial expression of amusement, satisfaction, or acknowledgement",
         "similarity": 0.20574517434720924
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US31",
     "culture": "American",
     "question_en": "American BBQ culture varies regionally; which is true?",
     "options": [
-      "(A) BBQ is only eaten in California",
-      "(B) BBQ is identical nationwide",
-      "(C) BBQ is illegal in the US",
-      "(D) Regional styles differ — Texas (beef brisket), Carolina (pulled pork, vinegar/mustard), Memphis (dry rub), Kansas City (sweet sauce)"
+      "(A) BBQ is identical nationwide",
+      "(B) Regional styles differ — Texas (beef brisket), Carolina (pulled pork, vinegar/mustard), Memphis (dry rub), Kansas City (sweet sauce)",
+      "(C) BBQ is only eaten in California",
+      "(D) BBQ is illegal in the US"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1018,9 +958,7 @@
         "actor_behavior": "express and enjoy regional preferences for BBQ sauces, including vinegar-based and tomato-based sauces",
         "similarity": 0.5403307142727429
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US32",
@@ -1028,11 +966,11 @@
     "question_en": "Why is Starbucks (and similar chains) culturally significant in the US?",
     "options": [
       "(A) Coffee is rare in the US",
-      "(B) Only one Starbucks exists",
-      "(C) Coffee-to-go culture is widespread; large chains are part of daily routines",
+      "(B) Coffee-to-go culture is widespread; large chains are part of daily routines",
+      "(C) Only one Starbucks exists",
       "(D) Coffee is banned in the US"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1051,9 +989,7 @@
         "actor_behavior": "preferring large, flavorful, and customizable coffee drinks, often with syrups and creams, and using electric kettles for hot water",
         "similarity": 0.48464438962739553
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US33",
@@ -1061,11 +997,11 @@
     "question_en": "When an American cashier says 'Have a nice day!' at checkout, what is the expected response?",
     "options": [
       "(A) Ignore it as insincere",
-      "(B) Apologize for taking their time",
-      "(C) A brief 'You too' or 'Thanks, you too' as polite reciprocation",
-      "(D) Stop to explain your actual day plans"
+      "(B) A brief 'You too' or 'Thanks, you too' as polite reciprocation",
+      "(C) Stop to explain your actual day plans",
+      "(D) Apologize for taking their time"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1084,21 +1020,19 @@
         "actor_behavior": "do not celebrate Boxing Day due to unfamiliarity and lack of cultural significance",
         "similarity": 0.20819196856878575
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US34",
     "culture": "American",
     "question_en": "What is 'pumpkin spice season' in American culture?",
     "options": [
-      "(A) A government tax credit",
-      "(B) Not a real phenomenon",
-      "(C) An agricultural law",
-      "(D) Autumn marketing trend with pumpkin spice flavored coffee, baked goods, candles — often starting late August"
+      "(A) An agricultural law",
+      "(B) Autumn marketing trend with pumpkin spice flavored coffee, baked goods, candles — often starting late August",
+      "(C) A government tax credit",
+      "(D) Not a real phenomenon"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1117,21 +1051,19 @@
         "actor_behavior": "enjoying and preserving pumpkin-flavored food, including pumpkin spice and pie",
         "similarity": 0.430691614337841
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US35",
     "culture": "American",
     "question_en": "What is 'Spring Break' in American culture?",
     "options": [
-      "(A) A type of running event",
-      "(B) The end of the academic year",
-      "(C) A workplace strike",
-      "(D) A week-long school/college vacation in spring, often associated with travel to beaches"
+      "(A) A workplace strike",
+      "(B) A week-long school/college vacation in spring, often associated with travel to beaches",
+      "(C) The end of the academic year",
+      "(D) A type of running event"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1150,21 +1082,19 @@
         "actor_behavior": "plan and take vacations, often repeating to the same location, with a focus on spreading out vacation days throughout the year",
         "similarity": 0.23859539824100764
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US36",
     "culture": "American",
     "question_en": "American summer school break is typically how long?",
     "options": [
-      "(A) Roughly 10-12 weeks (June to August), one of the longest in OECD countries",
-      "(B) Year-round school is universal",
-      "(C) About 1 week",
-      "(D) No summer break exists"
+      "(A) About 1 week",
+      "(B) Roughly 10-12 weeks (June to August), one of the longest in OECD countries",
+      "(C) No summer break exists",
+      "(D) Year-round school is universal"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1183,21 +1113,19 @@
         "actor_behavior": "take extended breaks including a long summer vacation, a week-long break in the fall and spring, and a week off in the spring for spring break",
         "similarity": 0.43653727442885476
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US37",
     "culture": "American",
     "question_en": "What are the iconic 'yellow school buses' in the US?",
     "options": [
-      "(A) Standardized yellow buses transporting students to/from public schools, with safety regulations",
-      "(B) Public city buses",
+      "(A) Public city buses",
+      "(B) Standardized yellow buses transporting students to/from public schools, with safety regulations",
       "(C) Tourist buses",
       "(D) Banned vehicles"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1216,21 +1144,19 @@
         "actor_behavior": "provide and facilitate free or affordable transportation, primarily through school buses",
         "similarity": 0.5416437867421275
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US38",
     "culture": "American",
     "question_en": "What does 'y'all' mean in Southern American English?",
     "options": [
-      "(A) Contraction of 'you all'; second-person plural pronoun used in much of the South",
-      "(B) A goodbye",
+      "(A) An insult",
+      "(B) Contraction of 'you all'; second-person plural pronoun used in much of the South",
       "(C) A type of food",
-      "(D) An insult"
+      "(D) A goodbye"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1249,21 +1175,19 @@
         "actor_behavior": "prioritize learning and speaking Filipino, with English used as a second language",
         "similarity": 0.24383861467217285
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US39",
     "culture": "American",
     "question_en": "What is the typical American 'fist bump' greeting?",
     "options": [
-      "(A) A sign of anger",
-      "(B) A boxing technique only",
-      "(C) A formal handshake",
-      "(D) Casual greeting/celebration with knuckles touching; common among friends and athletes"
+      "(A) A formal handshake",
+      "(B) Casual greeting/celebration with knuckles touching; common among friends and athletes",
+      "(C) A boxing technique only",
+      "(D) A sign of anger"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1282,21 +1206,19 @@
         "actor_behavior": "frequently use 'how are you' as a greeting or conversation starter",
         "similarity": 0.35998573803428485
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US40",
     "culture": "American",
     "question_en": "In the US, the driver's license is commonly used for:",
     "options": [
-      "(A) Voting only",
-      "(B) Only driving permission",
-      "(C) International travel only (not domestic)",
-      "(D) Driving AND primary photo ID — for travel, alcohol purchase, voting, age verification"
+      "(A) Only driving permission",
+      "(B) Driving AND primary photo ID — for travel, alcohol purchase, voting, age verification",
+      "(C) Voting only",
+      "(D) International travel only (not domestic)"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1315,21 +1237,19 @@
         "actor_behavior": "participate in voluntary voting, often expressing strong opinions and sometimes voting despite not residing in the US",
         "similarity": 0.3451442784614602
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US41",
     "culture": "American",
     "question_en": "Why is the Social Security Number (SSN) sensitive in the US?",
     "options": [
-      "(A) Unimportant",
-      "(B) It is publicly listed",
+      "(A) It is publicly listed",
+      "(B) Treated as confidential identifier; widely used for credit/tax/identity verification → identity theft risk",
       "(C) Required to be shouted in public",
-      "(D) Treated as confidential identifier; widely used for credit/tax/identity verification → identity theft risk"
+      "(D) Unimportant"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1348,21 +1268,19 @@
         "actor_behavior": "exhibit caution and reluctance in handing over credit cards due to concerns about identity theft and theft of card information",
         "similarity": 0.2543179174369826
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US42",
     "culture": "American",
     "question_en": "Regarding gun laws in the US:",
     "options": [
-      "(A) Only police can own guns",
-      "(B) Guns are banned nationwide",
-      "(C) Federal law sets baseline; state laws vary widely (open carry, concealed carry, waiting periods differ)",
-      "(D) Gun laws are identical in every state"
+      "(A) Gun laws are identical in every state",
+      "(B) Federal law sets baseline; state laws vary widely (open carry, concealed carry, waiting periods differ)",
+      "(C) Guns are banned nationwide",
+      "(D) Only police can own guns"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1381,19 +1299,17 @@
         "actor_behavior": "engage in squatting and enforce squatting laws",
         "similarity": 0.3902636897959537
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US43",
     "culture": "American",
     "question_en": "What is Costco/Sam's Club culture?",
     "options": [
-      "(A) Government commissaries",
+      "(A) Single-item luxury boutiques",
       "(B) Membership warehouse clubs selling bulk goods at discount — popular for households and small businesses",
-      "(C) Single-item luxury boutiques",
-      "(D) Exclusive private clubs"
+      "(C) Exclusive private clubs",
+      "(D) Government commissaries"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1414,9 +1330,7 @@
         "actor_behavior": "engage in bulk shopping for household items and groceries, often following unwritten rules and expressing preferences for specific products",
         "similarity": 0.3012023051738149
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US44",
@@ -1424,11 +1338,11 @@
     "question_en": "Drive-through (drive-thru) service in the US is common at:",
     "options": [
       "(A) Hospitals only",
-      "(B) Only museums",
-      "(C) Government buildings only",
-      "(D) Fast food, coffee shops, pharmacies, banks — pickup without leaving the car"
+      "(B) Fast food, coffee shops, pharmacies, banks — pickup without leaving the car",
+      "(C) Only museums",
+      "(D) Government buildings only"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1447,9 +1361,7 @@
         "actor_behavior": "engage in car culture, including driving, eating, and using drive-thru services",
         "similarity": 0.2735302595970787
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US45",
@@ -1457,11 +1369,11 @@
     "question_en": "What is the typical American tipping practice for pizza delivery?",
     "options": [
       "(A) Never tip",
-      "(B) Pay double the menu price",
+      "(B) Tip the delivery person (often $3-5 or 10-15% of the bill)",
       "(C) Tip the kitchen but never the driver",
-      "(D) Tip the delivery person (often $3-5 or 10-15% of the bill)"
+      "(D) Pay double the menu price"
     ],
-    "correct": "D",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1480,21 +1392,19 @@
         "actor_behavior": "tip between 15% to 20% as a gesture of appreciation for haircut services",
         "similarity": 0.33984835237132693
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US46",
     "culture": "American",
     "question_en": "What is the American 'Tooth Fairy' tradition?",
     "options": [
-      "(A) A national holiday",
-      "(B) Adults visit dentists at midnight",
-      "(C) When children lose a baby tooth, they place it under the pillow; parents swap it for money/treats",
+      "(A) Adults visit dentists at midnight",
+      "(B) When children lose a baby tooth, they place it under the pillow; parents swap it for money/treats",
+      "(C) A national holiday",
       "(D) Only practiced in California"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1513,21 +1423,19 @@
         "actor_behavior": "organize, celebrate, and appreciate baby showers as a cultural tradition, often involving gifts and games",
         "similarity": 0.2359139110584012
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US47",
     "culture": "American",
     "question_en": "At an American birthday party, what is traditional for the cake?",
     "options": [
-      "(A) Cake is never served at birthdays",
-      "(B) Only the parents eat the cake",
-      "(C) Candles equal to age are lit; the celebrant makes a wish and blows them out",
-      "(D) Eaten in silence with no candles"
+      "(A) Eaten in silence with no candles",
+      "(B) Candles equal to age are lit; the celebrant makes a wish and blows them out",
+      "(C) Cake is never served at birthdays",
+      "(D) Only the parents eat the cake"
     ],
-    "correct": "C",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1546,21 +1454,19 @@
         "actor_behavior": "bring cake to work on birthdays, sometimes belatedly, as a celebratory gesture",
         "similarity": 0.44844486745442547
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US48",
     "culture": "American",
     "question_en": "What is a 'yard sale' (or 'garage sale') in the US?",
     "options": [
-      "(A) Informal sale of used household items on one's lawn or driveway, often on weekends",
-      "(B) A landscaping service",
+      "(A) A government auction",
+      "(B) Informal sale of used household items on one's lawn or driveway, often on weekends",
       "(C) Buying yards of fabric",
-      "(D) A government auction"
+      "(D) A landscaping service"
     ],
-    "correct": "A",
+    "correct": "B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1579,19 +1485,17 @@
         "actor_behavior": "engage in rainwater collection for personal use, with legal restrictions on usage and sale",
         "similarity": 0.34025258742276543
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US49",
     "culture": "American",
     "question_en": "What does the American expression 'It's not rocket science' mean?",
     "options": [
-      "(A) An apology",
+      "(A) NASA-related vocabulary",
       "(B) Idiom meaning something is straightforward / not complicated",
-      "(C) NASA-related vocabulary",
-      "(D) A scientific compliment"
+      "(C) A scientific compliment",
+      "(D) An apology"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1612,19 +1516,17 @@
         "actor_behavior": "resist vaccination mandates, dismiss medical science, and prioritize personal autonomy over public health measures",
         "similarity": 0.23594014083032144
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   },
   {
     "id": "US50",
     "culture": "American",
     "question_en": "In American workplace culture, what does PTO usually refer to?",
     "options": [
-      "(A) A retirement account",
+      "(A) A type of meeting",
       "(B) Paid Time Off — vacation/sick days; many companies offer 10-20 PTO days/year",
-      "(C) A type of insurance",
-      "(D) A type of meeting"
+      "(C) A retirement account",
+      "(D) A type of insurance"
     ],
     "correct": "B",
     "wrong_hint": null,
@@ -1645,8 +1547,6 @@
         "actor_behavior": "engage in various practices related to paid time off (PTO) and work-life balance, including taking time off for personal tasks, offering PTO, and managing time off",
         "similarity": 0.36884261144810077
       }
-    ],
-    "_options_shuffled": true,
-    "_orig_correct": "B"
+    ]
   }
 ]
