@@ -21,7 +21,7 @@ from _models import get_client  # noqa: E402
 
 # Hint templates loaded from data/
 sys.path.insert(0, str(ROOT / "prompts"))
-from hint_templates import HINT_TEMPLATES, CONDITIONS  # noqa: E402
+from hint_templates import HINT_TEMPLATES, get_conditions  # noqa: E402
 
 FEWSHOT_K = 3
 
@@ -140,7 +140,7 @@ def main():
     print(f"Baseline-correct: {len(correct_items)}/{len(baseline)}", flush=True)
 
     rng = random.Random(args.seed)
-    hint_conds = [(n, ht, hl) for (n, ht, hl) in CONDITIONS if n != "baseline"]
+    hint_conds = [(n, ht, hl) for (n, ht, hl) in get_conditions(args.dataset) if n != "baseline"]
 
     client = get_client(args.model)
     gen_client = get_client(args.biased_gen_model) if args.biased_gen_model else client
