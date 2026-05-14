@@ -9,7 +9,7 @@
       "(C) About 15 minutes early to show respect",
       "(D) 30 minutes late is fashionable"
     ],
-    "correct": "B",
+    "correct": "B/C",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -273,7 +273,7 @@
       "(C) Card readers are illegal in small businesses",
       "(D) German banks do not support card payments"
     ],
-    "correct": "B",
+    "correct": "A/B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
@@ -1131,7 +1131,7 @@
       "(C) Germans do not pay taxes",
       "(D) It is only required for foreigners"
     ],
-    "correct": "B",
+    "correct": "A/B",
     "wrong_hint": null,
     "culturebank_reference": [
       {
