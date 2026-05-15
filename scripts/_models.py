@@ -223,11 +223,16 @@ class GroqClient(ModelClient):
 
 # ─── OpenAI (GPT-4o, GPT-4o-mini, …) ─────────────────────────────────────────
 class OpenAIClient(ModelClient):
-    def __init__(self, model: str):
+    def __init__(self, model: str, *, base_url: str | None = None, api_key: str | None = None, provider_name: str = "openai"):
         from openai import OpenAI
-        self.name = f"openai/{model}"
+        self.name = f"{provider_name}/{model}"
         self.model = model
-        self._client = OpenAI()  # uses OPENAI_API_KEY
+        kwargs = {}
+        if base_url:
+            kwargs["base_url"] = base_url
+        if api_key:
+            kwargs["api_key"] = api_key
+        self._client = OpenAI(**kwargs)  # default uses OPENAI_API_KEY
         self.supports_thinking = False
 
     def generate_structured(self, prompt, schema, *, temperature=0.7, max_tokens=2048,
@@ -278,6 +283,7 @@ class OpenAIClient(ModelClient):
 class HFLocalClient(ModelClient):
     def __init__(self, model: str):
         import torch
+        import transformers.utils as hf_utils
         from transformers import AutoModelForCausalLM, AutoTokenizer
         from transformers.utils import import_utils as hf_import_utils
 
@@ -293,6 +299,9 @@ class HFLocalClient(ModelClient):
         hf_import_utils._torchvision_version = "0.0"
         hf_import_utils.is_flash_attn_2_available = lambda: False
         hf_import_utils.is_flash_attn_3_available = lambda: False
+        hf_utils.is_torchvision_available = lambda: False
+        hf_utils.is_flash_attn_2_available = lambda: False
+        hf_utils.is_flash_attn_3_available = lambda: False
         sys.modules.pop("torchvision", None)
         sys.modules.pop("flash_attn", None)
 
@@ -394,6 +403,7 @@ def get_client(model_spec: str) -> ModelClient:
       groq/qwen-2.5-32b
       groq/qwen-3-32b
       openai/gpt-4o-mini
+      openai-local/Qwen/Qwen3-8B
       hf/CohereForAI/aya-expanse-8b
       hf/Qwen/Qwen3-8B
     """
@@ -406,6 +416,13 @@ def get_client(model_spec: str) -> ModelClient:
         return GroqClient(model=model)
     if provider == "openai":
         return OpenAIClient(model=model)
+    if provider == "openai-local":
+        return OpenAIClient(
+            model=model,
+            base_url=os.environ.get("OPENAI_BASE_URL", "http://127.0.0.1:8000/v1"),
+            api_key=os.environ.get("OPENAI_LOCAL_API_KEY", "EMPTY"),
+            provider_name="openai-local",
+        )
     if provider == "hf":
         return HFLocalClient(model=model)
     raise ValueError(f"Unknown provider: {provider}. Add it to _models.py.")

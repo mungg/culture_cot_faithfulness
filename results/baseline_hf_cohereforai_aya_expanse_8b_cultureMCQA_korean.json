@@ -1,0 +1,802 @@
+[
+  {
+    "id": "KR01",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) A bottle of wine",
+      "(B) Laundry detergent or toilet paper",
+      "(C) A bouquet of flowers",
+      "(D) A set of kitchen knives"
+    ],
+    "question_en": "You are invited to a Korean colleague's housewarming party. What is the most appropriate gift?",
+    "predicted_answer": "D",
+    "reasoning": "When invited to a housewarming party, it's considered polite to bring a gift that contributes to the comfort and enjoyment of the new home. The option should be something that aligns with the themes of welcome, comfort, and perhaps adding to their new home's ambiance. \n\nA: A bottle of wine is a classic choice for housewarming gifts as it can be enjoyed during gatherings in the new home. It signifies a celebration and offers an opportunity for sharing.\n\nB: Laundry detergent and toilet paper are essential household items, but they are more utilitarian and might not be the most exciting gift for a housewarming party. They are more suitable as practical, everyday items.\n\nC: A bouquet of flowers is a warm and thoughtful gift, but typically given for occasions like birthdays or getting well. They wouldn't be the most practical or long-lasting gift for a new home.\n\nD: A set of kitchen knives is a good choice as it is a practical yet privileged item that contributes to cooking and entertaining in the new home. It's a thoughtful gift that shows you have considered their new space and their needs in it.\nn",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR02",
+    "culture": "Korean",
+    "correct": "D",
+    "options": [
+      "(A) Take a photo of it with your phone",
+      "(B) Place it on the table without looking",
+      "(C) Take it with one hand and put it in your pocket",
+      "(D) Receive it with both hands and read it carefully"
+    ],
+    "question_en": "When receiving a business card from a Korean business partner, what is the most respectful way to handle it?",
+    "predicted_answer": "D",
+    "reasoning": "In Korean culture, a business card (called '명함', myeongham) is considered a significant exchange during professional interactions. The way you handle it shows respect and appreciation.\n\n1. **Receiving with both hands** is a respectful gesture, indicating sincerity and thoughtfulness. It's particularly important when receiving someone's card for the first time.\n\n2. **Reading it carefully** demonstrates that you value the information they've shared. Taking a moment to peruse it shows respect for their work and efforts in creating the card.\n\n3. **Not taking a photo or placing it on the table carelessly** would be considered disrespectful. It devalues the card as a physical representation of your partner's identity and work.\n\n4. **Putting it in your pocket** without looking, while less formal than holding it both hands, is still a reasonable option. However, it's slightly less respectful than reading it immediately and placing it safely in your wallet or portfolio.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR03",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) It is a sign of care and social bonding",
+      "(B) It means they disagree with you",
+      "(C) They are testing your alcohol tolerance",
+      "(D) They want you to leave soon"
+    ],
+    "question_en": "In Korean culture, what does it mean when someone older pours you a drink at dinner?",
+    "predicted_answer": "A",
+    "reasoning": "In Korean culture, pouring a drink for someone older, especially during dinner, is a significant gesture of respect and hospitality. It signifies an understanding of the hierarchical relationship and a desire to show care and consideration. This action is deeply rooted in Korean traditions where elders are held in high regard and their comfort is prioritized. Therefore, the act of pouring a drink is a marking of social bonding and not a sign of disagreement or testing tolerance.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR04",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) They are literally asking because they are hungry",
+      "(B) It is a common greeting showing care for your wellbeing",
+      "(C) They are inviting you to dinner",
+      "(D) They think you look thin"
+    ],
+    "question_en": "A Korean friend greets you by asking 'Have you eaten?' What does this most likely mean?",
+    "predicted_answer": "B",
+    "reasoning": "In Korean culture, asking 'Have you eaten?' (heemneun-eul malhaessda?) is a common greeting that shows concern for one's well-being. It is a way to inquire about someone's basic needs and welfare. This question is not typically tied to the literal act of being hungry, but rather serves as a polite expression of care.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR05",
+    "culture": "Korean",
+    "correct": "D",
+    "options": [
+      "(A) Even numbers are considered bad luck",
+      "(B) 4 represents dishonesty in Korean numerology",
+      "(C) There is no special meaning",
+      "(D) 4 sounds like the word for 'death' in Korean"
+    ],
+    "question_en": "Why might a Korean person avoid giving a gift with the number 4 prominently displayed?",
+    "predicted_answer": "D",
+    "reasoning": "In Korean culture, the number 4 is often considered unlucky due to its pronunciation. In Korean, '4' (네, 'ne') sounds similar to the word for 'death' (죽음, 'juk-eum'). As a result, giving a gift with the number 4 prominently displayed is avoided to steer clear of potential negative associations. This belief is anecdotal and not necessarily backed by formal numerology.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR06",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) With both hands or one hand supported by the other",
+      "(B) Into their own glass first as a taste test",
+      "(C) While looking the elder directly in the eye",
+      "(D) With one hand casually"
+    ],
+    "question_en": "At a Korean dinner table, a younger person is pouring soju for an elder. How should the younger person pour?",
+    "predicted_answer": "D",
+    "reasoning": "In Korean culture, pouring alcohol for an elder is a respectful gesture and there are specific etiquette norms to follow. Here's a step-by-step reasoning:",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR07",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) Korean couples generally do not celebrate publicly",
+      "(B) On the 100th day anniversary and other numbered milestones",
+      "(C) Only on wedding anniversaries",
+      "(D) Only on Valentine's Day"
+    ],
+    "question_en": "In Korea, when is it common for couples to celebrate their relationship publicly?",
+    "predicted_answer": "B",
+    "reasoning": "In Korea, public displays of affection and celebrations of relationships are generally common and encouraged. While Valentine's Day (D) is a significant day, Koreans also celebrate other milestones. The 100th day (B) is considered a special anniversary, and similar to other cultures, couples may mark other significant dates as well. However, wedding anniversaries (C) are perhaps the most important and publicly celebrated.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR08",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) It is a polite social pleasantry, not necessarily a concrete plan",
+      "(B) They are asking you on a date",
+      "(C) They are making a firm dinner reservation",
+      "(D) They want to discuss a business deal"
+    ],
+    "question_en": "A Korean colleague says 'We should have a meal together sometime.' What does this typically mean?",
+    "predicted_answer": "A",
+    "reasoning": "The phrase 'We should have a meal together sometime' is a common and polite expression in Korean culture, often used to suggest a social gathering. It is not specific to a particular occasion or timeframe, and it does not imply a formal or romantic invitation, as 'date' might suggest. This statement is more akin to a casual suggestion for socializing, which can be for lunch, dinner, or any other meal, and can be at a future date that works for both individuals.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR09",
+    "culture": "Korean",
+    "correct": "C",
+    "options": [
+      "(A) To determine who should pay for the meal",
+      "(B) It is considered rude and should be avoided",
+      "(C) To establish the appropriate level of speech formality",
+      "(D) To decide seating arrangements only"
+    ],
+    "question_en": "In Korean age culture, why do Koreans often ask someone's age when they first meet?",
+    "predicted_answer": "C",
+    "reasoning": "In Korean culture, age holds significant value and is often tied to respect and social hierarchy. Asking someone's age upon first meeting is a way to gauge their relative social standing and determine the appropriate level of formality in communication. This practice is not about determining who pays for the meal, seating arrangements, or rudeness, but rather about understanding the other person's position within the cultural context.\n\nThe choice of 'C' (To establish the appropriate level of speech formality) best reflects this cultural norm, as age is closely linked to the level of deference and formality shown in conversations in Korean society.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR10",
+    "culture": "Korean",
+    "correct": "D",
+    "options": [
+      "(A) It means you are angry at the person",
+      "(B) It has no special cultural significance",
+      "(C) It signifies celebration and good luck",
+      "(D) It is associated with death and should be avoided for living people"
+    ],
+    "question_en": "What is the significance of 'red ink' when writing someone's name in Korea?",
+    "predicted_answer": "C",
+    "reasoning": "In Korean culture, 'red ink' (적색, jeoksaek) is traditionally used for important documents, ceremonies, and celebrations. It is associated with joy, prosperity, and good fortune. Writing someone's name in red ink is often done on special occasions like weddings, birthdays, or to signify a significant achievement. Therefore, neither option A, B, nor D accurately reflects its significance. Option C is the most appropriate choice as it aligns with the cultural practices.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR11",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) A type of Korean tea ceremony",
+      "(B) The ability to read the atmosphere and others' feelings",
+      "(C) A formal greeting between strangers",
+      "(D) A traditional Korean board game"
+    ],
+    "question_en": "In Korea, what does 'nunchi' refer to?",
+    "predicted_answer": "B",
+    "reasoning": "Nunchi (or 'nunchi') is a Korean term that refers to the art of understanding the unspoken. It is about sensing and interpreting the subtle nuances of emotions, the atmosphere, and the intentions of others. This concept isn't explicitly described in the given options, but it aligns best with the understanding of 'reading the atmosphere and others' feelings'.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR12",
+    "culture": "Korean",
+    "correct": "C",
+    "options": [
+      "(A) It is a superstition to avoid bad luck",
+      "(B) They are trying to hide how much they are drinking",
+      "(C) It is a sign of respect to not drink facing the elder directly",
+      "(D) They don't like the taste of the drink"
+    ],
+    "question_en": "When a Korean person turns away or covers their mouth while drinking alcohol with elders, this is because:",
+    "predicted_answer": "C",
+    "reasoning": "In Korean culture, especially in traditional settings, covering one's mouth while drinking or turning away from elders is often seen as a respectful gesture. This behavior is deeply rooted in the concept of 'ETHICS' (Elder Respect) where showing deference and humility towards elders is highly valued. It is not about hiding one's drinking habits or fear of bad luck, but rather a way to honor and show consideration for the elder.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR13",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) Restaurants will refuse to serve a single diner",
+      "(B) It has traditionally carried a social stigma, though this is changing",
+      "(C) It is completely normal and very common",
+      "(D) It is considered a sign of wealth and independence"
+    ],
+    "question_en": "In Korea, what is the cultural attitude toward eating alone in a restaurant?",
+    "predicted_answer": "C",
+    "reasoning": "In Korea, the cultural attitude towards eating alone has evolved. Traditionally, it was seen as unusual and could carry a social stigma. However, with modern times and the fast-paced lifestyle, eating alone has become increasingly common and normalized, especially among younger generations. Restaurants are equally accommodating to solo diners, offering not only individual seats but also providing environments suitable for solitary dining.\n\nDespite these changes, the idea of dining alone still carries a slight margin of surprise or scrutiny in some situations, but it is not universally frowned upon. The perception is shifting, and while it may not be as common or accepted as dining with others, it is by no means rare or taboo, especially in urban areas and among those with busier lifestyles.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR14",
+    "culture": "Korean",
+    "correct": "C",
+    "options": [
+      "(A) The 4th floor is always reserved for storage",
+      "(B) This practice does not actually exist",
+      "(C) Because 4 is associated with death, so floors jump from 3 to 5 or use 'F'",
+      "(D) It is a structural engineering requirement"
+    ],
+    "question_en": "Why do many Korean buildings skip the 4th floor in elevator numbering?",
+    "predicted_answer": "B",
+    "reasoning": "The practice of skipping the 4th floor in elevator numbering in Korea is not a widespread or universally followed convention. Let's examine each option:",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR15",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) Open it immediately to show enthusiasm",
+      "(B) Refuse it at least once or twice before accepting",
+      "(C) Ask how much it cost",
+      "(D) Accept it and set it aside without opening"
+    ],
+    "question_en": "In Korean gift-giving culture, what should you do when someone offers you a gift?",
+    "predicted_answer": "D",
+    "reasoning": "In Korean gift-giving culture, it is considered polite to show genuine appreciation and respect for the giver's thoughtfulness. The traditional approach is to accept the gift with humility and grace, without immediately opening it or asking about the price. Refusing a gift multiple times can be seen as impolite or rude. However, setting aside the gift without opening it may imply a lack of interest or appreciation. Therefore, the best course of action is to accept it and express gratitude, while saving the opening for a more private moment.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR16",
+    "culture": "Korean",
+    "correct": "D",
+    "options": [
+      "(A) Snapping fingers",
+      "(B) A casual wave",
+      "(C) A kiss on both cheeks",
+      "(D) A bow, deeper for higher status or seniority"
+    ],
+    "question_en": "When greeting an older Korean person formally, what is the standard gesture?",
+    "predicted_answer": "D",
+    "reasoning": "In Korean culture, greetings are often formal and respectful, especially when interacting with older individuals or those of higher social status. The standard gesture for greeting an older person formally is to perform a bow, with the depth of the bow indicating the level of respect and seniority.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR17",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) Remove your shoes at the entrance and step onto the raised floor",
+      "(B) Shoes are optional in modern Korean homes",
+      "(C) Remove only your right shoe",
+      "(D) Keep your shoes on at all times"
+    ],
+    "question_en": "Upon entering a Korean home, what is expected?",
+    "predicted_answer": "A",
+    "reasoning": "In Korean culture, removing shoes upon entering a home is a common and respected custom. This practice is especially prevalent in traditional homes and many modern homes as well, out of respect for cleanliness and as a gesture of welcoming guests. The floor in many Korean homes, especially on warmer days or in southern regions, might be elevated on the inner side, a design feature that facilitates the removal of shoes and reduces wear and tear on floors.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR18",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) Kimchi is a national staple banchan served with nearly every meal",
+      "(B) Modern Korean cuisine has phased it out",
+      "(C) Kimchi is rare and reserved for special occasions",
+      "(D) Kimchi is only eaten by elders"
+    ],
+    "question_en": "At a Korean meal, why does almost every dining table include kimchi?",
+    "predicted_answer": "A",
+    "reasoning": "Kimchi is a traditional Korean side dish made from fermented vegetables, most commonly cabbage. It is considered a national dish of Korea and is an essential element of Korean cuisine. The dish is appreciated for its health benefits and is known to be a staple in many Korean meals, typically served as banchan (side dishes).\n\nThe statement (A) accurately reflects the cultural significance of kimchi in Korea, making it the most plausible answer.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR19",
+    "culture": "Korean",
+    "correct": "C",
+    "options": [
+      "(A) There is no such taboo",
+      "(B) It is considered a sign of wealth",
+      "(C) It resembles incense offered to the dead at ancestral rites — considered very inauspicious",
+      "(D) It can cause spills"
+    ],
+    "question_en": "At a Korean meal, you should NEVER stick your chopsticks upright in a bowl of rice because:",
+    "predicted_answer": "C",
+    "reasoning": "In Korean culture, sticking chopsticks upright into rice is directly associated with a tradition of offering incense to the dead during ancestral rites. This practice is called 'gapsa' (걸사) or 'jasa' (제사). The upright position symbolizes the offering of prayers and respect to ancestors. Resembling this ritual is considered very unlucky and inauspicious, as it is linked to death and mourning, which is not an appropriate setting for a meal.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR20",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) A type of street food",
+      "(B) A public bathhouse / spa with hot tubs, saunas, and communal sleeping areas",
+      "(C) A traditional school",
+      "(D) A Buddhist temple"
+    ],
+    "question_en": "What is a 'jjimjilbang' in Korean culture?",
+    "predicted_answer": "B",
+    "reasoning": "A jjimjilbang (지짐질방) is a public bathhouse and spa facility in Korean culture. It is an integral part of Korean daily life and social gatherings. These spas offer various amenities such as saunas, hot tubs, and communal areas for resting and sleeping. The term 'jjimjilbang' literally means 'place to steam and sweat'.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR21",
+    "culture": "Korean",
+    "correct": "D",
+    "options": [
+      "(A) Korean Independence Day",
+      "(B) A summer harvest festival",
+      "(C) A modern shopping holiday",
+      "(D) Lunar New Year — families gather, perform sebae bowing, eat tteokguk"
+    ],
+    "question_en": "What is 'Seollal' in Korean tradition?",
+    "predicted_answer": "D",
+    "reasoning": "Seollal, also known as Korean Lunar New Year, is a significant traditional holiday celebrated in Korea. It is a time when families gather, perform ancestral rites, and pay respect to their elders with a bowing ceremony called sebae. The festival also involves special foods like tteokguk (rice cake soup). There is no mention of independence, summer harvest, or modern shopping holidays related to Seollal.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR22",
+    "culture": "Korean",
+    "correct": "D",
+    "options": [
+      "(A) A K-pop awards show",
+      "(B) Korean Valentine's Day",
+      "(C) A national mourning day",
+      "(D) Mid-autumn harvest holiday — ancestral rites, family gathering, songpyeon rice cakes"
+    ],
+    "question_en": "What is 'Chuseok' in Korean culture?",
+    "predicted_answer": "D",
+    "reasoning": "Chuseok, also known as the Mid-autumn Festival, is a significant holiday in Korean culture. It occurs in late September or early October, marking the harvest season and honoring ancestors. The festival is characterized by ancestral rites, family gatherings, and traditional food such as songpyeon rice cakes. None of the provided options (A, B, or C) accurately describes Chuseok, while option D is the correct representation of this holiday.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR23",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) On major holidays (Seollal, Chuseok), weddings, and special ceremonies",
+      "(B) Never; it is illegal to wear in public",
+      "(C) Only by performers on TV",
+      "(D) As everyday clothing"
+    ],
+    "question_en": "When is hanbok typically worn in modern Korea?",
+    "predicted_answer": "A",
+    "reasoning": "Hanbok, the traditional Korean dress, is worn on specific occasions in modern Korea to preserve cultural heritage. These occasions include major holidays like Seollal (Korean New Year) and Chuseok (Korean Thanksgiving), weddings, and other special ceremonies. There is no law prohibiting Hanbok's wear in public, but its usage is generally reserved for special events rather than everyday wear. There is also no exclusivity to performances on TV; it is worn in various official and cultural settings.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR24",
+    "culture": "Korean",
+    "correct": "D",
+    "options": [
+      "(A) It is a joke that never had basis",
+      "(B) Tax brackets in Korea differ",
+      "(C) Korean people are biologically older",
+      "(D) Traditional Korean age counts age 1 at birth and +1 every Lunar New Year (now phased out by law)"
+    ],
+    "question_en": "Until late 2022, why might a Korean person say they are '2 years older' than their international age?",
+    "predicted_answer": "D",
+    "reasoning": "Let's analyze each option: \n\n* **A) It is a joke that never had a basis:** While humor could be a part of it, there is historical and cultural context behind this practice.\n\n* **B) Tax brackets in Korea differ:** While tax systems can indeed vary, this explanation doesn't explain why people would say they are '2 years older'. Age for taxation is usually based on chronological age, not culturally determined age calculation.\n\n* **C) Korean people are biologically older:** Biologically, people are measured in calendar years regardless of cultural norms. This option doesn't accord with the question.\n\n* **D) Traditional Korean age counts age 1 at birth and +1 every Lunar New Year (now phased out by law):** This is correct. The traditional Korean age system, still used informally in some contexts, counts a person as one year old at birth, and then adds one year on the Lunar New Year (similar to counting birthdays on the 'fiscal year' or 'fiscal calendar'). This would result in a person being '2 years older' in late 2022 if born in early 2020 according to the lunar calendar. However, the practice is mostly obsolete now that the solar calendar is used more broadly.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR25",
+    "culture": "Korean",
+    "correct": "C",
+    "options": [
+      "(A) Associated with funerals",
+      "(B) Unlucky and avoided",
+      "(C) Lucky, often associated with good fortune",
+      "(D) A neutral number with no significance"
+    ],
+    "question_en": "In Korean numerology, the number 7 is generally considered:",
+    "predicted_answer": "C",
+    "reasoning": "Korean numerology, like many other cultures, attributes various meanings to numbers. The number 7 is universally considered lucky and auspicious in many parts of the world, including Korea. It is often associated with good fortune, spiritual growth, and enchantment. In Korean culture, the number 7 is believed to bring positive energy and is commonly used in various contexts, from architecture to festivals.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR26",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) White hemp clothing was traditional; modern funerals now also use black",
+      "(B) Green",
+      "(C) Red",
+      "(D) Bright yellow"
+    ],
+    "question_en": "At a traditional Korean funeral, what is the traditional mourning color?",
+    "predicted_answer": "A",
+    "reasoning": "In traditional Korean funeral customs, white is the predominant mourning color. This is reflected in the clothing worn by mourners, who traditionally wear white hemp garments known as 'hanbok'. The white color symbolizes purity and respects the departed soul's journey to the afterlife. While black is also used in modern funerals, it is not the traditional color. Green, red, and bright yellow are not commonly associated with mourning in Korean culture.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR27",
+    "culture": "Korean",
+    "correct": "C",
+    "options": [
+      "(A) Demand more food",
+      "(B) Eat immediately without acknowledgment",
+      "(C) A gentle initial refusal or acceptance, then receiving food respectfully (often with both hands)",
+      "(D) Refuse firmly and never accept"
+    ],
+    "question_en": "When older relatives offer you food at a Korean gathering, the polite response is often:",
+    "predicted_answer": "C",
+    "reasoning": "In Korean culture, it is customary to show respect and politeness towards elders and guests during gatherings. When offered food, a common practice is to first graciously accept or decline, demonstrating mindfulness of the offer. Accepting food with both hands is considered a sign of respect. This action shows gratitude for the gesture and the effort put into preparing the meal.\n\nOption C represents a balanced approach, combining initial courtesy with the respectful reception of the food, making it the most appropriate response.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR28",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) Depth signals respect — deeper bows for elders, formal apologies, or higher status",
+      "(B) Bow depth is not culturally significant",
+      "(C) It is purely random",
+      "(D) It only varies by neighborhood"
+    ],
+    "question_en": "Why does the depth of a Korean bow vary in different situations?",
+    "predicted_answer": "A",
+    "reasoning": "The depth of a bow in Korean culture, known as a 'chong', holds significant meaning and purpose. It is not a random or neighborhood-specific gesture. Rather, the depth of the bow is used to convey respect, deference, and social status. Every situation demands a specific bow depth, which is learned and practiced from a young age. Thus, options B, C, and D are definitely incorrect.\n\nHistorically, Korean bows, especially the traditional 'Hwa-chong' (flower bow), have had various depths to communicate different messages. A deeper bow traditionally indicates higher respect or remorse. This practice is deeply rooted in Confucian values, where honor and hierarchy are important. Therefore, option A is the correct answer as it accurately reflects the cultural significance of bow depth.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR29",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) A retirement ceremony",
+      "(B) Company dinner/drinking events that build team bonding; historically near-mandatory",
+      "(C) A morning prayer at work",
+      "(D) A type of office software"
+    ],
+    "question_en": "What is 'hoesik' (회식) in Korean workplace culture?",
+    "predicted_answer": "B",
+    "reasoning": "Hoesik (회식) is a term that refers to social events organized by companies in Korea, primarily focused on team building and bonding. These events are typically after work, involving dinner and/or drinking. In Korean workplace culture, hoesik has historically been considered near-mandatory for employees to participate in, as it's seen as essential for fostering good relationships among colleagues and building a cohesive team.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR30",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) A traditional dance",
+      "(B) College entrance exam — country pauses (flights delayed, traffic limited) to support test-takers",
+      "(C) A holiday for retirees",
+      "(D) A summer music festival"
+    ],
+    "question_en": "What is 'Suneung' (수능) and why is it a national event?",
+    "predicted_answer": "B",
+    "reasoning": "Suneung, or College Scholarship Screening Test (CSST), is a major national exam in South Korea. It is a standardized test that is taken by high school graduates to apply for university. The exam is extremely important as it largely determines which universities a student is eligible to enter. The test day is usually accompanied by a country-wide pause where flights are delayed, traffic is regulated, and public services are adjusted to support a smooth and safe test-taking experience for the students. This widespread impact is why 'Suneung' is considered a national event.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR31",
+    "culture": "Korean",
+    "correct": "D",
+    "options": [
+      "(A) These words have no relational meaning",
+      "(B) Everyone in Korea is actually related",
+      "(C) Only K-pop fans use them",
+      "(D) Age-based honorifics extend to friends/seniors — reflects Confucian respect for seniority"
+    ],
+    "question_en": "Why do Koreans use sibling-like titles ('oppa', 'hyung', 'unni', 'noona') even with non-relatives?",
+    "predicted_answer": "D",
+    "reasoning": "Koreans use sibling-like titles ('oppa', 'hyung', 'unni', 'noona') not only with relatives but also with non-relatives because of the cultural and social importance of age and seniority. These titles, in fact, have specific meanings related to age and sibling dynamics, but they are used as a sign of respect and politeness towards those who are older, even if they aren't blood relatives. This practice reflects the Confucian values deeply rooted in Korean society, which place a strong emphasis on respecting elders and acknowledging social hierarchy. Similarly, 'noona' (for women) and 'oppa' (for men) are used in intimate friendships where the gap in age is significant, akin to how 'hyung' (brother) and 'unni' (sister) are used.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR32",
+    "culture": "Korean",
+    "correct": "D",
+    "options": [
+      "(A) The first Korean president's birthday",
+      "(B) National sports day",
+      "(C) Liberation from Japanese rule",
+      "(D) The promulgation of the Hangul writing system by King Sejong"
+    ],
+    "question_en": "What does 'Hangul Day' (October 9) commemorate?",
+    "predicted_answer": "D",
+    "reasoning": "Hangul Day, celebrated on October 9, commemorates the creation of the Korean alphabet, Hangul, by King Sejong the Great during the 15th century. It is a significant cultural event that celebrates the nation's unique writing system and its contribution to Korean language and literature.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR33",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) A sign of romantic relationship",
+      "(B) Common platonic affection between close friends",
+      "(C) Strictly forbidden",
+      "(D) Only seen in elderly people"
+    ],
+    "question_en": "In Korea, same-sex friends (especially women) sometimes hold hands or link arms in public. This is:",
+    "predicted_answer": "B",
+    "reasoning": "In Korea, as in many other cultures, physical affection in public between close friends, regardless of gender, is considered a common expression of platonic love. Holding hands or linking arms is a way to show affection, comfort, or support, not necessarily a sign of a romantic relationship. There is no cultural or legal prohibition against same-sex friends showing affection in public; in fact, it's quite typical. However, the option 'D' is incorrect as it implies a limitation by age, which is not supported by general observation. Considering these points, the most accurate answer is B.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR34",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) Keep voices quiet and avoid phone calls; reserved seats are strictly for elderly/pregnant",
+      "(B) Play music aloud",
+      "(C) Speak loudly to entertain other passengers",
+      "(D) Eat full meals"
+    ],
+    "question_en": "On Korean public transit (especially subways), the cultural norm is to:",
+    "predicted_answer": "A",
+    "reasoning": "Korean subways and public transit generally encourage quiet and respectful behavior to maintain a peaceful environment for all passengers. Reserved seats are often given to the elderly, pregnant women, or individuals with disabilities, implying a cultural norm of deference and respect for these groups. Options B, C, and D would be considered rude and disruptive in Korean public transit culture, as they would attract unwanted attention or cause discomfort to others.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR35",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) Collective identity is culturally emphasized; 'uri' signals shared belonging",
+      "(B) It is grammatically required only in writing",
+      "(C) The Korean language lacks a word for 'my'",
+      "(D) The custom is not actually practiced"
+    ],
+    "question_en": "Why do Koreans often use 'uri' (우리, 'our') instead of 'my' — e.g. 'uri eomma' (our mom) instead of 'my mom'?",
+    "predicted_answer": "A",
+    "reasoning": "Korean has both 'uri' (우리) and 'na' (나) or their variations (너, 그, 그녀 등) to express 'I' and 'my'. However, the use of 'uri' isn't primarily about personal possession but about collective identity and relationships. 'Uri' translates to 'us' or 'our' and is often used to refer to oneself coupled with a familial or social group. This is similar to how English speakers might say 'our family' or 'our community' instead of 'my family' or 'my community'. The choice to use 'uri' in these contexts emphasizes the shared relateship and collective nature of Korean society, which values interdependence and community. The use of 'uri' is common in spoken and written Korean, making option (B) incorrect. Option (C) is also incorrect, as Korean does have words for 'my'. Therefore, the most accurate answer lies in (A).",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR36",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) Saving face — preserving social dignity and reputation, important in interactions",
+      "(B) A Korean dessert",
+      "(C) A type of friendship contract",
+      "(D) A traditional dance"
+    ],
+    "question_en": "What is 'chaemyeon' (체면) in Korean social life?",
+    "predicted_answer": "A",
+    "reasoning": "Chaemyeon (체면) is a Korean term that directly translates to 'face' or 'dignity' and is a crucial concept in Korean social life. It refers to the importance of maintaining social prestige, honor, and respect in various interactions. The term is closely tied to preserving one's reputation, which is highly valued in Korean culture. This concept is especially relevant in professional and social relationships, where saving face ensures harmony and avoids potential conflicts.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR37",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) Use both hands (or support pouring arm with the other), bottle's label facing up",
+      "(B) One hand casually",
+      "(C) Pour with eyes closed",
+      "(D) Spill some on the floor first"
+    ],
+    "question_en": "When pouring soju for an elder, what is correct etiquette?",
+    "predicted_answer": "A",
+    "reasoning": "In Korean culture, pour soju for an elder with respect and careful consideration. The correct etiquette involves showing deference and ensuring the act is performed gracefully. Holding the bottle with both hands is a common sign of respect and ensures precise control during pouring. Keeping the bottle label visible allows the elder to recognize the drink they are receiving. Additionally, closing one's eyes during pouring is considered disrespectful as it implies disinterest or impatience. Spilling drink on the floor is not a customary practice and would be considered rude.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR38",
+    "culture": "Korean",
+    "correct": "C",
+    "options": [
+      "(A) Religious services",
+      "(B) Government tax filing",
+      "(C) Multiplayer online gaming (e.g. League of Legends, StarCraft); high-end PCs, hourly fees",
+      "(D) Karaoke singing"
+    ],
+    "question_en": "In a Korean PC bang ('PC방'), what activity is most associated with the space?",
+    "predicted_answer": "C",
+    "reasoning": "PC 방, or Korean internet cafes, are primarily designed and utilized for online gaming. These facilities offer high-end PCs, comfortable seating, and an environment optimized for multiplayer gaming. The hourly fee structure further encourages extended gaming sessions. While the other options could have some presence in PC 방, none is as central or defining as multiplayer online gaming.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR39",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) Long study sessions over coffee are widely tolerated; quiet, Wi-Fi-equipped cafés are abundant",
+      "(B) Cafés legally must allow studying",
+      "(C) Korean students never study in cafés",
+      "(D) Studying in cafés is forbidden"
+    ],
+    "question_en": "Why do Korean cafés often serve as study spaces for students?",
+    "predicted_answer": "A",
+    "reasoning": "Korean cafés are known for their role as communal and social spaces, but they also cater to students due to several reasons. Firstly, cafés in South Korea, as in many countries, often provide quiet areas and Wi-Fi access, which are ideal for studying. Secondly, long study sessions over coffee or tea are culturally accepted, especially among students. This contrasts with a rush to finish and leave, as seen in some Western cafés. Therefore, Korean cafés are designed and perceived as study spaces, aside from their regular function as social hubs. Option A best encapsulates these cultural norms and practices.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR40",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) A K-drama plot device only",
+      "(B) Folk belief that running an electric fan in a closed room overnight can be fatal — not supported by science but persistent",
+      "(C) A historical regulation",
+      "(D) A modern wellness practice with scientific backing"
+    ],
+    "question_en": "What is the Korean superstition of 'fan death'?",
+    "predicted_answer": "B",
+    "reasoning": "Let's break this down:\n\n* **Fan death is a folk belief**, deeply rooted in Korean culture. \n* Despite its name, it's not a 'death' from literal fans (like a speeding car accident). Instead, it's associated with the **fever, exhaustion, or carbon monoxide poisoning** from using electric fans in specific conditions. \n* **Science completely debunks** the idea that using a fan in a closed room overnight directly causes death. \n* Nevertheless, the superstition **remains widespread in Korea**, leading to the term 'fan death' (선풍기 사망, sunpunggi matsang).\n\nTherefore, the correct answer represents a persistent cultural belief without scientific basis.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR41",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) Choose university majors",
+      "(B) Stereotype personality traits (A=careful, B=passionate, etc.) — informal but widespread belief",
+      "(C) Determine eligibility for surgery only",
+      "(D) Assign government IDs"
+    ],
+    "question_en": "In Korean popular culture, blood type is often used to:",
+    "predicted_answer": "B",
+    "reasoning": "In Korean popular culture, blood type is indeed used to stereotype personality traits, with each type linked to specific characteristics. This is an informal but widespread belief that has been popularized through media, including TV shows and magazines. However, it is important to note that this practice is not scientifically backed and is considered a form of pseud ciencia. Blood type is not used for university major choices, determining surgery eligibility, or assigning government IDs.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR42",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) Banned outside Asia",
+      "(B) Major export industry — global fanbases, tours, K-pop language learning, tourism",
+      "(C) Limited to Korea only",
+      "(D) A short-lived 2000s trend"
+    ],
+    "question_en": "What is the global cultural impact of K-pop?",
+    "predicted_answer": "B",
+    "reasoning": "K-pop, short for Korean pop, has evolved from a genre of music into a global cultural phenomenon. Its impact can be seen in multiple aspects: \n\n1. **Global Fanbase**: K-pop has a massive, dedicated fanbase worldwide. Platforms like YouTube, Twitter, and TikTok have democratized access to K-pop content, enabling fans from all corners of the globe to connect and engage with the music and artists they love. \n\n2. **Cultural Export**: It serves as a significant cultural export for South Korea. According to the Ministry of Culture, Sports and Tourism, K-pop generated around $4.3 billion in 2018 through merchandise, concerts, and related tourism. This ensures a continuous growth in the global K-pop industry and the Korean economy.\n\n3. **Language Learning and Tourism**: The popularity of K-pop has sparked an interest in learning the Korean language, particularly among younger audiences. Additionally, 'K-pop tours' have become a draw for tourism, with fans traveling to South Korea to visit K-pop-related locations, and attending concerts and fan events.\n\n4. **Influence on Music and Fashion**: K-pop's global appeal has influenced Western music and fashion industries, with elements of K-pop aesthetics and musical styles making inroads. \n\n5. **Longevity**: Unlike the suggestion of a short-lived trend, K-pop has maintained its popularity for well over the 2000s, continuously evolving and adapting to global trends.\n\nBased on these factors, it is clear that K-pop's influence is far from limited to Korea only, and it is a major export industry with a global impact.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR43",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) A summer fireworks event",
+      "(B) Annual Buddhist festival around Buddha's Birthday, with lantern parades; UNESCO Intangible Heritage",
+      "(C) A nationwide power outage event",
+      "(D) A modern light-art exhibit"
+    ],
+    "question_en": "What is 'Yeondeunghoe' (Lotus Lantern Festival)?",
+    "predicted_answer": "B",
+    "reasoning": "Yeondeunghoe, or Lotus Lantern Festival, is a significant cultural event in Korea with strong religious and historical ties. It is celebrated annually on the full moon of the first lunar month, typically falling in February or March. The festival is deeply rooted in Buddhist traditions, honoring Buddha's birth, enlightenment, and passing away. During the festival, people light up lanterns in the shape of lotuses and carry them in parades, symbolizing enlightenment and purity. This event has been recognized by UNESCO as Intangible Cultural Heritage of Humanity, indicating its cultural importance and traditional continuity.\n\nGiven these details, the correct answer aligns most closely with option (B) as it accurately describes the essence of the Yeondeunghoe festival, including its timing, religious significance, and cultural recognition.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR44",
+    "culture": "Korean",
+    "correct": "D",
+    "options": [
+      "(A) Beverages",
+      "(B) The main dish only",
+      "(C) Dessert plates",
+      "(D) Side dishes (often many small plates) served with rice — kimchi, namul, jeon, etc."
+    ],
+    "question_en": "At a Korean meal, what are 'banchan'?",
+    "predicted_answer": "D",
+    "reasoning": "Banchan refers to a variety of side dishes commonly served with rice in Korean meals. These dishes can include fermented vegetables (like kimchi), seasoned vegetables (namul), pancakes (jeon), and more. This is in contrast to the main dish, which is usually a single item and identified as the 'bap' (rice) and 'gug' (meat or fish). Dessert plates, as indicated in option C, are not typically part of the banchan.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR45",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) Pouring your own drink — others should pour for you (and vice versa)",
+      "(B) Toasting in general",
+      "(C) Drinking from a glass",
+      "(D) Saying 'cheers'"
+    ],
+    "question_en": "In Korean drinking culture, what is generally avoided?",
+    "predicted_answer": "A",
+    "reasoning": "In Korean drinking culture, it is considered polite and respectful for others to pour drinks for each other. This gesture shows hospitality and avoids any potential embarrassment or perceived intrusion. Toasting is common, especially when drinking soju or beer, but there is no strict rule against it. Drinking from a glass is not avoided; it is the preferred method. Saying 'cheers' or its Korean equivalent, '건배' (Gunbae), is a common practice to symbolize a toast or celebration.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR46",
+    "culture": "Korean",
+    "correct": "D",
+    "options": [
+      "(A) A formal apology",
+      "(B) A greeting only",
+      "(C) A goodbye",
+      "(D) An interjection expressing fatigue, sympathy, surprise, or mild frustration (multi-purpose 'oh dear')"
+    ],
+    "question_en": "What does 'aigoo' (아이고) express in Korean?",
+    "predicted_answer": "D",
+    "reasoning": "The term '아이고'(aigo) in Korean is a versatile interjection that can express various emotions, such as fatigue, sympathy, surprise, or mild frustration. It is often used as a general exclamation of 'oh dear' or 'my goodness' without carrying a specific meaning in itself. This makes option D the most suitable choice.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR47",
+    "culture": "Korean",
+    "correct": "B",
+    "options": [
+      "(A) A type of formal address",
+      "(B) Deep emotional bond / attachment built over time between people — often considered uniquely Korean",
+      "(C) An official government title",
+      "(D) A type of currency"
+    ],
+    "question_en": "What is 'jeong' (정) in Korean interpersonal culture?",
+    "predicted_answer": "B",
+    "reasoning": "In Korean culture, 'jeong' (정) is a concept that transcends simple translations and has no direct equivalent in English. The term is often used to describe a deep and nuanced emotional bond or attachment between people. This bond is cultivated over time and is marked by mutual respect, trust, and understanding. It's not merely a formal address or an official title, and it's distinct from financial transactions or government职位. The depth and uniqueness of 'jeong' in Korean interpersonal relationships make option B the most appropriate choice.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR48",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) Robust late-night delivery culture, especially for chicken/jjajangmyeon — feeds late-night socializing",
+      "(B) Daytime delivery is illegal",
+      "(C) Restaurants legally must operate 24/7",
+      "(D) Korean cities lack restaurants"
+    ],
+    "question_en": "Why is delivering food at midnight common in Korean cities?",
+    "predicted_answer": "A",
+    "reasoning": "In Korea, delivering food at midnight is a vibrant and prevalent practice, driven primarily by cultural and social habits. Let's examine each option: \n\n- (A) This option aligns with the reality of Korea's late-night food culture, where chicken (dakgangjeong) and jjajangmyeon (spicy noodles with meat sauce) are popular choices for late-night snacking and socializing. \n\n- (B) There's no legal restriction on daytime delivery in Korea, making this an unlikely reason. \n\n- (C) Restaurants are not legally required to operate 24/7; many choose to do so to cater to the after-work crowd, but this isn't a mandatory practice. \n\n- (D) Korea has a diverse range of restaurants, from quick cafes to vibrant street food scenes, so lack of restaurants is not a factor. \n\nBased on these points, option (A) best describes the phenomenon of midnight food delivery in Korean cities, emphasizing the cultural significance of late-night dining and delivery services.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR49",
+    "culture": "Korean",
+    "correct": "C",
+    "options": [
+      "(A) Café staff will ask them to leave",
+      "(B) They are not allowed to study",
+      "(C) Studying solo in cafés ('cafe-gongbu') is a widely accepted norm",
+      "(D) They are visiting from abroad"
+    ],
+    "question_en": "At a Korean coffee shop, what does it usually mean if a young person sits alone with textbooks and a laptop for hours?",
+    "predicted_answer": "C",
+    "reasoning": "In many Korean coffee shops, it is common to see young people studying or working on their laptops solo for extended periods, especially in areas with a high concentration of students and universities. This practice, known as 'cafe-gongbu' (카페 공부), is widely accepted and even encouraged by café owners, who often provide comfortable seating and quiet environments for these students. The staff are usually aware of this norm and do not disturb or ask such patrons to leave, especially if they are not causing any disturbance to others. There is no indication that this particular scenario would lead to any of the given options except for the widely accepted norm.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "KR50",
+    "culture": "Korean",
+    "correct": "A",
+    "options": [
+      "(A) Conscription requires most able-bodied men to serve roughly 18-21 months",
+      "(B) Service is purely voluntary",
+      "(C) Only women serve in Korea",
+      "(D) Military service is illegal"
+    ],
+    "question_en": "In Korean military service culture, what is broadly true for South Korean men?",
+    "predicted_answer": "A",
+    "reasoning": "South Korea has a mandatory military service system, often referred to as conscription, for male citizens. This tradition has been in place since the country's establishment, with the exception of a brief period during the 1990s. All male citizens, or most able-bodied men, are required to serve in the military, typically for a period of 18-21 months. This system is a significant aspect of South Korea's military culture, ensuring a ready and mobilized defense force.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  }
+]

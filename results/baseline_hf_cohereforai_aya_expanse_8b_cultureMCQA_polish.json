@@ -1,0 +1,802 @@
+[
+  {
+    "id": "PL01",
+    "culture": "Polish",
+    "correct": "D",
+    "options": [
+      "(A) A formal handshake at the door only",
+      "(B) Singing a national anthem",
+      "(C) Removing your shoes and giving them to the host",
+      "(D) Greeted with bread and salt (chleb i sól) — symbol of hospitality"
+    ],
+    "question_en": "When invited to a Polish home, what is the traditional welcome gesture?",
+    "predicted_answer": "D",
+    "reasoning": "In Polish culture, hospitality is highly valued, and there are several traditional gestures that welcome guests into a home. The gesture mentioned in option D, 'Greeted with bread and salt (chleb i sól)', is a significant symbol of hospitality in Poland.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL02",
+    "culture": "Polish",
+    "correct": "D",
+    "options": [
+      "(A) An academic graduation ceremony",
+      "(B) The Polish New Year celebration",
+      "(C) A wedding anniversary tradition",
+      "(D) Name day — celebrating the saint's day matching your name, often more important than birthdays"
+    ],
+    "question_en": "What is 'Imieniny' in Polish culture?",
+    "predicted_answer": "D",
+    "reasoning": "Imieniny in Polish culture refers to 'name day', which is a tradition where individuals celebrate the feast day of the saint whose name they bear. This is similar to the concept of a birthday, but in Poland, name days (imieniny) are often considered more important and celebrated with equal enthusiasm. Unlike birthdays, which are celebrated on a specific date each year, name days are unique to each individual within the calendar year. This tradition is deeply ingrained in Polish culture, making option D the correct answer.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL03",
+    "culture": "Polish",
+    "correct": "B",
+    "options": [
+      "(A) It is a regular workday",
+      "(B) Most important meal of the year — 12 meatless dishes, sharing opłatek wafer, watch for first star",
+      "(C) A modern commercial event",
+      "(D) Same as American Christmas, no special meaning"
+    ],
+    "question_en": "Why is 'Wigilia' (Christmas Eve) so significant in Polish tradition?",
+    "predicted_answer": "B",
+    "reasoning": "Wigilia, or Christmas Eve, holds a deep cultural and religious significance in Poland. It is a time for families to come together, observe traditions, and share a special meal. The meal typically includes 12 meatless dishes, symbolizing the 12 apostles, and the sharing of opłatek, a special wafer that is blessed in church and shared among family members. Watch for the first star of the night is also a tradition, symbolizing the birth of Jesus Christ. None of the given options (A, C, D) accurately reflect the significance of Wigilia in Polish tradition, which is centered around spiritual and familial bonds.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL04",
+    "culture": "Polish",
+    "correct": "B",
+    "options": [
+      "(A) For the family pet",
+      "(B) For an unexpected guest, lonely traveler, or in memory of absent family",
+      "(C) Polish tradition does not include this practice",
+      "(D) For accounting purposes"
+    ],
+    "question_en": "At a Polish Wigilia dinner table, why is one extra place setting traditionally left empty?",
+    "predicted_answer": "B",
+    "reasoning": "The Polish custom of leaving an extra place setting at the dinner table during Wigilia (the traditional Christmas Eve meal) dates back centuries. This tradition is rooted in the belief that an extra place setting is reserved for the 'Dziad', or grandparent, who is considered to be present in spirit during the meal. It is a way to honor and remember ancestors and the importance of family. The empty place setting serves as a reminder of the cycle of life and death and the connection between the present and past generations.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL05",
+    "culture": "Polish",
+    "correct": "D",
+    "options": [
+      "(A) A type of Easter cake",
+      "(B) Easter egg painting contest",
+      "(C) A solemn church procession",
+      "(D) Wet Monday — playful water-throwing tradition between people, especially among young people"
+    ],
+    "question_en": "What is 'Śmigus-Dyngus' on Easter Monday in Poland?",
+    "predicted_answer": "D",
+    "reasoning": "Śmigus-Dyngus is a traditional Polish custom celebrated on Easter Monday. It is known for its playful element where people, especially the young, engage in throwing water at each other. This ritual is believed to wash away the last remnants of Lent and greet the new spring season. Based on the options presented, only (D) 'Wet Monday - playful water-throwing tradition between people' accurately describes Śmigus-Dyngus.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL06",
+    "culture": "Polish",
+    "correct": "A",
+    "options": [
+      "(A) Kissing her hand (całowanie w rękę) — traditional gesture of respect",
+      "(B) Tipping your hat in silence",
+      "(C) No greeting is traditional",
+      "(D) A bow without physical contact"
+    ],
+    "question_en": "When meeting a Polish woman formally, what was a traditional respectful greeting (especially with older generations)?",
+    "predicted_answer": "A",
+    "reasoning": "In Polish culture, especially within older generations, showing respect to women, particularly in formal settings, has historically involved physical contact. Kissing the hand (całowanie w rękę) is a traditional gesture of respect, especially when addressing an older or more senior woman. This gesture acknowledges her wisdom, experience, and social status. While tipping a hat is a common male gesture of respect in many cultures, it is less formal and more commonly associated with welcoming someone or showing appreciation, rather than a greeting specific to women.\n\nThe option 'C' is incorrect as many cultures, especially in Eastern Europe, do have traditional greetings that involve respect, and Poland is no exception. Option 'D' is also not accurate; while a bow is a gesture of respect, it is typically done without physical contact in many cultures, but the addition of 'without physical contact' specifically is not a traditional Polish greeting.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL07",
+    "culture": "Polish",
+    "correct": "A",
+    "options": [
+      "(A) Symbol of God's gift, life, and family; should never be wasted or dropped on the floor",
+      "(B) Bread is rare and expensive in Poland",
+      "(C) Bread represents the Polish flag",
+      "(D) Bread has no cultural significance"
+    ],
+    "question_en": "Why is bread (chleb) considered sacred in Polish culture?",
+    "predicted_answer": "A",
+    "reasoning": "In Polish culture, bread (chleb) holds significant symbolic value and is deeply rooted in their traditions and history. Option (A) best encapsulates the reason why bread is considered sacred. The concept of bread as a symbol of God's provision, sustenance, and the essence of a family meal is prevalent in many cultures, including Poland's. This notion is reinforced by various rituals and superstitions surrounding bread, ensuring it is treated with respect and avoided being wasted or contaminated.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL08",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) 'I am full and cannot eat more'",
+      "(B) 'Thank you for the meal' after eating",
+      "(C) 'Bon appétit' — said before starting a meal",
+      "(D) 'Please pass the salt'"
+    ],
+    "question_en": "What does saying 'Smacznego' mean in Polish dining etiquette?",
+    "predicted_answer": "B",
+    "reasoning": "The term 'Smacznego' is a common Polish expression used before concluding a meal. It is a polite way to express gratitude for the food and to indicate that you are satisfied and done eating. This phrase does not fit any of the other options, as it does not refer to being full, asking for salt, or saying 'Bon appétit' (which is typically said before a meal).",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL09",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) Polish florists only sell odd numbers",
+      "(B) Polish currency is denominated in odd numbers",
+      "(C) Even-numbered bouquets are traditionally for funerals/cemeteries",
+      "(D) This rule does not exist"
+    ],
+    "question_en": "Why do Poles typically bring an odd number of flowers (not even) when giving them?",
+    "predicted_answer": "D",
+    "reasoning": "The tradition of giving an odd number of flowers is deeply rooted in Polish culture and has historical significance. Let's examine each option: \n\n- Option A is not accurate, as florists in Poland offer both odd and even numbers of flowers, and the choice often depends on personal preference or occasion. \n\n- Option B is unrelated to flower-giving customs. Polish currency does not dictate the number of flowers brought. \n\n- Option C is partially correct; in some Eastern European cultures, even-numbered bouquets are associated with funerals, symbolizing mourning. However, this is not a universal rule, and Poles typically do not follow this practice. \n\n- Option D is the most fitting answer. There is no specific rule mandating even or odd numbers. The preference for odd numbers when giving flowers is a traditional and cultural norm in Poland, signifying good luck and joy.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL10",
+    "culture": "Polish",
+    "correct": "D",
+    "options": [
+      "(A) The first day of winter celebrations",
+      "(B) A Halloween-style party day",
+      "(C) A small religious observance ignored by most",
+      "(D) Major national holiday — families visit graves, light candles, remember the deceased"
+    ],
+    "question_en": "What is 'Wszystkich Świętych' (All Saints' Day, November 1) in Polish culture?",
+    "predicted_answer": "D",
+    "reasoning": "Wszystkich Świętych, or All Saints' Day, is a significant religious holiday observed on November 1st in Poland, and many other countries with Christian traditions. The holiday is not a national holiday, but it holds great importance for the Polish people, especially those with Catholic or Orthodox beliefs. It is a time to remember and honor the saints, as well as all the faithful departed. Families visit cemeteries, light candles, and pray for their ancestors. This event has more similarities to the Day of the Dead (Día de los Muertos) or the routine grave visits during this period rather than Halloween or any similar secular celebration.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL11",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) Pour the vodka on the floor first",
+      "(B) Drink it mixed with juice only",
+      "(C) Maintain eye contact, say 'Na zdrowie' (to health), and traditionally drink in one shot",
+      "(D) Sip slowly over the course of an hour"
+    ],
+    "question_en": "When toasting with vodka in Poland, what is traditional etiquette?",
+    "predicted_answer": "C",
+    "reasoning": "In Polish toasting culture, traditionally, vodka is poured into a glass and the participants say 'Na zdrowie' (to health). It is customary to drink the vodka in one shot as a sign of respect and friendship. There is no tradition of pouring vodka on the floor or sipping it slowly over an hour.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL12",
+    "culture": "Polish",
+    "correct": "D",
+    "options": [
+      "(A) Only for the royal family",
+      "(B) Polish currency",
+      "(C) A type of bread",
+      "(D) 'Mr./Mrs.' — used as a respectful third-person address even when speaking directly"
+    ],
+    "question_en": "What is the formal address 'Pan/Pani' used for in Polish?",
+    "predicted_answer": "D",
+    "reasoning": "In Polish, 'Pan' is used for male individuals, and 'Pani' is used for female individuals, both translating to 'Mr.' and 'Mrs.', respectively. These titles are considered formal and respectful ways to address someone, even in direct conversation. The term 'Pan/Pani' is not specifically associated with the royal family, currency, or a type of bread.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL13",
+    "culture": "Polish",
+    "correct": "A",
+    "options": [
+      "(A) Traditional dumplings with many fillings (cheese-potato, meat, mushroom, sweet) — a comfort food staple",
+      "(B) Only royalty can eat pierogi",
+      "(C) They are an American invention falsely attributed to Poland",
+      "(D) They are only eaten once a year"
+    ],
+    "question_en": "Why are pierogi central to Polish food culture?",
+    "predicted_answer": "A",
+    "reasoning": "Pierogi are traditional dumplings that are a staple in Polish cuisine, much like pasta is to Italian food. They come in various forms with different fillings, catering to a broad range of tastes. This flexibility and popularity solidify their role as a comfort food staple in Poland. Option B, C, and D are clearly inaccurate. There's no historical basis for them being exclusive to royalty or American inventions. Similarly, pierogi are regularly consumed throughout the year, not just once.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL14",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) Mushrooms are a recent food trend",
+      "(B) Polish forests have no mushrooms",
+      "(C) Cultural tradition combining family time, forest visits, foraging knowledge, and food preservation",
+      "(D) Mushrooms are the only food in Poland"
+    ],
+    "question_en": "Why is mushroom picking (grzybobranie) a major Polish autumn tradition?",
+    "predicted_answer": "C",
+    "reasoning": "Mushroom picking, or 'grzybobranie', is deeply ingrained in Polish culture due to several historical and environmental factors. Poland has a rich diversity of mushroom species due to its dense forests and varied ecosystems. Foraging for mushrooms has been a common practice among Poles for centuries, as they have always been an accessible and valuable food source. This tradition combines several elements: family outings to the forest, the transfer of mushroom foraging knowledge from generation to generation, and the preservation of mushrooms for use throughout the year. Furthermore, the cultural value placed on mushrooms as a seasonal food has solidified their place as a significant autumn tradition.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL15",
+    "culture": "Polish",
+    "correct": "B",
+    "options": [
+      "(A) The Polish national anthem",
+      "(B) 'Sto lat!' (100 years!) — wishing 100 years of life",
+      "(C) 'Happy Birthday' in English only",
+      "(D) No song is traditional"
+    ],
+    "question_en": "At a Polish birthday or name day, what song is traditionally sung?",
+    "predicted_answer": "B",
+    "reasoning": "In Poland, the traditional song sung at birthdays or name days is 'Sto lat!' (100 years!). This song is a cheerful and memorable melody that celebrates the longevity of the person whose birthday it is. It is a common practice to sing this song in various gatherings, and it is as much a part of Polish culture as the national anthem.\n",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL16",
+    "culture": "Polish",
+    "correct": "B",
+    "options": [
+      "(A) He is a minor historical figure rarely mentioned",
+      "(B) National hero and saint — first Polish pope, key cultural and spiritual icon",
+      "(C) He was Polish but disliked in Poland",
+      "(D) No connection to Polish culture"
+    ],
+    "question_en": "What is Poland's relationship with Pope John Paul II (Karol Wojtyła)?",
+    "predicted_answer": "B",
+    "reasoning": "Pope John Paul II, born Karol Wojtyła, was a Polish Catholic priest and the 264th Pope. He served from 1978 until his death in 2005. As the first Polish pope, he held significant cultural and spiritual importance for Poland. His election as Pope was a landmark event, especially for Poland, as it occurred during a time of political and social change, including the rise of Solidarność and the fall of communism in Eastern Europe. John Paul II's visits to Poland and his strong support for the country's lawyers, artists, and intellectuals made him a national hero and a key figure in Polish history and culture.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL17",
+    "culture": "Polish",
+    "correct": "B",
+    "options": [
+      "(A) A folk dance troupe",
+      "(B) Trade union led by Lech Wałęsa that contributed to ending communist rule in Poland",
+      "(C) A modern soccer team",
+      "(D) A clothing brand"
+    ],
+    "question_en": "Why is the Solidarity (Solidarność) movement important to Polish identity?",
+    "predicted_answer": "B",
+    "reasoning": "The Solidarity (Solidarność) movement was a pivotal trade union and social movement in the context of Poland's transition from a communist regime to democracy. Led by figures like Lech Wałęsa, it played a crucial role in ending Communist rule in the country. It organized workers and promoted democratic values and rights, marking a significant moment in Polish history and contributing to the nation's sense of identity as a symbol of resistance and freedom.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL18",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) A formal business greeting only",
+      "(B) Goodbye only",
+      "(C) Casual 'Hi/Hello' or 'Bye' used among friends and peers",
+      "(D) An apology"
+    ],
+    "question_en": "What does the informal greeting 'Cześć' mean in Polish?",
+    "predicted_answer": "C",
+    "reasoning": "The term 'Cześć' is a casual greeting in Polish, akin to 'Hi' or 'Hello' in English. It is used among friends, peers, and in general social settings, not in formal business contexts or when saying goodbye. This makes options (A), (B), and (D) incorrect.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL19",
+    "culture": "Polish",
+    "correct": "B",
+    "options": [
+      "(A) It is required by Polish law",
+      "(B) Catholic tradition reflecting deep religious heritage (~85% Catholic identification)",
+      "(C) This practice does not exist",
+      "(D) A modern fashion trend"
+    ],
+    "question_en": "Why do many Poles cross themselves when passing a church?",
+    "predicted_answer": "B",
+    "reasoning": "Many Poles cross themselves when passing a church primarily due to their strong Catholic religious heritage. Poland has a predominantly Catholic population, with approximately 85% of its citizens identifying as Catholics. This practice is deeply rooted in Catholic tradition, where crossing oneself is a common sign of faith, respect, and devotion. It is not mandated by law, nor is it a modern trend, as this behavior has been a part of Polish culture for centuries. Therefore, the most appropriate answer is the one that reflects the Catholic spiritual practice, excluding legal and modern influences.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL20",
+    "culture": "Polish",
+    "correct": "D",
+    "options": [
+      "(A) A sweet dessert pastry",
+      "(B) A cold soup served only in summer",
+      "(C) A type of bread",
+      "(D) Hunter's stew — sauerkraut, fresh cabbage, various meats; often tastes better reheated"
+    ],
+    "question_en": "What is 'bigos' in Polish cuisine?",
+    "predicted_answer": "D",
+    "reasoning": "Bigos is a traditional Polish stew that is typically prepared with sauerkraut, fresh cabbage, and a variety of meats. It is a hearty dish that is often serving warm or reheated, making option (D) the correct answer.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL21",
+    "culture": "Polish",
+    "correct": "B",
+    "options": [
+      "(A) The bouquet toss",
+      "(B) The first dance — a stately processional dance opening the reception",
+      "(C) A wedding cake",
+      "(D) The bride's wedding gown"
+    ],
+    "question_en": "At a traditional Polish wedding, what is the 'Polonez' (Polonaise)?",
+    "predicted_answer": "B",
+    "reasoning": "The 'Polonez' (Polonaise) is a traditional dance from Poland, known for its stately and elegant movements. It is often performed at formal events, including weddings. In the context of a Polish wedding, the Polonaise is typically the first dance, a processional dance that opens the reception. This dance is meant to showcase the elegant dresses and suits of the wedding guests and set the tone for the rest of the celebration.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL22",
+    "culture": "Polish",
+    "correct": "D",
+    "options": [
+      "(A) Babcias are typically distant from family",
+      "(B) Polish tradition excludes grandmothers from family life",
+      "(C) Babcia is a male title",
+      "(D) Often a primary caregiver, cultural transmitter of recipes, language, and family memory"
+    ],
+    "question_en": "Why is 'Babcia' (grandmother) a respected and central figure in Polish families?",
+    "predicted_answer": "D",
+    "reasoning": "Let's analyze each option:",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL23",
+    "culture": "Polish",
+    "correct": "A",
+    "options": [
+      "(A) Christmas wafer shared at Wigilia — family breaks pieces and exchanges wishes",
+      "(B) A traditional alcoholic beverage",
+      "(C) A type of Polish folk music",
+      "(D) A wedding ring tradition"
+    ],
+    "question_en": "What is the Polish tradition of 'opłatek'?",
+    "predicted_answer": "A",
+    "reasoning": "Opłatek (or Christmas wafer) is a traditional food item consumed during Wigilia, the Christmas Eve meal in Poland. Families come together, break a special wafer, and share wishes as they pass the pieces around. This ritual symbolizes peace, love, and friendship, as well as marks the beginning of Christmas celebrations in Poland.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL24",
+    "culture": "Polish",
+    "correct": "D",
+    "options": [
+      "(A) A holiday for shop closures",
+      "(B) A day of fasting only",
+      "(C) It is not observed",
+      "(D) Tradition of giving women small gifts (especially flowers like tulips); Soviet-era origin, still popular"
+    ],
+    "question_en": "Why is 8 March (Dzień Kobiet, Women's Day) marked in Poland?",
+    "predicted_answer": "D",
+    "reasoning": "8 March, known as Dzień Kobiet or International Women's Day, is celebrated in Poland to honour women's achievements and promote gender equality. The day is marked by various events, including demonstrations, seminars, and ceremonies. Giving small gifts, such as flowers, is a common tradition. While there have been debates about its origins, particularly questioning the Soviet influence, it remains a popular celebration. However, it is not a public holiday that leads to store closures, and fasting is not traditionally associated with this day.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL25",
+    "culture": "Polish",
+    "correct": "A",
+    "options": [
+      "(A) A drink made from boiled fruits, served warm or cold, often homemade",
+      "(B) A type of bread roll",
+      "(C) A small plate of pickles",
+      "(D) A type of vodka"
+    ],
+    "question_en": "What is 'kompot' served with Polish meals?",
+    "predicted_answer": "A",
+    "reasoning": "Kompot is a traditional Polish fruit stew, often made from a combination of berries, fruits like apples or pears, and spices. It is typically served cold as a dessert or a refreshment after a meal, which aligns with option A. While options B, C, and D are also common in Polish cuisine, kompot is not traditionally served with them.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL26",
+    "culture": "Polish",
+    "correct": "D",
+    "options": [
+      "(A) Polish funerals are typically celebratory parties",
+      "(B) Funerals are kept secret in Polish culture",
+      "(C) Polish law requires this style",
+      "(D) Strong Catholic tradition with Masses, processions, mourning rituals, and church involvement"
+    ],
+    "question_en": "Why are Polish funerals often quite solemn and full of religious symbolism?",
+    "predicted_answer": "D",
+    "reasoning": "Polish funerals are indeed known for their solemn atmosphere and religious undertones, largely due to the dominant Catholicism in the country. Here's a step-by-step explanation:\n\n1. **Religious Influence**: Poland has a strong Catholic heritage, with the majority of the population identifying as Catholics. The Catholic Church plays a significant role in Polish society, including funeral practices.\n\n2. **Funeral Rituals**: Traditional Polish funerals often include various religious rituals such as funeral Masses, prayers, and blessings. These rituals are intended to comfort the grieving family and find meaning in the death.\n\n3. **Processions**: Processions are common, often led by a priest, with the deceased's body carried to the cemetery. This is accompanied by mourners, sometimes in traditional attire, singing religious songs or chanting.\n\n4. **Mourning Periods and Customs**: There are specific mourning periods, and family members may observe solemn customs, including wearing dark clothing and avoiding social events. These practices demonstrate respect and help the family cope with their loss.\n\n5. **Law and Custom**: While not mandate by law, these rituals are deeply ingrained in Polish culture and traditional customs, strongly influencing how funerals are conducted.\n\nGiven these factors, the correct answer is (D) Strong Catholic tradition with Masses, processions, mourning rituals, and church involvement.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL27",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) The musician at the party",
+      "(B) The host who pays the bill",
+      "(C) The person whose name day or birthday is being celebrated — center of the event",
+      "(D) An honorary government title"
+    ],
+    "question_en": "What does 'Solenizant' refer to in Polish celebrations?",
+    "predicted_answer": "C",
+    "reasoning": "The term 'Solenizant' is not a standard Polish word, and none of the given options accurately reflects its expected meaning in Polish celebrations. However, based on the context of a celebration, the closest concept would be 'C' - the person whose name day or birthday is being celebrated. In Polish, this person is often referred to as 'imieniny' or 'urodziny', and they are indeed the center of attention during such occasions.\n\nLet's break it down:\n- (A) 'The musician at the party' is more accurately described in Polish as 'muzyk' or 'zespoł muzyczny'.\n- (B) 'The host who pays the bill' is simply 'gospodarz' and not 'solenizant'.\n- (D) 'An honorary government title' is not related to the common usage of 'solenizant' in Polish celebrations.\n\nTherefore, the best fit is 'C' - the person being celebrated.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL28",
+    "culture": "Polish",
+    "correct": "A",
+    "options": [
+      "(A) Polish national teams have a long record of success; widely followed as a major sport",
+      "(B) Volleyball was invented in Poland",
+      "(C) It is illegal there, so people sneak away to play it",
+      "(D) Only one volleyball court exists in Poland"
+    ],
+    "question_en": "Why is volleyball (siatkówka) such a passion in Poland?",
+    "predicted_answer": "A",
+    "reasoning": "Volleyball, or 'siatkówka' in Polish, has a deep-rooted history and cultural significance in Poland. Option (A) is the correct answer as it accurately describes the situation. Here's a step-by-step explanation:\n\n1. **National Team Success**: Poland's national volleyball teams, both men's and women's, have achieved significant international success. They have won multiple medals at the Olympic Games, World Championships, and European Championships, fostering a culture of passion and pride around the sport.\n2. **Widespread Followings**: Volleyball is one of the most popular sports in Poland, with a large and dedicated following. Matches are widely televised and attended by enthusiastic fans, indicating a deep-rooted interest in the sport.\n3. **Community Participation**: The sport is played at various levels throughout the country, from school teams to professional clubs. This widespread participation contributes to its popularity and ensures that volleyball remains an integral part of Polish sporting culture.\n\nIn contrast, options (B), (C), and (D) are not supported by historical or cultural evidence: (B) is incorrect as volleyball was actually invented in the United States; (C) is false as there is no indication that volleyball is illegal in Poland; and (D) is inaccurate as Poland has numerous volleyball courts, not just one.\n",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL29",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) Names of two soccer teams only",
+      "(B) Two villages of equal small size",
+      "(C) Friendly rivalry between historic royal/cultural capital (Krakow) and modern political/financial capital (Warsaw)",
+      "(D) No such distinction exists"
+    ],
+    "question_en": "What is 'Krakow vs Warsaw' in Polish cultural identity?",
+    "predicted_answer": "C",
+    "reasoning": "Kraków and Warszawa (Warsaw) are two of the most well-known and historically significant cities in Poland. Kraków, often referred to as the `cultural capital', is renowned for its medieval architecture, rich history, and its former role as the capital of the Polish Crown. On the other hand, Warsaw, as Poland's current capital, is known for its modern cityscape, political importance, and economic power. The relationship is more of a `friendly rivalry' rather than just a comparison of sports teams, village sizes, or the absence of a distinction, as the cities represent different aspects of Polish culture and development.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL30",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) Mandatory legal penalty",
+      "(B) It is the polite norm",
+      "(C) Can be seen as breaking the social rhythm; pressure to continue is common, though declining is increasingly accepted",
+      "(D) Religious requirement"
+    ],
+    "question_en": "In Polish toasting culture, what does refusing the next round (kolejka) typically mean?",
+    "predicted_answer": "C",
+    "reasoning": "Polish toasting culture, often involving raising glasses and proposing 'na zdrowie' (to health), has a complex social dynamic. Refusing the next round, or 'kolejka', is not typically met with a legal penalty or religious requirement. It is not mandatory, but it is considered polite. However, declining can disrupt the social flow, as there is often pressure to continue toasting. Over time, though, this tradition has become more adaptable, and declining is increasingly understood and respected.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL31",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) Polish for 'I disagree strongly'",
+      "(B) An insult",
+      "(C) 'No problem' / 'You're welcome' — friendly, casual response",
+      "(D) A formal legal term only"
+    ],
+    "question_en": "Why is the Polish phrase 'Nie ma sprawy' commonly used?",
+    "predicted_answer": "C",
+    "reasoning": "The phrase 'Nie ma sprawy' is a colloquial expression in Polish with a direct translation meaning 'There's no matter' or 'It's not a problem'. It is commonly used as a friendly and casual response, similar to saying 'No problem' or 'You're welcome' in English. This usage aligns with option C, making it the correct answer.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL32",
+    "culture": "Polish",
+    "correct": "A",
+    "options": [
+      "(A) Commemorates the 1791 Constitution, second written national constitution in the world after the U.S.",
+      "(B) Commemorates a recent law",
+      "(C) The day Poland was founded in 2000",
+      "(D) A religious holiday"
+    ],
+    "question_en": "Why is 'Constitution Day' (3 maja) a national holiday in Poland?",
+    "predicted_answer": "A",
+    "reasoning": "Constitution Day in Poland (3 Maja) is a national holiday to commemorate the adoption of the 1791 Constitution. This constitution, signed on 3 May 1791, was the second written national constitution in the world, preceded only by the United States Constitution. It was a significant document in Polish history as it established a representative democracy and notable political reforms.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL33",
+    "culture": "Polish",
+    "correct": "B",
+    "options": [
+      "(A) A wedding dress style",
+      "(B) Smoked sheep's-milk cheese from the Tatra mountains, EU-protected origin",
+      "(C) A type of Polish vodka",
+      "(D) A traditional folk song"
+    ],
+    "question_en": "What is 'oscypek' in Polish regional culture?",
+    "predicted_answer": "B",
+    "reasoning": "Oscypek is a traditional folk dish, not a song, dress style or type of vodka. It is a cheese, making option B the correct answer.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL34",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) Birthday wishes",
+      "(B) Romantic affection",
+      "(C) Funerals and All Saints' Day — for cemeteries, not romantic gestures",
+      "(D) Friendship"
+    ],
+    "question_en": "What is the cultural meaning of giving someone yellow chrysanthemums in Poland?",
+    "predicted_answer": "C",
+    "reasoning": "In Poland, as in many other cultures, chrysanthemums hold different symbolic meanings based on color. Yellow chrysanthemums are traditionally associated with funerals, mourning, and the remembrance of the dead, particularly during All Saints' Day (Setting) when they are placed on graves. This tradition reflects the cultural value of honoring ancestors and remembering those who have passed away.\n\nWhile yellow flowers can also symbolize friendship in some contexts, they are not typically used for that purpose specifically. Similarly, while romantic affection is often expressed with red flowers in Poland, yellow chrysanthemums are not considered a romantic gesture.\n\nTherefore, the answer is (C) Funerals and All Saints' Day – for cemeteries, not romantic gestures.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL35",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) Polish architecture requires it",
+      "(B) Only the elderly do this",
+      "(C) Practical (mud, snow) and cultural cleanliness norm; hosts often offer slippers (kapcie)",
+      "(D) The custom does not exist in Poland"
+    ],
+    "question_en": "Why do many Poles still consider it customary to remove shoes at home?",
+    "predicted_answer": "C",
+    "reasoning": "Removing shoes at home is a deeply ingrained cultural norm in Poland. This practice is rooted in the tradition of maintaining cleanliness, both for health reasons and as a sign of respect. It is common to see hosts offering guests slippers (kapcie) to wear inside the house, further emphasizing this custom. The practice is practical, especially in regions with significant seasonal weather changes, where mud, snow, and dampness are common indoors. It's also worth noting that this custom is observed by people of all ages, not just the elderly. Therefore, options (A), (B), and (C) are supported by common knowledge and cultural observation. Option (D) is incorrect as the custom does exist in Poland.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL36",
+    "culture": "Polish",
+    "correct": "D",
+    "options": [
+      "(A) A solemn religious fasting day",
+      "(B) The first day of winter",
+      "(C) Polish Father's Day",
+      "(D) Folk fortune-telling night, especially for young unmarried women (e.g., pouring melted wax through a keyhole)"
+    ],
+    "question_en": "What is 'Andrzejki' (St. Andrew's Eve, November 29)?",
+    "predicted_answer": "D",
+    "reasoning": "Andrzejki is a traditional Polish celebration observed on November 29, the eve of Saint Andrew's Day. It is primarily associated with folk customs and rituals, especially for young unmarried women. The practices include fortune-telling, reading tarots, and various games, such as pouring melted wax through a keyhole to predict the future. \n\nThe option (D) best describes the nature of Andrzejki as it directly aligns with these customary practices.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL37",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) A type of Polish soup",
+      "(B) An imported French recipe",
+      "(C) Breaded pork cutlet, common home and restaurant dish, often with potatoes and cabbage",
+      "(D) It is a rare delicacy reserved for royalty"
+    ],
+    "question_en": "Why is 'kotlet schabowy' a Polish staple?",
+    "predicted_answer": "C",
+    "reasoning": "Kotlet schabowy is a classic Polish dish made from breaded and fried pork cutlet. It is a popular and affordable meal, often served with potatoes and cabbage. This dish is deeply ingrained in Polish cuisine and culture, having been a staple for many years. Options A, B, and D are incorrect as they do not accurately describe the dish or its history.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL38",
+    "culture": "Polish",
+    "correct": "B",
+    "options": [
+      "(A) A request for repetition",
+      "(B) Genuine uncertainty or a soft/polite way to decline without saying 'no' directly",
+      "(C) An angry refusal",
+      "(D) A firm 'yes' commitment"
+    ],
+    "question_en": "When a Polish person says 'może' ('maybe'), what does it often mean in social contexts?",
+    "predicted_answer": "B",
+    "reasoning": "The term 'może' in Polish is often used as a polite way to express uncertainty or hesitation in social contexts. It is similar to saying 'maybe' in English but carries a softer tone. When someone says 'może', they might be considering an option but are not fully committed, or they might be requesting more time to think or make a decision. This word is not typically used to indicate anger or a firm commitment.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL39",
+    "culture": "Polish",
+    "correct": "D",
+    "options": [
+      "(A) Weddings are 30 minutes only in Poland",
+      "(B) Polish wedding law requires it",
+      "(C) Only one Polish wedding has ever lasted long",
+      "(D) Cultural emphasis on extended family celebration, food, drink, dance, and rituals"
+    ],
+    "question_en": "Why do Polish weddings traditionally last very long, sometimes 2+ days?",
+    "predicted_answer": "D",
+    "reasoning": "Polish weddings are renowned for their vibrant culture, grandeur, and longevity. This tradition stems from a deep-rooted cultural emphasis on community and celebration. The events often incorporate multiple rituals, ceremonies, and social activities that contribute to their duration. This includes traditional dances, toasts, speeches, and grand feasts where food and drink are central. Additionally, Polish culture values the presence of extended family and friends during such occasions, further extending the celebrations. Therefore, it is not a legal requirement or a norm of 30-minute ceremonies, but rather a reflection of their rich cultural traditions.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL40",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) Christmas Day",
+      "(B) Annual celebration of overweight people",
+      "(C) Last Thursday before Lent — eating pączki (filled donuts) and other rich foods",
+      "(D) Day of fasting"
+    ],
+    "question_en": "What is 'tłusty czwartek' (Fat Thursday) in Polish tradition?",
+    "predicted_answer": "C",
+    "reasoning": "Tłusty czwartek is a Polish tradition that translates to 'Fat Thursday'. This term refers to the last Thursday before the start of Lent, a period of fasting and abstinence in many Christian traditions. In Polish culture, this day is celebrated by indulging in sweet treats, particularly pączki (filled donuts), and other rich, fatty foods. It is a way to enjoy these treats one last time before the restricted diet of Lent begins.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL41",
+    "culture": "Polish",
+    "correct": "B",
+    "options": [
+      "(A) No such gesture exists",
+      "(B) Briefly flashing hazard lights (or raising hand) after being let in or helped",
+      "(C) By honking three times loudly",
+      "(D) Stopping the car to bow"
+    ],
+    "question_en": "How do Polish drivers typically signal 'thank you' on the road?",
+    "predicted_answer": "A",
+    "reasoning": "While Polish drivers are known for their polite demeanor, there is no universally accepted gesto to signal 'thank you' specifically on the road in Poland. Each driver might have their own way of expressing gratitude, but it's not standardized across the country. Let's analyze each option: \n\n- (A) No such gesture exists: This could be true, as there isn't a formal 'thank you' gesture widely recognized on Polish roads. \n\n- (B) Briefly flashing hazard lights or raising a hand: This is a common polite gesture in many countries, not exclusive to Poland. It's a friendly way to express thanks but not specific to road traffic. \n\n- (C) Honking three times loudly: Honking is commonly used to signal various things in Poland, like letting someone in or turning, but it's not tied to thanking someone specifically. \n\n- (D) Stopping the car to bow: This is too formal and unusual in a traffic context in Poland. \n\nWithout a broad survey or official data, we can conclude that the answer is 'A' as there isn't a specific gesture.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL42",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) For dancing only",
+      "(B) A medical device",
+      "(C) Standard part of removing-shoes hospitality — keeping feet warm and floors clean",
+      "(D) A wedding gift"
+    ],
+    "question_en": "Why are 'kapcie' (slippers) typically offered to guests in Polish homes?",
+    "predicted_answer": "C",
+    "reasoning": "Slippers, or 'kapcie' in Polish, are commonly offered to guests in Polish homes as a way to show hospitality and ensure guest comfort. This tradition is deeply rooted in Polish culture where removing shoes is considered a sign of respect and cleanliness. Wearing slippers (kapcie) indoors is a practical solution to keep feet warm and maintain cleanliness, as it prevents soil and water from entering the house. Thus, they serve as a standard part of this cultural hospitality practice.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL43",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) A minor regional practice",
+      "(B) Practiced only by clergy",
+      "(C) Deeply central — Black Madonna is national symbol; Częstochowa pilgrimages are major events",
+      "(D) Forbidden by Polish law"
+    ],
+    "question_en": "What is the significance of 'Marian devotion' (e.g., Black Madonna of Częstochowa) in Polish Catholicism?",
+    "predicted_answer": "C",
+    "reasoning": "Marian devotion in Poland, particularly revolving around the Black Madonna of Częstochowa, is a widely recognized and integral part of Polish Catholic culture and tradition. The Black Madonna (or Our Lady of Częstochowa) is seen as a powerful symbol of faith and national identity. Thousands of pilgrims visit the Jasna Góra Monastery in Częstochowa every year to pay their respects to this icon. This annual pilgrimage is one of Poland's largest and most important religious events, drawing in people from all walks of life. Furthermore, the image itself is deeply interwoven into Polish culture, appearing in art, literature, and even national holidays. This widespread and deeply embedded practice across all levels of Polish society differentiates it from being merely a minor regional practice or one restricted to clergy.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL44",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) Hospitality is forbidden in Poland",
+      "(B) Only royalty receives hospitality",
+      "(C) 'Gość w dom, Bóg w dom' (Guest at home, God at home) — generous tradition of feeding and serving guests",
+      "(D) Poles dislike guests and try to drive them away with food"
+    ],
+    "question_en": "Why is 'Polish hospitality' often described as overwhelming?",
+    "predicted_answer": "C",
+    "reasoning": "The concept of 'Polish hospitality' (Gość w dom, Bóg w dom) translates to 'Guest at home, God at home', indicating a deep-rooted respect and duty to welcome guests warmly and abundantly. This tradition suggests a culture where hosting guests is a sacred responsibility, often leading to an overwhelming experience for visitors. Among the options, only (C) accurately reflects this cultural aspect, emphasizing the generosity and warmth associated with Polish hospitality.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL45",
+    "culture": "Polish",
+    "correct": "C",
+    "options": [
+      "(A) Silent ignoring",
+      "(B) Counter-question only",
+      "(C) Often more honest than English equivalent — Poles may give a genuine answer about how they actually feel",
+      "(D) Always answer 'great!' regardless of feelings"
+    ],
+    "question_en": "When asked 'jak się masz?' ('how are you?') in Polish, what is the typical response style?",
+    "predicted_answer": "B",
+    "reasoning": "In Polish culture, direct answers to personal questions about well-being are not always expected or appropriate. Instead of a blunt 'great!' or silent ignoring, a common response is to ask a counter-question, showing interest in the other person and their day. This is similar to many cultural norms where an initial question is often followed by a reciprocal sharing of information. Polish people tend to be more indirect in their communication; they might share a positive sentiment with a phrase like 'Dobrze, dziękuję' (Good, thank you) while also asking about the asker's well-being. This demonstrates a politeness and consideration for the other person.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL46",
+    "culture": "Polish",
+    "correct": "A",
+    "options": [
+      "(A) Turkish-style coffee — ground beans steeped directly in hot water; traditional Polish home coffee",
+      "(B) Coffee with vodka mixed in",
+      "(C) A type of tea",
+      "(D) An espresso machine drink"
+    ],
+    "question_en": "What is 'kawa po turecku' in Polish coffee culture?",
+    "predicted_answer": "A",
+    "reasoning": "In Polish coffee culture, 'kawa po turecku' (Turkish-style coffee) refers to a specific preparation method where finely ground coffee beans are steeped directly in hot water, often in a small, traditional pot called a 'dzbanek'. This style of coffee is popular in Polish homes and is considered the traditional way to prepare coffee. The other options are not consistent with this cultural practice.\n\nHere's a breakdown: \n- 'Turkish-style coffee' is a direct translation and describes the preparation method.\n- Coffee with vodka (B) is not a traditional Polish coffee drink.\n- Tea (C) is different from coffee.\n- Espresso machine drinks (D) are a modern preparation style and don't relate to the 'kawa po turecku' tradition.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL47",
+    "culture": "Polish",
+    "correct": "A",
+    "options": [
+      "(A) Annual June festival figure dressed as a Tatar warrior on a hobby horse, parading through Krakow",
+      "(B) A type of beer",
+      "(C) A historical Polish king",
+      "(D) A modern children's toy"
+    ],
+    "question_en": "Why is 'Lajkonik' (parading hobby horse) a Krakow tradition?",
+    "predicted_answer": "A",
+    "reasoning": "Lajkonik is a traditional figure associated with Cracow, Poland. It originates from a historical event involving Tatar invaders in the 14th century. The figure represents a Tatar warrior on a hobby horse, a symbol of their culture. The parade happens annually during June, marking a significant historic event in the city's past. Therefore, it is a cultural tradition tied to the city's history rather than a beer, a historical king, or a modern toy.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL48",
+    "culture": "Polish",
+    "correct": "A",
+    "options": [
+      "(A) Refusing food persistently when offered; saying 'I am full' too early in the meal",
+      "(B) Praising the cook",
+      "(C) Asking for seconds",
+      "(D) Eating all the food on your plate"
+    ],
+    "question_en": "When eating dinner at someone's Polish home, what is rude?",
+    "predicted_answer": "A",
+    "reasoning": "In Polish culture, it is considered rude to refuse food persistently when offered, as it is seen as a sign of disrespect to the host and their efforts. Saying 'I am full' too early in the meal is also considered impolite, as Polish hospitality often encourages eating until you are comfortably full. Praising the cook is a polite gesture and highly appreciated. Asking for seconds is generally accepted and considered a sign of enjoying the meal. Eating all the food on your plate is a sign of respect and hospitality, as it shows appreciation for the meal and the host's generosity.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL49",
+    "culture": "Polish",
+    "correct": "D",
+    "options": [
+      "(A) The first Polish president",
+      "(B) An inventor of pierogi",
+      "(C) A modern pop star",
+      "(D) National poet (1798-1855); his epic 'Pan Tadeusz' is foundational Polish literature"
+    ],
+    "question_en": "Why is 'Adam Mickiewicz' a household name in Poland?",
+    "predicted_answer": "D",
+    "reasoning": "Adam Mickiewicz is a renowned Polish poet, playwright, and political activist. His work, especially the epic poem 'Pan Tadeusz', is considered a cornerstone of Polish literature. It reflects Polish history, culture, and aspirations, making him a national figure and a central figure in Polish literature and identity.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "PL50",
+    "culture": "Polish",
+    "correct": "A",
+    "options": [
+      "(A) 'A Pole is wise after the damage' — self-deprecating idiom about learning from mistakes too late",
+      "(B) Not a real saying",
+      "(C) 'Polish education is the best'",
+      "(D) 'Poles are always wise'"
+    ],
+    "question_en": "What does the saying 'Mądry Polak po szkodzie' mean culturally?",
+    "predicted_answer": "A",
+    "reasoning": "The phrase 'Mądry Polak po szkodzie' (A wise Polish person after the damage) is a well-known cultural saying in Poland that carries a specific meaning. It is used to describe a situation where a person realizes the value of something only after it is lost or damaged. This can be interpreted as a reference to learning from one's mistakes, often in a humorous or slightly ironic manner.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  }
+]

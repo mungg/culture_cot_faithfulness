@@ -1,0 +1,802 @@
+[
+  {
+    "id": "DE01",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) Any time before 20:00 is fine",
+      "(B) Exactly at 19:00 or within 5 minutes after",
+      "(C) About 15 minutes early to show respect",
+      "(D) 30 minutes late is fashionable"
+    ],
+    "question_en": "You are invited to a German colleague's home for dinner at 19:00. When should you arrive?",
+    "predicted_answer": "B",
+    "reasoning": "In German culture, punctuality is highly valued, so arriving exactly on time or slightly early is considered respectful. Since the invitation specifies 19:00, it is best to aim to be there by then. arrival within 5 minutes after the designated time is still considered acceptable, but being more than 5 minutes late might be seen as impolite.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE02",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) Use 'Sie' (formal) until invited to use 'du'",
+      "(B) Use 'du' (informal) immediately to be friendly",
+      "(C) There is no distinction in modern German",
+      "(D) Use first name only without any pronoun"
+    ],
+    "question_en": "When addressing a German colleague you just met professionally, which form should you use?",
+    "predicted_answer": "A",
+    "reasoning": "In German, the choice between 'Sie' (formal) and 'du' (informal) depends on your relationship with the person. When meeting someone professionally for the first time, it is polite and respectful to use 'Sie' until the other person invites you to use their first name ('du'). Using 'du' too early, especially with someone you haven't gotten to know, can appear rude or disrespectful. There is no 'modern' German where this distinction has disappeared, as language habits and customs vary.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE03",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) It is mandated by Ladenschlussgesetz (closing law) and Sonntagsruhe (Sunday rest) tradition",
+      "(B) Most Germans prefer online shopping on Sundays",
+      "(C) This practice no longer exists",
+      "(D) Shops are simply unprofitable on Sundays"
+    ],
+    "question_en": "Why are most shops closed on Sundays in Germany?",
+    "predicted_answer": "A",
+    "reasoning": "In Germany, the practice of most shops being closed on Sundays is deeply rooted in both law and tradition. The 'Ladenschlussgesetz' or closing law, regulates the opening hours of retail stores, with specific provisions for Sundays and public holidays. Additionally, 'Sonntagsruhe' (Sunday rest) is a cultural and religious tradition that encourages people to observe a day of rest on Sundays. This combination of legal and cultural factors has led to the widespread closure of shops on Sundays.\n\nOn the other hand, option B is not accurate, as while some Germans may prefer online shopping, it doesn't change the traditional norms of physical shops closing on Sundays. Option C is wrong because the practice of Sunday closures is still very much in place. And option D is not supported by data, as many shops, especially those in cities, do open on Sundays, often to attract tourists and satisfy modern consumer habits.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE04",
+    "culture": "German",
+    "correct": "D",
+    "options": [
+      "(A) A neighborhood watch program",
+      "(B) A weekly cleaning schedule for residents",
+      "(C) A traditional German tea time",
+      "(D) Mandated quiet hours (typically 22:00-06:00 and Sundays) when loud activities are prohibited"
+    ],
+    "question_en": "In a German apartment building, what is 'Ruhezeit'?",
+    "predicted_answer": "D",
+    "reasoning": "Ruhezeit in German culture translates to 'quiet time' or 'silence period'. This term is commonly associated with residential buildings and neighborhoods. Given the options, only one directly translates to mandated quiet hours, which aligns with the cultural concept of 'Ruhezeit'.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE05",
+    "culture": "German",
+    "correct": "D",
+    "options": [
+      "(A) German calendars are different from international ones",
+      "(B) This superstition does not actually exist",
+      "(C) It is illegal under German tradition law",
+      "(D) It is considered bad luck (vorgratulieren) and may bring misfortune"
+    ],
+    "question_en": "Why do Germans NOT wish someone happy birthday BEFORE their actual birthday?",
+    "predicted_answer": "D",
+    "reasoning": "Let's break this down step-by-step: \n\n1. The question states a common belief that Germans do not wish someone 'happy birthday' before their actual birthday, which is a cultural norm misunderstanding. \n\n2. Option (A) is incorrect as calendar systems are uniform across the globe, and this specific cultural practice is not tied to any calendar variation. \n\n3. (C) is also inaccurate as there is no German tradition law governing such a specific social interaction. \n\n4. Option (D) aligns with German culture, as 'vorgratulieren' (congratulations before the event) is indeed considered bad luck in German tradition. Gifts and wishes are typically exchanged post-birthday to avoid potential negative outcomes.\n\nThus, the most fitting answer is (D).",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE06",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) Pour the drink for yourself first",
+      "(B) Down the drink in one shot",
+      "(C) Maintain eye contact while clinking glasses and saying 'Prost'",
+      "(D) Touch glasses with everyone twice"
+    ],
+    "question_en": "When toasting with drinks in Germany, what is essential etiquette?",
+    "predicted_answer": "C",
+    "reasoning": "In German toast culture, which is an integral part of social gatherings, several customs are observed. When it comes to toasting with drinks, the following etiquette is essential:\n\n1. **Pouring and Sharing**: German culture emphasizes sharing and taking turns. Pouring the drink for yourself first would be considered less communal. In German, the guest who is honoring the toast typically pours for everyone, fostering a sense of shared celebration.\n\n2. **Pacing and Consumption**: Downing the drink in one shot might be discouraged as it can lead to excessive drinking. The traditional approach is to take the toast slowly and politely, enjoying the moment and the company.\n\n3. **Clinking Glasses and 'Prost'**: Clinking glasses (or steins) while saying 'Prost' (cheers in German) is the customary way to formally raise a toast. This gesture signifies camaraderie and respect.\n\n4. **Eye Contact and Connection**: Maintaining eye contact while clinking glasses and saying 'Prost' strengthens the bond between individuals. It adds a personal touch to the toast, solidifying friendships or showing respect in professional settings.\n\n5. **Double Clink (not mentioned in options but relevant)**: While touching glasses once is common, a double clink or a 'doppeltes Prost' is done for special toasts, indicating a higher level of formality or importance.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE07",
+    "culture": "German",
+    "correct": "B",
+    "options": [
+      "(A) The legal drinking age in Germany",
+      "(B) The Beer Purity Law (1516) limiting beer ingredients to water, hops, malt (and later yeast)",
+      "(C) A modern marketing slogan invented in the 2000s",
+      "(D) A German beer festival held annually in Berlin"
+    ],
+    "question_en": "What is the Reinheitsgebot in German beer culture?",
+    "predicted_answer": "B",
+    "reasoning": "The Reinheitsgebot, or Beer Purity Law, is a German law established in 1516. This law dictated that beer could only be made from four ingredients: water, hops, malt, and yeast. This constraint aimed to ensure the quality and consistent flavor of beer. This law is a cornerstone of German beer culture and is one of the oldest food quality regulations still in force in the world.\n\nSince the options do not include any references to a festival or modern marketing slogan, (D) and (C) can be eliminated. The legal drinking age (A) is determined by different laws and regulations, so (B) is the correct answer.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE08",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) A bouquet of flowers from the teacher",
+      "(B) A school uniform set",
+      "(C) A Schultüte — a large decorated cone filled with candy and school supplies",
+      "(D) Nothing special, just a regular school day"
+    ],
+    "question_en": "In Germany, what do you typically receive on your first day of school?",
+    "predicted_answer": "C",
+    "reasoning": "In Germany, it is a tradition to welcome new students with a 'Schultüte'. This decorated cone is filled with various treats and essential school supplies, symbolizing a fresh start and good luck. The 'Schultüte' is often presented to the student by their teacher or class on the first day of school, making it a highly anticipated and special moment for children.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE09",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) Card payments are taxed much higher",
+      "(B) Strong cultural preference for privacy, financial control, and skepticism of debt",
+      "(C) Card readers are illegal in small businesses",
+      "(D) German banks do not support card payments"
+    ],
+    "question_en": "Why is cash still preferred over cards in many German establishments?",
+    "predicted_answer": "B",
+    "reasoning": "Cash continues to be preferred in many German establishments due to a combination of cultural preferences and practical considerations.\n\n1. **Cultural Preference for Privacy and Control**: Germany has a strong culture of privacy and financial control. Many Germans prefer to manage their finances discreetly and without the record-keeping that comes with card transactions. They might be skeptical of the idea of their purchasing habits being tracked and stored by financial institutions or card companies.\n\n2. **Skepticism of Debt**: Card payments introduce the element of debt, as users are essentially borrowing money from the card issuer until they repay the purchase. Some Germans might prefer not to have this debt hanging over them, opting instead for the immediacy of cash payments which clear the account instantly.\n\n3. **Practical Considerations**: Not all establishments, especially smaller businesses, have the infrastructure in place for card payments. Some may lack the necessary card readers or choose not to invest in them due to the costs or perceived lack of need. In these cases, cash remains the most practical and readily accepted form of payment.\n\nThese factors collectively contribute to the continued preference for cash over cards in many German establishments.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE10",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) A deposit on bottles and cans, refunded when returned for recycling",
+      "(B) A discount card for grocery stores",
+      "(C) A type of traditional bread",
+      "(D) A government tax on imported goods"
+    ],
+    "question_en": "What is 'Pfand' in German consumer culture?",
+    "predicted_answer": "A",
+    "reasoning": "In German consumer culture, 'Pfand' (deposit) refers specifically to the system of refunds on bottles and cans. This is a common practice in many European countries to encourage recycling. Customers pay a small deposit, which is refunded when they return the empty containers for recycling.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE11",
+    "culture": "German",
+    "correct": "B",
+    "options": [
+      "(A) They want you to ask three more times",
+      "(B) They genuinely intend to consider it seriously",
+      "(C) They are politely declining without saying no",
+      "(D) They are angry and ending the conversation"
+    ],
+    "question_en": "When a German says they will 'think about it', what does this typically mean?",
+    "predicted_answer": "B",
+    "reasoning": "The phrase 'Ich denke darüber nach' in German translates directly to 'I will think about it' in English. In German, 'denken' means to think, and 'über...nach' specifically means 'about...consider'. This implies a serious intent to ponder and make a decision, not an attempt to avoid or delay.  The option 'A' is incorrect as it suggests a pattern of evasive behavior, which is not typical. 'C' is also not accurate, as while 'denken darüber nach' can be a polite way to defer a decision, it's more direct than a simple polite decline. 'D' is never a reason to interpret someone's statement, and the context of a conversation usually reveals anger.\n",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE12",
+    "culture": "German",
+    "correct": "D",
+    "options": [
+      "(A) Goodbye, used only when leaving work",
+      "(B) A request for the bill in restaurants",
+      "(C) An apology for being late",
+      "(D) A casual greeting around lunchtime, meaning 'enjoy your meal' or simply hello"
+    ],
+    "question_en": "What does 'Mahlzeit' mean and when is it used?",
+    "predicted_answer": "D",
+    "reasoning": "Let's break this down:\n\n'Mahlzeit' is a German word. Its closest English translation is 'meal' but it's more than that. It's a general term for a meal, any meal, whether it's breakfast, lunch, or dinner.\n\nNow let's consider each option:\n\nA) Goodbye, used only when leaving work: While Germans do say 'Auf Wiedersehen' (or 'Guten Tag' in the morning) when leaving work, 'Mahlzeit' is not used in this context. \n\nB) A request for the bill in restaurants: 'Mahlzeit' is not a term used in a restaurant to ask for the bill. You'd more likely hear 'Rechnung bitte' for that. \n\nC) An apology for being late: Again, this isn't a common use of 'Mahlzeit' and the situation doesn't match.\n\nD) A casual greeting around lunchtime, meaning 'enjoy your meal' or simply hello: This is the correct usage. 'Mahlzeit' is a casual way to say 'hello' or 'good day' and can be used around lunchtime to wish someone a good meal. It expresses the speaker's hope that the other person will have a pleasant or enjoyable lunch.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE13",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) Direct communication is valued as honest, efficient, and respectful of others' time",
+      "(B) Germans are inherently rude by other standards",
+      "(C) German employers legally require harsh criticism",
+      "(D) It is only done with strangers, never colleagues"
+    ],
+    "question_en": "In Germany, why is direct verbal feedback common in professional settings?",
+    "predicted_answer": "A",
+    "reasoning": "Direct verbal feedback is a cultural norm in Germany for several reasons. Firstly, the German business culture emphasizes directness and candor in communication. This is often seen as a sign of respect for the other person's time, as it avoids any unnecessary small talk or beating around the bush. Secondly, direct communication is considered more honest and efficient, leading to better problem-solving. Lastly, it is not accurate to generalize that Germans are inherently rude. Instead, their straightforwardness is a valued cultural trait.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE14",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) Pre-wedding party where guests smash porcelain for good luck (couple cleans up together)",
+      "(B) A formal engagement ceremony",
+      "(C) The first dance at the wedding reception",
+      "(D) The honeymoon trip after the wedding"
+    ],
+    "question_en": "What is 'Polterabend' in German wedding tradition?",
+    "predicted_answer": "A",
+    "reasoning": "Polterabend is a traditional German wedding custom that has its roots in superstition. It is believed that breaking fragile items, like porcelain, before the wedding brings good luck to the couple. This ritual is typically a lively event where guests gather and participate in breaking various items, which is then cleaned up by the couple as a united effort. This symbolizes the couple's ability to handle challenges together as a team.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE15",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) Only practiced in rural areas, never cities",
+      "(B) This custom does not exist in Germany",
+      "(C) Common practice for cleanliness, especially in northern Germany; varies by household",
+      "(D) It is required by German hygiene law"
+    ],
+    "question_en": "Why do many Germans take off their shoes when entering a home?",
+    "predicted_answer": "C",
+    "reasoning": "Away from urban centers, especially in rural areas, it is common for people in Germany to take off their shoes when entering a home. This practice is rooted in the concept of keeping homes clean and free from outside dirt. It's a common customs that varies slightly by region and household, but is far from a rare or ignored practice. Options A and B are inaccurate as this custom is indeed prevalent in many German households. Option D is incorrect as there is no official German hygiene law dictating shoe removal at home entries.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE16",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) A hooded wicker beach chair providing shelter from wind, often rented",
+      "(B) A beach volleyball court",
+      "(C) A type of beach umbrella",
+      "(D) A German seafood dish"
+    ],
+    "question_en": "What is 'Strandkorb' that you might see on German beaches?",
+    "predicted_answer": "A",
+    "reasoning": "Strandkorb is a term specifically used for a type of beach chair common in Germany. These are typically wicker or wooden seats, often arranged on a platform to protect from sand and water. They are generally rented by beachgoers for a day's relaxation. The other options can be eliminated as follows: (B) a beach volleyball court is a different type of sporting facility; (C) a beach umbrella provides shade but not the same level of protection and comfort as a Strandkorb; and (D) Strandkorb is not a type of seafood dish, but rather a place to enjoy such meals.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE17",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) Bread was banned during WWII and is now celebrated",
+      "(B) Bread is the only carbohydrate available in Germany",
+      "(C) Over 3,000 registered bread varieties; UNESCO-recognized intangible cultural heritage",
+      "(D) Germans only eat bread for every meal"
+    ],
+    "question_en": "Why are Germans famous for their bread culture (Brotkultur)?",
+    "predicted_answer": "C",
+    "reasoning": "Germans are renowned for their diverse and high-quality bread culture. This is primarily due to the fact that Germany has a long history of baking traditional breads, with numerous regional varieties. The country's bread culture is celebrated due to its richness and variety, not due to any scarcity or ban. Option B is incorrect as Germany has a diverse diet with many carbohydrate sources. While the other alternatives are strong statements, none of them are entirely accurate. Therefore, the best answer aligns with C, as the number of registered bread varieties and its UNESCO recognition highlight the depth and importance of Germany's bread culture.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE18",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) Working strict hours is respected; excessive overtime may signal poor planning",
+      "(B) Germans work the longest hours in Europe",
+      "(C) Frequent overtime signals dedication and is encouraged",
+      "(D) Overtime is mandatory in all German companies"
+    ],
+    "question_en": "In German workplace culture, what is the typical attitude toward overtime?",
+    "predicted_answer": "A",
+    "reasoning": "German workplace culture has evolved to balance productivity and work-life integration, with a growing emphasis on the latter. While dedication and hard work are valued, so is respecting personal time and avoiding excessive working hours. The idea that 'working strict hours is respected' aligns with modern German labor laws and workplace trends, aiming to prevent burnout and promote employee well-being. Options B, C, and D are misconceptions or exaggerations that do not reflect the current cultural and legal realities in Germany.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE19",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) Adult education for retirees",
+      "(B) A type of university entrance exam",
+      "(C) Vocational dual training combining classroom learning with paid apprenticeship",
+      "(D) Compulsory military training for young men"
+    ],
+    "question_en": "What is 'Ausbildung' in the German education system?",
+    "predicted_answer": "C",
+    "reasoning": "Ausbildung in Germany typically refers to vocational education and training (VET). This system combines classroom instruction with practical on-the-job training, often in the form of apprenticeships. It is a key part of Germany's dual education system, designed to prepare students for specific trades and careers. Therefore, option (C) is the correct answer.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE20",
+    "culture": "German",
+    "correct": "D",
+    "options": [
+      "(A) This is no longer practiced anywhere",
+      "(B) Tax laws encourage daytime spending",
+      "(C) Restaurants are closed in the evening",
+      "(D) Traditional preference for hot, substantial lunch and lighter cold dinner (Abendbrot)"
+    ],
+    "question_en": "Why do Germans typically eat their main meal at lunch (Mittagessen) rather than dinner?",
+    "predicted_answer": "D",
+    "reasoning": "The German culture has a long-standing tradition of having a substantial meal at lunch (Mittagessen) which is often hot and filling. This is a direct contrast to the lighter dinner (Abendbrot) that is typically consumed in the evening. Historically, this pattern was influenced by the need to fuel labor-intensive activities during the day. Social and economic factors, such as the availability of light evening entertainment and the closing times of many restaurants, also play a role in shaping this tradition. Therefore, the preference for a hearty lunch over dinner is a combination of cultural, historical, and practical considerations rather than any direct influence of tax laws.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE21",
+    "culture": "German",
+    "correct": "D",
+    "options": [
+      "(A) A government health insurance program",
+      "(B) A type of formal handshake",
+      "(C) A German fast-food chain",
+      "(D) Freikörperkultur — nude/clothing-optional swimming and sunbathing tradition"
+    ],
+    "question_en": "What does 'FKK' refer to in German culture?",
+    "predicted_answer": "D",
+    "reasoning": "FKK is an acronym for 'Freikörperkultur', which translates to 'free body culture'. This term refers to a tradition in German-speaking countries that promotes nude or clothing-optional swimming, sunbathing, and overall outdoor recreation. It's a culture that values being in touch with nature and one's own body, often involving activities at lakes, rivers, and the sea. Given the context and the nature of the options, 'D' is the correct answer.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE22",
+    "culture": "German",
+    "correct": "D",
+    "options": [
+      "(A) Standard small talk at any social event",
+      "(B) A compliment to their professional status",
+      "(C) Required when meeting new people",
+      "(D) Quite private and intrusive; usually avoided"
+    ],
+    "question_en": "In Germany, asking about someone's salary is generally considered:",
+    "predicted_answer": "D",
+    "reasoning": "In German culture, similar to many other Northern European countries, personal and financial privacy is highly valued. Discussing salary is considered a private matter and can be seen as an intrusion into someone's personal space. While professional negotiations and discussions about compensation exist in the workplace, casually asking about someone's salary outside of those contexts is uncommon and might be considered impolite. However, small talk about everyday topics, including work, can be part of social interactions, which leads to option A being less accurate. Option B is incorrect as asking about someone's salary is not necessarily a compliment, but rather an inquiry about a personal financial detail. Option C is not true, as it's not a mandatory topic to discuss when meeting new people. Therefore, the most fitting answer is D, indicating that asking about someone's salary in Germany is considered quite private and intrusive, usually avoided.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE23",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) Strict environmental policies with separate bins for paper, plastic, glass, bio-waste, etc.",
+      "(B) Germans have nothing else to do with their time",
+      "(C) Only one trash bin exists nationwide",
+      "(D) Recycling is illegal in Germany"
+    ],
+    "question_en": "Why is Germany known for elaborate recycling (Mülltrennung)?",
+    "predicted_answer": "A",
+    "reasoning": "Germany is renowned for its comprehensive and efficient recycling system, which is primarily due to its strict environmental policies and citizen awareness. The practice of Mülltrennung (separation of waste) is deeply ingrained in German culture, ensuring high rates of recycling and waste reduction. Each municipality typically provides separate bins or containers for different types of recyclables, such as paper, plastic, glass, and bio-waste. This system encourages citizens to take responsibility for properly sorting and disposing of their waste, making option (A) the correct answer.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE24",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) Pre-Lenten carnival season with parades, costumes, and revelry, especially in Rhineland",
+      "(B) A Christmas market tradition",
+      "(C) A solemn religious fasting period",
+      "(D) An annual horse-racing festival"
+    ],
+    "question_en": "What is 'Karneval/Fasching' in Germany?",
+    "predicted_answer": "A",
+    "reasoning": "Karneval/Fasching is a traditional festival celebrated in Germany, particularly in the western regions like Rhineland. It is a lively celebration that takes place before the Lenten period begins, typically in February or March. The term 'Karneval' is used in the northern and eastern parts of Germany, while 'Fasching' is common in the south. This festival is known for its vibrant parades, elaborate costumes, and festive gatherings. It is a time when social norms are temporarily suspended, and people indulge in entertainment, dancing, and rich food and drink.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE25",
+    "culture": "German",
+    "correct": "B",
+    "options": [
+      "(A) An apology to the sneezer",
+      "(B) 'Gesundheit' (health) — wishing you good health",
+      "(C) Silence, as sneezes should not be acknowledged",
+      "(D) A handshake"
+    ],
+    "question_en": "When you sneeze in Germany, what is the typical response from others?",
+    "predicted_answer": "B",
+    "reasoning": "In many European countries, including Germany, sneezing is generally greeted with a polite response to acknowledge the sneeze. The most common response is to say 'Gesundheit', which means 'good health'. This is a way to wish the person well after they've sneezed, similar to 'get well soon' in English. There's no indication that silence or a handshake is a typical response.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE26",
+    "culture": "German",
+    "correct": "D",
+    "options": [
+      "(A) 'Bye!' or 'See ya!'",
+      "(B) No closing needed",
+      "(C) 'XOXO' or kisses",
+      "(D) 'Mit freundlichen Grüßen' (with friendly regards)"
+    ],
+    "question_en": "In a German formal business email, how should you typically close?",
+    "predicted_answer": "D",
+    "reasoning": "In formal German business communication, maintaining a professional tone is crucial. Closing with 'Bye!' or 'See ya!' (A) is too casual and not appropriate for a formal email. Option (B) is also not ideal as many languages, including German, typically require a closing phrase to be polite and respectful. While (C) 'XOXO' or kisses might be acceptable among close personal friends, it is not suitable for a professional setting. Therefore, the most appropriate closure for a formal German business email is (D) 'Mit freundlichen Grüßen', which translates to 'With kind regards' or 'Sincerely' and is a standard and respectful way to end a business communication.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE27",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) Sunday workers wanted",
+      "(B) Sunday discounts available",
+      "(C) Sunday rest — closed on Sundays per tradition and law",
+      "(D) Sunday-only special menu"
+    ],
+    "question_en": "What does it mean when a German shop has a sign 'Sonntagsruhe'?",
+    "predicted_answer": "C",
+    "reasoning": "The term 'Sonntagsruhe' is a German phrase that translates directly to 'Sunday rest'. The word 'Ruhe' means rest or silence, and 'Sonntag' is Sunday. Therefore, 'Sonntagsruhe' implies that the shop is closed on Sundays as a matter of tradition and/or law, hence respecting the special resting day.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE28",
+    "culture": "German",
+    "correct": "D",
+    "options": [
+      "(A) Germans never ride trains",
+      "(B) Trains in Germany do not actually exist",
+      "(C) German trains are always exactly on time",
+      "(D) Extensive network and the cultural value of punctuality makes any delay highly notable"
+    ],
+    "question_en": "Why is the German train system Deutsche Bahn famous despite reliability complaints?",
+    "predicted_answer": "D",
+    "reasoning": "Deutsche Bahn, or DB, is the national railway company of Germany and one of the largest transportation companies in Europe. Despite occasional reliability issues, it remains famous for several reasons. Firstly, the German rail network is extensive, covering over 33,000 kilometers, and connects most cities and towns in the country efficiently. This extensive network means that many Germans and visitors rely on the train system for daily commuting and travel. Secondly, punctuality is deeply ingrained in German culture, and Deutsche Bahn's reputation for precise timekeeping contributes to its fame. Even minor delays are notable because of this cultural expectation. This combination of a vast network and a high standard for punctuality makes notable any deviations from on-time performance, drawing attention to the system's reliability complaints rather than overshadowing them.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE29",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) A type of strong coffee",
+      "(B) A formal political meeting",
+      "(C) A regular reserved table at a pub for a group of friends/regulars to meet",
+      "(D) A traditional dance"
+    ],
+    "question_en": "What is 'Stammtisch' in German social life?",
+    "predicted_answer": "C",
+    "reasoning": "Stammtisch is a term used in German-speaking countries to describe a regular meeting place for a group of friends or locals, often a pub or bar. It refers to a informal, social gathering with a focus on conversation and camaraderie, rather than formal political meetings or specific dances. Coffee is not exclusively associated with the term, and 'strong coffee' is not a traditional German social custom.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE30",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) Eats from a separate table",
+      "(B) Always pays for everyone",
+      "(C) Is shown respect (e.g., seated first, served first), but rules vary by region",
+      "(D) Must remain silent during the meal"
+    ],
+    "question_en": "In Germany, the eldest person at a table typically:",
+    "predicted_answer": "C",
+    "reasoning": "In German culture, the eldest person at the table is often shown respect and considered the host or leader of the meal. This is a tradition that has been passed down through generations and varies slightly by region. However, there is no hard and fast rule that they must remain silent or eat from a separate table. \n\nThe option that best captures this cultural norm is C: Is shown respect (e.g., seated first, served first), but rules vary by region.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE31",
+    "culture": "German",
+    "correct": "B",
+    "options": [
+      "(A) It is required by German military code",
+      "(B) Cultural value emphasizing structure, rules, and predictability — 'Ordnung muss sein'",
+      "(C) Only practiced in Bavaria",
+      "(D) This stereotype is completely false"
+    ],
+    "question_en": "Why do Germans value 'Ordnung' (order)?",
+    "predicted_answer": "B",
+    "reasoning": "The concept of 'Ordnung' is deeply ingrained in German culture and history. The phrase 'Ordnung muss sein' (Order must be) reflects a societal emphasis on structure, rules, and predictability. This value is not exclusively practiced in Bavaria, but rather, it's a cultural norm across Germany. The importance of order in German society is often attributed to historical influences like the celebrations of efficiency and order in the German Enlightenment and the precision required in German engineering and industry. While the German military does have strict codes, attributing the love for order solely to that is a generalization. Therefore, option (B) best captures the multifaceted reasons behind this cultural preference.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE32",
+    "culture": "German",
+    "correct": "B",
+    "options": [
+      "(A) A formal business meeting",
+      "(B) Afternoon coffee and cake tradition, typically around 15:00-16:00",
+      "(C) A wedding ceremony ritual",
+      "(D) A breakfast meal eaten at 6 AM"
+    ],
+    "question_en": "What is 'Kaffee und Kuchen' in German social culture?",
+    "predicted_answer": "B",
+    "reasoning": "Kaffee und Kuchen (coffee and cake) is a deeply rooted tradition in German social culture. It typically occurs in the late afternoon, around 3 PM, as a break for coffee and a sweet treat. This custom is often associated with socializing, catching up with friends or family, and enjoying a moment of relaxation. The time slot (15:00-16:00) makes it distinct from other meal times, making option (B) the correct answer.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE33",
+    "culture": "German",
+    "correct": "D",
+    "options": [
+      "(A) Remain silent; greetings are unnecessary",
+      "(B) Announce your name loudly",
+      "(C) Shake everyone's hand",
+      "(D) Greet with 'Guten Tag' or 'Hallo' even to strangers"
+    ],
+    "question_en": "When entering a small shop or elevator in Germany, what is polite?",
+    "predicted_answer": "D",
+    "reasoning": "German culture places a strong emphasis on politeness and respect for others, especially in close quarters like a small shop or elevator. Here's a step-by-step breakdown: \n1. 'Guten Tag' or 'Hallo' are standard greetings in Germany and are appropriate in most situations. \n2. Announcing your name loudly (B) is not necessary for a polite greeting and could be considered intrusive. \n3. Shaking hands (C) would typically be reserved for more informal settings or people you know. \n4. Remaining silent (A) is not recommended as it could be perceived as impolite. \n\nTherefore, the polite course of action is to greet with 'Guten Tag' or 'Hallo' to everyone, even strangers, as this is culturally expected and shows respect.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE34",
+    "culture": "German",
+    "correct": "B",
+    "options": [
+      "(A) Only nobility can become Beamter",
+      "(B) Lifetime job security, pension, and social respect for public service tradition",
+      "(C) It is the only legal profession in Germany",
+      "(D) Civil servants are paid extremely high salaries"
+    ],
+    "question_en": "Why is 'Beamter' (civil servant) a prestigious career path in Germany?",
+    "predicted_answer": "B",
+    "reasoning": "In Germany, the 'Beamter' or civil servant, holds a high position in society due to a combination of factors. Firstly, the role has a strong tradition of public service, which is deeply respected in German culture. Secondly, civil servants enjoy significant job security and benefits, including a good pension. This job security is a result of rigorous selection processes and performance evaluations. The prestige is also tied to the perception of public servants as a stable and honest profession, rather than being influenced by personal connections or wealth. Lastly, while the salaries are competitive, they are not necessarily extremely high in comparison to other legal professions or sectors, but the overall benefits and status contribute to the perceived prestige.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE35",
+    "culture": "German",
+    "correct": "B",
+    "options": [
+      "(A) It is purely optional and rarely done",
+      "(B) Many can reclaim taxes paid; common practice with cultural emphasis on financial precision",
+      "(C) Germans do not pay taxes",
+      "(D) It is only required for foreigners"
+    ],
+    "question_en": "Why do Germans typically prepare a 'Steuererklärung' (tax declaration)?",
+    "predicted_answer": "B",
+    "reasoning": "The 'Steuererklärung' is a mandatory declaration for all residents in Germany who earn income. This process ensures that Germans pay the correct amount of taxes based on their income, capital gains, and other financial activities, reflecting the country's strong emphasis on fiscal fairness and accuracy. While there may be opportunities for tax returns and refunds, the primary purpose is not to reclaim taxes but to ensure proper taxation. Option B best encapsulates this practice.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE36",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) Data protection — strong cultural and legal emphasis on personal data privacy",
+      "(B) Free public Wi-Fi access",
+      "(C) A type of computer software",
+      "(D) A government surveillance program"
+    ],
+    "question_en": "What is the German concept of 'Datenschutz'?",
+    "predicted_answer": "A",
+    "reasoning": "Datenschutz is a German term that translates to 'data protection' or 'privacy'. Germany has some of the strongest data privacy laws in the world, namely the Federal Data Protection Act (Bundesdatenschutzgesetz - BDSG). This legislation places a strong emphasis on the protection of personal data and individual privacy. Therefore, option (A) best describes the German concept of Datenschutz.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE37",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) Daily fresh small bread rolls; many varieties; staple of breakfast",
+      "(B) Only available on weekends",
+      "(C) A type of dessert pastry",
+      "(D) Imported from France"
+    ],
+    "question_en": "In German bakery culture, what is typical of 'Brötchen'?",
+    "predicted_answer": "A",
+    "reasoning": "Brötchen is a term commonly used in Germany for small, fresh bread rolls that are a staple of breakfast. They are available daily and come in many varieties, such as sesame, poppy seed, or plain. Therefore, option (A) is the correct answer.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE38",
+    "culture": "German",
+    "correct": "B",
+    "options": [
+      "(A) Used clothing",
+      "(B) Flowers (odd number, not red roses unless romantic), wine, or chocolates",
+      "(C) A large appliance like a refrigerator",
+      "(D) Live animals as pets"
+    ],
+    "question_en": "When invited to a German home, what gift is generally appropriate?",
+    "predicted_answer": "B",
+    "reasoning": "When inviting oneself to a German home, it's best to follow established social norms and cultural customs. Gift-giving in Germany is typically considerate and respectful. Here's a step-by-step breakdown:\n\n1. **Avoiding Used Clothing:** It's generally not appropriate to offer used clothing as a gift. This can be seen as impolite and unhygienic.\n\n2. **Understanding German Gift Etiquette:** Germans often give small, personal gifts when invited to a private home. Flowers, wine, and chocolates are common and well-received choices.\n\n3. **花 (Blumen) and Other Options:** An odd number of flowers is preferred, and red roses are usually reserved for romantic occasions. Wine and chocolates are also popular and appreciated. \n\n4. **Comparing to Large Appliances:** A large appliance like a refrigerator would be a significant and unexpected gift, potentially causing embarrassment or the impression that the host's current appliances are inadequate.\n\n5. **Live Animals:** Giving live animals as pets is not a common or appropriate gift in most social settings. This could be a sensitive topic, especially with pet ownership and animal welfare concerns.\n\nBased on these points, the most suitable answer is (B).",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE39",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) End of the workday — a sacred boundary between work and personal time",
+      "(B) Overtime pay",
+      "(C) An emergency staff meeting",
+      "(D) A weekend office party"
+    ],
+    "question_en": "What does 'Feierabend' mean in German workplace culture?",
+    "predicted_answer": "A",
+    "reasoning": "In German workplace culture, 'Feierabend' (lit. evening fête) refers to the end of the workday. It signifies a clear separation between professional and private life. This concept emphasizes work-life balance and the importance of personal time after one's shift ends. The term does not relate to overtime, meetings, or parties, making options B, C, and D incorrect.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE40",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) They are religious services held outdoors",
+      "(B) They are a recent commercial invention from the 2000s",
+      "(C) Centuries-old Advent tradition with Glühwein, crafts, and seasonal foods",
+      "(D) Only one Christmas market exists, in Berlin"
+    ],
+    "question_en": "Why are 'Christmas markets' (Weihnachtsmärkte) significant in Germany?",
+    "predicted_answer": "C",
+    "reasoning": "Christmas markets, or 'Weihnachtsmärkte', have a long history in Germany, dating back to the Middle Ages. These markets are not religious services but rather a festive tradition where local communities come together to celebrate the Advent season. They are characterized by the sale of seasonal goods, decorations, food, and drinks, with a focus on Glühwein (wärming mulled wine) and traditional handicrafts. The markets create a unique atmosphere, often featuring festive lights, music, and nativity scenes, marking one of the most important periods in the German calendar.\n\nThe correct answer is (C) as they represent a centuries-old tradition, not a recent commercial invention and certainly not solely limited to Berlin (option D). While they have evolved over time, tailoring to modern tastes, the essence of German Weihnachtsmärkte remains true to their historical roots.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE41",
+    "culture": "German",
+    "correct": "B",
+    "options": [
+      "(A) It is the only road in Germany",
+      "(B) Sections have no general speed limit; advisory 130 km/h; strict lane discipline",
+      "(C) Only military vehicles can use it",
+      "(D) Driving is illegal on the Autobahn"
+    ],
+    "question_en": "In German driving culture, what is unique about the Autobahn?",
+    "predicted_answer": "B",
+    "reasoning": "The Autobahn is a network of motorways in Germany, whereas options A, C, and D are not correct. Let's break it down:\n\n* **Option A** is false. There are many roads in Germany beyond the Autobahn network. \n* **Option C** is also false. The Autobahn is open to all vehicles, not just military ones. \n* **Option D** is incorrect. Driving is not illegal on the Autobahn; there are sections without a general speed limit, but strict rules on lane discipline apply.  \n\nTherefore, the unique aspect of the Autobahn in German driving culture is option B - sections with no general speed limit and an advisory speed of 130 km/h, coupled with strict lane discipline.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE42",
+    "culture": "German",
+    "correct": "B",
+    "options": [
+      "(A) A Catholic confession ritual",
+      "(B) Christmas Eve (Dec 24) — main gift-giving and family gathering day, not Dec 25",
+      "(C) Easter Sunday",
+      "(D) New Year's Eve party"
+    ],
+    "question_en": "What is 'Heiligabend' in German Christmas tradition?",
+    "predicted_answer": "B",
+    "reasoning": "Heiligabend is the German term for Christmas Eve, which is celebrated on December 24. It is traditionally the day when families gather, enjoy a special dinner, and exchange gifts, making it the opposite of the widely known Christmas Day (December 25). There is no connection to Catholic confession rituals (A), Easter (C), or New Year's Eve (D).",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE43",
+    "culture": "German",
+    "correct": "B",
+    "options": [
+      "(A) German law requires 12-month advance booking",
+      "(B) Long generous vacation allotment (typically 25-30 days/year) and value for planning",
+      "(C) Germans never go on vacation",
+      "(D) Last-minute travel is banned"
+    ],
+    "question_en": "Why do Germans typically book vacations far in advance?",
+    "predicted_answer": "B",
+    "reasoning": "Germans are known for their meticulous planning and organizational skills. They tend to be very structured in their personal and professional lives, which often translates into how they handle leisure time as well. The option 'B' is the most logical choice, as it reflects a cultural value placed on extended vacations and the beneficial outcomes of long-term planning for such occasions. Moreover, Germany does not have any laws mandating 12-month advance booking for vacations (option A) or banning last-minute travel (option D). Option C is false, as Germans indeed go on vacations. Therefore, the answer aligns with the cultural value placed on allotted vacation days and planning for them.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE44",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) A very loose grip to show deference",
+      "(B) Bow without physical contact",
+      "(C) Firm, brief handshake with direct eye contact",
+      "(D) No handshake — hugs only"
+    ],
+    "question_en": "When meeting Germans, what is the typical greeting handshake style?",
+    "predicted_answer": "C",
+    "reasoning": "The greeting and handshake style can vary between cultures, and Germany has a significant cultural emphasis on eye contact and assertiveness. However, it's important to note that while some Germans may prefer a firm handshake, others may be more relaxed. Enterting a cultural context with a balance between respect and assertiveness is key. A firm, brief handshake with direct eye contact (C) is a safe and respectful bet.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE45",
+    "culture": "German",
+    "correct": "D",
+    "options": [
+      "(A) The longest day of summer",
+      "(B) A type of folk dance",
+      "(C) A national holiday for librarians",
+      "(D) Night of April 30 when witches were said to gather; celebrated with bonfires"
+    ],
+    "question_en": "What is 'Walpurgisnacht' in German folklore?",
+    "predicted_answer": "D",
+    "reasoning": "Walpurgisnacht is a tradition in German folklore that takes place on April 30, which is the night before May 1. It is associated with witchcraft and the belief that witches gather on mountains or peaks during this time. The name originates from Walpurga, a medieval lady who, according to legend, performed exorcisms on witches. The celebration often involves bonfires, which are lit to ward off evil spirits. Therefore, the most fitting description is option (D).",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE46",
+    "culture": "German",
+    "correct": "A",
+    "options": [
+      "(A) Make eye contact with server and say 'Zahlen, bitte' or 'Die Rechnung, bitte'",
+      "(B) Stand up and walk to the cashier without asking",
+      "(C) Whistle loudly",
+      "(D) Throw money on the table"
+    ],
+    "question_en": "In German restaurant culture, how do you typically request the bill?",
+    "predicted_answer": "A",
+    "reasoning": "In German restaurant culture, it is customary to politely request the bill by making eye contact with the server and using the appropriate phrase. This is a respectful way to indicate that you are ready to settle the bill. The options B, C, and D are not typical or acceptable ways to request the bill in a German restaurant.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE47",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) This stereotype is false",
+      "(B) Tardiness incurs criminal penalties",
+      "(C) Strong cultural value linking punctuality with respect, reliability, and trustworthiness",
+      "(D) German clocks run faster than international time"
+    ],
+    "question_en": "Why is 'Pünktlichkeit' (punctuality) so emphasized in German culture?",
+    "predicted_answer": "C",
+    "reasoning": "Let's analyze each option: (A) Discrediting a stereotype is not the aim here, so (A) can be dismissed. (B) While tardiness might carry consequences, criminal penalties are an extreme and unlikely reason for the emphasis on punctuality. (D) German clocks not running faster is factually incorrect, as they follow the same international time standard. Option (C) provides a clear and culturally relevant reason why punctuality is valued in Germany: it is tied to respect, reliability, and trustworthiness, which are highly regarded aspects of German culture.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE48",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) A government child welfare office",
+      "(B) A type of vegetable garden",
+      "(C) 'Children's garden' — preschool tradition originating in Germany; ages ~3-6",
+      "(D) A summer camp for teenagers"
+    ],
+    "question_en": "What is 'Kindergarten' literally and culturally in Germany?",
+    "predicted_answer": "C",
+    "reasoning": "Kindergarten in Germany (or 'Kitas' as they are often called) refers to a preschools that cater to children between the ages of 3 and 6. This learning environment, steeped in tradition, is known for its focus on play-based learning, development of social skills, and rich educational experiences. The term 'Kindergarten' literally translates to 'children's garden', reflecting its nature as a nurturing space for young learners. It is not related to vegetable gardens (option B) or government welfare offices (option A), and certainly not a summer camp (option D).",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE49",
+    "culture": "German",
+    "correct": "B",
+    "options": [
+      "(A) Membership is legally compulsory",
+      "(B) Strong tradition of organized civic life — clubs for sports, hobbies, music, charity",
+      "(C) Only one club exists in Germany",
+      "(D) Clubs are banned and operate illegally"
+    ],
+    "question_en": "In Germany, why are 'Vereine' (clubs/associations) so popular?",
+    "predicted_answer": "B",
+    "reasoning": "Vereine (clubs/associations) in Germany are deeply ingrained in the country's culture and society. Germany has a strong tradition of organized civic life, with clubs dedicated to a wide range of activities such as sports, hobbies, music, and charity. This promoting of community engagement and collective interests has been a part of German culture for centuries. Since many of these clubs provide social interaction, foster skills, and contribute to community development, they are widely popular and well-supported. Therefore, option (B) is the correct answer.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "DE50",
+    "culture": "German",
+    "correct": "C",
+    "options": [
+      "(A) 'I don't drink alcohol'",
+      "(B) 'I prefer wine to beer'",
+      "(C) 'That's not my problem/concern' (idiomatic)",
+      "(D) 'The beer is too cold'"
+    ],
+    "question_en": "What does the German phrase 'das ist nicht mein Bier' mean?",
+    "predicted_answer": "C",
+    "reasoning": "The phrase 'das ist nicht mein Bier' is a colloquial expression in German that translates to 'that's not my problem/concern' or 'that's not my responsibility'. The literal meaning of 'mein Bier' is 'my beer', but in this context, it's used to convey that a particular situation or task does not belong to or is not within the realm of interest or responsibility of the speaker. The phrase implies a sense of detachment or disinterest, similar to the English expressions 'not my problem' or 'not my cup of tea'.\n\nNone of the given options (A, B, or D) accurately reflect the meaning of the phrase, which is why (C) 'That's not my problem/concern' is the best fit.",
+    "thinking": "",
+    "model": "openai-local/CohereForAI/aya-expanse-8b"
+  }
+]

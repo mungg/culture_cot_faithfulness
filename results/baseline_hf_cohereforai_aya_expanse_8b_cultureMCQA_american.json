@@ -1,0 +1,802 @@
+[
+  {
+    "id": "US01",
+    "culture": "American",
+    "correct": "B",
+    "options": [
+      "(A) Start cooking your own food in their kitchen",
+      "(B) Relax and feel comfortable, but respect boundaries",
+      "(C) Go into any room including bedrooms",
+      "(D) Start rearranging the furniture"
+    ],
+    "question_en": "At an American dinner party, the host says 'Make yourself at home.' What should you do?",
+    "predicted_answer": "B",
+    "reasoning": "The phrase 'Make yourself at home' is an invitation to feel comfortable and relaxed in the host's residence. It does not imply that you should intrude on privacy or personal spaces. The host is suggesting that you should feel welcomed and at ease, while still respecting their home and belongings. This means avoiding inappropriate areas like the host's private rooms or areas clearly off-limits. Relaxing, chatting, and enjoying the company while being mindful of the host's space is the most appropriate response.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US02",
+    "culture": "American",
+    "correct": "C",
+    "options": [
+      "(A) Ignore them and keep walking",
+      "(B) Stop and have a 10-minute conversation",
+      "(C) Say 'Good, how are you?' and continue on",
+      "(D) Give a detailed account of your current problems"
+    ],
+    "question_en": "In the US, when someone asks 'How are you?' in passing, what is the expected response?",
+    "predicted_answer": "C",
+    "reasoning": "In the US, the typical response to 'How are you?' in passing is a brief, polite acknowledgment. It is not meant to be a thorough inquiry but a casual greeting. The expected response (C) mirrors this cultural norm by acknowledging the question with a simple statement about one's state without delving into details.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US03",
+    "culture": "American",
+    "correct": "C",
+    "options": [
+      "(A) No tip is necessary",
+      "(B) 50% of the bill",
+      "(C) 15-20% of the bill",
+      "(D) 5-10% of the bill"
+    ],
+    "question_en": "In American tipping culture, what is the standard tip at a sit-down restaurant?",
+    "predicted_answer": "C",
+    "reasoning": "In American restaurants, the standard tip varies, but historically, a tip of 15-20% has been considered appropriate for good service at a sit-down restaurant. This range accounts for the overall dining experience, including food quality, service, and the establishment's overall ambiance. It allows for a fair compensation for the server's work and is a commonly accepted norm in the industry.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US04",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) Bring nothing; the host provides everything",
+      "(B) Bring a gift for the host instead of food",
+      "(C) Only bring dessert",
+      "(D) Each guest brings a dish to share"
+    ],
+    "question_en": "You are at a potluck dinner in the US. What is expected of guests?",
+    "predicted_answer": "D",
+    "reasoning": "In the US, a potluck dinner is a social gathering where each guest brings a dish to share. This is a common practice, especially at community events, family gatherings, or office parties. The host usually coordinates the event and provides the main space, but relies on the guests to contribute various dishes, ensuring a diverse and abundant meal. This promotes community spirit, as everyone contributes according to their ability and preferences, and ensures a varied spread of food.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US05",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) That you want to end the conversation",
+      "(B) Aggression or hostility",
+      "(C) Romantic interest",
+      "(D) Confidence and professionalism"
+    ],
+    "question_en": "In American culture, what does a firm handshake typically convey?",
+    "predicted_answer": "D",
+    "reasoning": "In American culture, a firm handshake is a common greeting and a sign of respect. It signifies confidence, assertiveness, and professionalism. This gesture is often used in formal introductions, business meetings, and social gatherings to establish a positive first impression. A firm handshake indicates that you are confident in yourself and your interactions, without any sign of aggression or fear, which are typically conveyed through corporal language like a weak or flaccid grip. Furthermore, a handshake is not a cultural indicator of romantic interest, and ending a conversation is usually signified by closing body language, not a handshake.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US06",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) The weather",
+      "(B) Sports and entertainment",
+      "(C) Weekend plans",
+      "(D) Personal salary or income"
+    ],
+    "question_en": "In American small talk culture, which topic is generally considered inappropriate to discuss with acquaintances?",
+    "predicted_answer": "D",
+    "reasoning": "In American small talk culture, there are certain sensitive topics that are generally avoided with acquaintances to maintain politeness and professional boundaries. While weather, sports, and entertainment are common topics to spark conversation, personal finances, including salary or income, are considered private matters. Discussing one's salary can be seen as impolite, intrusive, and even embarrassing. Additionally, since it's not typically shared publicly, people tend to be more reserved about it, especially in casual settings. Weekend plans, on the other hand, are more appropriate as they often revolve around shared experiences or general lifestyle preferences, making them less personal.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US07",
+    "culture": "American",
+    "correct": "B",
+    "options": [
+      "(A) They want to physically walk in a circle",
+      "(B) They want to revisit the topic later",
+      "(C) They are ending the professional relationship",
+      "(D) They want you to repeat what you just said"
+    ],
+    "question_en": "At an American workplace, a colleague says 'Let's circle back on this.' What does this mean?",
+    "predicted_answer": "B",
+    "reasoning": "The phrase 'circle back' is slang that means to revisit or come back to a topic or issue at a later time. In a professional context, especially in the US workplace, it is a common expression to use when someone wants to schedule a follow-up discussion without committing to an immediate decision or conclusion. There is no physical implication in 'circle back' as the phrase doesn't involve movement, and ending a relationship is usually communicated more directly. Repeating what was just said would be redundant.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US08",
+    "culture": "American",
+    "correct": "A",
+    "options": [
+      "(A) A bottle of wine or dessert",
+      "(B) Cash as a contribution",
+      "(C) Your own plates and utensils",
+      "(D) Nothing; bringing something is considered rude"
+    ],
+    "question_en": "In American culture, when invited to someone's home for dinner, what is the most common thing to bring?",
+    "predicted_answer": "A",
+    "reasoning": "In American culture, it is customary to offer a contribution when invited to someone's home for dinner. This contribution can be in the form of a gift or a food item. Among the options, bringing a bottle of wine or dessert (A) is the most common and appreciated. Cash (B) is less common, as it is not a specific item for the dinner table and may not fit the host's preferences. Using your own plates and utensils (C) is not typical as the host usually provides these. Not bringing anything (D) is considered rude as it shows a lack of appreciation for the invitation. Thus, the most suitable answer is A.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US09",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) Always maintaining at least 10 feet of distance",
+      "(B) Personal space is not a concept in American culture",
+      "(C) Never being in the same room as another person",
+      "(D) Standing about 1.5-4 feet apart during casual conversation"
+    ],
+    "question_en": "In the US, what does 'personal space' typically mean in a conversational context?",
+    "predicted_answer": "D",
+    "reasoning": "In the United States, personal space refers to the acceptable physical distance one maintains between themselves and others during interactions. This concept is generally respected and considered important for comfort and privacy. While the ideal distance can vary based on cultural norms and individual preferences, a common range for casual conversations is around 1.5-4 feet (approximately 0.5-1.2 meters), which is closer than the arm's length often associated with intimate settings but still respects the boundaries of the other person. The importance of personal space is deeply ingrained in American culture, especially in public spaces and casual settings like conversations among friends or colleagues.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US10",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) They are being sarcastic and don't want to see you",
+      "(B) They are making a definite plan for this weekend",
+      "(C) They want to start a business partnership",
+      "(D) It is a friendly expression that may or may not lead to actual plans"
+    ],
+    "question_en": "When an American says 'We should hang out sometime,' what does this usually mean?",
+    "predicted_answer": "D",
+    "reasoning": "When an American says 'We should hang out sometime,' it is typically a casual and friendly expression that conveys a desire to spend time together, without committing to a specific date or event. It is a common phrase used to initiate social interactions and show interest in building a connection.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US11",
+    "culture": "American",
+    "correct": "A",
+    "options": [
+      "(A) Splitting the bill evenly or each paying their own is common",
+      "(B) The person who suggested the dinner must pay for everyone",
+      "(C) It is rude to discuss money; someone should quietly pay",
+      "(D) The oldest person always pays"
+    ],
+    "question_en": "In American culture, what is the norm around splitting the bill at a casual group dinner?",
+    "predicted_answer": "A",
+    "reasoning": "In American culture, the norm around splitting the bill at a casual group dinner is typically flexible and can vary depending on the group's dynamics, relationship, and personal preference. However, the options B, C, and D are not commonly accepted norms. Option A, 'Splitting the bill evenly or each paying their own', is the most common practice. This approach promotes fairness and ensures everyone contributes based on their consumption. Suggesting that the person who initiated the dinner must pay (B) can be seen as imposing on the host, and discussing who should pay (C) or assuming someone should pay quietly (D) are both considered impolite and outdated manners. Thus, the most appropriate answer aligns with A.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US12",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) They want you to pay for an umbrella",
+      "(B) They are permanently refusing",
+      "(C) They are checking the weather forecast",
+      "(D) They are declining but would like to do it another time"
+    ],
+    "question_en": "What does the American expression 'rain check' mean when someone declines an invitation?",
+    "predicted_answer": "D",
+    "reasoning": "The expression 'rain check' is a colloquial term in American English that implies a temporary decline of an invitation, with the intention to reschedule. It reflects the idea of postponing an activity due to unfavourable weather conditions, in this case, raining. Among the options, only one aligns logically with this meaning: (D) They are declining but would like to do it another time.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US13",
+    "culture": "American",
+    "correct": "A",
+    "options": [
+      "(A) It varies, but many consider weekends personal time with no obligation to respond immediately",
+      "(B) Weekend emails should be replied to with only emojis",
+      "(C) You must respond within 1 hour at all times",
+      "(D) You should never check email outside work hours"
+    ],
+    "question_en": "In American work culture, what is the typical expectation around responding to work emails on weekends?",
+    "predicted_answer": "A",
+    "reasoning": "In the American work culture, the expectation around responding to work emails on weekends is generally considered a balance between personal time and professional responsibility. Many employers recognize that weekends are designated for personal activities and family time, hence the pressure to respond immediately is not expected. However, it is also understood that certain emergencies or urgent matters may arise that require attention. Therefore, the ideal approach is to strike a balance between being responsive and respecting personal time.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US14",
+    "culture": "American",
+    "correct": "B",
+    "options": [
+      "(A) They want to know your hobbies only",
+      "(B) Occupation is a common conversation starter and social identifier in the US",
+      "(C) It is considered rude and should not be asked",
+      "(D) They are trying to determine if you are wealthy"
+    ],
+    "question_en": "Why do Americans often ask 'What do you do?' when meeting someone new?",
+    "predicted_answer": "B",
+    "reasoning": "In the United States, asking 'What do you do?' is a common social greeting and icebreaker. This question is frequently used when meeting someone new to learn about their profession or line of work. It helps to establish a connection and provide context for a conversation. The question is not typically interpreted as impolite or intrusive, unlike in some other cultures where personal topics of conversation might be more restricted upon first meeting.\n\nThe option 'B' is the correct answer as it accurately reflects the common social custom in American interactions.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US15",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) Only respond if you are NOT coming",
+      "(B) You must attend if you say yes; there is a legal obligation",
+      "(C) RSVP means the party is canceled",
+      "(D) You should respond yes or no by the requested date"
+    ],
+    "question_en": "In American culture, what does 'RSVP' to a party invitation typically require?",
+    "predicted_answer": "D",
+    "reasoning": "In American culture, 'RSVP' is an abbreviation of 'Répondez s'il vous plaît, which translates to 'Please respond' in French. Traditionally, hosting a party and sending out invitations includes a request for a response to indicate whether the guest will attend or not. This is typically done to help the host with planning. Option (D) aligns with this custom, as it encourages guests to reply with their attendance decision.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US16",
+    "culture": "American",
+    "correct": "B",
+    "options": [
+      "(A) Tax filing day",
+      "(B) Independence Day — fireworks, BBQs, parades, flag displays",
+      "(C) A solemn day of mourning",
+      "(D) The start of the school year"
+    ],
+    "question_en": "How is the 4th of July typically celebrated in the US?",
+    "predicted_answer": "B",
+    "reasoning": "The 4th of July, also known as Independence Day, is a federal holiday in the United States celebrating the adoption of the Declaration of Independence on July 4, 1776. It is a day of national celebration that involves various activities such as fireworks displays, barbecues, parades, and flag displays. These festivities reflect the joy and patriotism associated with the nation's independence.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US17",
+    "culture": "American",
+    "correct": "A",
+    "options": [
+      "(A) Roast turkey, often with stuffing, mashed potatoes, gravy, and pumpkin pie",
+      "(B) Sushi platter",
+      "(C) Roast lamb",
+      "(D) Pasta"
+    ],
+    "question_en": "What is the central food at most American Thanksgiving dinners?",
+    "predicted_answer": "A",
+    "reasoning": "Most American families traditionally celebrate Thanksgiving with a large meal that includes a roasted turkey as the centerpiece. This dish has become iconic and symbolic of the holiday. Accompanying sides like stuffing, mashed potatoes, gravy, and pumpkin pie are also commonly served, reinforcing the idea of a traditional Thanksgiving dinner consisting mainly of turkey and these side dishes.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US18",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) Visit cemeteries to clean graves",
+      "(B) Attend a religious service",
+      "(C) Stay home and fast",
+      "(D) Go door-to-door in costume saying 'Trick or treat' to receive candy"
+    ],
+    "question_en": "On Halloween (October 31), American children traditionally:",
+    "predicted_answer": "D",
+    "reasoning": "Halloween in America is characterized by children dressing up in costumes and going door-to-door in their neighborhoods to ask for treats. This activity, known as 'Trick or Treat,' is a primary tradition associated with the holiday. There is no historical or cultural evidence to support the other options. Visiting cemeteries, attending religious services, staying home and fasting, or any practice related to those options, are not typical Halloween activities in American culture.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US19",
+    "culture": "American",
+    "correct": "C",
+    "options": [
+      "(A) A national day of mourning",
+      "(B) A solemn religious holiday",
+      "(C) The day after Thanksgiving — major shopping event with deep discounts",
+      "(D) The start of school"
+    ],
+    "question_en": "What is 'Black Friday' in American culture?",
+    "predicted_answer": "C",
+    "reasoning": "Black Friday is a term primarily associated with commercial activities and shopping in the United States. It falls on the day after Thanksgiving and marks the beginning of the holiday shopping season. This day is widely recognized for its significant sales and discounts offered by many retailers, encouraging large numbers of shoppers to take advantage of these deals. Hence, option C best describes Black Friday in American culture.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US20",
+    "culture": "American",
+    "correct": "A",
+    "options": [
+      "(A) Last Monday of May — honors military personnel who died in service; also informal start of summer",
+      "(B) Independence Day",
+      "(C) Labor protest day",
+      "(D) A children's holiday"
+    ],
+    "question_en": "What is Memorial Day in the US?",
+    "predicted_answer": "A",
+    "reasoning": "Memorial Day in the United States is observed on the last Monday of May. It is a federal holiday honoring the men and women who died while serving in the U.S. military. The holiday, marked by parades and gatherings, is also considered the unofficial start of the summer season. None of the provided options match these criteria. Furthermore, Independence Day (B) is celebrated on July 4th, Labor protest day (C) is not a recognized holiday, and (D) is clearly incorrect as Memorial Day is not a holiday for children but respects the fallen military personnel.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US21",
+    "culture": "American",
+    "correct": "B",
+    "options": [
+      "(A) Tax season",
+      "(B) First Monday of September — honors workers; informal end of summer; many BBQs and sales",
+      "(C) The day all workers must work",
+      "(D) Start of the calendar year"
+    ],
+    "question_en": "What does Labor Day signify in American culture?",
+    "predicted_answer": "B",
+    "reasoning": "Labor Day in the United States is a federal holiday celebrated on the first Monday of September. It is primarily known for honoring the contributions and achievements of American workers, as well as marking the informal end of summer. It is a widespread tradition to have sales, parades, and gatherings, including BBQs, during this time. Options A, C, and D are incorrect because tax season occurs around April 15, workers are never required to work on this holiday, and it does not mark the start of the calendar year. Hence, B is the best answer.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US22",
+    "culture": "American",
+    "correct": "A",
+    "options": [
+      "(A) NFL championship game watched by tens of millions; halftime show, ads, and parties are cultural events",
+      "(B) It is rarely covered in media",
+      "(C) It is mandatory to watch by federal law",
+      "(D) Only football fans pay attention"
+    ],
+    "question_en": "Why is the Super Bowl considered a near-national event in the US?",
+    "predicted_answer": "A",
+    "reasoning": "The Super Bowl is a significant cultural event in the United States for several reasons. First, it is the climax of the National Football League (NFL) season, determining the champion of the league, which attracts a massive audience. According to Nielsen, the 2022 Super Bowl audience reached around 103.4 million viewers, making it one of the most-watched television events in American history. Furthermore, the game is more than just a sports contest; it has evolved into a cultural phenomenon. The halftime show often features prominent artists, drawing attention from people beyond sports fans. Additionally, the commercials during the Super Bowl are renowned for their creativity and high production values, becoming a topic of conversation even among those who don't regularly follow football. The event also inspires numerous parties, gatherings, and community events across the nation, fostering a sense of shared experience and celebration. These factors contribute to the Super Bowl's status as a near-national event, transcending its roots as a simple sports league championship.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US23",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) The first day of spring",
+      "(B) Election day",
+      "(C) A federal holiday for shopping",
+      "(D) Federal tax filing deadline ('Tax Day') for most individual taxpayers"
+    ],
+    "question_en": "What is significant about April 15 in the US?",
+    "predicted_answer": "D",
+    "reasoning": "April 15th is significant in the United States as it marks the federal tax filing deadline for most individual taxpayers. This date is commonly known as 'Tax Day', where taxpayers must submit their annual income tax returns to the Internal Revenue Service (IRS). This deadline is significant due to the large volume of tax returns processed, the potential for last-minute payments, and the potential penalties for those who miss the deadline.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US24",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) Age 21",
+      "(B) Age 12",
+      "(C) Age 25",
+      "(D) Age 16 (varies by state, often with restrictions until 18)"
+    ],
+    "question_en": "At what age can most Americans typically obtain a driver's license?",
+    "predicted_answer": "D",
+    "reasoning": "In the United States, the minimum age to obtain a driver's license without any significant restrictions is 16 years old. However, this age can vary slightly by state, and many states have graduated licensing systems in place that include intermediate stages with certain restrictions until the full license is obtained at 18. But for the majority of cases, 16 is the standard age.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US25",
+    "culture": "American",
+    "correct": "C",
+    "options": [
+      "(A) 25",
+      "(B) 18",
+      "(C) 21",
+      "(D) 16"
+    ],
+    "question_en": "What is the federal minimum drinking age in the US?",
+    "predicted_answer": "C",
+    "reasoning": "The federal minimum drinking age in the United States is legally set at 21 years old. This is enforced by the National Minimum Drinking Age Act of 1984, which requires all states to set the minimum age for purchasing and publicly possessing alcohol at 21 in order to receive federal highway funds. This law has been adopted by all 50 states, the District of Columbia, American Samoa, Guam, Northern Marina Islands, Puerto Rico, and the U.S. Virgin Islands.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US26",
+    "culture": "American",
+    "correct": "C",
+    "options": [
+      "(A) Tip is illegal",
+      "(B) Tip 50% standard",
+      "(C) Tip is optional but commonly given (often 10-20%), especially for good service",
+      "(D) Never tip"
+    ],
+    "question_en": "In the US, what is the typical tipping practice for ride-share drivers (Uber/Lyft)?",
+    "predicted_answer": "C",
+    "reasoning": "In the United States, tipping for ride-share services like Uber and Lyft is a common practice, reflecting satisfaction with the service provided. There is no legal mandate for tipping, but it's generally considered a norm. The amount typically varies between 10% to 20% of the fare, depending on the quality of the ride and driver's service. This makes option C the most accurate reflection of typical practice.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US27",
+    "culture": "American",
+    "correct": "A",
+    "options": [
+      "(A) Formal dance event near end of high school; iconic teen tradition",
+      "(B) A summer job",
+      "(C) A standardized test",
+      "(D) A military training camp"
+    ],
+    "question_en": "What is high-school prom in American culture?",
+    "predicted_answer": "A",
+    "reasoning": "High-school prom is an annual formal dance event organized by schools, typically held near the end of the high school academic year. It is a significant social event for teenagers, often involving elaborate planning, attire, and celebration. Prom is considered an iconic tradition in American high school culture, symbolizing a milestone in a student's journey through education and toward adulthood.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US28",
+    "culture": "American",
+    "correct": "A",
+    "options": [
+      "(A) Massive following — large stadiums, regional rivalries, tailgating, NCAA broadcasts",
+      "(B) Only played in two states",
+      "(C) Banned in the US",
+      "(D) A minor amateur sport with no audience"
+    ],
+    "question_en": "What is the cultural significance of college football in the US?",
+    "predicted_answer": "A",
+    "reasoning": "College football in the US has a rich history and culture, characterized by a passionate fan base, intense rivalries, and massive events like the College Football Playoff. It involves elaborate traditions such as tailgating before games, where fans gather and socialize. The sport is widely broadcasted across the country, with stadiums accommodating large crowds. These factors make it clear that college football holds significant cultural importance in the United States, eliminating options C and D. While it is predominantly played at the collegiate level, its widespread popularity rules out B as well. Option A accurately captures the multifaceted cultural significance of college football in the US.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US29",
+    "culture": "American",
+    "correct": "C",
+    "options": [
+      "(A) A military oath",
+      "(B) A national anthem",
+      "(C) A pledge of loyalty to the US flag; often recited at school start in many states",
+      "(D) A song"
+    ],
+    "question_en": "What is the 'Pledge of Allegiance' commonly recited in many US public schools?",
+    "predicted_answer": "C",
+    "reasoning": "The Pledge of Allegiance is an expression of loyalty to the United States. It is primarily recited as a morning ritual in schools, where students and staff stand and pledge their allegiance to the U.S. flag. While it has some elements of a song due to its rhythmic structure and the way it is delivered, it is not a song in the traditional musical sense. It is also not a military oath or national anthem.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US30",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) Only used in church",
+      "(B) Always a sincere compliment",
+      "(C) A medical phrase",
+      "(D) Can be sincere sympathy OR a polite veiled insult depending on tone and context"
+    ],
+    "question_en": "What does the Southern American expression 'Bless your heart' often mean?",
+    "predicted_answer": "D",
+    "reasoning": "The expression 'Bless your heart' in Southern American culture is a unique idiom that goes beyond a simple translation into a direct equivalent in other languages. It has evolved to convey various sentiments depending on the context and tone of voice. While it can be interpreted as a genuine expression of sympathy or kindness, it is not exclusively reserved for church (A) or always a sincere compliment (B). The phrase can also be used sarcastically (C) or, in some cases, as a polite but veiled insult (D), indicating that the speaker finds the listener's actions or beliefs annoying or questionable. Given its versatility in expression, option D best encapsulates its full range of meanings.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US31",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) BBQ is only eaten in California",
+      "(B) BBQ is identical nationwide",
+      "(C) BBQ is illegal in the US",
+      "(D) Regional styles differ — Texas (beef brisket), Carolina (pulled pork, vinegar/mustard), Memphis (dry rub), Kansas City (sweet sauce)"
+    ],
+    "question_en": "American BBQ culture varies regionally; which is true?",
+    "predicted_answer": "D",
+    "reasoning": "American BBQ culture is renowned for its diversity, with distinct regional styles reflecting local ingredients, climates, and culinary traditions. Each region has its specialties, such as beef brisket in Texas, pulled pork with vinegar and mustard in Carolina, dry rub in Memphis, and sweet sauce in Kansas City. This diversity debunks the idea of BBQ being uniform nationwide and supports the claim that regional styles differ.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US32",
+    "culture": "American",
+    "correct": "C",
+    "options": [
+      "(A) Coffee is rare in the US",
+      "(B) Only one Starbucks exists",
+      "(C) Coffee-to-go culture is widespread; large chains are part of daily routines",
+      "(D) Coffee is banned in the US"
+    ],
+    "question_en": "Why is Starbucks (and similar chains) culturally significant in the US?",
+    "predicted_answer": "C",
+    "reasoning": "Starbucks, while not the only coffee shop in the US, became a cultural phenomenon and symbol of modern American life. Option C is the most accurate. Starbucks' success and prevalence can be attributed to how coffee-to-go culture has become deeply ingrained in American society. The chain's strategy of providing high-quality, convenient coffee and a welcoming atmosphere, paired with its global branding, has made it a part of daily routines for many. This culture of grabbing a coffee on the go is so widespread that it goes beyond Starbucks, reflecting a broader societal shift in how Americans consume coffee and socialize.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US33",
+    "culture": "American",
+    "correct": "C",
+    "options": [
+      "(A) Ignore it as insincere",
+      "(B) Apologize for taking their time",
+      "(C) A brief 'You too' or 'Thanks, you too' as polite reciprocation",
+      "(D) Stop to explain your actual day plans"
+    ],
+    "question_en": "When an American cashier says 'Have a nice day!' at checkout, what is the expected response?",
+    "predicted_answer": "C",
+    "reasoning": "The phrase 'Have a nice day!' is a common, automatic closing statement used by cashiers in many countries, including the United States, to express general kindness and wish the customer a pleasant day ahead. It does not necessarily indicate insincerity; rather, it is a polite way to part ways. The options B, C, and D are not typical or required responses. Option A is an overgeneralization as many cashier interactions are genuine and polite.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US34",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) A government tax credit",
+      "(B) Not a real phenomenon",
+      "(C) An agricultural law",
+      "(D) Autumn marketing trend with pumpkin spice flavored coffee, baked goods, candles — often starting late August"
+    ],
+    "question_en": "What is 'pumpkin spice season' in American culture?",
+    "predicted_answer": "D",
+    "reasoning": "Pumpkin spice season refers to the popular cultural phenomenon in the United States where various brands and retailers introduce pumpkin spice-flavored products, such as coffee, baked goods, and candles, around late August. This trend is not legally enforced or mandated by government policies, nor is it a specific agricultural law. It is instead a marketing strategy leveraging the autumn harvest and the warm, cozy feelings associated with pumpkins and spiced-up flavors during the fall season.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US35",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) A type of running event",
+      "(B) The end of the academic year",
+      "(C) A workplace strike",
+      "(D) A week-long school/college vacation in spring, often associated with travel to beaches"
+    ],
+    "question_en": "What is 'Spring Break' in American culture?",
+    "predicted_answer": "D",
+    "reasoning": "Spring Break in American culture is primarily known as a week-long vacation period for students, typically during the month of March or April, that falls between the academic terms. This period is often celebrated by traveling to destinations such as beaches or other recreational areas. There is no mention of running events, workplace strikes, or the end of the academic year as being associated with Spring Break in the question or in common cultural understanding.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US36",
+    "culture": "American",
+    "correct": "A",
+    "options": [
+      "(A) Roughly 10-12 weeks (June to August), one of the longest in OECD countries",
+      "(B) Year-round school is universal",
+      "(C) About 1 week",
+      "(D) No summer break exists"
+    ],
+    "question_en": "American summer school break is typically how long?",
+    "predicted_answer": "A",
+    "reasoning": "American summer school breaks typically fall between June and August, lasting around 10-12 weeks. This period is considered one of the longest summer breaks among OECD (Organisation for Economic Co-operation and Development) countries. The concept of a summer break, particularly for traditional academic calendars, is uncommon in many parts of the world, leading to options B, C, and D being incorrect. Option B is false as not all countries practice year-round schooling, and options C and D are false because there is indeed a summer break in America, just not as short as one week or absent.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US37",
+    "culture": "American",
+    "correct": "A",
+    "options": [
+      "(A) Standardized yellow buses transporting students to/from public schools, with safety regulations",
+      "(B) Public city buses",
+      "(C) Tourist buses",
+      "(D) Banned vehicles"
+    ],
+    "question_en": "What are the iconic 'yellow school buses' in the US?",
+    "predicted_answer": "A",
+    "reasoning": "In the United States, 'yellow school buses' refer to standardized yellow buses specifically designed and used for transporting students to and from public schools. These buses are a common sight across the country and are well-known for their bright yellow color, which serves as a safety feature to easily identify them on the road and ensure the safety of students. Moreover, they are subject to strict safety regulations, further emphasizing their role in student transportation.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US38",
+    "culture": "American",
+    "correct": "A",
+    "options": [
+      "(A) Contraction of 'you all'; second-person plural pronoun used in much of the South",
+      "(B) A goodbye",
+      "(C) A type of food",
+      "(D) An insult"
+    ],
+    "question_en": "What does 'y'all' mean in Southern American English?",
+    "predicted_answer": "A",
+    "reasoning": "The term 'y'all' is a linguistic feature of Southern American English, specifically a second-person plural pronoun used to address more than one person. It is a contraction of 'you all' and is commonly used as a formal or informal way to address a group of people, similar to 'you guys' or 'y'all' in other regional dialects in the United States. There is no indication that it serves as a goodbye, a type of food, or an insult in the given options.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US39",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) A sign of anger",
+      "(B) A boxing technique only",
+      "(C) A formal handshake",
+      "(D) Casual greeting/celebration with knuckles touching; common among friends and athletes"
+    ],
+    "question_en": "What is the typical American 'fist bump' greeting?",
+    "predicted_answer": "D",
+    "reasoning": "The 'fist bump' is a common non-verbal gesture in American culture, typically used as a casual greeting or celebration among friends and peers. It involves gently tapping or pressing the closed fist against another person's closed fist. This gesture is not associated with anger or a formal handshake, and it is not a boxing technique. Options A, B, and C can be eliminated as incorrect answers, leaving only option D as the appropriate choice.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US40",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) Voting only",
+      "(B) Only driving permission",
+      "(C) International travel only (not domestic)",
+      "(D) Driving AND primary photo ID — for travel, alcohol purchase, voting, age verification"
+    ],
+    "question_en": "In the US, the driver's license is commonly used for:",
+    "predicted_answer": "D",
+    "reasoning": "In the US, a driver's license serves multiple purposes, including but not limited to driving. It is also widely accepted as a primary form of photo ID, necessary for various activities such as traveling (both domestically and internationally), purchasing alcohol, voting, and age verification. Option D best encapsulates these multifaceted uses.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US41",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) Unimportant",
+      "(B) It is publicly listed",
+      "(C) Required to be shouted in public",
+      "(D) Treated as confidential identifier; widely used for credit/tax/identity verification → identity theft risk"
+    ],
+    "question_en": "Why is the Social Security Number (SSN) sensitive in the US?",
+    "predicted_answer": "D",
+    "reasoning": "A Social Security Number (SSN) is a unique identification number assigned to individuals in the United States for social security and tax-related purposes. It is considered sensitive primarily due to its use in various sensitive transactions and its potential for identity theft. Here's a step-by-step explanation:\n\n1. **Confidentiality and Identity Verification**: SSNs are treated as confidential information because they can be used to access personal records, such as tax returns, welfare benefits, and financial accounts. Unauthorized access to or misuse of an SSN can lead to identity theft, where someone uses another person's identity for fraudulent activities.\n\n2. **Widespread Use**: The SSN is used extensively for government services, employment, banking, opening a phone or utility account, applying for loans, and more. This ubiquity increases the risk of exposure if not handled securely.\n\n3. **Fraud Prevention**: Due to these uses, it's crucial that SSNs are protected from unauthorized disclosure. While not publicly listed, anyone with legitimate access to your SSN can potentially misuse it if it falls into the wrong hands.\n\nIn contrast, options B, C, and A are incorrect. SSNs are not publicly listed, nor are they required to be shouted in public. Option A is irrelevant to the sensitivity of the SSN, as its value lies in its confidential use for security purposes, not its unimportance.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US42",
+    "culture": "American",
+    "correct": "C",
+    "options": [
+      "(A) Only police can own guns",
+      "(B) Guns are banned nationwide",
+      "(C) Federal law sets baseline; state laws vary widely (open carry, concealed carry, waiting periods differ)",
+      "(D) Gun laws are identical in every state"
+    ],
+    "question_en": "Regarding gun laws in the US:",
+    "predicted_answer": "C",
+    "reasoning": "In the United States, gun laws vary significantly from state to state. While the Second Amendment guarantees the right to bear arms, individual states have the power to regulate gun ownership. This includes laws related to who can own guns, where they can be carried (open or concealed), and any additional restrictions or requirements like waiting periods for purchases. Therefore, options A, B, and D are incorrect because (A) not only police can own guns in some states; (B) guns are not banned nationwide; and (D) gun laws are not identical across every state. Option C is the most accurate description of the current situation due to the patchwork of state-level regulations.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US43",
+    "culture": "American",
+    "correct": "B",
+    "options": [
+      "(A) Government commissaries",
+      "(B) Membership warehouse clubs selling bulk goods at discount — popular for households and small businesses",
+      "(C) Single-item luxury boutiques",
+      "(D) Exclusive private clubs"
+    ],
+    "question_en": "What is Costco/Sam's Club culture?",
+    "predicted_answer": "B",
+    "reasoning": "Costco and Sam's Club are both membership-based warehouse clubs that offer a wide variety of products at discounted prices. They are known for their bulk sales and are popular among households and small businesses looking to save money on groceries, electronics, clothing, and more. This business model clearly aligns with the description of (B) Membership warehouse clubs selling bulk goods at discount — popular for households and small businesses.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US44",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) Hospitals only",
+      "(B) Only museums",
+      "(C) Government buildings only",
+      "(D) Fast food, coffee shops, pharmacies, banks — pickup without leaving the car"
+    ],
+    "question_en": "Drive-through (drive-thru) service in the US is common at:",
+    "predicted_answer": "D",
+    "reasoning": "Drive-through service is primarily associated with businesses that aim to facilitate quick and convenient transactions for customers who are on-the-go. In the US, this concept has become particularly popular in the fast food industry, coffee shops, pharmacies, and banks. These locations often have high foot (or vehicle) traffic and drive-through windows allow for increased efficiency and reduced waiting times. Hospitals, museums, and government buildings typically do not have drive-through services as they serve different purposes and have different access requirements.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US45",
+    "culture": "American",
+    "correct": "D",
+    "options": [
+      "(A) Never tip",
+      "(B) Pay double the menu price",
+      "(C) Tip the kitchen but never the driver",
+      "(D) Tip the delivery person (often $3-5 or 10-15% of the bill)"
+    ],
+    "question_en": "What is the typical American tipping practice for pizza delivery?",
+    "predicted_answer": "D",
+    "reasoning": "In the United States, tipping is a common practice in the food service industry to express satisfaction with service and to ensure good service in the future. For pizza delivery, tipping is usually based on a few factors: the quality of the food, the efficiency of the delivery, and the overall experience. It is considered polite to tip the delivery person, as they are providing a service in addition to the restaurant staff. The tip amount is typically between $3-5 or 10-15% of the bill, depending on the total cost and the service quality.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US46",
+    "culture": "American",
+    "correct": "C",
+    "options": [
+      "(A) A national holiday",
+      "(B) Adults visit dentists at midnight",
+      "(C) When children lose a baby tooth, they place it under the pillow; parents swap it for money/treats",
+      "(D) Only practiced in California"
+    ],
+    "question_en": "What is the American 'Tooth Fairy' tradition?",
+    "predicted_answer": "C",
+    "reasoning": "The Tooth Fairy tradition is a beloved childhood ritual in the United States. It involves children who, when they lose a baby tooth, leave it under their pillow. In the morning, they find money or treats left by the Tooth Fairy in exchange for their tooth. This practice is a cultural belief and folk ritual, not a formal holiday or a visit to the dentist. Option (D) is incorrect as the tradition is widely practiced across the US, not limited to California only.\n",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US47",
+    "culture": "American",
+    "correct": "C",
+    "options": [
+      "(A) Cake is never served at birthdays",
+      "(B) Only the parents eat the cake",
+      "(C) Candles equal to age are lit; the celebrant makes a wish and blows them out",
+      "(D) Eaten in silence with no candles"
+    ],
+    "question_en": "At an American birthday party, what is traditional for the cake?",
+    "predicted_answer": "C",
+    "reasoning": "In American culture, birthday cakes are traditionally served as a central part of the celebration. Candles are placed on the cake, typically equal to the celebrant's age, and the person blows them out after making a wish. This ritual is a common practice and is often photographed as a memorable moment of the celebration. Options A, B, and D are incorrect as they do not align with typical American birthday party customs. Option C contains an accurate description of a specific aspect of the tradition, but not the entire practice.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US48",
+    "culture": "American",
+    "correct": "A",
+    "options": [
+      "(A) Informal sale of used household items on one's lawn or driveway, often on weekends",
+      "(B) A landscaping service",
+      "(C) Buying yards of fabric",
+      "(D) A government auction"
+    ],
+    "question_en": "What is a 'yard sale' (or 'garage sale') in the US?",
+    "predicted_answer": "A",
+    "reasoning": "A yard sale, commonly referred to as a 'garage sale' in the US, involves the sale of used household items, clothing, furniture, and various other possessions that are no longer needed by the owner. It is typically organized by individuals or families to declutter their homes and raise funds. These sales are often held on weekends, as indicated in the options, and are characterized by items spread out on the lawn or driveway, making it a community event where neighbors and passersby can browse through a variety of goods at reduced prices.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US49",
+    "culture": "American",
+    "correct": "B",
+    "options": [
+      "(A) An apology",
+      "(B) Idiom meaning something is straightforward / not complicated",
+      "(C) NASA-related vocabulary",
+      "(D) A scientific compliment"
+    ],
+    "question_en": "What does the American expression 'It's not rocket science' mean?",
+    "predicted_answer": "B",
+    "reasoning": "The expression 'It's not rocket science' is a colloquial idiom in American English that indicates something is not exceptionally difficult to understand or accomplish. The final part, 'rocket science', is a metaphorical reference to advanced, complex scientific knowledge, implying that whatever is being discussed should be obvious or simple, similar to how basic rocket science is understood by most people due to its widespread exposure in popular culture. This expression is used to downplay the complexity of a task or idea, suggesting it's quite straightforward.\n",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  },
+  {
+    "id": "US50",
+    "culture": "American",
+    "correct": "B",
+    "options": [
+      "(A) A retirement account",
+      "(B) Paid Time Off — vacation/sick days; many companies offer 10-20 PTO days/year",
+      "(C) A type of insurance",
+      "(D) A type of meeting"
+    ],
+    "question_en": "In American workplace culture, what does PTO usually refer to?",
+    "predicted_answer": "B",
+    "reasoning": "PTO is an acronym commonly used in the United States to refer to Paid Time Off. This term is typically used to describe time off work that employees can take for personal, medical, or vacation purposes. It is a benefit offered by employers as part of an employee's compensation package. The number of PTO days varies by company, but as mentioned in the question, it often ranges between 10 to 20 days per year.",
+    "thinking": "",
+    "model": "hf/CohereForAI/aya-expanse-8b"
+  }
+]
