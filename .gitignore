@@ -1,9 +1,9 @@
-results/baseline_*.json
-results/hints_*.json
 results/_log_*.txt
 results/*.png
 __pycache__/
 *.pyc
 .DS_Store
 .venv/
+.venv_slurm/
 .env
+slurm_logs/
