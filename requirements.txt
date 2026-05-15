@@ -4,6 +4,8 @@
 google-genai>=1.0.0        # Gemini via Vertex AI
 groq>=0.11.0               # Groq (Llama, Qwen, Mixtral)
 openai>=1.40.0             # OpenAI (GPT-4o, GPT-4o-mini)
+transformers>=4.45.0       # local HF models (e.g. Aya Expanse, Qwen)
+accelerate>=0.34.0         # device_map='auto' for local HF models
 
 # Analysis helpers
 numpy>=1.24

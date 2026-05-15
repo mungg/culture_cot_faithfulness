@@ -39,6 +39,7 @@ writes both a human-readable `.txt` and a structured `.json`.
 ```bash
 # 1. Install
 pip install -r requirements.txt
+# For local HF models on GPU clusters, install a CUDA-matched PyTorch too.
 
 # 2. Auth — only the provider you actually use:
 gcloud auth application-default login                # Gemini (Vertex AI)
@@ -46,6 +47,7 @@ export VERTEX_PROJECT=your-gcp-project               # required for Gemini
 export VERTEX_USER_LABEL=yourname                    # optional billing label
 export GROQ_API_KEY=...                              # Groq (Llama / Qwen)
 export OPENAI_API_KEY=...                            # OpenAI
+# export HF_TOKEN=...                                # optional, for gated HF repos
 
 # 3. Sanity check (recommended before long runs):
 python scripts/setup_check.py --model groq/qwen-3-32b
@@ -106,6 +108,8 @@ groq/llama-3.3-70b-versatile
 groq/qwen-2.5-32b
 groq/qwen-3-32b
 openai/gpt-4o-mini
+hf/CohereForAI/aya-expanse-8b
+hf/Qwen/Qwen3-8B
 ```
 
 Add a new provider by extending `scripts/_models.py`.
@@ -115,6 +119,45 @@ with no separate thinking trace. `--want-thinking` is silently
 ignored; the `thinking` field in output JSON will be an empty string.
 The visible `reasoning` field is still used by the analyzer for
 hint-acknowledgment detection.
+
+**Note for local HF models:** `hf/<repo>` loads the model through
+`transformers` on the current machine (intended for GPU nodes / Slurm).
+Useful env knobs are `HF_HOME`, `HF_DTYPE` (default `bfloat16`),
+`HF_DEVICE_MAP` (default `auto`), and `HF_ATTN_IMPL`.
+
+## Slurm runs
+
+For local cluster runs, use the end-to-end wrapper:
+
+```bash
+python scripts/run_pipeline.py \
+    --model hf/CohereForAI/aya-expanse-8b \
+    --dataset cultureMCQA --culture american \
+    --run-name aya8b_culturemcqa_american
+```
+
+Or submit a whole sweep with Slurm:
+
+```bash
+python scripts/submit_slurm.py \
+    --models hf/CohereForAI/aya-expanse-8b hf/Qwen/Qwen3-8B \
+    --datasets cultureMCQA gsm8k xsafety \
+    --partition gpu \
+    --account your_slurm_account \
+    --time 08:00:00 \
+    --mem 64G \
+    --cpus-per-task 8 \
+    --gpus 1 \
+    --venv-activate /path/to/venv/bin/activate
+```
+
+That helper submits:
+- one job per `(model, culture)` for `cultureMCQA`
+- one job per `(model, dataset)` for `gsm8k`
+- one job per `(model, xsafety)` run
+
+The batch entrypoint is `slurm/run_pipeline.sbatch`. It validates the
+MCQA files first, then runs baseline → hints → analysis inside one job.
 
 ## What ends up in `results/`
 

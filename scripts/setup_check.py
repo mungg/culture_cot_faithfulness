@@ -38,6 +38,11 @@ PROVIDER_REQS = {
         "env": ["OPENAI_API_KEY (required)"],
         "auth_note": "Get a key at https://platform.openai.com.",
     },
+    "hf": {
+        "package": "transformers",
+        "env": ["HF_TOKEN (optional; needed for gated repos)", "HF_HOME (optional cache dir)"],
+        "auth_note": "Install a CUDA-matched PyTorch build separately if needed.",
+    },
 }
 
 
