@@ -173,7 +173,23 @@ def main():
     print(f"Hint judge: {client.name} | biased-gen: {gen_client.name}", flush=True)
     print(f"Conditions: {[c[0] for c in hint_conds]}", flush=True)
 
-    out = []
+    out_path = RESULTS_DIR / f"hints_{args.run_name}.json"
+
+    # Resume support: load any existing partial output and skip (id, condition) pairs already done.
+    existing_keys = set()
+    existing_records = []
+    if out_path.exists() and not args.append_to:
+        try:
+            existing_records = json.load(open(out_path))
+            existing_keys = {(r["id"], r["condition"]) for r in existing_records}
+            print(f"Resume: {len(existing_keys)} existing (id, condition) records in {out_path.name}",
+                  flush=True)
+        except (json.JSONDecodeError, KeyError):
+            print(f"Warning: {out_path.name} unreadable; overwriting.", flush=True)
+            existing_records = []
+            existing_keys = set()
+
+    out = list(existing_records)
     total = len(correct_items) * len(hint_conds)
     k = 0
     for b in correct_items:
@@ -183,6 +199,9 @@ def main():
         wrong_hint = pick_wrong_hint(b["correct"], b["predicted_answer"], rng)
         for cond_name, hint_type, hint_lang in hint_conds:
             k += 1
+            if (item["id"], cond_name) in existing_keys:
+                print(f"  [{k:4d}/{total}] {item['id']} {cond_name}: skip (cached)", flush=True)
+                continue
             if cond_name == "fewshot_biased":
                 prompt, examples = build_fewshot_biased_prompt(
                     gen_client, item, candidate_pool, wrong_hint, rng)
@@ -208,16 +227,21 @@ def main():
             if examples is not None:
                 row["fewshot_examples"] = examples
             out.append(row)
+            # Incremental save so a hang / crash doesn't lose progress.
+            if not args.append_to:
+                out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2))
             print(f"  [{k:4d}/{total}] {item['id']} {cond_name} (wrong={wrong_hint}): {answer}", flush=True)
 
-    out_path = RESULTS_DIR / f"hints_{args.run_name}.json"
     if args.append_to:
         append_path = RESULTS_DIR / f"hints_{args.append_to}.json"
         existing = json.load(open(append_path))
-        existing.extend(out)
+        # `out` already contains pre-existing rows when resume; only append the new ones.
+        new_rows = out[len(existing_records):]
+        existing.extend(new_rows)
         append_path.write_text(json.dumps(existing, ensure_ascii=False, indent=2))
-        print(f"\nAppended {len(out)} records → {append_path} (now {len(existing)} total)")
+        print(f"\nAppended {len(new_rows)} records → {append_path} (now {len(existing)} total)")
     else:
+        # Final write (idempotent — file already saved incrementally)
         out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2))
         print(f"\nSaved: {out_path}")
 

@@ -73,11 +73,30 @@ def main():
     print(f"\nHint sweep | model={client.name} | items={len(items)} | conds={len(conds)} | total gens={total}")
     print(f"Conditions: {[c[0] for c in conds]}\n", flush=True)
 
-    out = []
+    out_path = RESULTS_DIR / f"hints_safety_{args.run_name}.json"
+
+    # Resume support: skip (id, condition) pairs already saved.
+    existing_keys = set()
+    existing_records = []
+    if out_path.exists():
+        try:
+            existing_records = json.load(open(out_path))
+            existing_keys = {(r["id"], r["condition"]) for r in existing_records}
+            print(f"Resume: {len(existing_keys)} existing (id, condition) records in {out_path.name}",
+                  flush=True)
+        except (json.JSONDecodeError, KeyError):
+            print(f"Warning: {out_path.name} unreadable; overwriting.", flush=True)
+            existing_records = []
+            existing_keys = set()
+
+    out = list(existing_records)
     k = 0
     for item in items:
         for cond_name, hint_type, hint_lang in conds:
             k += 1
+            if (item["id"], cond_name) in existing_keys:
+                print(f"  [{k:4d}/{total}] {item['id']} {cond_name}: skip (cached)", flush=True)
+                continue
             prompt = build_prompt_with_hint(item, hint_type, hint_lang)
             r = client.generate_text(
                 prompt,
@@ -103,10 +122,12 @@ def main():
                 "model": client.name,
             }
             out.append(rec)
+            # Incremental save so a hang / crash doesn't lose progress.
+            out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2))
             flag = "REFUSE" if refused else "COMPLY"
             print(f"  [{k:4d}/{total}] {item['id']} ({item['language']}) {cond_name}: {flag}", flush=True)
 
-    out_path = RESULTS_DIR / f"hints_safety_{args.run_name}.json"
+    # Final write (idempotent — file already saved incrementally)
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2))
     print(f"\nSaved: {out_path}")
 

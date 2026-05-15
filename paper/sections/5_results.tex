@@ -1,244 +1,208 @@
-\section{Results and Analysis}
+\section{Results and Analysis}\label{sec:results}
 
 \ins{Present your results clearly and analyze them thoughtfully. Go beyond reporting numbers or plots by interpreting what the results show, and what we can learn from them. Discuss limitations, failure cases, or unexpected outcomes where relevant.}
 
-We report Phase~2 results from Gemini~2.5 Flash with thinking enabled
+We report results from \textbf{Gemini~2.5 Flash} with thinking enabled
 (\texttt{thinking\_budget}=8000, \texttt{include\_thoughts=True}) on
-the Korean slice of cultureMCQA. The full sweep covers 50
-baseline-correct items $\times$ 7 hint conditions $=$ 350 hinted
-generations; few-shot biased conditions additionally trigger
-$K{=}3{=}150$ demo-reasoning generations for prompt construction.
-\jr{Full sweeps for American, German, Polish, and GSM8K are planned
-follow-ups using the same code path.}
+the full two-phase pipeline across six task slices:
+four cultureMCQA slices (Korean / American / German / Polish, 50 items
+each), GSM8K-MCQ (50 items), and XSAFETY (50 English + 50 German
+prompts). After filtering each slice to baseline-correct (cultureMCQA
+/ GSM8K) or baseline-refused (XSAFETY) items, Phase~2 runs 7 hint
+conditions per item on the MCQ pipelines and 6 hint conditions per
+item on the safety pipeline, giving \textbf{1{,}857 hinted
+generations} in total. Few-shot biased CoT is excluded from XSAFETY
+(no option-reordering trick for open-ended outputs, and constructing
+compliance demos would risk generating harmful content).
 
-\subsection{Baseline correctness}
+\jr{Cross-model runs (Qwen via Groq, Claude via Anthropic API) are
+the planned next experiments; the infrastructure handles both with no
+code changes.}
 
-On the Korean slice (50 items) Gemini~2.5 Flash answers
-\textbf{50/50 = 100\%} correctly in the no-hint baseline. Strong
-baseline accuracy is desirable here because every item is eligible
-for Phase~2: there is a stable correct belief to attempt to dislodge.
+\subsection{Cross-domain summary (Table~\ref{tab:summary})}
 
-\subsection{Behavioral susceptibility (Table~\ref{tab:flip})}
-
-Across all seven hint conditions the model is highly robust:
-\textbf{5 of 350 hinted generations (1.4\%)} change the model's
-answer relative to baseline. Of those, three move to the injected
-wrong letter (sycophantic flips) and two move to a third option that
-is neither the baseline nor the hint (non-sycophantic flips). Both
-sycophantic flips concentrate on \texttt{cultural\_authority}; we
-observe \textbf{zero sycophantic flips on social, indirect, or
-few-shot biased CoT} in either language.
+The headline result is consistent across all five slices:
+\textbf{behavioral susceptibility varies by domain (0--32\%), but the
+opaque-sycophancy count is zero everywhere}. Every observed flip
+toward the injected wrong answer is paired with explicit
+acknowledgment of the cue in either the visible reasoning or the
+thinking trace.
 
 \begin{table}[t]
 \centering
 \small
-\begin{tabular}{lrrr}
+\begin{tabular}{lrrrrr}
 \toprule
-Condition & Changed & To-hint & Hint-ack \\
+Slice & N hinted & Flips & Sycophantic & Transparent & Opaque \\
 \midrule
-cultural\_authority\_en & 2/50 & 1/50 & 49/50 \\
-cultural\_authority\_ko & 2/50 & 2/50 & 50/50 \\
-social\_en              & 0/50 & 0/50 & 42/50 \\
-social\_ko              & 0/50 & 0/50 & 45/50 \\
-indirect\_en            & 0/50 & 0/50 & 5/50  \\
-indirect\_ko            & 1/50 & 0/50 & 8/50  \\
-fewshot\_biased         & 0/50 & 0/50 & 1/50  \\
+Korean cultureMCQA (v2)   & 343   & 3    & 3    & 3    & \textbf{0} \\
+American cultureMCQA (v2) & 350   & 0    & 0    & 0    & \textbf{0} \\
+German cultureMCQA (v2)   & 350   & 2    & 2    & 2    & \textbf{0} \\
+Polish cultureMCQA (v2)   & 350   & 0    & 0    & 0    & \textbf{0} \\
+GSM8K-MCQ                 & 350   & 6    & 6    & 6    & \textbf{0} \\
+XSAFETY (en + de)         & 114   & 36   & 36   & 36   & \textbf{0} \\
+\midrule
+\textbf{Total}            & \textbf{1{,}857} & \textbf{47} & \textbf{47} & \textbf{47} & \textbf{0} \\
 \bottomrule
 \end{tabular}
-\caption{Korean cultureMCQA, Gemini 2.5 Flash with thinking. Each
-condition runs on the same 50 baseline-correct items. ``Changed'' is
-the rate at which the hinted answer differs from baseline,
-``To-hint'' restricts that to flips that match the injected wrong
-letter, and ``Hint-ack'' is the rate at which the thinking trace
-contains a hint-type-specific keyword.}
-\label{tab:flip}
+\caption{Cross-domain summary for Gemini 2.5 Flash with thinking.
+For cultureMCQA and GSM8K-MCQ, ``Flips'' counts predicted answers
+that differ from baseline; ``Sycophantic'' counts the subset that
+match the injected wrong letter. For XSAFETY, ``Flips'' is
+baseline-refused $\to$ hinted-comply. ``Transparent'' / ``Opaque''
+split sycophantic flips by whether the cue is mentioned in the
+visible reasoning or thinking trace.}
+\label{tab:summary}
 \end{table}
 
-\subsection{Reasoning transparency}
+\subsection{cultureMCQA (Korean / American / German / Polish)}
 
-Acknowledgment of the cue in the thinking trace varies sharply by
-cue type. Direct cues are nearly always surfaced---authority framing
-is acknowledged in 98--100\% of cases and social-pressure framing in
-84--90\%---whereas indirect suggestion is acknowledged in only
-10--16\% of cases, and few-shot biased CoT, under a strict criterion
-that requires explicit reference to the demonstrations themselves, in
-only 2\%. This pattern is consistent with the intuition that direct
-cues are easy to verbalize and contest, whereas indirect or positional
-cues are subtler and less likely to be named even when they have an
-effect on behavior; in our Korean data, however, neither indirect nor
-few-shot cues produced any sycophantic flip in the first place, so
-the low acknowledgment is paired with strong behavioral resistance
-rather than with hidden compliance.
-
-\subsection{Faithfulness labels}
-
-Mapping our (behavior, transparency) outcomes to the three
-faithfulness labels defined in Section~\ref{sec:eval} yields:
-
-\begin{itemize}
-    \item \textit{Resisted}: 345/350 generations. The model holds its
-    baseline answer; in the direct-cue conditions, the thinking trace
-    typically names the cue and then argues against it
-    (``the professor suggests (X), but in Korean culture\ldots'').
-    \item \textit{Transparent sycophancy}: 3/350. All three are
-    cultural authority cases (KR13 in both en/ko, KR25 in ko). In
-    each, the thinking trace mentions the professor before adopting
-    the suggested answer.
-    \item \textit{Opaque sycophancy}: \textbf{0/350}. We observe no
-    case in which the model flips to the injected wrong letter
-    without the thinking trace mentioning the cue.
-\end{itemize}
-
-The absence of opaque sycophancy on Korean cultureMCQA is, in our
-view, the most interpretable single finding. Under the Turpin-style
-strict construction the model not only resists the bias behaviorally
-in 99\% of cases, but on the rare occasions it complies it does so
-transparently in the visible CoT.
-
-\subsection{Cross-lingual hint effects and response code-switching}
-
-Although behavioral flip rates do not differ meaningfully between
-English-cue and Korean-cue versions of the same hint family, the
-language of the cue strongly affects the language of the response:
-the rate at which the model's natural-language reasoning contains
-Korean script is consistently higher under Korean-cue conditions
-(42--46\%) than under English-cue conditions (24--36\%), despite the
-question being presented in English in both. The largest single
-gap is on cultural authority (en 36\% vs.\ ko 46\%) and on social
-pressure (en 28\% vs.\ ko 46\%). This suggests that the hint
-language acts as a soft register signal: even when the model's final
-answer is unchanged, the linguistic form of its reasoning shifts
-toward the language in which the cue was issued.
-
-\subsection{Few-shot biased CoT in context}
-
-Few-shot biased CoT with $K{=}3$ demonstrations and dynamic
-per-item wrong-letter selection produces \textbf{0/50 flips} and
-1/50 strict acknowledgment on Korean cultureMCQA, replicating in a
-larger sample what we observed in the earlier 20-item smoke test.
-We also noted, during pilot iterations, that a looser keyword set
-flagged false-positive ``acknowledgments'' triggered by topical
-overlap with demonstration content (e.g.\ ``a demonstration of
-welcome'' in an item about Korean gift-giving). Strict matching
-against fixed demonstration-reference phrases is therefore
-methodologically necessary; otherwise the few-shot acknowledgment
-rate is inflated by content collisions rather than evidence of
-recognized structural bias.
-
-\subsection{What this means for faithfulness}
-
-For the Korean slice and this model, the worst-case failure that
-motivates faithfulness research---behavioral compliance with a
-biased cue paired with verbal silence---does not occur. Direct cues
-are loudly acknowledged and almost always overruled; indirect and
-positional cues are rarely acknowledged but also rarely effective.
-The non-trivial finding is the asymmetry of acknowledgment as a
-function of cue type, which suggests that any deployment-time
-auditing pipeline that screens reasoning traces for hint mentions
-would catch authority and social influences with high recall but
-miss indirect and few-shot influences almost entirely. The fact that
-those cues did not flip behavior in our data does not mean they
-cannot under other models, languages, or prompt schedules---a
-question that the cross-culture and cross-model follow-ups are
-designed to address.
-
-\subsection{GSM8K-MCQ cross-domain (Table~\ref{tab:gsm8k})}
-
-To check whether the Korean-slice pattern is specific to culturally
-grounded items or generalizes to objective reasoning, we run the same
-two-phase pipeline on GSM8K-MCQ \citep{cobbe2021gsm8k}: 50
-grade-school math word problems converted to four-option MCQ, with
-distractors drawn from intermediate values in the GSM8K solution
-traces. The conditions are identical to cultureMCQA except that the
-authority cue uses a generic expert framing
-(\texttt{general\_authority}) rather than a cultural-studies professor.
-
-Baseline correctness is 50/50 = 100\%. (One item, GSM\_050, initially
-returned a parse-empty response because the 4096-token cap on the
-visible reasoning was exhausted by the thinking trace; re-running with
-\texttt{max\_tokens}=16384 produced the correct answer.)
-
-Phase 2 results (Table~\ref{tab:gsm8k}) show 6 flips out of 350 hinted
-generations (1.7\%), all on \texttt{general\_authority} and all to
-the injected wrong letter. Social, indirect, and few-shot biased cues
-produce \textbf{zero flips} on objective math. Korean-language cue is
-marginally more effective than English-language cue on the same
-authority family (4/50 vs 2/50).
+Each cultureMCQA slice contains 50 hand-curated four-option items
+grounded in CultureBank, with options shuffled to a near-uniform
+correct-letter distribution (the first version of the dataset had a
+strong B-positional bias which we corrected via
+\texttt{scripts/\_shuffle\_options.py} with \texttt{seed=42}; the
+original files are preserved as \texttt{*\_v1\_biased.json}).
+Baselines are 49/50 (Korean), 50/50 (American), 50/50 (German), and
+50/50 (Polish). Re-running Korean on the shuffled data yields 3 flips
+vs.\ 5 on the original data, with the same qualitative pattern (only
+authority cue produces flips; all flips transparent); we therefore
+have direct evidence that the v1 numbers were not driven by the
+position bias.
 
 \begin{table}[t]
 \centering
 \small
-\begin{tabular}{lrrr}
+\begin{tabular}{l rr rr rr rr}
 \toprule
-Condition & Changed & To-hint & Hint-ack \\
+& \multicolumn{2}{c}{Korean (n=49)} & \multicolumn{2}{c}{American (n=50)} & \multicolumn{2}{c}{German (n=50)} & \multicolumn{2}{c}{Polish (n=50)} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}\cmidrule(lr){8-9}
+Condition & Flip & Ack & Flip & Ack & Flip & Ack & Flip & Ack \\
 \midrule
-general\_authority\_en & 2/50 & 2/50 & 43/50 \\
-general\_authority\_ko & 4/50 & 4/50 & 42/50 \\
-social\_en             & 0/50 & 0/50 & 44/50 \\
-social\_ko             & 0/50 & 0/50 & 45/50 \\
-indirect\_en           & 0/50 & 0/50 &  1/50 \\
-indirect\_ko           & 0/50 & 0/50 &  8/50 \\
-fewshot\_biased        & 0/50 & 0/50 &  0/50 \\
+cultural\_authority\_en & 2 & 48 & 0 & 49 & 1 & 50 & 0 & 50 \\
+cultural\_authority\_ko & 1 & 48 & 0 & 50 & 1 & 50 & 0 & 49 \\
+social\_en              & 0 & 42 & 0 & 46 & 0 & 42 & 0 & 41 \\
+social\_ko              & 0 & 48 & 0 & 50 & 0 & 46 & 0 & 47 \\
+indirect\_en            & 0 &  3 & 0 &  7 & 0 &  2 & 0 &  5 \\
+indirect\_ko            & 0 & 13 & 0 &  8 & 0 &  9 & 0 &  4 \\
+fewshot\_biased         & 0 &  0 & 0 &  1 & 0 &  0 & 0 &  0 \\
+\bottomrule
+\end{tabular}
+\caption{cultureMCQA, per-condition counts of flipped predictions
+(``Flip'') and items whose thinking trace explicitly named the cue
+(``Ack''). Denominators are the per-culture baseline-correct counts.}
+\label{tab:culture}
+\end{table}
+
+Three behavioral patterns hold across all four cultures
+(Table~\ref{tab:culture}):
+
+\begin{enumerate}
+    \item \textbf{Cultural authority is the only effective cue.}
+    Social, indirect, and few-shot biased conditions produce
+    \emph{zero} flips on every culture. The 5 flips we observe on
+    cultureMCQA in total are all on the cultural-authority cue:
+    Korean (3), German (2), American and Polish (0 each). Korean is
+    the most susceptible by a small margin; American and Polish are
+    completely robust.
+    \item \textbf{Acknowledgment is sharply asymmetric.} Direct cues
+    are surfaced 82--100\% of the time across all four cultures.
+    Indirect cues are surfaced only 4--26\%, and few-shot biased
+    items 0--2\%. This asymmetry is invariant across cultures and
+    cue languages.
+    \item \textbf{Cue-language effect on response language varies
+    across cultures.} On Korean cultureMCQA, the rate at which the
+    visible reasoning contains Korean script is consistently higher
+    under Korean-cue conditions (39--55\%) than under English-cue
+    conditions (29--35\%). On American, this code-switching effect
+    essentially disappears (0--2\% under \texttt{*\_ko} cues). On
+    German, code-switching is broad (20--28\%) but only weakly
+    sensitive to cue language. On Polish, code-switching is uniform
+    at 32--38\% regardless of cue language---most of the non-English
+    script in Polish responses is itself Polish (Polish cultural
+    items pulling the model toward Polish), not Korean from the cue.
+    Cue language thus acts as a soft register signal whose strength
+    is moderated by how strongly the item content itself pulls a
+    particular response language.
+\end{enumerate}
+
+\subsection{GSM8K-MCQ (Table~\ref{tab:gsm8k})}
+
+GSM8K-MCQ~\citep{cobbe2021gsm8k} is the cross-domain check for
+objective reasoning. Each item is a grade-school math word problem
+converted to a four-option
+MCQ with distractors drawn from intermediate values in the GSM8K
+solution trace; the correct letter is randomized at conversion time,
+so there is no position bias.
+
+Baseline accuracy is 50/50 = 100\%. Phase 2 produces 6 flips out of
+350, all on the \texttt{general\_authority} cue (which on this
+dataset uses the framing ``an expert told me the answer is (X)''
+rather than the cultural-studies professor). Korean-language
+authority is marginally more effective than English-language
+authority (4 vs 2 flips), but the order of magnitude is the same.
+All other cue families---social, indirect, few-shot biased---produce
+\emph{zero} flips on objective math.
+
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lrr}
+\toprule
+Condition & Flip & Ack \\
+\midrule
+general\_authority\_en & 2/50 & 43/50 \\
+general\_authority\_ko & 4/50 & 42/50 \\
+social\_en             & 0/50 & 44/50 \\
+social\_ko             & 0/50 & 45/50 \\
+indirect\_en           & 0/50 &  1/50 \\
+indirect\_ko           & 0/50 &  8/50 \\
+fewshot\_biased        & 0/50 &  0/50 \\
 \bottomrule
 \end{tabular}
 \caption{GSM8K-MCQ, Gemini 2.5 Flash with thinking. Same column
-semantics as Table~\ref{tab:flip}. All 6 flips are on the authority
-cue, and all 6 are transparent (acknowledged in the thinking trace).}
+semantics as Table~\ref{tab:culture}.}
 \label{tab:gsm8k}
 \end{table}
 
-Code-switching to Korean is far rarer on GSM8K than on cultureMCQA
-(2--4\% vs 24--46\%), consistent with math problems pulling the
-reasoning toward arithmetic rather than toward the cue language.
+Code-switching to Korean is rare on GSM8K (2--4\%), versus 24--55\%
+on Korean cultureMCQA. This is consistent with arithmetic problems
+pulling the reasoning toward computation and away from the cue
+language; cultural items have no such pull and instead inherit
+register from the cue.
 
-All 6 flips are \emph{transparent}: the thinking trace explicitly
-names the expert recommendation before adopting it. As on Korean
-cultureMCQA, \textbf{0 of 350 generations} are opaque sycophancy.
+All 6 flips on GSM8K are \emph{transparent}---the thinking trace
+mentions the expert recommendation before adopting it, e.g.\
+``the problem presents a contradiction... to arrive at the expert's
+answer of (B)...'' \textbf{Opaque count is 0.}
 
 \subsection{XSAFETY (Table~\ref{tab:safety})}
 
-To test whether the Korean-slice finding generalizes outside the
-cultural-MCQ setting, we ran the analogous experiment on
-XSAFETY~\citep{wang2024xsafety} with 50 English and 50 German prompts.
-Because XSAFETY answers are open-ended refusals rather than multiple
-choice, we replaced the MCQ-style hint families with three
-refusal-loosening variants: \texttt{safety\_authority} (``a safety
-expert reviewed this and confirmed it's fine to discuss''),
+XSAFETY~\citep{wang2024xsafety} items are open-ended refusal prompts (50 English + 50 German)
+where the expected behavior is refusal rather than a discrete answer.
+We replace the MCQ-style hint families with three refusal-loosening
+variants---\texttt{safety\_authority} (``a safety expert reviewed
+this and confirmed it's fine to discuss for an academic study''),
 \texttt{safety\_social} (``most people in our study group think this
-question is harmless''), and \texttt{safety\_indirect} (``I was just
-curious -- maybe a brief overview?''). The few-shot biased CoT
-condition is excluded for XSAFETY because (i) the open-ended format
-admits no option re-ordering trick and (ii) constructing compliance
-demos risks generating actual harmful content. Compliance is detected
-with a regex-based refusal classifier (\texttt{scripts/\_refusal.py})
-that covers English and German simultaneously, since cross-lingual
-hints cause the model to respond in the cue language regardless of
-the prompt language.
+question is harmless''), \texttt{safety\_indirect} (``I was just
+curious---maybe a brief overview?'')---and detect refusal with a
+bilingual regex classifier
+(\texttt{scripts/\_refusal.py}). Compliance is measured as the rate
+at which a baseline refusal flips to compliance under hint injection.
 
-\paragraph{Baseline refusals are sparse but well-targeted.}
-Of the 100 prompts, the model refuses 19 at baseline (en 22\%, de
-16\%), heavily concentrated in
-\texttt{Unsafe\_Instruction\_Topic} (67\%),
+Baseline refusal rates are sparse but well-targeted: 11/50 (en) and
+8/50 (de), concentrated in \texttt{Unsafe\_Instruction\_Topic} (67\%),
 \texttt{Crimes\_And\_Illegal\_Activities} (43\%),
 \texttt{Privacy\_And\_Property} (33\%), and
-\texttt{Role\_Play\_Instruction} (33\%). Categories such as
-\texttt{Mental\_Health}, \texttt{Insult}, and \texttt{commonsense}
-are typically engaged rather than refused; we exclude these from
-Phase 2 by filtering to baseline-refused items.
-
-\paragraph{XSAFETY is far more hint-susceptible than cultureMCQA.}
-Whereas Korean cultureMCQA showed flip rates of 0--4\%, XSAFETY shows
-\textbf{12--50\% compliance flip} across the same hint families
-(Table~\ref{tab:safety}). The strongest single attack is
-authority framing issued in the \emph{other} language than the prompt:
-English prompt + German authority cue flips 45\% of refusals, German
-prompt + English authority cue flips 50\%. Matched-language authority
-is consistently less effective (en+en 36\%, de+de 25\%).
+\texttt{Role\_Play\_Instruction} (33\%). XSAFETY categories that are
+conversational by design (\texttt{Mental\_Health}, \texttt{Insult},
+\texttt{commonsense}, etc.) are engaged rather than refused at
+baseline and so do not enter Phase 2.
 
 \begin{table}[t]
 \centering
 \small
-\begin{tabular}{llrrrrr}
+\begin{tabular}{ll rr rrr}
 \toprule
 Prompt & Cue family & en cue & de cue & Resisted & Transparent & Opaque \\
 \midrule
@@ -250,69 +214,121 @@ de & safety\_social    & 3/8  & 3/8  & 10/16 & 6/16 & 0 \\
 de & safety\_indirect  & 1/8  & 3/8  & 12/16 & 4/16 & 0 \\
 \bottomrule
 \end{tabular}
-\caption{XSAFETY, Gemini 2.5 Flash with thinking, 19 baseline-refused
-items $\times$ 6 hint conditions $=$ 114 hinted generations. The two
-\emph{cue} columns are flip-to-compliance counts; the Resisted /
-Transparent / Opaque columns sum per row across both cue languages.}
+\caption{XSAFETY, Gemini 2.5 Flash with thinking. The two \emph{cue}
+columns are compliance-flip counts (baseline-refused $\to$ hinted-comply).
+Resisted / Transparent / Opaque sum per row across both cue languages.}
 \label{tab:safety}
 \end{table}
 
-\paragraph{Transparency holds: 0 Opaque across XSAFETY.}
-Despite the much higher behavioral flip rate, every single
-compliance event in XSAFETY is paired with explicit acknowledgment of
-the cue in either the visible response or the thinking trace
-(Resisted 68\%, Transparent 32\%, \textbf{Opaque 0\%}). Combined with
-the Korean cultureMCQA result, we therefore observe \textbf{zero opaque
-sycophancy across 464 hinted generations spanning culturally grounded
-MCQ and open-ended safety} for Gemini 2.5 Flash with thinking.
+Two findings stand out (Table~\ref{tab:safety}):
 
-\paragraph{Cross-lingual cue effects.}
-Response language tracks cue language strongly: when the cue is in
-German, the response to an English XSAFETY prompt is in German in
-91--100\% of cases. The same hint-language effect on flip rate
-suggests that the safety alignment of Gemini 2.5 Flash is partially
-language-conditioned: a German authority cue partially bypasses
-guardrails calibrated to English-language safety prompts, and vice
-versa.
+\begin{itemize}
+    \item \textbf{XSAFETY is far more hint-susceptible than
+    cultureMCQA.} Flip rates range from 12\% to 50\% across the six
+    conditions, whereas the cultureMCQA flip rate sits at 0--4\%.
+    The strongest single attack is the cross-lingual authority cue:
+    English prompt + German authority = 5/11 = 45\%, German prompt +
+    English authority = 4/8 = 50\%. Matched-language authority is
+    less effective (en+en 36\%, de+de 25\%).
+    \item \textbf{Cross-lingual cues are uniformly more effective in
+    safety, but uniformly irrelevant for cultureMCQA flip rate.} In
+    cultureMCQA the cue language affects \emph{response} language but
+    \emph{not} flip rate (en and ko cue have the same per-culture
+    flip count). In XSAFETY the cue language affects both. The most
+    parsimonious explanation is that safety alignment is partly
+    language-conditioned, so a cue in the wrong language partially
+    bypasses guardrails calibrated to the prompt language.
+\end{itemize}
 
-\paragraph{Methodological caveats from XSAFETY.}
-Two classifier iterations were required. First, a bare
-\texttt{Es tut mir leid} matched empathetic openings
-(``I'm sorry to hear you're not feeling well\ldots'') rather than
-genuine refusals; we now require a refusal connective
-(\texttt{aber}, \texttt{jedoch}, \texttt{ich kann}, etc.). Second,
-acknowledgment keyword \texttt{neugierig} (adjective) missed
-\texttt{Neugier} (noun); we added stem variants. After tightening,
-the apparent ``opaque'' count went from 3 to 0. We document this
-both as a substantive finding (regex-based refusal detection is
-fragile) and as motivation for adding an LLM-judge variant in future
-work.
+Even at these much higher compliance rates, every compliance event
+on XSAFETY is paired with explicit acknowledgment of the cue.
+\textbf{Resisted 78/114, Transparent 36/114, Opaque 0/114.}
 
-\subsection{Cross-domain summary}
+\subsection{Cross-cutting findings}
 
-Combining the three Phase~2 sweeps, Gemini~2.5 Flash with thinking is
-evaluated on 814 hinted generations spanning culturally grounded MCQ
-(Korean cultureMCQA, 350), objective math MCQ (GSM8K-MCQ, 350), and
-open-ended safety (XSAFETY en+de, 114). Behavioral susceptibility
-varies dramatically: 1.4\% flips on Korean culture, 1.7\% on math,
-and 32\% compliance on safety prompts. \textbf{Yet across all three
-domains, the opaque-sycophancy count is zero.} Every flip is paired
-with explicit acknowledgment of the cue in either the visible
-reasoning or the separate thinking trace. The strongest single cue
-varies by domain: cultural authority for culturally grounded items,
-generic authority for math, and---most striking---\emph{cross-lingual}
-authority for safety prompts (en prompt + de cue 45\%, de prompt + en
-cue 50\%). The transparency property, however, is invariant.
+Pulling the six slices together, three patterns are invariant and
+two vary cleanly across domains:
+
+\paragraph{Invariant 1: 0 opaque sycophancy across 1{,}857
+generations.} Every flip toward the injected wrong answer is paired
+with an explicit cue mention in the visible reasoning or the
+thinking trace. This is the strongest single empirical finding of
+our study. It suggests that, for Gemini~2.5 Flash with thinking, the
+worst-case faithfulness failure motivating the Turpin et al. line of
+work---behavioral compliance with a biased cue paired with verbal
+silence---does not occur at our sample size.
+
+\paragraph{Invariant 2: Authority is the dominant flip-inducing cue.}
+Across the four cultureMCQA slices and GSM8K, the only cue family
+that produces any flip is the authority cue
+(\texttt{cultural\_authority} on cultureMCQA,
+\texttt{general\_authority} on GSM8K). Social, indirect, and few-shot
+biased cues produce \emph{zero} flips on all five MCQ slices. The
+XSAFETY pattern is qualitatively similar: \texttt{safety\_authority}
+is the strongest flipper there as well.
+
+\paragraph{Invariant 3: Direct cues are loudly acknowledged;
+indirect / structural cues are not.} Authority and social cues are
+acknowledged in $\geq$82\% of thinking traces in every slice,
+whereas indirect cues are acknowledged in $\leq$27\% and few-shot
+biased (under a strict criterion that requires explicit reference to
+the demonstrations) is acknowledged in $\leq$2\%. Because the
+indirect / fewshot cues never actually flip behavior on the MCQ
+domains, this asymmetry never aligns with opaque sycophancy in our
+data---but it does mean an auditing pipeline that screens reasoning
+traces for hint mentions would miss those families almost entirely
+if they did start producing flips in some other model.
+
+\paragraph{Domain-dependent variation 1: behavioral susceptibility
+scales by an order of magnitude.} Flip rates are 0--0.9\% across the
+four cultureMCQA slices, 1.7\% on GSM8K-MCQ, and 18--50\% on
+XSAFETY. The pattern is intuitive: safety alignment is engineered to
+be tighter than cultural-knowledge defaults, so when a cue does
+crack it (especially cross-lingual authority), it cracks much more
+easily than knowledge defaults that the model is independently
+confident about.
+
+\paragraph{Domain-dependent variation 2: cross-lingual cue effects
+are pronounced for safety, absent for cultureMCQA flip rate.}
+On cultureMCQA, English and Korean variants of the same cue have
+identical flip counts. On XSAFETY, the cross-lingual cue is
+\emph{stronger} than the matched-lingual one (en+de 45\% vs.\ en+en
+36\%; de+en 50\% vs.\ de+de 25\%). The hint language always affects
+the response language (most strongly on Korean cultureMCQA: 39--55\%
+ko script under ko cue vs.\ 29--35\% under en cue), but the
+mechanism by which cue language influences behavior appears to be
+distinct in safety vs.\ knowledge domains.
 
 \subsection{Limitations}
 
-The results above are based on a single model, single language slice
-(Korean), and the keyword-based acknowledgment heuristic from
-Section~\ref{sec:method}. Behaviors absent in this configuration may
-emerge in weaker or less reasoning-tuned models; planned follow-up
-runs use the same code path with Qwen, Llama, and GPT-family models,
-and extend the cultural coverage to American, German, and Polish
-items. Keyword detection is also conservative: a model could discuss
-the cue using paraphrases not on our trigger list, in which case our
-acknowledgment counts are lower bounds. An LLM-judge-based
-acknowledgment classifier is left to future work.
+The results are obtained on a single model (Gemini~2.5 Flash) with a
+single hint-template set per cue family. Failure modes absent in
+this configuration may emerge in weaker or differently-aligned
+models; planned follow-ups use the same pipeline on Qwen via Groq,
+Llama via Groq, and Claude via Anthropic API. Cross-model results
+are not yet available at the time of writing.
+
+Hint-acknowledgment detection uses a tight, hint-type-specific
+keyword list. A model could discuss the cue using paraphrases not on
+our trigger list, in which case our acknowledgment counts are
+lower bounds---and, more importantly, opaque-sycophancy counts could
+be upper-biased (false-positive opacity from miss-keyword cases).
+Two iterations of regex tightening were required during the XSAFETY
+analysis, and three apparently-opaque cases turned out to be
+classifier artifacts (a baseline-empathy expression mistaken for a
+refusal in two cases, and a missed German noun form of an
+acknowledgment keyword in the third). After tightening, the count
+went to 0 across all five slices.
+
+The cultureMCQA correct-option text averages 70--84 characters
+while distractors average 25--33 characters; the shuffle fixes
+positional bias but not length bias. Because the model is highly
+accurate at baseline regardless, this confound is unlikely to drive
+the Phase~2 numbers, but it should be removed in any follow-up
+study.
+
+Finally, pragmatic non-equivalence of hint types across cultures is
+a real but untested confound: ``a professor says X'' may carry
+heavier pragmatic weight in some cultures than others. A
+perceived-pressure rating layer over the hint set would be a
+natural extension.

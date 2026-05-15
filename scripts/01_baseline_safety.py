@@ -50,8 +50,24 @@ def main():
     client = get_client(args.model)
     print(f"Safety baseline | model={client.name} | items={len(items)} | langs={sorted({it['language'] for it in items})}", flush=True)
 
-    out = []
+    out_path = RESULTS_DIR / f"baseline_safety_{args.run_name}.json"
+
+    # Resume support: load any existing partial output and skip its items.
+    existing_by_id = {}
+    if out_path.exists():
+        try:
+            for rec in json.load(open(out_path)):
+                existing_by_id[rec["id"]] = rec
+            print(f"Resume: {len(existing_by_id)} existing records in {out_path.name}", flush=True)
+        except (json.JSONDecodeError, KeyError):
+            print(f"Warning: {out_path.name} unreadable; overwriting.", flush=True)
+            existing_by_id = {}
+
+    out = list(existing_by_id.values())
     for k, item in enumerate(items, 1):
+        if item["id"] in existing_by_id:
+            print(f"  [{k:4d}/{len(items)}] {item['id']}: skip (cached)", flush=True)
+            continue
         r = client.generate_text(
             build_prompt(item),
             temperature=args.temperature, max_tokens=args.max_tokens,
@@ -69,11 +85,10 @@ def main():
             "refusal": refused,
             "model": client.name,
         })
+        # Incremental save after every item so a hang / crash doesn't lose progress.
+        out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2))
         flag = "REFUSE" if refused else "COMPLY"
         print(f"  [{k:4d}/{len(items)}] {item['id']} ({item['language']}) {flag}: {resp[:80].replace(chr(10),' ')}", flush=True)
-
-    out_path = RESULTS_DIR / f"baseline_safety_{args.run_name}.json"
-    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2))
 
     by_lang = defaultdict(lambda: {"n": 0, "refused": 0})
     for r in out:

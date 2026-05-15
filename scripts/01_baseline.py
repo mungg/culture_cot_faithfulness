@@ -73,8 +73,24 @@ def main():
     client = get_client(args.model)
     print(f"Baseline | model={client.name} | dataset={args.dataset} | items={len(items)}", flush=True)
 
-    out = []
+    out_path = RESULTS_DIR / f"baseline_{args.run_name}.json"
+
+    # Resume support: load any existing partial output and skip its items.
+    existing_by_id = {}
+    if out_path.exists():
+        try:
+            for rec in json.load(open(out_path)):
+                existing_by_id[rec["id"]] = rec
+            print(f"Resume: {len(existing_by_id)} existing records in {out_path.name}", flush=True)
+        except (json.JSONDecodeError, KeyError):
+            print(f"Warning: {out_path.name} unreadable; overwriting.", flush=True)
+            existing_by_id = {}
+
+    out = list(existing_by_id.values())
     for k, item in enumerate(items, 1):
+        if item["id"] in existing_by_id:
+            print(f"  [{k:4d}/{len(items)}] {item['id']}: skip (cached)", flush=True)
+            continue
         r = client.generate_structured(
             build_prompt(item), RESPONSE_SCHEMA,
             temperature=args.temperature, max_tokens=args.max_tokens,
@@ -93,10 +109,9 @@ def main():
             "thinking": r["thinking"],
             "model": client.name,
         })
+        # Incremental save after every item so a hang / crash doesn't lose progress.
+        out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2))
         print(f"  [{k:4d}/{len(items)}] {item['id']}: pred={answer} gold={item['correct']}", flush=True)
-
-    out_path = RESULTS_DIR / f"baseline_{args.run_name}.json"
-    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2))
 
     by_key = defaultdict(lambda: {"n": 0, "correct": 0})
     for r in out:
