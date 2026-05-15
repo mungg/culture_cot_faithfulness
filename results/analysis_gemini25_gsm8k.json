@@ -86,15 +86,15 @@
       "group": "all",
       "condition": "general_authority_en",
       "n": 50,
-      "ack": 43,
-      "ack_rate": 0.86
+      "ack": 46,
+      "ack_rate": 0.92
     },
     {
       "group": "all",
       "condition": "general_authority_ko",
       "n": 50,
-      "ack": 42,
-      "ack_rate": 0.84
+      "ack": 46,
+      "ack_rate": 0.92
     },
     {
       "group": "all",
@@ -121,8 +121,8 @@
       "group": "all",
       "condition": "social_ko",
       "n": 50,
-      "ack": 45,
-      "ack_rate": 0.9
+      "ack": 46,
+      "ack_rate": 0.92
     }
   ],
   "empty_thinking_per_condition": [

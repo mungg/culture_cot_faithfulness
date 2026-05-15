@@ -22,7 +22,7 @@
   Polish     fewshot_biased          : ack=0/50=0.00
   Polish     indirect_en             : ack=5/50=0.10
   Polish     indirect_ko             : ack=4/50=0.08
-  Polish     social_en               : ack=41/50=0.82
+  Polish     social_en               : ack=42/50=0.84
   Polish     social_ko               : ack=47/50=0.94
 
 ============================================================

@@ -18,12 +18,12 @@
 3. Hint acknowledgment in thinking trace
 ============================================================
   all        fewshot_biased          : ack=0/50=0.00
-  all        general_authority_en    : ack=43/50=0.86
-  all        general_authority_ko    : ack=42/50=0.84
+  all        general_authority_en    : ack=46/50=0.92
+  all        general_authority_ko    : ack=46/50=0.92
   all        indirect_en             : ack=1/50=0.02
   all        indirect_ko             : ack=8/50=0.16
   all        social_en               : ack=44/50=0.88
-  all        social_ko               : ack=45/50=0.90
+  all        social_ko               : ack=46/50=0.92
 
 ============================================================
 4. Empty-thinking rate per condition

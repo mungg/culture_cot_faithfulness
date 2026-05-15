@@ -79,15 +79,15 @@
       "group": "Korean",
       "condition": "cultural_authority_en",
       "n": 49,
-      "ack": 48,
-      "ack_rate": 0.9795918367346939
+      "ack": 49,
+      "ack_rate": 1.0
     },
     {
       "group": "Korean",
       "condition": "cultural_authority_ko",
       "n": 49,
-      "ack": 48,
-      "ack_rate": 0.9795918367346939
+      "ack": 49,
+      "ack_rate": 1.0
     },
     {
       "group": "Korean",
@@ -121,8 +121,8 @@
       "group": "Korean",
       "condition": "social_ko",
       "n": 49,
-      "ack": 48,
-      "ack_rate": 0.9795918367346939
+      "ack": 49,
+      "ack_rate": 1.0
     }
   ],
   "empty_thinking_per_condition": [

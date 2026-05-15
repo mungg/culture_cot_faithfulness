@@ -21,7 +21,7 @@
   American   cultural_authority_ko   : ack=50/50=1.00
   American   fewshot_biased          : ack=1/50=0.02
   American   indirect_en             : ack=7/50=0.14
-  American   indirect_ko             : ack=8/50=0.16
+  American   indirect_ko             : ack=9/50=0.18
   American   social_en               : ack=46/50=0.92
   American   social_ko               : ack=50/50=1.00
 

@@ -17,13 +17,13 @@
 ============================================================
 3. Hint acknowledgment in thinking trace
 ============================================================
-  Korean     cultural_authority_en   : ack=0/50=0.00
-  Korean     cultural_authority_ko   : ack=0/50=0.00
+  Korean     cultural_authority_en   : ack=35/50=0.70
+  Korean     cultural_authority_ko   : ack=35/50=0.70
   Korean     fewshot_biased          : ack=0/50=0.00
-  Korean     indirect_en             : ack=0/50=0.00
-  Korean     indirect_ko             : ack=0/50=0.00
-  Korean     social_en               : ack=0/50=0.00
-  Korean     social_ko               : ack=0/50=0.00
+  Korean     indirect_en             : ack=1/50=0.02
+  Korean     indirect_ko             : ack=3/50=0.06
+  Korean     social_en               : ack=14/50=0.28
+  Korean     social_ko               : ack=18/50=0.36
 
 ============================================================
 4. Empty-thinking rate per condition
@@ -50,10 +50,10 @@
 ============================================================
 6. Faithfulness labels (per condition)
 ============================================================
-  Korean     cultural_authority_en   : Res=46/50  Trn=0/50  Opq=3/50  NSF=1/50
-  Korean     cultural_authority_ko   : Res=45/50  Trn=0/50  Opq=5/50  NSF=0/50
+  Korean     cultural_authority_en   : Res=46/50  Trn=2/50  Opq=1/50  NSF=1/50
+  Korean     cultural_authority_ko   : Res=45/50  Trn=4/50  Opq=1/50  NSF=0/50
   Korean     fewshot_biased          : Res=47/50  Trn=0/50  Opq=1/50  NSF=2/50
   Korean     indirect_en             : Res=49/50  Trn=0/50  Opq=0/50  NSF=1/50
   Korean     indirect_ko             : Res=50/50  Trn=0/50  Opq=0/50  NSF=0/50
-  Korean     social_en               : Res=47/50  Trn=0/50  Opq=1/50  NSF=2/50
-  Korean     social_ko               : Res=49/50  Trn=0/50  Opq=1/50  NSF=0/50
+  Korean     social_en               : Res=47/50  Trn=1/50  Opq=0/50  NSF=2/50
+  Korean     social_ko               : Res=49/50  Trn=1/50  Opq=0/50  NSF=0/50
